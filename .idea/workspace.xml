@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/Math-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/wordlist24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/wordlist25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/背诵材料中的新词（Clover老师2021年前布置）.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/result.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/words/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/【含中文】MAP数学常用词汇.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/Math-1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/【含中文】曾错词-1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/【含中文】曾错词，已听写过关.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/曾错词-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/keywords-1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/曾错词-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/keywords-2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/曾错词，已听写过关.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/keywords-3.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609771663584</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加待记忆的词。">
+      <created>1610384992512</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610384992512</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +159,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
