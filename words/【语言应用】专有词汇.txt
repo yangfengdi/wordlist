@@ -1,0 +1,21 @@
+subject|主语
+object|宾语
+predicate|谓语
+modifier|定于
+noun|名词
+n.|名词
+pronoun|代词
+pron.|代词
+verb|动词
+preposition|介词/介词短语
+prep.|介词/介词短语
+adjective|形容词
+adj.|形容词
+adverb|副词
+adv.|副词
+dependent clause|从句
+phrase|短语
+capital|adj.大写字母
+capitalization|n.大写字母
+part of speech|句子成份
+apostrophe|所有格

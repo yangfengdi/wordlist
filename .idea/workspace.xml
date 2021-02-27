@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/MAP练习中的生词-6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/背诵材料中的新词（Clover老师2021年前布置）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/MAP生词-20210227.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/【语言应用】专有词汇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/不规则名词复数.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/加强记忆的重点.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/曾错词（初中）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/曾错词（高中）.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/MAP练习中的生词-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/MAP练习中的生词-2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/keywords-1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/keywords-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/keywords-3.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/words/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/result.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/words/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/words.txt" afterDir="false" />
     </list>
@@ -151,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610384992512</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加待记忆的词。">
+      <created>1613581834486</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613581834486</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
