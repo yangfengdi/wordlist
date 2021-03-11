@@ -47,6 +47,9 @@ class Ciba():
 
             meanstart = response.text.find('<ul class="Mean_part__1RA2V">')
             meanend = response.text.find('<div class="FoldBox_fold__1GZ_2">', meanstart)
+            if meanend == -1:
+                meanend = response.text.find('京ICP备', meanstart)
+
             findmean=response.text[meanstart + len('<ul class="Mean_part__1RA2V">'):meanend]
 
             #print(skiptrash(findmean))

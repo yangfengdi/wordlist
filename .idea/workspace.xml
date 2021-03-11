@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rememberedwords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spliteword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/article.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember-MAP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember-重点.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/小学单词v1-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remembered-俞敏洪初中.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remembered-其它.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remembered-四级.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remembered-小学学过.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ciba.py" beforeDir="false" afterPath="$PROJECT_DIR$/ciba.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/PET单词v1（总）.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/PET单词v1（总）.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spliteword.py" beforeDir="false" afterPath="$PROJECT_DIR$/spliteword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remember-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-俞敏洪高中.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remember-MAP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-MAP.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remember-重点.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-重点.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remember.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-简单词.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615131846721</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="添加待记忆的词。">
+      <created>1615437978008</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615437978009</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
