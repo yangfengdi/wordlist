@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/words/KET单词v1-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/KET单词v1（总）.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/PET单词v1（总）.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/小学单词v1-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/小学单词v1（总）.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/语言应用词汇（贾老师梳理）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rememberedwords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spliteword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/article.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember-MAP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember-重点.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/小学单词v1-2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciba.py" beforeDir="false" afterPath="$PROJECT_DIR$/ciba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/PET单词v1（总）.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/PET单词v1（总）.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.spliteword">
     <configuration name="ciba" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="wordlist" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,6 +84,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ciba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spliteword" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wordlist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spliteword.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.spliteword" />
         <item itemvalue="Python.ciba" />
         <item itemvalue="Python.ciba" />
       </list>
@@ -162,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614399907282</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="添加待记忆的词。">
+      <created>1615131846721</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615131846721</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

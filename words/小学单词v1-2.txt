@@ -1,0 +1,60 @@
+listen|v. 听，倾听 n. 听，倾听
+anywhere|adv. 任何地方 pron. 任何(一个)地方
+bit|n. 一点儿,少量 n. 钻头,马嚼子,辅币 n. 位,比特(二进位制信息单位) v. 控制
+clothes|n. 衣服
+area|n. 地区, 区域, 面积, 方面
+see|vt. 看见,经历,明白,确保,视为,拜访,陪同 vi. 注意,想象,了解,调查 n. 主教教区,主角权限
+of|prep. ...的,出生于,住在, 关于
+article|n. 文章,物品,条款,冠词 vt. 定契约
+blind|adj. 盲目的,瞎的,未察觉的 n. 百叶窗,幌子 vt. 使失明,隐藏 adv. 盲目地
+block|n.块； 街区； <英>大楼，大厦； 障碍物，阻碍 vt.阻止； 阻塞； 限制
+blood|n. 血,血统,仇恨 vt. 流血
+blow|n. 吹；打击；殴打 vi. 风吹；喘气 vt. 风吹
+asleep|adj. 睡着的,已死的，不活跃的，麻木的 adv. 处于或进入睡眠状态地，陷入麻木不仁状态地
+summer|adj. 夏季的 n. 夏天, 全盛期, 年 vi. 度过夏天 vt. 在夏天保存或存放, 放(羊/牛)
+sun|n. 太阳,阳光,中心人物,像太阳般的东西 vt.& vi. 晒太阳
+often|adv. 经常
+science|n. 科学
+board|n. 木板, 甲板, 董事会 n. 伙食; 舞台, 演员的职业; 船舷 vt. 登(飞机、车、船等); 有偿提供食宿; 用木板覆盖 vi. 搭伙
+condition|n. 情况, 条件 v. 以...为条件, 决定, 支配, 训练
+aunt|n. 伯母, 姑, 婶, 姨
+awake|adj. 醒着的,警惕的 vt. 唤醒,唤起,激发 vi. 醒来,恢复意识
+away|adv. 远离,离开,出去,连续的,遥远地
+as|adv. 同样地, 像 prep. 当做 conj. 当...之时, 像...一样, 因为
+back|adj. 后面的，偏远的, 过时的, 积欠的, 向后的 adv. 向后地 n. 后背, 背脊，后面, 靠背 vt. 后退，支持 vi. 后退
+borrow|v. 借, 借入, 借用
+egg|n. 蛋; (俚语)人
+bottle|n. 瓶子 vt.装瓶, 抑制
+children|n. 孩子们(child的复数形式)
+windy|adj. 有风的, 多风的
+boy|n. 男孩,儿子
+brain|n.脑； 智慧； 聪明的人； （群体中）最聪明的人 vt.打破...的脑袋； 打...的头部
+ball|n. 球, 舞会 v. (把...捏)成球状
+cookie|n. 饼干
+beat|n. 打,敲打声,拍子,独家报道,一会儿 vt. &vi. 打,打败
+bear|n. 熊 v. 忍受,负荷 v. 结果实,生子女
+bean|n. 豆
+break|n. 休息,中断,破裂 v. 打破,弄破,弄坏
+bank|n. 银行,堤,岸 vt. 堆积 vi. 开户, 把...存入银行
+dog|n. 狗,卑鄙的人 vt. 尾随,跟踪
+lunch|n. 午餐 vi. 吃午餐 vt. 请客吃午餐
+control|n. 克制,控制,管制,操作装置 vt. 控制,掌管,支配
+conversation|n. 会话,谈话
+for|conj. 因为 prep. 给,为，关于,代表,支持,因为,往
+word|n. 词, 单词, 消息, 诺言 vt. 用词语表达
+African|adj. 非洲的, 非洲人的 n. 非洲人
+girl|n. 女孩,女儿
+early|adv.&amp;adj. 早
+corner|n.角落，角； 拐角； 困境； [商]囤积 vi.驾车转弯； 聚于角落 vt.垄断； 逼入困境 adj.位于角落的
+orange|adj. 橙色的 n. 橘子,橙黄色
+British|adj. 英国的 n. 英国人, 英国英语
+culture|n. 文化,教养,种植 vt. 培养
+ship|n. 船,舰,船员,飞船 vt. 以船运送,乘船,运送,进水,在船上工作 vi. 上船,坐船,运送,在船上工作
+shirt|n. 衬衫
+cough|n. 咳嗽 vt. &vi. 咳嗽
+brush|n. 刷子,画笔,轻擦,小冲突, 灌木丛 vt. 用刷子清洗,画,拭去,打发 vi. 轻擦,拂拭
+countryside|n. 乡下, 农村
+short|adj. 短的,矮的,短暂的 n. 短裤 adv. 短暂地;突然地
+build|vt. &vi. 建造，创建，开发，逐渐增强 n. 体格，身材
+course|n. 课程, 讲座, 过程, 路线, 一道(菜)
+our|pron. 我们的
