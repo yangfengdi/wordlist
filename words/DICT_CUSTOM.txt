@@ -1,0 +1,146 @@
+in twelve years|在12年后
+number pattern|数列
+combine like terms|合并同类项
+plus|加
+minus|减
+difference|差
+multiplied by|乘
+product|积
+divided|除
+fraction|分数
+figure|图像
+square root of|开平方
+cube root of|开立方
+triangle|三角形
+rectangle|矩形
+add|加
+negative|减
+division|除
+times|乘
+rectangle|长方形
+square|正方形
+parallelogram|平行四边形
+circle|圆
+quadrilateral|四边形
+trapezoid|梯形
+rhombus|菱形
+and|加
+subtract|减
+natural number|自然数
+positive number|正数
+positive|加
+negative number|负数
+odd number|奇数
+even number|偶数
+integer number|整数
+whole number|整数
+real number|实数
+rational number|有理数
+irrational number|无理数
+consecutive number|连续整数
+equal|等于
+calculate|计算
+priority|优先级
+bracket|括号
+fraction|分数
+proper fraction|真分数
+improper fraction|假分数
+mixed number|混合数
+decimal|小数
+unit|个位
+tenth|十分位
+hundredth|百分位
+thousandth|千分位
+denominator|分母
+denominator|分母
+reciprocal|倒数
+simplest form|最简形式
+lowest form|最简形式
+equation|方程式
+inequation|不等式
+linear|线性的，一次的
+formula|公式
+procedure|步骤
+represent|表示
+function|函数
+solution|解答
+evaluate|估计
+
+subject|主语
+object|宾语
+predicate|谓语
+modifier|定语
+noun|名词
+n.|名词
+pronoun|代词
+pron.|代词
+verb|动词
+preposition|介词/介词短语
+prep.|介词/介词短语
+adjective|形容词
+adj.|形容词
+adverb|副词
+adv.|副词
+dependent clause|从句
+phrase|短语
+capital|adj.大写字母
+capitalization|n.大写字母
+part of speech|句子成份
+apostrophe|所有格
+proportion|比例
+sail|n.帆,航行 v.航行
+line graph|线型图
+professional|adj. 专业的，职业的
+invite|vt.邀请,招待
+pie chart|n. 饼形图
+Future Perfect Tense|将来完成时
+revision|n. 修订，修改
+stuff|n. 东西；材料
+oppose|v 反对，反抗
+plural|a.复数的 n.复数
+public|公共的
+ceremony|n.典礼，仪式
+invitation|n.邀请，请帖
+pictograph|统计图表
+timeline|时间轴
+giraffe|长颈鹿
+scent|n 气味 v 发出气味，闻出气味
+cent|n.(货币单位)分, 分币
+on sale|n 卖，打折
+replace|vt. 代替，取代
+steel|n.钢,钢铁
+steal|v.偷,窃取;偷偷地做
+still|ad.还，仍然
+wolf|狼
+predicate|谓语动词
+preposition|介词
+pronoun|代词
+expository|adj.解释的，说明文
+descriptive|a.描述的,叙述的
+persuasive writing|说服性文章，议论文
+narrative|a.叙述的，讲故事的，记叙文
+personal|个人的
+opinion|意见，看法
+background|n. 背景
+text|文本
+report|报告
+greeting|问候，招呼
+lyric|歌词
+lab|实验室
+poem|诗；韵文
+diary|日记
+biography|n 传，传记
+Swiss|瑞士的；瑞士人
+seem|v.似乎，好像是
+receive|
+review|评论，简介
+recipe|食谱，处方
+feature|n.特色，特点，特征
+detail|细节
+punctuation|标点符号
+quotation mark|引号
+post office|邮局
+crazy|adj. 疯狂的，狂热的
+curious|adj. 好奇的；古怪的
+original|最初的
+weird|a 离奇的，古怪的

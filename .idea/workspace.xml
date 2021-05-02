@@ -1,19 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/words/remembered-俞敏洪初中.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remembered-其它.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remembered-四级.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remembered-小学学过.txt" afterDir="false" />
+    <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="添加待记忆的词。">
+      <change afterPath="$PROJECT_DIR$/dictcn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testciba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/DICT_CUSTOM.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/DesCartes MAP单词.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/DesCartes MAP数学单词词组(240分以下).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/DesCartes MAP词组.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/article-map.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/englishname.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remembered-WordlyWise.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remembered-newsela.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/俞敏洪四级.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ciba.py" beforeDir="false" afterPath="$PROJECT_DIR$/ciba.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spliteword.py" beforeDir="false" afterPath="$PROJECT_DIR$/spliteword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/Math-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/MAP-Math（Doris老师整理）.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/Math-2.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/words/article.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-俞敏洪高中.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember-MAP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-MAP.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember-重点.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-重点.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-简单词.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/newword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/newword.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remembered-MAP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-MAP模拟题.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remembered-俞敏洪初中.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-俞敏洪初中.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remembered-俞敏洪高中.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-俞敏洪高中.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remembered-其它.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dbscript.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remembered-四级.txt" beforeDir="false" afterPath="$PROJECT_DIR$/localdict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remembered-小学学过.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-小学学过.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remembered-重点.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remembered-MAP(老师梳理).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/wordlist21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/wordlist22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/wordlist23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/wordlist24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/wordlist25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/【语言应用】专有词汇.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/曾错词（初中）.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/曾错词（高中）.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/语言应用词汇（贾老师梳理）.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/MAP-Language Use（贾老师梳理）.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +60,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/words" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -93,6 +124,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="splitephrase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wordlist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/splitephrase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="spliteword" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="wordlist" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,10 +166,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testciba" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wordlist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testciba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="youdao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wordlist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictcn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.spliteword" />
-        <item itemvalue="Python.ciba" />
+        <item itemvalue="Python.youdao" />
+        <item itemvalue="Python.testciba" />
+        <item itemvalue="Python.splitephrase" />
         <item itemvalue="Python.ciba" />
       </list>
     </recent_temporary>
@@ -203,8 +299,25 @@
       <option name="project" value="LOCAL" />
       <updated>1615437978009</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="添加待记忆的词。">
+      <created>1615451298481</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615451298481</updated>
+    </task>
+    <task id="LOCAL-00012" summary="添加待记忆的词。">
+      <created>1615451317000</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615451317000</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

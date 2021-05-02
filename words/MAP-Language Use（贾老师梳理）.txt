@@ -1,3 +1,25 @@
+subject|主语
+object|宾语
+predicate|谓语
+modifier|定语
+noun|名词
+n.|名词
+pronoun|代词
+pron.|代词
+verb|动词
+preposition|介词/介词短语
+prep.|介词/介词短语
+adjective|形容词
+adj.|形容词
+adverb|副词
+adv.|副词
+dependent clause|从句
+phrase|短语
+capital|adj.大写字母
+capitalization|n.大写字母
+part of speech|句子成份
+apostrophe|所有格
+
 proportion|比例
 sail|n.帆,航行 v.航行
 line graph|线型图
@@ -43,7 +65,7 @@ diary|日记
 biography|n 传，传记
 Swiss|瑞士的；瑞士人
 seem|v.似乎，好像是
-recieve|
+receive|
 review|评论，简介
 recipe|食谱，处方
 feature|n.特色，特点，特征

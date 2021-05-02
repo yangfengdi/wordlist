@@ -21,12 +21,18 @@ class Ciba():
 
         return result[2:]
 
-    def searchInCiba(self, word):
+    def search(self, word):
         try:
             #print('word='+word)
-            url = "http://www.iciba.com/word?w={}".format(word)
+            #url = "https://www.iciba.com/word?w={}".format(word)
+            url = 'https://dict.iciba.com/dictionary/word/query/web?word={}'.format(word)
+            #headers = {'Host': 'www.iciba.com',
+            #       'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0',
+            #       'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            #       'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate',
+            #       'Referer': 'http://www.baidu.com', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', }
             headers = {'Host': 'www.iciba.com',
-                   'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0',
+                   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36',
                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
                    'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate',
                    'Referer': 'http://www.baidu.com', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', }
@@ -34,7 +40,9 @@ class Ciba():
             response = requests.get(url=url, headers=headers)
             #print('request finished')
 
-            #print(response.text)
+            if response.status_code != 200:
+                print('金山词霸网站服务器异常，status_code={}, word={}'.format(response.status_code, word))
+
             wordstart = response.text.find('<h1 class="Mean_word__3SsvB">')
             if wordstart == -1:
                 #print('word {} not found, skip.'.format(word))
@@ -65,10 +73,10 @@ class Ciba():
             word = line.strip('\n')
             wordcount += 1
             #print(wordcount)
-            result = self.searchInCiba(word)
+            result = self.search(word)
 
             if result == '': #如果读取失败，则再试一次
-                result = self.searchInCiba(word)
+                result = self.search(word)
 
             if result != '':
                 with open("words/result.txt", 'a') as f:
