@@ -1,10 +1,24 @@
 import os
+import sqlite3
 
 class RememberedWords():
     def __init__(self):
         self.wordset = set()
-        self.__loadWords()
+        #self.__loadWords()
+        self.__loadWordsFromDb()
         print('Remembered word count = {}'.format(len(self.wordset)))
+
+    def __loadWordsFromDb(self):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        cursor.execute("SELECT distinct word FROM remember_event")
+        rows = cursor.fetchall()
+        for row in rows:
+            #print(row[0])
+            self.wordset.add(row[0])
+
+        conn.close()
 
     def __loadWords(self):
         fileList = os.listdir('words')

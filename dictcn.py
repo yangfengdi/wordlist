@@ -42,6 +42,18 @@ class Dictcn():
 
     def search(self, word):
         try:
+            conn = sqlite3.connect('dict.db')
+            cursor = conn.cursor()
+
+            cursor.execute("SELECT word, meaning FROM dict where word='{}' COLLATE NOCASE and source='DICTCN'".format(word))
+            row = cursor.fetchone()
+            if row != None:
+                #print('find record word={}'.format(row[0]))
+                query_word = row[0]
+                query_meaning = row[1]
+                conn.close()
+                return '{}|{}'.format(query_word, query_meaning)
+
             #print('word='+word)
             url = 'https://dict.cn/search?q={}'.format(word)
             headers = {'Host': 'dict.cn',
