@@ -44,7 +44,6 @@ diary|日记
 biography|n 传，传记
 Swiss|瑞士的；瑞士人
 seem|v.似乎，好像是
-recieve|
 review|评论，简介
 recipe|食谱，处方
 feature|n.特色，特点，特征
@@ -192,3 +191,150 @@ right angle|n.直角
 relationship|n.关系; 恋爱关系; 血缘关系
 approximate|adj.大约的; 近似的; 粗略的; v.近似于; 近似计算
 temperature|n.温度; 体温; 氛围
+teach oneself|自学
+by oneself|靠某人自己
+on oneself|自动地
+feed oneself|自食其力
+few|几乎没有（可数）
+little|几乎没有（不可数）
+a few|一些（可数）
+a little|一些（不可数）
+among|在……之中（两者以上）
+between|在……之间（两者）
+beyond|在……纸上
+across|通过
+through|通过
+describe
+exactly
+create
+part
+combine
+digit
+average
+speed
+prime number
+greatest
+common
+satisfies
+coordinate
+decide
+reach
+below
+limit
+highway
+increase
+accelerate
+pace
+allow
+denote
+current
+times
+descending
+alternate
+odd
+even
+shape
+properties
+cuboid
+corner
+greatest
+volume
+cylinder
+radius
+quarter
+original
+at least
+card
+player
+holding
+probability
+return
+large
+measure
+perimeter
+cent
+cube
+represent
+estimation
+decide
+percentage
+expression
+reach
+below
+increase
+allow
+current
+accelerate
+sum
+multiply
+quotient
+remainder
+fraction
+coefficient
+like terms
+line
+line segment
+ray
+flight
+left
+packet
+area
+side
+length
+same
+square
+greater
+rule
+drop out
+healthy
+composite number
+factor
+percentage
+each
+decahedron
+decanedron
+tetrahedron
+cube
+dodecahedron
+table
+following
+appropriate
+reason
+less
+more
+equivalent
+expression
+per
+rate
+large
+measures
+same
+perimeter
+volume
+round
+yard
+feet
+inches
+choices
+describes
+data
+organized
+create
+plum
+store
+least
+should
+part
+combine
+grams
+floor
+cover
+exactly
+carpet
+acute angle
+straight angle
+obtuse angle
+right angle
+relationship
+approximate
+temperature
