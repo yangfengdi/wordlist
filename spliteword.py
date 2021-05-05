@@ -114,6 +114,7 @@ class WordSpliter():
         result = self.splitList(result, '/')
         result = self.splitList(result, '.')
         result = self.splitList(result, ',')
+        result = self.splitList(result, '\'')
         result = self.splitList(result, '!')
         result = self.splitList(result, '"')
 
@@ -135,9 +136,14 @@ class WordSpliter():
                     #print('skip word 1 = {}'.format(roughWord))
                     continue
 
-                wordset.add(roughWord)
-
                 word = self.analyseWord(roughWord)
+
+                if word.word in wordset :
+                    #print('skip word 1 = {}'.format(roughWord))
+                    continue
+
+                wordset.add(roughWord)
+                wordset.add(word.word)
 
                 if self.skipRemember:
                     if self.rememberedWords.isRemember(word.word):

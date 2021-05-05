@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/words/remember-20210112.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember-20210501.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember-20210502.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember-20210503.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember-20210504.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember-20210505.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/sentence.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dbscript.sql" beforeDir="false" afterPath="$PROJECT_DIR$/dbscript.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dbutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/dbutils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictcn.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictcn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rememberedwords.py" beforeDir="false" afterPath="$PROJECT_DIR$/rememberedwords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spliteword.py" beforeDir="false" afterPath="$PROJECT_DIR$/spliteword.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/words/article.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/newword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/newword.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/美国英语SUBTLEXus74286words词频库.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/英国英语BNC词频库.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mW517vdRCFrAUsgvpJ8RXDQ5lX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -57,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wordfreq">
+  <component name="RunManager" selected="Python.dbutils">
     <configuration name="ciba" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="wordlist" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,9 +188,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wordfreq" />
-        <item itemvalue="Python.spliteword" />
         <item itemvalue="Python.dbutils" />
+        <item itemvalue="Python.spliteword" />
+        <item itemvalue="Python.wordfreq" />
         <item itemvalue="Python.youdao" />
         <item itemvalue="Python.testciba" />
       </list>
@@ -303,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620017763644</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="添加待记忆的词。">
+      <created>1620083184810</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1620083184810</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="UnknownFeatures">

@@ -13,6 +13,7 @@ class RememberedWords():
         cursor = conn.cursor()
 
         cursor.execute("SELECT distinct word FROM remember_event")
+        #cursor.execute("select distinct a.word from remember_event a, word_tag b where a.word=b.word and b.tag in ('小学','俞敏洪初中','简单词')")
         rows = cursor.fetchall()
         for row in rows:
             #print(row[0])

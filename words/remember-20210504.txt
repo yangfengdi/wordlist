@@ -1,0 +1,120 @@
+travel|v.旅行；去某地；传播；快速移动；[体]走步; n.旅行；移动
+train|n.列车；火车；行列；一系列; vt.训练；培训；瞄准; vi.进行锻炼，接收训练；练习
+training|n.训练；培养; 动词train的现在分词形式.
+tour|n.旅游；观光；巡回; v.周游；旅行；巡回
+total|adj.总的；全体的；完全的; n.总数；合计; v.共计；总计
+top|n.顶部；顶；上面；极点；陀螺; adj.最高的；顶端的; vt.形成顶部；达到…的顶端；处于…的最前头; vi.总结；超越；高耸；结束
+together|adv.共同；一起；协调；一致；连续地; adj.有能力的；镇定的
+throw|v.扔；投；掷；抛; n.抛；投掷
+though|conj.虽然；尽管；然而；可是; adv.（用在句末补充说明使语气减弱）不过
+thought|n.思想；想法；意向；思念；观念；打算；关心；顾虑; v.想，思考，考虑（动词think的过去式和过去分词）
+think|v.认为；想；记起；考虑; n.想
+thinking|n.思考；思想; adj.好思考的；有理性的; 动词think的现在分词.
+there|adv.在那里；到那里；从那里; pron.表示存在（与be连用）; n.那个地方；那一点
+then|adv.那么；然后；当时；而且; adj.当时的; n.当时
+than|conj.比；除…外（用于other等之后）；与其…（用于rather等之后）；一…就（用于nosooner等之后）; prep.比
+test|n.考验；试验；测试; vt.试验；测试；接受测验
+tell|v.告诉；吩咐；讲述；表达；辨别；判断；泄露；告发；产生效果
+teach|vt.教；教导；教授；教训; vi.给予指导
+taste|n.味觉；味道；尝试；品味；爱好; v.品尝；有...味道的；体验
+target|n.目标；对象；靶; vt.把...作为目标；瞄准
+talk|v.交谈；商讨；演讲；阐述；劝服; n.谈话；会谈；讨论；讲话；空谈
+take|v.拿；取；执行；需要；接受；理解；修(课程)；花费；吃（喝）；认为；搭乘; n.拿取；取得物
+swim|v.游泳; n.游泳
+being|n.存在；人；生物；本质
+helpers|辅助工
+co-founder|n.共同创办人；共同创始人
+aerial|adj.空中的；空气的；航空的；空想的; n.天线
+technology|n.技术；工艺；工艺学
+overview|n.概观(况)；总结
+journal|n.日志；日记；期刊
+sentinel|n.哨兵；传送器；[计]标记符号; v.放哨；设岗哨
+wis|vi.知道
+steer|v.操纵；驾驶；掌舵；引导
+helpers|辅助工
+weed|n.杂草；野草; n.衣服；丧服; vi.除草；清除；淘汰
+killer|n.杀人者；凶手；致命物；消灭…者；棘手的事；迷人的人；精彩的事物
+corn|n.谷物；玉米；伤感平庸作品; v.形成(颗粒状)；腌；(用谷物)喂
+federal|adj.联邦制的；联邦政府的；同盟的; n.联邦主义者；同盟盟友
+aviation|n.航空；飞机制造业
+administration|n.实施；管理；行政；行政部门；任期
+writing|n.写作；著述；笔迹；作品
+cannot|无法；不能，不可以；禁止
+agricultural|adj.农业的
+crash|v.撞击；坠毁；发出巨响；崩溃；破产；宿夜; n.轰隆声；猛撞；崩溃；暴跌；垮台；粗布; adj.速成的
+landmark|n.陆标；地界标；里程碑；划时代的事
+cooperative|adj.合作的；协作的; n.合作社
+crop|n.农作物；收成；庄稼；(一)批; v.修剪；啃吃；收获；出现
+scout|n.童子军；侦察员；守卫; vt.侦察；物色
+handmade|adj.手工制作的
+cows|奶牛
+technology|n.技术；工艺；工艺学
+foster|vt.领养；培养；促进；鼓励；抱有（希望等）; adj.收养的
+mask|n.伪装；面罩；面具；[计算机]掩码; v.掩饰；戴面具；遮盖
+activists|积极分子
+temperatures|温度
+youngest|adj.年纪最小的; n.年纪最小的人
+activist|n.活动分子；积极分子；激进分子
+action|n.行为；活动；措施；效用；交战；情节；事件；姿态；起诉；机能
+classmates|同班同学
+site|n.地点；位置；现场; vt.使...位于
+greenhouse|n.温室；暖房
+gases|n.气体
+strike|n.罢工；打击；殴打; v.打；撞；罢工；划燃
+excited|adj.感到兴奋的；激动的
+vote|n.选举权；投票；选举；投票结果; v.表决；选举；投票
+reproduce|v.再生；复制；生殖
+students|学生
+protest|n.抗议；反对; v.抗议；反对；申明；断言
+sea|n.海；海洋
+partially|adv.部分地；不公平地
+prey|n.牺牲者；被掠食者，猎物; vi.掠夺；捕食；使...苦恼
+buoyancy|n.浮力；弹性；心情愉快
+biographic|adj.传记体的
+older|adj.年长的
+adults|n.成年人；成年动物；成虫; 名词adult的复数
+mostly|adv.主要地；通常
+munch|v.大声咀嚼
+seaweeds|海藻类,海藻
+jellyfish|n.水母；海蜇；意志薄弱的人
+sting|vt.刺痛；使苦恼；欺诈; vi.叮；刺痛; n.刺；刺痛；讽刺
+looks|n.外貌(恒用复数)
+longer|adj.比较久的; adv.比较久
+float|v.漂浮；浮现；飘动；提出; n.浮标；漂浮物；漂浮
+jelly|n.果冻；胶状物; vi.结冻；做果冻; vt.使结冻
+dot|n.少量；小圆点；小东西; v.点缀；作小点记号; [计算机]点.
+location|n.位置；外景拍摄地；定位；地点
+Thailand|n.泰国
+photographer|n.摄影师
+reusable|adj.可再度使用的；可多次使用的
+fewer|adj.少的；越来越少的; adj.较少的; int.较少数
+wildlife|n.野生动植物; adj.野生动植物的
+track|n.轨道；跑道；踪迹；小路；乐曲; v.追踪；跟踪
+Mexico|n.墨西哥
+announcement|n.通告；宣布；声明
+news|n.新闻；消息
+biographic|adj.传记体的
+academy|n.学院；学会；专科学校
+leading|adj.领导的；指导的；主要的；在前的
+adventurous|adj.爱冒险的；大胆的；冒险的；惊险的
+canopy|n.天篷；遮篷；苍穹
+capture|vt.捕获；占领；夺取；吸引；(用照片等)留存; n.捕获；战利品
+male|adj.男性的；雄性的; n.男子；雄性动物
+worth|n.价值；财富; adj.值得的；值钱的
+worry|vt.撕咬；使烦恼；使焦虑; vi.担心；发愁; n.担心；烦恼；忧虑
+work|n.工作；职业；工作内容；职责；活计；工作所需的材料；工作地点；努力；工作成果；行为结果；作品; v.工作；做事；使工作；争取；管理；运行；操作；奏效；产生…影响；造成；抽搐；逐渐移动; [复]works：工厂；修建；机器部件；全套物品
+wonder|n.惊奇；惊愕；奇迹；奇观; v.惊奇；想知道；怀疑; adj.奇妙的；非凡的
+without|prep.没有；无；在外面; adv.在缺乏的情况下；在外面; conj.除非
+wish|v.希望；想要; n.愿望；命令；渴望；祝颂（表达这个意思时，常用复数）
+win|v.赢；赢得；获胜；获得; n.胜利
+will|n.决心；意志；遗嘱；愿望; aux.将；愿意；必须; vt.决心；想要(某事发生)；将(财产)遗赠；规定; vi.愿意
+wild|adj.野生的；野蛮的；未开发的；狂热的; adv.胡乱地；失去控制地; n.荒野；荒地
+well|adv.很好地；相当地; int.好吧；啊; adj.健康的；良好的；适宜的; n.井；源泉；楼梯井; v.涌出
+weight|n.重量；体重；重任；重要; vt.使...负重；使倾斜
+wear|v.磨损；穿戴；使疲劳; n.磨损；穿着；耐久性
+way|n.路；路线；方法；方式；作风；样子；方向；出入通道；距离；时间段；地区；方面；情况; adv.非常；远远地; adj.途中的，中途的
+watch|v.注视；看守；观看; n.手表；监视；看守；值班
+waste|n.废物；浪费；荒地; v.浪费；滥用；消耗; adj.荒芜的；无用的；浪费的
+want|v.要；想要；通缉; n.缺乏；贫穷；需求品
+walk|v.步行；陪...走；散步；偷走；走过; n.步行；散步；人行道
+wake|v.醒来；唤醒；意识到; n.航迹；守夜

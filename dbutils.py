@@ -119,10 +119,38 @@ class dbutils():
         conn.close()
         print('import file {} completed, add {} mistake events, skip {} duplicated events.'.format(file, count, skip_count))
 
+    def import_word_freq(self, file, freq_type):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        count = 0
+        for word in open(file):
+            word = word.strip('\n')
+            word = word.strip('\r')
+            word = word.strip('\t')
+            word = word.strip(' ')
+            #print(word)
+            #print(result[1])
+            sql = "INSERT INTO word_freq (pos, word, freq_type) VALUES (?, ?, ?)"
+            cursor.execute(sql,(count+1, word, freq_type))
+            conn.commit()
+            count += 1
+
+        conn.close()
+        print('import file {} completed, add {} word freq records.'.format(file, count))
+
+
+
 if __name__ == '__main__':
     utils = dbutils()
 
-    #导入自定义的单词，多数是来自课堂笔记，一般是有特定意义的单词，如：MAP Math单词
+    #导入SUBTLEXus美国英语词频库
+    utils.import_word_freq('words/美国英语词频库(SUBTLEXus).txt', 'AE')
+
+    #导入BNC英国英语词频库
+    utils.import_word_freq('words/英国英语词频库(BNC).txt', 'BE')
+
+    #导入自定义词典，多数是来自课堂笔记，一般是有特定意义的单词，如：MAP Math单词
     utils.import_dict('words/dict-MAP.txt', 'MAP')
     utils.import_dict('words/dict-KET.txt', 'KET')
 
@@ -150,6 +178,9 @@ if __name__ == '__main__':
     utils.import_remember_event('words/remember-20210225.txt', '2021-02-25')
     utils.import_remember_event('words/remember-20210501.txt', '2021-05-01')
     utils.import_remember_event('words/remember-20210502.txt', '2021-05-02')
+    utils.import_remember_event('words/remember-20210503.txt', '2021-05-03')
+    utils.import_remember_event('words/remember-20210504.txt', '2021-05-04')
+    utils.import_remember_event('words/remember-20210505.txt', '2021-05-05')
 
     #导入单词错词本
     utils.import_mistake_event('words/mistake-20210201.txt', '2021-02-01')
