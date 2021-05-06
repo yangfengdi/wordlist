@@ -90,7 +90,55 @@ class dbutils():
         conn.close()
         print('import file {} completed, add {} remember events, skip {} duplicated events.'.format(file, count, skip_count))
 
-    def import_mistake_event(self, file, mistake_date):
+    def import_quiz_event(self, file, quiz_date):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        count = 0
+        skip_count = 0
+        line_no = 0
+        for line in open(file):
+            line_no += 1
+            word = line[:line.find("|")]
+            word = word.strip(' ')
+            word = word.strip('\n')
+            word = word.strip('\r')
+            word = word.strip('\t')
+
+            abbr_result = line[line.find("|"):]
+            abbr_result = abbr_result.strip(' ')
+            abbr_result = abbr_result.strip('\n')
+            abbr_result = abbr_result.strip('\r')
+            abbr_result = abbr_result.strip('\t')
+
+            quiz_result = ''
+            if abbr_result == 'P':
+                quiz_result = 'PASS'
+            elif abbr_result == 'F':
+                quiz_result = 'FAIL'
+            else:
+                print('unexcepted result {} in line {}, skiped.'.format(abbr_result, line_no))
+                continue
+
+            if len(word) == 0 :
+                continue
+
+            sql = "SELECT count(1) FROM quiz_event WHERE word=? and quiz_date=strftime('%Y-%m-%d', ?) and quiz_result=?"
+            cursor.execute(sql,(word, quiz_date, quiz_result,))
+            if cursor.fetchone()[0] != 0:
+                skip_count += 1
+                #print('skip duplicated mistake event, word={} mistake_date={}.'.format(word, mistake_date))
+                continue
+
+            sql = "INSERT INTO quiz_event (word, quiz_date, quiz_result) VALUES (?, strftime('%Y-%m-%d', ?), ?)"
+            cursor.execute(sql, (word, quiz_date, quiz_result))
+            conn.commit()
+            count += 1
+
+        conn.close()
+        print('import file {} completed, add {} quiz events, skip {} duplicated events.'.format(file, count, skip_count))
+
+    def import_quiz_fail_event(self, file, quiz_date):
         conn = sqlite3.connect('dict.db')
         cursor = conn.cursor()
 
@@ -106,18 +154,51 @@ class dbutils():
             if len(word) == 0 :
                 continue
 
-            cursor.execute("SELECT count(1) FROM mistake_event WHERE word='{}' and mistake_date=strftime('%Y-%m-%d', '{}')".format(word, mistake_date))
+            sql = "SELECT count(1) FROM quiz_event WHERE word=? and quiz_date=strftime('%Y-%m-%d', ?) and quiz_result='FAIL'"
+            cursor.execute(sql,(word, quiz_date,))
             if cursor.fetchone()[0] != 0:
                 skip_count += 1
                 #print('skip duplicated mistake event, word={} mistake_date={}.'.format(word, mistake_date))
                 continue
 
-            cursor.execute("INSERT INTO mistake_event (word, mistake_date) VALUES ('{}', strftime('%Y-%m-%d', '{}'))".format(word, mistake_date))
+            sql = "INSERT INTO quiz_event (word, quiz_date, quiz_result) VALUES (?, strftime('%Y-%m-%d', ?), 'FAIL')"
+            cursor.execute(sql, (word, quiz_date,))
             conn.commit()
             count += 1
 
         conn.close()
-        print('import file {} completed, add {} mistake events, skip {} duplicated events.'.format(file, count, skip_count))
+        print('import file {} completed, add {} quiz events, skip {} duplicated events.'.format(file, count, skip_count))
+
+    def import_quiz_pass_event(self, file, quiz_date):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        count = 0
+        skip_count = 0
+        for line in open(file):
+            word = line[:line.find("|")]
+            word = word.strip(' ')
+            word = word.strip('\n')
+            word = word.strip('\r')
+            word = word.strip('\t')
+
+            if len(word) == 0 :
+                continue
+
+            sql = "SELECT count(1) FROM quiz_event WHERE word=? and quiz_date=strftime('%Y-%m-%d', ?) and quiz_result='PASS'"
+            cursor.execute(sql,(word, quiz_date,))
+            if cursor.fetchone()[0] != 0:
+                skip_count += 1
+                #print('skip duplicated mistake event, word={} mistake_date={}.'.format(word, mistake_date))
+                continue
+
+            sql = "INSERT INTO quiz_event (word, quiz_date, quiz_result) VALUES (?, strftime('%Y-%m-%d', ?), 'PASS')"
+            cursor.execute(sql, (word, quiz_date,))
+            conn.commit()
+            count += 1
+
+        conn.close()
+        print('import file {} completed, add {} quiz events, skip {} duplicated events.'.format(file, count, skip_count))
 
     def import_word_freq(self, file, freq_type):
         conn = sqlite3.connect('dict.db')
@@ -173,7 +254,7 @@ if __name__ == '__main__':
     #utils.import_remember_event('words/remember-20201225.txt', '2020-12-25')
     #utils.import_remember_event('words/remember-20210101.txt', '2021-01-01')
     #utils.import_remember_event('words/remember-20210112.txt', '2021-01-12')
-    #utils.import_remember_event('words/remember-20210125.txt', '2020-01-25')
+    #utils.import_remember_event('words/remember-20210125.txt', '2021-01-25')
     #utils.import_remember_event('words/remember-20210215.txt', '2021-02-15')
     #utils.import_remember_event('words/remember-20210225.txt', '2021-02-25')
     #utils.import_remember_event('words/remember-20210501.txt', '2021-05-01')
@@ -181,9 +262,9 @@ if __name__ == '__main__':
     #utils.import_remember_event('words/remember-20210503.txt', '2021-05-03')
     #utils.import_remember_event('words/remember-20210504.txt', '2021-05-04')
     #utils.import_remember_event('words/remember-20210505.txt', '2021-05-05')
-    utils.import_remember_event('words/remember-20210506.txt', '2021-05-06')
+    #utils.import_remember_event('words/remember-20210506.txt', '2021-05-06')
 
     #导入单词错词本
-    #utils.import_mistake_event('words/mistake-20210201.txt', '2021-02-01')
+    utils.import_quiz_fail_event('words/fail-20210201.txt', '2021-02-01')
 
 

@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/article20210506.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember-20210506.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/article-mars.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dbscript.sql" beforeDir="false" afterPath="$PROJECT_DIR$/dbscript.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dbutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/dbutils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictcn.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictcn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spliteword.py" beforeDir="false" afterPath="$PROJECT_DIR$/spliteword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word.py" beforeDir="false" afterPath="$PROJECT_DIR$/word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/article.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/mistake-20210201.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/fail-20210201.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/words/newword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/newword.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dict">
+  <component name="RunManager" selected="Python.dbutils">
     <configuration name="ciba" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="wordlist" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,9 +184,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dbutils" />
         <item itemvalue="Python.dict" />
         <item itemvalue="Python.spliteword" />
-        <item itemvalue="Python.dbutils" />
         <item itemvalue="Python.wordfreq" />
         <item itemvalue="Python.youdao" />
       </list>
@@ -319,7 +315,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620228603187</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="添加待记忆的词。">
+      <created>1620284251628</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1620284251628</updated>
+    </task>
+    <task id="LOCAL-00018" summary="添加待记忆的词。">
+      <created>1620284292477</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1620284292477</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="UnknownFeatures">

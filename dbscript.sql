@@ -27,10 +27,11 @@ create table IF NOT EXISTS remember_event (
   create_time timestamp DEFAULT CURRENT_TIMESTAMP
 );
 
---drop table mistake_event;
-create table IF NOT EXISTS mistake_event (
+--drop table quiz_event;
+create table IF NOT EXISTS quiz_event (
   word text,
-  mistake_date date,
+  quiz_date date,
+  quiz_result text,
   create_time timestamp DEFAULT CURRENT_TIMESTAMP
 );
 

@@ -35,7 +35,7 @@ class dict():
         conn.close()
         return result
 
-    # 记忆次数少于等于指定数目的单词
+    # 记忆次数至少有（大于等于）指定数目的单词
     def words_min_remember_times(self, min_remember_times=1):
         conn = sqlite3.connect('dict.db')
         cursor = conn.cursor()
@@ -50,7 +50,7 @@ class dict():
         conn.close()
         return result
 
-    # 记忆次数大于等于指定数目的单词
+    # 记忆次数最多有（小于等于）指定数目的单词
     def words_max_remember_times(self, max_remember_times=1):
         conn = sqlite3.connect('dict.db')
         cursor = conn.cursor()
@@ -59,6 +59,74 @@ class dict():
         cursor.execute(sql, (max_remember_times,))
 
         result = set()
+        for row in cursor:
+            result.add(row[0])
+
+        conn.close()
+        return result
+
+    # 最近记忆时间至少距今天（大于等于）指定天数的单词
+    def words_min_last_remember_days(self, min_last_remember_days):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        sql = "select word, min(round(julianday('now')-julianday(remember_date))) duration from remember_event group by word having duration>=？"
+        cursor.execute(sql, (min_last_remember_days,))
+
+        result = set()
+        for row in cursor:
+            result.add(row[0])
+
+        conn.close()
+        return result
+
+    # 最近记忆时间最多距今天（小于等于）指定天数的单词
+    def words_max_last_remember_days(self, max_last_remember_days):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        sql = "select word, min(round(julianday('now')-julianday(remember_date))) duration from remember_event group by word having duration<=？"
+        cursor.execute(sql, (max_last_remember_days,))
+
+        result = set()
+        for row in cursor:
+            result.add(row[0])
+
+        conn.close()
+        return result
+
+    # 指定测试结果次数至少有（大于等于）指定数目的单词
+    def words_min_quiz_result_times(self, quiz_result, min_quiz_result_times=1):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        sql = "select word, count(1) times from quiz_event where quiz_result=? group by word having times>=?"
+        cursor.execute(sql, (quiz_result, min_quiz_result_times, ))
+
+        result = set()
+        for row in cursor:
+            result.add(row[0])
+
+        conn.close()
+        return result
+
+    # 只有失败的测试记录，或者最近的测试记录是失败的单词
+    def words_last_quiz_fail(self):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        sql = '''select a.word from
+                (select word, max(quiz_date) pass_date from quiz_event where quiz_result='PASS' group by word) a,
+                (select word, max(quiz_date) fail_date from quiz_event where quiz_result='FAIL' group by word) b
+                where a.word=b.word and fail_date>=pass_date'''
+        cursor.execute(sql)
+        result = set()
+        for row in cursor:
+            result.add(row[0])
+
+        sql = '''select distinct word from quiz_event a where quiz_result='FAIL' 
+                and not exists (select 1 from quiz_event b where a.word=b.word and b.quiz_result='PASS')'''
+        cursor.execute(sql)
         for row in cursor:
             result.add(row[0])
 
@@ -152,19 +220,20 @@ def get_new_words_from_artical(file):
     words_in_artical = words_in_artical - words_remembered #去除曾经记忆过的单词
 
     count = 0
-    for word in words_in_artical&words_top_freq:
+    for word in words_in_artical: #不筛除低频词
+    #for word in words_in_artical&words_top_freq:  #筛除低频词
         with open("words/newword.txt", 'a') as f:
             f.write('{}|{}'.format(word, words_meaning[word]) + '\n')
             # f.write('{}'.format(word.word) + '\n')
         count += 1
 
-# 查单词的可能条件：
-# 5. 最后一次记忆的时间早于某个时间
-# 4. 错误次数超过多少次，少于多少次
-# 6. 单词的长度达到多少
-# 7. 最后一次错误的时间晚于最后一次测验的时间
-# 8. 测验通过过的单词
-
 if __name__ == '__main__':
-    get_new_words_from_artical('words/article.txt')
+    #get_new_words_from_artical('words/article-mars.txt')
+
+    dict_obj = dict()
+    #words = dict_obj.words_min_quiz_result_times('FAIL', 1)
+    words = dict_obj.words_last_quiz_fail()
+    for word in words:
+        print(word)
+
 
