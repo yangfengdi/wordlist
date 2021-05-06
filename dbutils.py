@@ -145,44 +145,45 @@ if __name__ == '__main__':
     utils = dbutils()
 
     #导入SUBTLEXus美国英语词频库
-    utils.import_word_freq('words/美国英语词频库(SUBTLEXus).txt', 'AE')
+    #utils.import_word_freq('words/美国英语词频库(SUBTLEXus).txt', 'AE')
 
     #导入BNC英国英语词频库
-    utils.import_word_freq('words/英国英语词频库(BNC).txt', 'BE')
+    #utils.import_word_freq('words/英国英语词频库(BNC).txt', 'BE')
 
     #导入自定义词典，多数是来自课堂笔记，一般是有特定意义的单词，如：MAP Math单词
-    utils.import_dict('words/dict-MAP.txt', 'MAP')
-    utils.import_dict('words/dict-KET.txt', 'KET')
+    #utils.import_dict('words/dict-MAP.txt', 'MAP')
+    #utils.import_dict('words/dict-KET.txt', 'KET')
 
     #导入单词标签，即单词的分类
-    utils.import_word_tag('words/tag-KET.txt', 'KET')
-    utils.import_word_tag('words/tag-MAP关键.txt', 'MAP关键')
-    utils.import_word_tag('words/tag-MAP模拟题.txt', 'MAP模拟题')
-    utils.import_word_tag('words/tag-newsela.txt', 'newsela')
-    utils.import_word_tag('words/tag-WordlyWise2.txt', 'WordlyWise2')
-    utils.import_word_tag('words/tag-俞敏洪初中.txt', '俞敏洪初中')
-    utils.import_word_tag('words/tag-俞敏洪四级.txt', '俞敏洪四级')
-    utils.import_word_tag('words/tag-俞敏洪高中.txt', '俞敏洪高中')
-    utils.import_word_tag('words/tag-小学.txt', '小学')
-    utils.import_word_tag('words/tag-简单词.txt', '简单词')
+    #utils.import_word_tag('words/tag-KET.txt', 'KET')
+    #utils.import_word_tag('words/tag-MAP关键.txt', 'MAP关键')
+    #utils.import_word_tag('words/tag-MAP模拟题.txt', 'MAP模拟题')
+    #utils.import_word_tag('words/tag-newsela.txt', 'newsela')
+    #utils.import_word_tag('words/tag-WordlyWise2.txt', 'WordlyWise2')
+    #utils.import_word_tag('words/tag-俞敏洪初中.txt', '俞敏洪初中')
+    #utils.import_word_tag('words/tag-俞敏洪四级.txt', '俞敏洪四级')
+    #utils.import_word_tag('words/tag-俞敏洪高中.txt', '俞敏洪高中')
+    #utils.import_word_tag('words/tag-小学.txt', '小学')
+    #utils.import_word_tag('words/tag-简单词.txt', '简单词')
 
     #导入单词记忆事件
-    utils.import_remember_event('words/remember-20200901.txt', '2020-09-01')
-    utils.import_remember_event('words/remember-20201001.txt', '2020-10-01')
-    utils.import_remember_event('words/remember-20201220.txt', '2020-12-20')
-    utils.import_remember_event('words/remember-20201225.txt', '2020-12-25')
-    utils.import_remember_event('words/remember-20210101.txt', '2021-01-01')
-    utils.import_remember_event('words/remember-20210112.txt', '2021-01-12')
-    utils.import_remember_event('words/remember-20210125.txt', '2020-01-25')
-    utils.import_remember_event('words/remember-20210215.txt', '2021-02-15')
-    utils.import_remember_event('words/remember-20210225.txt', '2021-02-25')
-    utils.import_remember_event('words/remember-20210501.txt', '2021-05-01')
-    utils.import_remember_event('words/remember-20210502.txt', '2021-05-02')
-    utils.import_remember_event('words/remember-20210503.txt', '2021-05-03')
-    utils.import_remember_event('words/remember-20210504.txt', '2021-05-04')
-    utils.import_remember_event('words/remember-20210505.txt', '2021-05-05')
+    #utils.import_remember_event('words/remember-20200901.txt', '2020-09-01')
+    #utils.import_remember_event('words/remember-20201001.txt', '2020-10-01')
+    #utils.import_remember_event('words/remember-20201220.txt', '2020-12-20')
+    #utils.import_remember_event('words/remember-20201225.txt', '2020-12-25')
+    #utils.import_remember_event('words/remember-20210101.txt', '2021-01-01')
+    #utils.import_remember_event('words/remember-20210112.txt', '2021-01-12')
+    #utils.import_remember_event('words/remember-20210125.txt', '2020-01-25')
+    #utils.import_remember_event('words/remember-20210215.txt', '2021-02-15')
+    #utils.import_remember_event('words/remember-20210225.txt', '2021-02-25')
+    #utils.import_remember_event('words/remember-20210501.txt', '2021-05-01')
+    #utils.import_remember_event('words/remember-20210502.txt', '2021-05-02')
+    #utils.import_remember_event('words/remember-20210503.txt', '2021-05-03')
+    #utils.import_remember_event('words/remember-20210504.txt', '2021-05-04')
+    #utils.import_remember_event('words/remember-20210505.txt', '2021-05-05')
+    utils.import_remember_event('words/remember-20210506.txt', '2021-05-06')
 
     #导入单词错词本
-    utils.import_mistake_event('words/mistake-20210201.txt', '2021-02-01')
+    #utils.import_mistake_event('words/mistake-20210201.txt', '2021-02-01')
 
 

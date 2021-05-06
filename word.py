@@ -1,4 +1,4 @@
-class Word():
+class word():
     def __init__(self):
         self.word = ''
         self.meaning = ''

@@ -1,8 +1,8 @@
 import requests
 from ciba import Ciba
-from dictcn import Dictcn
+from dictcn import dict_cn
 from rememberedwords import RememberedWords
-from word import Word
+from word import word
 import random
 
 class WordSpliter():
@@ -12,7 +12,7 @@ class WordSpliter():
         self.randomOrder = False
 
     def analyseWord(self, segment):
-        word = Word()
+        word = word()
         word.word = segment
         #print('=='+segment)
 
@@ -39,7 +39,7 @@ class WordSpliter():
             word.isRemember = False
 
         #dict = Ciba()
-        dict = Dictcn()
+        dict = dict_cn()
         result = dict.search(segment)
 
         #排除不存在的单词
@@ -182,7 +182,7 @@ class WordSpliter():
         for line in open(file):
             line = line.strip('\n')
             #line = line.strip(' ')
-            word = Word()
+            word = word()
 
             # 这样写有点丑，先这么写着，以便兼容之前的程序
             if line.find("|") == -1:
