@@ -220,8 +220,6 @@ class dbutils():
         conn.close()
         print('import file {} completed, add {} word freq records.'.format(file, count))
 
-
-
 if __name__ == '__main__':
     utils = dbutils()
 
@@ -263,8 +261,10 @@ if __name__ == '__main__':
     #utils.import_remember_event('words/remember-20210504.txt', '2021-05-04')
     #utils.import_remember_event('words/remember-20210505.txt', '2021-05-05')
     #utils.import_remember_event('words/remember-20210506.txt', '2021-05-06')
+    #utils.import_remember_event('words/remember-20210507.txt', '2021-05-07')
+    utils.import_remember_event('words/remember-20210508.txt', '2021-05-08')
 
     #导入单词错词本
-    utils.import_quiz_fail_event('words/fail-20210201.txt', '2021-02-01')
+    #utils.import_quiz_fail_event('words/fail-20210201.txt', '2021-02-01')
 
 

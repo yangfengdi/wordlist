@@ -1,7 +1,7 @@
 import sqlite3
 from dictcn import dict_cn
 
-class dict():
+class word_set():
     def __init__(self):
         pass
 
@@ -115,6 +115,7 @@ class dict():
         conn = sqlite3.connect('dict.db')
         cursor = conn.cursor()
 
+        #最近的测试记录是失败的单词
         sql = '''select a.word from
                 (select word, max(quiz_date) pass_date from quiz_event where quiz_result='PASS' group by word) a,
                 (select word, max(quiz_date) fail_date from quiz_event where quiz_result='FAIL' group by word) b
@@ -124,6 +125,7 @@ class dict():
         for row in cursor:
             result.add(row[0])
 
+        #只有测试失败记录，没有测试成功记录的单词
         sql = '''select distinct word from quiz_event a where quiz_result='FAIL' 
                 and not exists (select 1 from quiz_event b where a.word=b.word and b.quiz_result='PASS')'''
         cursor.execute(sql)
@@ -174,66 +176,107 @@ class dict():
                 result.add(roughWord)
         return result
 
-def get_new_words_from_artical(file):
-    dict_obj = dict()
+    def words_in_list(self, file):
+        result = set()
+        for line in open(file):
+            if line.find('|') == -1:
+                word = line
+            else:
+                word = line[:line.find('|')]
 
-    rough_words_in_artical = dict_obj.words_in_artical(file)
+            if len(word) > 0:
+                result.add(word)
+        return result
 
-    words_except = dict_obj.words_with_tag('简单词')
-    words_except = words_except|dict_obj.words_with_tag('小学')
-    words_except = words_except|dict_obj.words_with_tag('俞敏洪初中')
+    def __filter_words(self, rough_words):
+        words_except = self.words_with_tag('简单词')
+        words_except = words_except|self.words_with_tag('小学')
+        words_except = words_except|self.words_with_tag('俞敏洪初中')
+        #words_except = words_except|self.words_with_tag('俞敏洪高中')
 
-    words_variant = dict_obj.words_with_tag('复数')
-    words_variant = words_variant|dict_obj.words_with_tag('第三人称单数')
-    words_variant = words_variant|dict_obj.words_with_tag('过去式')
-    words_variant = words_variant|dict_obj.words_with_tag('过去分词')
-    words_variant = words_variant|dict_obj.words_with_tag('现在分词')
-    words_variant = words_variant|dict_obj.words_with_tag('比较级')
-    words_variant = words_variant|dict_obj.words_with_tag('最高级')
+        words_variant = self.words_with_tag('复数')
+        words_variant = words_variant|self.words_with_tag('第三人称单数')
+        words_variant = words_variant|self.words_with_tag('过去式')
+        words_variant = words_variant|self.words_with_tag('过去分词')
+        words_variant = words_variant|self.words_with_tag('现在分词')
+        words_variant = words_variant|self.words_with_tag('比较级')
+        words_variant = words_variant|self.words_with_tag('最高级')
 
-    words_proper = dict_obj.words_with_tag('姓氏')
-    words_proper = words_proper|dict_obj.words_with_tag('人名')
-    words_proper = words_proper|dict_obj.words_with_tag('国名')
-    words_proper = words_proper|dict_obj.words_with_tag('美国州名')
-    words_proper = words_proper|dict_obj.words_with_tag('城市')
-    words_proper = words_proper|dict_obj.words_with_tag('缩写')
+        words_proper = self.words_with_tag('姓氏')
+        words_proper = words_proper|self.words_with_tag('人名')
+        words_proper = words_proper|self.words_with_tag('国名')
+        words_proper = words_proper|self.words_with_tag('美国州名')
+        words_proper = words_proper|self.words_with_tag('城市')
+        words_proper = words_proper|self.words_with_tag('缩写')
 
-    dictcn = dict_cn()
-    words_in_artical = set()
-    words_meaning = {}
-    for word in rough_words_in_artical - words_except - words_variant:
-        meaning = ''
-        dict_word, meaning = dictcn.search(word)
-        words_meaning[dict_word] = meaning
-        words_in_artical.add(dict_word)
+        dictcn = dict_cn()
+        words_in_artical = set()
+        words_meaning = {}
+        for word in rough_words - words_except - words_variant:
+            meaning = ''
+            dict_word, meaning = dictcn.search(word)
+            words_meaning[dict_word] = meaning
+            words_in_artical.add(dict_word)
 
-    words_first_letter_capital = dict_obj.words_with_tag('首字母大写')
+        words_first_letter_capital = self.words_with_tag('首字母大写')
 
-    words_top_freq = dict_obj.word_by_freq('BE', 0, 20000)|dict_obj.word_by_freq('AE', 0, 20000)
+        words_top_freq = self.word_by_freq('BE', 0, 20000)|self.word_by_freq('AE', 0, 20000)
 
-    words_remembered = dict_obj.words_min_remember_times(2)
+        words_remembered = self.words_min_remember_times()
 
-    words_in_artical = words_in_artical - words_except #去除某些简单单词，如小学、初中单词等
-    words_in_artical = words_in_artical - words_variant  #去除变体的单词
-    words_in_artical = words_in_artical - words_proper #去除专用单词，如：国名、地名、人名等
-    words_in_artical = words_in_artical - words_first_letter_capital #去除首字母大写单词
-    words_in_artical = words_in_artical - words_remembered #去除曾经记忆过的单词
+        words_in_artical = words_in_artical - words_except #去除某些简单单词，如小学、初中单词等
+        words_in_artical = words_in_artical - words_variant  #去除变体的单词
+        words_in_artical = words_in_artical - words_proper #去除专用单词，如：国名、地名、人名等
+        words_in_artical = words_in_artical - words_first_letter_capital #去除首字母大写单词
+        words_in_artical = words_in_artical - words_remembered #去除曾经记忆过的单词
 
-    count = 0
-    for word in words_in_artical: #不筛除低频词
-    #for word in words_in_artical&words_top_freq:  #筛除低频词
-        with open("words/newword.txt", 'a') as f:
-            f.write('{}|{}'.format(word, words_meaning[word]) + '\n')
-            # f.write('{}'.format(word.word) + '\n')
-        count += 1
+        count = 0
+        for word in words_in_artical: #不筛除低频词
+        #for word in words_in_artical&words_top_freq:  #筛除低频词
+            with open("words/newword.txt", 'a') as f:
+                f.write('{}|{}'.format(word, words_meaning[word]) + '\n')
+                # f.write('{}'.format(word.word) + '\n')
+            count += 1
+
+    def get_new_words_from_artical(self, file):
+        rough_words_in_artical = self.words_in_artical(file)
+        self.__filter_words(rough_words_in_artical)
+
+    def get_new_words_from_list(self, file):
+        rough_words_in_list = self.words_in_list(file)
+        self.__filter_words(rough_words_in_list)
+
+    def get_new_words_from_list_without_filter(self, file):
+        rough_words_in_list = self.words_in_list(file)
+
+        dictcn = dict_cn()
+        for word in rough_words_in_list:
+            dict_word, meaning = dictcn.search(word)
+            if len(dict_word) == 0:
+                continue
+            with open("words/newword.txt", 'a') as f:
+                f.write('{}|{}'.format(dict_word, meaning) + '\n')
+
+    def get_review_words_from_fail_record(self):
+        words = self.words_last_quiz_fail()
+        words_remembered = self.words_min_remember_times(3)
+
+        count = 0
+        for word in words-words_remembered:
+            count += 1
+            #print('[{}]={}'.format(count, word))
+            print(word)
+
+    def get_new_words_from_top_freq(self):
+        rough_top_freq_words = self.word_by_freq('BE', 0, 1800)
+        self.__filter_words(rough_top_freq_words)
 
 if __name__ == '__main__':
-    #get_new_words_from_artical('words/article-mars.txt')
+    word_set = word_set()
+    #word_set.get_new_words_from_artical('words/article-mars.txt')
+    #word_set.get_new_words_from_list('words/words.txt')
+    #word_set.get_review_words_from_fail_record()
+    #word_set.get_new_words_from_top_freq()
 
-    dict_obj = dict()
-    #words = dict_obj.words_min_quiz_result_times('FAIL', 1)
-    words = dict_obj.words_last_quiz_fail()
-    for word in words:
-        print(word)
-
+    word_set.get_new_words_from_list_without_filter('words/words.txt')
 
