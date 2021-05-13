@@ -70,7 +70,7 @@ class word_set():
         conn = sqlite3.connect('dict.db')
         cursor = conn.cursor()
 
-        sql = "select word, min(round(julianday('now')-julianday(remember_date))) duration from remember_event group by word having duration>=？"
+        sql = "select word, min(round(julianday('now')-julianday(remember_date))) duration from remember_event group by word having duration>=?"
         cursor.execute(sql, (min_last_remember_days,))
 
         result = set()
@@ -85,7 +85,7 @@ class word_set():
         conn = sqlite3.connect('dict.db')
         cursor = conn.cursor()
 
-        sql = "select word, min(round(julianday('now')-julianday(remember_date))) duration from remember_event group by word having duration<=？"
+        sql = "select word, min(round(julianday('now')-julianday(remember_date))) duration from remember_event group by word having duration<=?"
         cursor.execute(sql, (max_last_remember_days,))
 
         result = set()
@@ -188,7 +188,16 @@ class word_set():
                 result.add(word)
         return result
 
-    def __filter_words(self, rough_words):
+    def __filter_words(self, rough_words, skip_min_remember_times = 1):
+        dictcn = dict_cn()
+        words_list = set()
+        words_meaning = {}
+        for word in rough_words:
+            meaning = ''
+            dict_word, meaning = dictcn.search(word)
+            words_meaning[dict_word] = meaning
+            words_list.add(dict_word)
+
         words_except = self.words_with_tag('简单词')
         words_except = words_except|self.words_with_tag('小学')
         words_except = words_except|self.words_with_tag('俞敏洪初中')
@@ -209,74 +218,97 @@ class word_set():
         words_proper = words_proper|self.words_with_tag('城市')
         words_proper = words_proper|self.words_with_tag('缩写')
 
-        dictcn = dict_cn()
-        words_in_artical = set()
-        words_meaning = {}
-        for word in rough_words - words_except - words_variant:
-            meaning = ''
-            dict_word, meaning = dictcn.search(word)
-            words_meaning[dict_word] = meaning
-            words_in_artical.add(dict_word)
-
         words_first_letter_capital = self.words_with_tag('首字母大写')
 
         words_top_freq = self.word_by_freq('BE', 0, 20000)|self.word_by_freq('AE', 0, 20000)
 
-        words_remembered = self.words_min_remember_times()
+        words_remembered = self.words_min_remember_times(skip_min_remember_times)
 
-        words_in_artical = words_in_artical - words_except #去除某些简单单词，如小学、初中单词等
-        words_in_artical = words_in_artical - words_variant  #去除变体的单词
-        words_in_artical = words_in_artical - words_proper #去除专用单词，如：国名、地名、人名等
-        words_in_artical = words_in_artical - words_first_letter_capital #去除首字母大写单词
-        words_in_artical = words_in_artical - words_remembered #去除曾经记忆过的单词
+        words_list = words_list - words_except #去除某些简单单词，如小学、初中单词等
+        words_list = words_list - words_variant  #去除变体的单词
+        words_list = words_list - words_proper #去除专用单词，如：国名、地名、人名等
+        words_list = words_list - words_first_letter_capital #去除首字母大写单词
+        words_list = words_list - words_remembered #去除曾经记忆过的单词
 
+        result = {}
+        for word in words_list: #不筛除低频词
+        #for word in words_in_artical&words_top_freq:  #筛除低频词
+            result[word] = words_meaning[word]
+        return result
+        '''
         count = 0
-        for word in words_in_artical: #不筛除低频词
+        for word in words_list: #不筛除低频词
         #for word in words_in_artical&words_top_freq:  #筛除低频词
             with open("words/newword.txt", 'a') as f:
                 f.write('{}|{}'.format(word, words_meaning[word]) + '\n')
                 # f.write('{}'.format(word.word) + '\n')
             count += 1
+        '''
+
+    def write_dict_to_file(self, dict, file):
+        for word in dict.keys(): #不筛除低频词
+            with open(file, 'a') as f:
+                f.write('{}|{}'.format(word, dict[word]) + '\n')
 
     def get_new_words_from_artical(self, file):
         rough_words_in_artical = self.words_in_artical(file)
-        self.__filter_words(rough_words_in_artical)
+        words = self.__filter_words(rough_words_in_artical)
+        self.write_dict_to_file(words, "words/newword.txt")
 
     def get_new_words_from_list(self, file):
         rough_words_in_list = self.words_in_list(file)
-        self.__filter_words(rough_words_in_list)
+        words = self.__filter_words(rough_words_in_list)
+        self.write_dict_to_file(words, "words/newword.txt")
 
     def get_new_words_from_list_without_filter(self, file):
         rough_words_in_list = self.words_in_list(file)
 
+        words = {}
         dictcn = dict_cn()
         for word in rough_words_in_list:
             dict_word, meaning = dictcn.search(word)
             if len(dict_word) == 0:
                 continue
-            with open("words/newword.txt", 'a') as f:
-                f.write('{}|{}'.format(dict_word, meaning) + '\n')
+            words[dict_word] = meaning
+        self.write_dict_to_file(words, "words/newword.txt")
 
     def get_review_words_from_fail_record(self):
-        words = self.words_last_quiz_fail()
-        words_remembered = self.words_min_remember_times(3)
+        fail_words = self.words_last_quiz_fail()
+        words_remembered = self.words_min_remember_times(5)
 
-        count = 0
-        for word in words-words_remembered:
-            count += 1
-            #print('[{}]={}'.format(count, word))
-            print(word)
+        words = {}
+        dictcn = dict_cn()
+        for word in fail_words - words_remembered:
+            dict_word, meaning = dictcn.search(word)
+            if len(dict_word) == 0:
+                continue
+            words[dict_word] = meaning
+        self.write_dict_to_file(words, "words/newword.txt")
 
     def get_new_words_from_top_freq(self):
-        rough_top_freq_words = self.word_by_freq('BE', 0, 1800)
-        self.__filter_words(rough_top_freq_words)
+        rough_top_freq_words = self.word_by_freq('BE', 0, 2000)
+        words = self.__filter_words(rough_top_freq_words)
+        self.write_dict_to_file(words, "words/newword.txt")
+
+    def get_words_from_tag(self, tag):
+        words = self.words_with_tag(tag)
+        words = self.__filter_words(words, 3)
+        self.write_dict_to_file(words, "words/newword.txt")
+
+    def get_words_from_recent_remember_words(self):
+        words = self.words_max_last_remember_days(7)
+        words = self.__filter_words(words, 2)
+        self.write_dict_to_file(words, "words/newword.txt")
 
 if __name__ == '__main__':
     word_set = word_set()
-    #word_set.get_new_words_from_artical('words/article-mars.txt')
+    #word_set.get_words_from_tag('俞敏洪高中')
+    #word_set.get_words_from_recent_remember_words()
+    #word_set.get_new_words_from_artical('words/article20210510.txt')
     #word_set.get_new_words_from_list('words/words.txt')
-    #word_set.get_review_words_from_fail_record()
+    word_set.get_review_words_from_fail_record()
     #word_set.get_new_words_from_top_freq()
 
-    word_set.get_new_words_from_list_without_filter('words/words.txt')
+    #把多个不同的单词列表混合成一个大列表
+    #word_set.get_new_words_from_list_without_filter('words/words.txt')
 
