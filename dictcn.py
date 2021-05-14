@@ -141,7 +141,7 @@ class dict_cn():
                 conn.close()
                 return query_word, query_meaning
 
-            #print('word='+word)
+            #print('searching word={}'.format(word))
             url = 'https://dict.cn/search?q={}'.format(word)
             headers = {'Host': 'dict.cn',
                    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0',
@@ -149,14 +149,15 @@ class dict_cn():
                    'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate',
                    'Referer': 'http://www.baidu.com', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', }
             response = requests.get(url=url, headers=headers)
+            #print('################')
             #print(response.text)
+            #print('################')
 
             wordend = response.text.find('的相关资料：<i tip="词的相关资料"')
             wordstart = response.text[:wordend].rfind('>')
             findword = response.text[wordstart+1:wordend]
             #print('word={};wordstart={};wordend={};findword={}'.format(word, wordstart, wordend, findword))
 
-            #print(findword)
             if word != findword:
                 self.save_word_mapping(word, findword, 'DICTCN')
 
@@ -164,6 +165,9 @@ class dict_cn():
             meanend = response.text.find('<script', meanstart)
 
             findmean=response.text[meanstart + len('<div class="basic clearfix">'):meanend]
+
+            if len(findword) == 0:
+                findmean = ''
 
             #print(self.skiptrash(findmean))
             self.save_word(findword, self.skiptrash(findmean))

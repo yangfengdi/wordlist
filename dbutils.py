@@ -267,6 +267,7 @@ if __name__ == '__main__':
     #utils.import_remember_event('words/remember-20210511.txt', '2021-05-11')
     #utils.import_remember_event('words/remember-20210512.txt', '2021-05-12')
     utils.import_remember_event('words/remember-20210513.txt', '2021-05-13')
+    utils.import_remember_event('words/remember-20210514.txt', '2021-05-14')
 
     #导入单词错词本
     #utils.import_quiz_fail_event('words/fail-20210201.txt', '2021-02-01')
