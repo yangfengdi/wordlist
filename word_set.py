@@ -8,7 +8,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.units import mm
 from reportlab.platypus import Paragraph
 from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
-
+from reportlab.lib.colors import HexColor
 
 class word_set():
     def __init__(self):
@@ -286,7 +286,7 @@ class word_set():
         self.write_dict_to_file(words, "words/newword.txt")
 
     def get_new_words_from_top_freq(self):
-        rough_top_freq_words = self.word_by_freq('BE', 0, 2000)
+        rough_top_freq_words = self.word_by_freq('AE', 0, 200000)
         words_dict = self.__filter_words(rough_top_freq_words)
         self.write_dict_to_file(words_dict, "words/newword.txt")
 
@@ -311,9 +311,6 @@ class word_set():
         pos = 0
         for i in range(0, size):
             steps = random.randint(1, size - i)
-            #print('pos={}'.format(pos))
-            #print('steps={}'.format(steps))
-            #print('begin num_use:{}'.format(num_use))
 
             for step in range(0, steps):
                 pos += 1
@@ -328,13 +325,7 @@ class word_set():
 
             result[i] = pos
             reversed_result[pos] = i
-            #print('result[{}]={}'.format(i, pos))
-            #print('end num_use:{}'.format(num_use))
-            #print()
 
-        #print(result)
-        #for i in range(0, size):
-        #    print('[{}]={}'.format(i, result[i]))
         return result, reversed_result
 
     # 选择一些低频词用于干扰，要求返回的单词与解释意义是不对应的
@@ -350,23 +341,19 @@ class word_set():
             if len(disturb_meaning) >0 :
                 return disturb_word.pop(), disturb_meaning
 
-    def make_quiz_from_recent_remember_words(self):
-        words = self.words_max_last_remember_days(2)
+    def make_quiz_from_recent_remember_words(self, quiz_tag):
+        words = self.words_max_last_remember_days(7)
         #words = self.words_with_tag('小学')
         words_dict = self.__filter_words(words, 5)
-        #stl = getSampleStyleSheet()
-        #normalStyle = stl['Normal']
 
         chinese_number = ['0', '①', '②', '③', '④', '⑤', '⑥', '⑦', '⑧', '⑨', '⑩']
+        roman_number = ['0', 'Ⅰ.', 'Ⅱ.', 'Ⅲ.', 'Ⅳ.', 'Ⅴ.', 'Ⅵ.', 'Ⅶ.', 'Ⅷ.', 'Ⅸ.', 'Ⅹ.']
         canv = canvas.Canvas("quiz.pdf")
         pdfmetrics.registerFont(TTFont("SimSun", "SimSun.ttf"))
-        canv.setFont("SimSun", 20)
-        canv.drawString(90 * mm, 280 * mm, "单词连连看")
-        canv.setFont("SimSun", 10)
-        canv.drawString(70 * mm, 275 * mm, "（其中包含一组错误的单词，请不要连接它们）")
-        canv.setFont("SimSun", 14)
 
-        words_per_page = 6
+        filename = "words/quiz-{}.txt".format(quiz_tag)
+
+        words_per_page = 9
         quiz_words = {}
         quiz_words_disorder = {}
         quiz_meanings = {}
@@ -374,14 +361,38 @@ class word_set():
         quiz_meanings_disorder = {}
         inside_page_index = 0
         disturb_word_index = 0
+        page_no = 0
         for word in words_dict.keys():
             if inside_page_index == words_per_page - 1:
                 inside_page_index = 0
+                page_no += 1
+
+                style = ParagraphStyle(name='normal')
+                style.fontSize = 20
+                style.fontName = "SimSun"
+                style.alignment = 1
+                p = Paragraph("{}-单词连连看-{}".format(quiz_tag, page_no), style)
+                p.wrap(210 * mm, 35 * mm)
+                p.drawOn(canv, 0, 292 * mm)
+
+                with open(filename, 'a') as f:
+                    f.write('##Page-{}'.format(page_no) + '\n')
+
+                style = ParagraphStyle(name='normal')
+                style.fontSize = 10
+                style.fontName = "SimSun"
+                style.alignment = 1
+                p = Paragraph("（其中包含一组错误的单词，请不要连接它们）", style)
+                p.wrap(210 * mm, 35 * mm)
+                p.drawOn(canv, 0, 283 * mm)
+
+                canv.setFont("SimSun", 14)
+
                 disturb_word, disturb_meaning = self.__get_disturb_word()
                 quiz_words[words_per_page - 1] = disturb_word
                 quiz_meanings[words_per_page - 1] = disturb_meaning
 
-                quiz_mapping, reversed_quiz_mapping = self.__create_random_mapping_for_quiz(6)
+                quiz_mapping, reversed_quiz_mapping = self.__create_random_mapping_for_quiz(words_per_page)
                 for i in range(0, words_per_page):
                     quiz_words_disorder[i] = quiz_words[quiz_mapping[i]]
                     quiz_meanings_disorder_temp[i] = quiz_meanings[quiz_mapping[i]]
@@ -390,45 +401,44 @@ class word_set():
                     if quiz_mapping[i] == words_per_page - 1:
                         disturb_word_index = i
 
-                quiz_mapping, reversed_quiz_mapping = self.__create_random_mapping_for_quiz(6)
+                quiz_mapping, reversed_quiz_mapping = self.__create_random_mapping_for_quiz(words_per_page)
                 for i in range(0, words_per_page):
                     quiz_meanings_disorder[i] = quiz_meanings_disorder_temp[quiz_mapping[i]]
 
-                #for i in range(0, words_per_page):
-                #    print('[{}]word={}|meaning={}'.format(i, quiz_words[i], quiz_meanings[i]))
+                for i in range(0, words_per_page):
+                    style = ParagraphStyle(name='normal')
+                    style.backColor = HexColor(0xEEEEEE)
+                    style.fontSize = 14
+                    style.fontName = "SimSun"
+                    style.leading = 18
+                    p = Paragraph('{}{}'.format(roman_number[i + 1], quiz_words_disorder[i]), style)
+                    p.wrap(45 * mm, 35 * mm)
+                    p.drawOn(canv, 0.5 * mm, (260 - i * 32) * mm)
+
+                    with open(filename, 'a') as f:
+                        #f.write('##Page-{}'.format(page_no) + '\n')
+                        if disturb_word_index == i:
+                            f.write('{}|word={}|meaning=X\n'.format(roman_number[i + 1], quiz_words_disorder[i]))
+                            #print('{}word={}|meaning=X'.format(roman_number[i + 1], quiz_words_disorder[i]))
+                        else:
+                            f.write('{}|word={}|meaning={}|result(P/F)=\n'.format(roman_number[i + 1], quiz_words_disorder[i], chinese_number[reversed_quiz_mapping[i] + 1]))
+                            #print('{}word={}|meaning={}'.format(roman_number[i + 1], quiz_words_disorder[i], chinese_number[reversed_quiz_mapping[i] + 1]))
+
+                with open(filename, 'a') as f:
+                    f.write('\n')
 
                 for i in range(0, words_per_page):
-                    textobject = canv.beginText()
-                    textobject.setFont("SimSun", 14)
-                    textobject.setTextOrigin(2 * mm, (260 - i * 45) * mm)
-                    textobject.textLine('{}{}'.format(chinese_number[i + 1], quiz_words_disorder[i]))
-                    canv.drawText(textobject)
-                    if disturb_word_index == i:
-                        print('{}word={}|meaning=X'.format(chinese_number[i+1], quiz_words_disorder[i]))
-                    else:
-                        print('{}word={}|meaning={}'.format(chinese_number[i+1], quiz_words_disorder[i], chinese_number[reversed_quiz_mapping[i]+1]))
+                    style = ParagraphStyle(name='normal')
+                    style.backColor = HexColor(0xEEEEEE)
+                    style.fontSize = 14
+                    style.fontName = "SimSun"
+                    style.leading = 18
 
-                print('-------------')
-                for i in range(0, words_per_page):
-                    #textobject = canv.beginText()
-                    #textobject.setFont("SimSun", 14)
-                    #textobject.setTextOrigin(90 * mm, (260 - i * 45) * mm)
-                    #textobject.textLine('{}{}'.format(chinese_number[i + 1], quiz_meanings_disorder[i]))
-                    #canv.drawText(textobject)
+                    p = Paragraph('{}{}'.format(chinese_number[i + 1], quiz_meanings_disorder[i]), style)
+                    p.wrap(110 * mm, 35 * mm)
+                    p.drawOn(canv, 100 * mm, (260 - i * 32) * mm)
 
-                    #p = Paragraph('{}{}'.format(chinese_number[i + 1], quiz_meanings_disorder[i]), normalStyle)
-                    style = ParagraphStyle(name='fancy')
-                    style.fontSize = 150
-                    p = Paragraph('AAAA', style)
-
-                    #pa = Paragraph('AAAA')
-                    p.drawOn(canv, 90 * mm, (260 - i * 45) * mm)
-
-
-                    print('{}meaning={}'.format(chinese_number[i+1], quiz_meanings_disorder[i]))
-
-                print('=============')
-                #canv.drawText(textobject)
+                    #print('{}meaning={}'.format(chinese_number[i+1], quiz_meanings_disorder[i]))
 
                 canv.showPage()
                 canv.setFont("SimSun", 14)
@@ -442,12 +452,13 @@ class word_set():
 
 if __name__ == '__main__':
     word_set = word_set()
+
     #word_set.get_words_from_tag('俞敏洪高中')
 
     #word_set.get_words_from_recent_remember_words()
-    word_set.make_quiz_from_recent_remember_words()
+    word_set.make_quiz_from_recent_remember_words('20210516')
 
-    #word_set.get_new_words_from_artical('words/article20210513.txt')
+    #word_set.get_new_words_from_artical('words/article20210514.txt')
     #word_set.get_new_words_from_list('words/words.txt')
     #word_set.get_review_words_from_fail_record()
     #word_set.get_new_words_from_top_freq()

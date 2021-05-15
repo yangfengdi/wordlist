@@ -32,6 +32,7 @@ if __name__ == '__main__':
     style = ParagraphStyle(name='fancy')
     style.fontSize = 150
     p = Paragraph('AAAA', style)
+    p.wrap(100*mm, 100*mm)
     # pa = Paragraph('AAAA')
     p.drawOn(c, 90 * mm, 260 * mm)
 
