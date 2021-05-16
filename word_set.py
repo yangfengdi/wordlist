@@ -144,6 +144,24 @@ class word_set():
         conn.close()
         return result
 
+    # 只有失败的测试记录，或者最近的测试记录是失败的单词
+    def words_last_quiz_pass(self):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        #最近的测试记录是成功的单词
+        sql = '''select a.word from
+                (select word, max(quiz_date) pass_date from quiz_event where quiz_result='PASS' group by word) a,
+                (select word, max(quiz_date) fail_date from quiz_event where quiz_result='FAIL' group by word) b
+                where a.word=b.word and fail_date<pass_date'''
+        cursor.execute(sql)
+        result = set()
+        for row in cursor:
+            result.add(row[0])
+
+        conn.close()
+        return result
+
     #一个简单的分词器
     def __split_words(self, str):
         #分词自动机：
@@ -197,7 +215,7 @@ class word_set():
                 result.add(word)
         return result
 
-    def __filter_words(self, rough_words, skip_min_remember_times = 1):
+    def __filter_words(self, rough_words):
         dictcn = dict_cn()
         words_list = set()
         words_meaning = {}
@@ -231,13 +249,10 @@ class word_set():
 
         words_top_freq = self.word_by_freq('BE', 0, 20000)|self.word_by_freq('AE', 0, 20000)
 
-        words_remembered = self.words_min_remember_times(skip_min_remember_times)
-
         words_list = words_list - words_except #去除某些简单单词，如小学、初中单词等
         words_list = words_list - words_variant  #去除变体的单词
         words_list = words_list - words_proper #去除专用单词，如：国名、地名、人名等
         words_list = words_list - words_first_letter_capital #去除首字母大写单词
-        words_list = words_list - words_remembered #去除曾经记忆过的单词
 
         result = {}
         for word in words_list: #不筛除低频词
@@ -251,13 +266,27 @@ class word_set():
                 f.write('{}|{}'.format(word, dict[word]) + '\n')
 
     def get_new_words_from_artical(self, file):
+        dictcn = dict_cn()
         rough_words_in_artical = self.words_in_artical(file)
-        words_dict = self.__filter_words(rough_words_in_artical)
+        words = set()
+        for word in rough_words_in_artical:
+            dict_word, meaning = dictcn.search(word)
+            words.add(dict_word)
+
+        words = words - self.words_min_remember_times(2) #如果一个词曾经被背过2次以上就跳过
+        words_dict = self.__filter_words(words)
         self.write_dict_to_file(words_dict, "words/newword.txt")
 
     def get_new_words_from_list(self, file):
-        rough_words_in_list = self.words_in_list(file)
-        words_dict = self.__filter_words(rough_words_in_list)
+        dictcn = dict_cn()
+        rough_words_in_artical = self.words_in_list(file)
+        words = set()
+        for word in rough_words_in_artical:
+            dict_word, meaning = dictcn.search(word)
+            words.add(dict_word)
+
+        words = words - self.words_min_remember_times(2) #如果一个词曾经被背过2次以上就跳过
+        words_dict = self.__filter_words(words)
         self.write_dict_to_file(words_dict, "words/newword.txt")
 
     def get_new_words_from_list_without_filter(self, file):
@@ -286,18 +315,21 @@ class word_set():
         self.write_dict_to_file(words, "words/newword.txt")
 
     def get_new_words_from_top_freq(self):
-        rough_top_freq_words = self.word_by_freq('AE', 0, 200000)
-        words_dict = self.__filter_words(rough_top_freq_words)
+        words = self.word_by_freq('AE', 0, 2000)
+        words = words - self.words_min_remember_times(2)  # 如果一个词曾经被背过2次以上就跳过
+        words_dict = self.__filter_words(words)
         self.write_dict_to_file(words_dict, "words/newword.txt")
 
     def get_words_from_tag(self, tag):
         words = self.words_with_tag(tag)
-        words_dict = self.__filter_words(words, 3)
+        words = words - self.words_min_remember_times(2)  # 如果一个词曾经被背过2次以上就跳过
+        words_dict = self.__filter_words(words)
         self.write_dict_to_file(words_dict, "words/newword.txt")
 
     def get_words_from_recent_remember_words(self):
-        words = self.words_max_last_remember_days(7)
-        words_dict = self.__filter_words(words, 2)
+        words = self.words_max_last_remember_days(7) #最近7天以内背过的单词
+        words = words - self.words_min_remember_times(2)  # 如果一个词曾经被背过2次以上就跳过
+        words_dict = self.__filter_words(words)
         self.write_dict_to_file(words_dict, "words/newword.txt")
 
     def __create_random_mapping_for_quiz(self, size):
@@ -328,42 +360,75 @@ class word_set():
 
         return result, reversed_result
 
-    # 选择一些低频词用于干扰，要求返回的单词与解释意义是不对应的
-    def __get_disturb_word(self):
-        pos = random.randint(54000, 74000)
-        disturb_word = self.word_by_freq('AE', pos, pos)
+    def make_quiz_from_fail_record(self, quiz_tag, page_max = 10):
+        words = self.words_last_quiz_fail()
+        words = words - word_set.words_max_last_remember_days(15) #最近15天内背过的单词不测试
+        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测试
+        self.__make_quiz(words, quiz_tag, page_max)
+
+    def make_quiz_from_tag(self, words_tag, quiz_tag, page_max = 10):
+        words = self.words_with_tag(words_tag)
+        words = words - word_set.words_max_last_remember_days(15) #最近15天内背过的单词不测试
+        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测试
+        self.__make_quiz(words, quiz_tag, page_max)
+
+    def make_quiz_from_remembered_some_days_words(self, quiz_tag, page_max=10):
+        words = word_set.words_min_remember_times(3) #至少背过3次的单词
+        words = words & word_set.words_min_last_remember_days(30) #最近一次记忆是在30天以前
+        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测试
+        self.__make_quiz(words, quiz_tag, page_max)
+
+    def __make_quiz(self, words, quiz_tag, page_max = 10):
+        words_list = set()
+        words_meaning = {}
 
         dictcn = dict_cn()
-        while True:
-            pos = random.randint(54000, 74000)
-            wordset = self.word_by_freq('AE', pos, pos)
-            word, disturb_meaning = dictcn.search(wordset.pop())
-            if len(disturb_meaning) >0 :
-                return disturb_word.pop(), disturb_meaning
+        for word in words:
+            dict_word, meaning = dictcn.search(word)
+            words_meaning[dict_word] = meaning
+            words_list.add(dict_word)
 
-    def make_quiz_from_recent_remember_words(self, quiz_tag):
-        words = self.words_max_last_remember_days(7)
-        #words = self.words_with_tag('小学')
-        words_dict = self.__filter_words(words, 5)
+        words_variant = self.words_with_tag('复数')
+        words_variant = words_variant|self.words_with_tag('第三人称单数')
+        words_variant = words_variant|self.words_with_tag('过去式')
+        words_variant = words_variant|self.words_with_tag('过去分词')
+        words_variant = words_variant|self.words_with_tag('现在分词')
+        words_variant = words_variant|self.words_with_tag('比较级')
+        words_variant = words_variant|self.words_with_tag('最高级')
+
+        words_proper = self.words_with_tag('姓氏')
+        words_proper = words_proper|self.words_with_tag('人名')
+        words_proper = words_proper|self.words_with_tag('国名')
+        words_proper = words_proper|self.words_with_tag('美国州名')
+        words_proper = words_proper|self.words_with_tag('城市')
+        words_proper = words_proper|self.words_with_tag('缩写')
+
+        words_first_letter_capital = self.words_with_tag('首字母大写')
+
+        words_list = words_list - words_variant  #去除变体的单词
+        words_list = words_list - words_proper #去除专用单词，如：国名、地名、人名等
+        words_list = words_list - words_first_letter_capital #去除首字母大写单词
+
+        words_dict = {}
+        for word in words_list:
+            words_dict[word] = words_meaning[word]
+
+        pdf_filename = "words/quiz-{}.pdf".format(quiz_tag)
+        txt_filename = "words/quiz-{}.txt".format(quiz_tag)
 
         chinese_number = ['0', '①', '②', '③', '④', '⑤', '⑥', '⑦', '⑧', '⑨', '⑩']
         roman_number = ['0', 'Ⅰ.', 'Ⅱ.', 'Ⅲ.', 'Ⅳ.', 'Ⅴ.', 'Ⅵ.', 'Ⅶ.', 'Ⅷ.', 'Ⅸ.', 'Ⅹ.']
-        canv = canvas.Canvas("quiz.pdf")
+        canv = canvas.Canvas(pdf_filename)
         pdfmetrics.registerFont(TTFont("SimSun", "SimSun.ttf"))
 
-        filename = "words/quiz-{}.txt".format(quiz_tag)
-
-        words_per_page = 9
+        words_per_page = 6
         quiz_words = {}
-        quiz_words_disorder = {}
         quiz_meanings = {}
-        quiz_meanings_disorder_temp = {}
         quiz_meanings_disorder = {}
         inside_page_index = 0
-        disturb_word_index = 0
         page_no = 0
         for word in words_dict.keys():
-            if inside_page_index == words_per_page - 1:
+            if inside_page_index == words_per_page:
                 inside_page_index = 0
                 page_no += 1
 
@@ -371,77 +436,63 @@ class word_set():
                 style.fontSize = 20
                 style.fontName = "SimSun"
                 style.alignment = 1
-                p = Paragraph("{}-单词连连看-{}".format(quiz_tag, page_no), style)
+                p = Paragraph("{}-单词练习-{}".format(quiz_tag, page_no), style)
                 p.wrap(210 * mm, 35 * mm)
                 p.drawOn(canv, 0, 292 * mm)
 
-                with open(filename, 'a') as f:
+                with open(txt_filename, 'a') as f:
                     f.write('##Page-{}'.format(page_no) + '\n')
 
-                style = ParagraphStyle(name='normal')
-                style.fontSize = 10
-                style.fontName = "SimSun"
-                style.alignment = 1
-                p = Paragraph("（其中包含一组错误的单词，请不要连接它们）", style)
-                p.wrap(210 * mm, 35 * mm)
-                p.drawOn(canv, 0, 283 * mm)
-
-                canv.setFont("SimSun", 14)
-
-                disturb_word, disturb_meaning = self.__get_disturb_word()
-                quiz_words[words_per_page - 1] = disturb_word
-                quiz_meanings[words_per_page - 1] = disturb_meaning
+                canv.setFont("SimSun", 18)
 
                 quiz_mapping, reversed_quiz_mapping = self.__create_random_mapping_for_quiz(words_per_page)
                 for i in range(0, words_per_page):
-                    quiz_words_disorder[i] = quiz_words[quiz_mapping[i]]
-                    quiz_meanings_disorder_temp[i] = quiz_meanings[quiz_mapping[i]]
-
-                    #记住干扰项是第几个单词
-                    if quiz_mapping[i] == words_per_page - 1:
-                        disturb_word_index = i
-
-                quiz_mapping, reversed_quiz_mapping = self.__create_random_mapping_for_quiz(words_per_page)
-                for i in range(0, words_per_page):
-                    quiz_meanings_disorder[i] = quiz_meanings_disorder_temp[quiz_mapping[i]]
+                    quiz_meanings_disorder[i] = quiz_meanings[quiz_mapping[i]]
 
                 for i in range(0, words_per_page):
                     style = ParagraphStyle(name='normal')
                     style.backColor = HexColor(0xEEEEEE)
-                    style.fontSize = 14
+                    style.fontSize = 18
                     style.fontName = "SimSun"
                     style.leading = 18
-                    p = Paragraph('{}{}'.format(roman_number[i + 1], quiz_words_disorder[i]), style)
-                    p.wrap(45 * mm, 35 * mm)
-                    p.drawOn(canv, 0.5 * mm, (260 - i * 32) * mm)
+                    p = Paragraph('{}{}'.format(roman_number[i + 1], quiz_words[i]), style)
+                    word_width, word_height = p.wrap(75 * mm, 40 * mm)
+                    p.drawOn(canv, 0.5 * mm, (270 - i * 45) * mm - word_height)
 
-                    with open(filename, 'a') as f:
-                        #f.write('##Page-{}'.format(page_no) + '\n')
-                        if disturb_word_index == i:
-                            f.write('{}|word={}|meaning=X\n'.format(roman_number[i + 1], quiz_words_disorder[i]))
-                            #print('{}word={}|meaning=X'.format(roman_number[i + 1], quiz_words_disorder[i]))
-                        else:
-                            f.write('{}|word={}|meaning={}|result(P/F)=\n'.format(roman_number[i + 1], quiz_words_disorder[i], chinese_number[reversed_quiz_mapping[i] + 1]))
-                            #print('{}word={}|meaning={}'.format(roman_number[i + 1], quiz_words_disorder[i], chinese_number[reversed_quiz_mapping[i] + 1]))
+                    style = ParagraphStyle(name='normal')
+                    style.backColor = HexColor(0xEEEEEE)
+                    style.fontSize = 10
+                    style.fontName = "SimSun"
+                    style.leading = 18
+                    p = Paragraph('Answer:<br/><br/><br/>_________________________________________', style)
+                    answer_width, answer_height = p.wrap(75 * mm, 40 * mm)
+                    p.drawOn(canv, 0.5 * mm, (270 - i * 45) * mm - word_height - answer_height - 10)
 
-                with open(filename, 'a') as f:
+                    with open(txt_filename, 'a') as f:
+                        f.write('{}|word={}|meaning={}|result(P/F)=\n'.format(roman_number[i + 1], quiz_words[i], chinese_number[reversed_quiz_mapping[i] + 1]))
+                        #print('{}word={}|meaning={}'.format(roman_number[i + 1], quiz_words_disorder[i], chinese_number[reversed_quiz_mapping[i] + 1]))
+
+                with open(txt_filename, 'a') as f:
                     f.write('\n')
 
                 for i in range(0, words_per_page):
                     style = ParagraphStyle(name='normal')
                     style.backColor = HexColor(0xEEEEEE)
-                    style.fontSize = 14
+                    style.fontSize = 18
                     style.fontName = "SimSun"
                     style.leading = 18
 
                     p = Paragraph('{}{}'.format(chinese_number[i + 1], quiz_meanings_disorder[i]), style)
-                    p.wrap(110 * mm, 35 * mm)
-                    p.drawOn(canv, 100 * mm, (260 - i * 32) * mm)
+                    meaning_width, meaning_height = p.wrap(110 * mm, 40 * mm)
+                    p.drawOn(canv, 100 * mm, (270 - i * 45) * mm - meaning_height)
 
                     #print('{}meaning={}'.format(chinese_number[i+1], quiz_meanings_disorder[i]))
 
                 canv.showPage()
-                canv.setFont("SimSun", 14)
+                canv.setFont("SimSun", 18)
+
+            if page_no >= page_max:
+                break
 
             quiz_words[inside_page_index] = word
             quiz_meanings[inside_page_index] = words_dict[word]
@@ -449,19 +500,29 @@ class word_set():
 
         canv.save()
 
-
 if __name__ == '__main__':
     word_set = word_set()
 
-    #word_set.get_words_from_tag('俞敏洪高中')
+    remembered_words = word_set.words_min_remember_times()
+    print('曾经记忆过的单词数：{}'.format(len(remembered_words)))
 
-    #word_set.get_words_from_recent_remember_words()
-    word_set.make_quiz_from_recent_remember_words('20210516')
+    passed_words = word_set.words_last_quiz_pass()
+    print('已经测验通过的单词数：{}'.format(len(passed_words)))
 
-    #word_set.get_new_words_from_artical('words/article20210514.txt')
+    #制作测试题
+    #word_set.make_quiz_from_fail_record('test', 20)
+    #word_set.make_quiz_from_remembered_some_days_words('test', 20)
+    #word_set.make_quiz_from_tag('俞敏洪初中', 'test', 20)
+
+    #创建新词列表
+    word_set.get_new_words_from_artical('words/article20210513.txt')
     #word_set.get_new_words_from_list('words/words.txt')
-    #word_set.get_review_words_from_fail_record()
     #word_set.get_new_words_from_top_freq()
+
+    #创建复习列表
+    #word_set.get_review_words_from_fail_record()
+    #word_set.get_words_from_recent_remember_words()
+    #word_set.get_words_from_tag('俞敏洪初中')
 
     #把多个不同的单词列表混合成一个大列表
     #word_set.get_new_words_from_list_without_filter('words/words.txt')
