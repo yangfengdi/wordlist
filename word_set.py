@@ -228,7 +228,7 @@ class word_set():
         words_except = self.words_with_tag('简单词')
         words_except = words_except|self.words_with_tag('小学')
         words_except = words_except|self.words_with_tag('俞敏洪初中')
-        #words_except = words_except|self.words_with_tag('俞敏洪高中')
+        words_except = words_except|self.words_with_tag('俞敏洪高中')
 
         words_variant = self.words_with_tag('复数')
         words_variant = words_variant|self.words_with_tag('第三人称单数')
@@ -273,7 +273,7 @@ class word_set():
             dict_word, meaning = dictcn.search(word)
             words.add(dict_word)
 
-        words = words - self.words_min_remember_times(2) #如果一个词曾经被背过2次以上就跳过
+        words = words - self.words_min_remember_times(1) #如果一个词曾经被背过2次以上就跳过
         words_dict = self.__filter_words(words)
         self.write_dict_to_file(words_dict, "words/newword.txt")
 
@@ -503,19 +503,31 @@ class word_set():
 if __name__ == '__main__':
     word_set = word_set()
 
+    #数据统计
     remembered_words = word_set.words_min_remember_times()
-    print('曾经记忆过的单词数：{}'.format(len(remembered_words)))
+    print('背过的单词总数={}'.format(len(remembered_words)))
 
     passed_words = word_set.words_last_quiz_pass()
-    print('已经测验通过的单词数：{}'.format(len(passed_words)))
+    print('测验通过的单词总数={}'.format(len(passed_words)))
+
+    chuzhong = word_set.words_with_tag('俞敏洪初中')
+    print('初中词汇:总量={}; 背过={}; 测验通过={}'.format(len(chuzhong), len(chuzhong&remembered_words), len(chuzhong&passed_words)))
+
+    gaozhong = word_set.words_with_tag('俞敏洪高中')
+    print('高中词汇:总量={}; 背过={}; 测验通过={}'.format(len(gaozhong), len(gaozhong&remembered_words), len(gaozhong&passed_words)))
+
+    siji = word_set.words_with_tag('俞敏洪四级')
+    print('四级词汇:总量={}; 背过={}; 测验通过={}'.format(len(siji), len(siji&remembered_words), len(siji&passed_words)))
+
+    #print('初中+高中+四级:总量={}'.format(len(siji | chuzhong | gaozhong)))
 
     #制作测试题
     #word_set.make_quiz_from_fail_record('test', 20)
-    #word_set.make_quiz_from_remembered_some_days_words('test', 20)
+    word_set.make_quiz_from_remembered_some_days_words('20210517', 15)
     #word_set.make_quiz_from_tag('俞敏洪初中', 'test', 20)
 
     #创建新词列表
-    word_set.get_new_words_from_artical('words/article20210513.txt')
+    #word_set.get_new_words_from_artical('words/article20210515.txt')
     #word_set.get_new_words_from_list('words/words.txt')
     #word_set.get_new_words_from_top_freq()
 
@@ -525,5 +537,5 @@ if __name__ == '__main__':
     #word_set.get_words_from_tag('俞敏洪初中')
 
     #把多个不同的单词列表混合成一个大列表
-    #word_set.get_new_words_from_list_without_filter('words/words.txt')
+    word_set.get_new_words_from_list_without_filter('words/words.txt')
 
