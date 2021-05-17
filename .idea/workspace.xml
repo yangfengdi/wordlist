@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/words/remember-20210517.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dbutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/dbutils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/word_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/newword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/newword.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember-20210516.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remember-20210516.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/words.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +32,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/words" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/words" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -371,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621164128407</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="添加待记忆的词。">
+      <created>1621183614300</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1621183614300</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="UnknownFeatures">

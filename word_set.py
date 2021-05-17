@@ -89,6 +89,21 @@ class word_set():
         conn.close()
         return result
 
+    # 在最近指定的时间范围内（天数）做过测试的单词
+    def words_recent_quiz(self, quiz_duration):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        sql = "select word, min(round(julianday('now')-julianday(quiz_date))) duration from quiz_event group by word having duration<=?"
+        cursor.execute(sql, (quiz_duration,))
+
+        result = set()
+        for row in cursor:
+            result.add(row[0])
+
+        conn.close()
+        return result
+
     # 最近记忆时间最多距今天（小于等于）指定天数的单词
     def words_max_last_remember_days(self, max_last_remember_days):
         conn = sqlite3.connect('dict.db')
@@ -156,6 +171,13 @@ class word_set():
                 where a.word=b.word and fail_date<pass_date'''
         cursor.execute(sql)
         result = set()
+        for row in cursor:
+            result.add(row[0])
+
+        #只有测试成功记录，没有测试失败记录的单词
+        sql = '''select distinct word from quiz_event a where quiz_result='PASS' 
+                and not exists (select 1 from quiz_event b where a.word=b.word and b.quiz_result='FAIL')'''
+        cursor.execute(sql)
         for row in cursor:
             result.add(row[0])
 
@@ -362,20 +384,23 @@ class word_set():
 
     def make_quiz_from_fail_record(self, quiz_tag, page_max = 10):
         words = self.words_last_quiz_fail()
-        words = words - word_set.words_max_last_remember_days(15) #最近15天内背过的单词不测试
-        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测试
+        words = words - word_set.words_max_last_remember_days(15) #最近15天内背过的单词不测验
+        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测验
+        words = words - word_set.words_recent_quiz(30) #最近30天内做过测验的单词不测验
         self.__make_quiz(words, quiz_tag, page_max)
 
     def make_quiz_from_tag(self, words_tag, quiz_tag, page_max = 10):
         words = self.words_with_tag(words_tag)
-        words = words - word_set.words_max_last_remember_days(15) #最近15天内背过的单词不测试
-        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测试
+        words = words - word_set.words_max_last_remember_days(15) #最近15天内背过的单词不测验
+        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测验
+        words = words - word_set.words_recent_quiz(30) #最近30天内做过测验的单词不测验
         self.__make_quiz(words, quiz_tag, page_max)
 
     def make_quiz_from_remembered_some_days_words(self, quiz_tag, page_max=10):
         words = word_set.words_min_remember_times(3) #至少背过3次的单词
         words = words & word_set.words_min_last_remember_days(30) #最近一次记忆是在30天以前
-        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测试
+        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测验
+        words = words - word_set.words_recent_quiz(30) #最近30天内做过测验的单词不测验
         self.__make_quiz(words, quiz_tag, page_max)
 
     def __make_quiz(self, words, quiz_tag, page_max = 10):
@@ -519,11 +544,14 @@ if __name__ == '__main__':
     siji = word_set.words_with_tag('俞敏洪四级')
     print('四级词汇:总量={}; 背过={}; 测验通过={}'.format(len(siji), len(siji&remembered_words), len(siji&passed_words)))
 
+    #recent_quiz_words= word_set.words_recent_quiz(30)
+    #print('30天内做过测验的单词数：{}'.format(len(recent_quiz_words)))
+
     #print('初中+高中+四级:总量={}'.format(len(siji | chuzhong | gaozhong)))
 
     #制作测试题
     #word_set.make_quiz_from_fail_record('test', 20)
-    word_set.make_quiz_from_remembered_some_days_words('20210517', 15)
+    #word_set.make_quiz_from_remembered_some_days_words('test', 15)
     #word_set.make_quiz_from_tag('俞敏洪初中', 'test', 20)
 
     #创建新词列表
@@ -537,5 +565,5 @@ if __name__ == '__main__':
     #word_set.get_words_from_tag('俞敏洪初中')
 
     #把多个不同的单词列表混合成一个大列表
-    word_set.get_new_words_from_list_without_filter('words/words.txt')
+    #word_set.get_new_words_from_list_without_filter('words/words.txt')
 
