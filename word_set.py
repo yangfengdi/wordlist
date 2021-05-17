@@ -159,7 +159,7 @@ class word_set():
         conn.close()
         return result
 
-    # 只有失败的测试记录，或者最近的测试记录是失败的单词
+    # 只有成功的测试记录，或者最近的测试记录是成功的单词
     def words_last_quiz_pass(self):
         conn = sqlite3.connect('dict.db')
         cursor = conn.cursor()
@@ -282,7 +282,7 @@ class word_set():
             result[word] = words_meaning[word]
         return result
 
-    def write_dict_to_file(self, dict, file):
+    def __write_dict_to_file(self, dict, file):
         for word in dict.keys(): #不筛除低频词
             with open(file, 'a') as f:
                 f.write('{}|{}'.format(word, dict[word]) + '\n')
@@ -295,9 +295,10 @@ class word_set():
             dict_word, meaning = dictcn.search(word)
             words.add(dict_word)
 
-        words = words - self.words_min_remember_times(1) #如果一个词曾经被背过2次以上就跳过
+        words = words - self.words_min_remember_times(1) #如果一个词曾经被背过一定次数以上就跳过
+        words = words - self.words_last_quiz_pass() #如果一个词最近一次测验是通过的就跳过
         words_dict = self.__filter_words(words)
-        self.write_dict_to_file(words_dict, "words/newword.txt")
+        self.__write_dict_to_file(words_dict, "words/newword.txt")
 
     def get_new_words_from_list(self, file):
         dictcn = dict_cn()
@@ -307,9 +308,10 @@ class word_set():
             dict_word, meaning = dictcn.search(word)
             words.add(dict_word)
 
-        words = words - self.words_min_remember_times(2) #如果一个词曾经被背过2次以上就跳过
+        words = words - self.words_min_remember_times(2) #如果一个词曾经被背过一定次数以上就跳过
+        words = words - self.words_last_quiz_pass()  # 如果一个词最近一次测验是通过的就跳过
         words_dict = self.__filter_words(words)
-        self.write_dict_to_file(words_dict, "words/newword.txt")
+        self.__write_dict_to_file(words_dict, "words/newword.txt")
 
     def get_new_words_from_list_without_filter(self, file):
         rough_words_in_list = self.words_in_list(file)
@@ -321,7 +323,7 @@ class word_set():
             if len(dict_word) == 0:
                 continue
             words[dict_word] = meaning
-        self.write_dict_to_file(words, "words/newword.txt")
+        self.__write_dict_to_file(words, "words/newword.txt")
 
     def get_review_words_from_fail_record(self):
         fail_words = self.words_last_quiz_fail()
@@ -334,25 +336,28 @@ class word_set():
             if len(dict_word) == 0:
                 continue
             words[dict_word] = meaning
-        self.write_dict_to_file(words, "words/newword.txt")
+        self.__write_dict_to_file(words, "words/newword.txt")
 
     def get_new_words_from_top_freq(self):
         words = self.word_by_freq('AE', 0, 2000)
-        words = words - self.words_min_remember_times(2)  # 如果一个词曾经被背过2次以上就跳过
+        words = words - self.words_min_remember_times(2)  # 如果一个词曾经被背过一定次数以上就跳过
+        words = words - self.words_last_quiz_pass()  # 如果一个词最近一次测验是通过的就跳过
         words_dict = self.__filter_words(words)
-        self.write_dict_to_file(words_dict, "words/newword.txt")
+        self.__write_dict_to_file(words_dict, "words/newword.txt")
 
     def get_words_from_tag(self, tag):
         words = self.words_with_tag(tag)
         words = words - self.words_min_remember_times(2)  # 如果一个词曾经被背过2次以上就跳过
+        words = words - self.words_last_quiz_pass()  # 如果一个词最近一次测验是通过的就跳过
         words_dict = self.__filter_words(words)
-        self.write_dict_to_file(words_dict, "words/newword.txt")
+        self.__write_dict_to_file(words_dict, "words/newword.txt")
 
     def get_words_from_recent_remember_words(self):
         words = self.words_max_last_remember_days(7) #最近7天以内背过的单词
         words = words - self.words_min_remember_times(2)  # 如果一个词曾经被背过2次以上就跳过
+        words = words - self.words_last_quiz_pass()  # 如果一个词最近一次测验是通过的就跳过
         words_dict = self.__filter_words(words)
-        self.write_dict_to_file(words_dict, "words/newword.txt")
+        self.__write_dict_to_file(words_dict, "words/newword.txt")
 
     def __create_random_mapping_for_quiz(self, size):
         result = {}
@@ -536,13 +541,36 @@ if __name__ == '__main__':
     print('测验通过的单词总数={}'.format(len(passed_words)))
 
     chuzhong = word_set.words_with_tag('俞敏洪初中')
-    print('初中词汇:总量={}; 背过={}; 测验通过={}'.format(len(chuzhong), len(chuzhong&remembered_words), len(chuzhong&passed_words)))
+    print('初中词汇:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(chuzhong), len(chuzhong & remembered_words),
+                                                        round(len(chuzhong & remembered_words) * 100 / len(chuzhong)),
+                                                        len(chuzhong & passed_words),
+                                                        round(len(chuzhong & passed_words) * 100 / len(chuzhong))))
 
     gaozhong = word_set.words_with_tag('俞敏洪高中')
-    print('高中词汇:总量={}; 背过={}; 测验通过={}'.format(len(gaozhong), len(gaozhong&remembered_words), len(gaozhong&passed_words)))
+    print('高中词汇:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(gaozhong), len(gaozhong & remembered_words),
+                                                        round(len(gaozhong & remembered_words) * 100 / len(gaozhong)),
+                                                        len(gaozhong & passed_words),
+                                                        round(len(gaozhong & passed_words) * 100 / len(gaozhong))))
 
     siji = word_set.words_with_tag('俞敏洪四级')
-    print('四级词汇:总量={}; 背过={}; 测验通过={}'.format(len(siji), len(siji&remembered_words), len(siji&passed_words)))
+    print('四级词汇:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(siji), len(siji & remembered_words),
+                                                        round(len(siji & remembered_words) * 100 / len(siji)),
+                                                        len(siji & passed_words),
+                                                        round(len(siji & passed_words) * 100 / len(siji))))
+
+    ae5000 = word_set.word_by_freq('AE', 0, 5000)
+    #print('{}'.format(len(ae5000)))
+    print('美语TOP5000:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(ae5000), len(ae5000 & remembered_words),
+                                                             round(len(ae5000 & remembered_words) * 100 / len(ae5000)),
+                                                             len(ae5000 & passed_words),
+                                                             round(len(ae5000 & passed_words) * 100 / len(ae5000))))
+
+    be5000 = word_set.word_by_freq('BE', 0, 5000)
+    #print('{}'.format(len(be5000)))
+    print('英语TOP5000:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(be5000), len(be5000 & remembered_words),
+                                                             round(len(be5000 & remembered_words) * 100 / len(be5000)),
+                                                             len(be5000 & passed_words),
+                                                             round(len(be5000 & passed_words) * 100 / len(be5000))))
 
     #recent_quiz_words= word_set.words_recent_quiz(30)
     #print('30天内做过测验的单词数：{}'.format(len(recent_quiz_words)))
@@ -550,7 +578,7 @@ if __name__ == '__main__':
     #print('初中+高中+四级:总量={}'.format(len(siji | chuzhong | gaozhong)))
 
     #制作测试题
-    #word_set.make_quiz_from_fail_record('test', 20)
+    #word_set.make_quiz_from_fail_record('20210519', 20)
     #word_set.make_quiz_from_remembered_some_days_words('test', 15)
     #word_set.make_quiz_from_tag('俞敏洪初中', 'test', 20)
 
