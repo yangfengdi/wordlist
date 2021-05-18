@@ -1,4 +1,6 @@
 import sqlite3
+import os
+import docx
 from dictcn import dict_cn
 import random
 
@@ -13,6 +15,60 @@ from reportlab.lib.colors import HexColor
 class word_set():
     def __init__(self):
         pass
+
+    def get_new_words_from_docxs(self, dir):
+        dirs = os.listdir( dir )
+        rough_words_in_docx = set()
+        for file in dirs:
+            if file.upper().endswith('.DOCX'):
+                docfile = docx.Document("{}/{}".format(dir, file))
+                for para in docfile.paragraphs:
+                    rough_words_in_para = self.__split_words(para.text)
+                    for rough_word in rough_words_in_para:
+                        if len(rough_word) <= 1:
+                            continue
+                        rough_words_in_docx.add(rough_word)
+
+        #print(rough_words_in_docx)
+        dictcn = dict_cn()
+        words = set()
+        for word in rough_words_in_docx:
+            dict_word, meaning = dictcn.search(word)
+            words.add(dict_word)
+
+        words = words - self.words_min_remember_times(1) #如果一个词曾经被背过一定次数以上就跳过
+        words = words - self.words_last_quiz_pass() #如果一个词最近一次测验是通过的就跳过
+        words_dict = self.__filter_words(words)
+        self.__write_dict_to_file(words_dict, "words/newword.txt")
+
+    def get_words_from_article(self, file):
+        rough_words_in_article = self.words_in_artical(file)
+        dictcn = dict_cn()
+        words = {}
+
+        for word in rough_words_in_article:
+            dict_word, meaning = dictcn.search(word)
+            words[dict_word] = meaning
+
+        self.__write_dict_to_file(words, "words/newword.txt")
+
+    def get_new_words_from_articles(self, dir):
+        dirs = os.listdir( dir )
+        rough_words_in_articals = set()
+        for file in dirs:
+            if file.upper().endswith('.TXT'):
+                rough_words_in_articals = rough_words_in_articals | self.words_in_artical("{}/{}".format(dir, file))
+
+        dictcn = dict_cn()
+        words = set()
+        for word in rough_words_in_articals:
+            dict_word, meaning = dictcn.search(word)
+            words.add(dict_word)
+
+        words = words - self.words_min_remember_times(1) #如果一个词曾经被背过一定次数以上就跳过
+        words = words - self.words_last_quiz_pass() #如果一个词最近一次测验是通过的就跳过
+        words_dict = self.__filter_words(words)
+        self.__write_dict_to_file(words_dict, "words/newword.txt")
 
     # 按词频位置选择单词
     def word_by_freq(self, freq_type, pos_start, pos_end):
@@ -287,19 +343,6 @@ class word_set():
             with open(file, 'a') as f:
                 f.write('{}|{}'.format(word, dict[word]) + '\n')
 
-    def get_new_words_from_artical(self, file):
-        dictcn = dict_cn()
-        rough_words_in_artical = self.words_in_artical(file)
-        words = set()
-        for word in rough_words_in_artical:
-            dict_word, meaning = dictcn.search(word)
-            words.add(dict_word)
-
-        words = words - self.words_min_remember_times(1) #如果一个词曾经被背过一定次数以上就跳过
-        words = words - self.words_last_quiz_pass() #如果一个词最近一次测验是通过的就跳过
-        words_dict = self.__filter_words(words)
-        self.__write_dict_to_file(words_dict, "words/newword.txt")
-
     def get_new_words_from_list(self, file):
         dictcn = dict_cn()
         rough_words_in_artical = self.words_in_list(file)
@@ -389,23 +432,23 @@ class word_set():
 
     def make_quiz_from_fail_record(self, quiz_tag, page_max = 10):
         words = self.words_last_quiz_fail()
-        words = words - word_set.words_max_last_remember_days(15) #最近15天内背过的单词不测验
-        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测验
-        words = words - word_set.words_recent_quiz(30) #最近30天内做过测验的单词不测验
+        words = words - self.words_max_last_remember_days(15) #最近15天内背过的单词不测验
+        words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
+        words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
         self.__make_quiz(words, quiz_tag, page_max)
 
     def make_quiz_from_tag(self, words_tag, quiz_tag, page_max = 10):
         words = self.words_with_tag(words_tag)
-        words = words - word_set.words_max_last_remember_days(15) #最近15天内背过的单词不测验
-        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测验
-        words = words - word_set.words_recent_quiz(30) #最近30天内做过测验的单词不测验
+        words = words - self.words_max_last_remember_days(15) #最近15天内背过的单词不测验
+        words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
+        words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
         self.__make_quiz(words, quiz_tag, page_max)
 
     def make_quiz_from_remembered_some_days_words(self, quiz_tag, page_max=10):
-        words = word_set.words_min_remember_times(3) #至少背过3次的单词
-        words = words & word_set.words_min_last_remember_days(30) #最近一次记忆是在30天以前
-        words = words - word_set.words_last_quiz_pass() #最近一次测验是通过的单词不测验
-        words = words - word_set.words_recent_quiz(30) #最近30天内做过测验的单词不测验
+        words = self.words_min_remember_times(3) #至少背过3次的单词
+        words = words & self.words_min_last_remember_days(30) #最近一次记忆是在30天以前
+        words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
+        words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
         self.__make_quiz(words, quiz_tag, page_max)
 
     def __make_quiz(self, words, quiz_tag, page_max = 10):
@@ -529,69 +572,4 @@ class word_set():
             inside_page_index += 1
 
         canv.save()
-
-if __name__ == '__main__':
-    word_set = word_set()
-
-    #数据统计
-    remembered_words = word_set.words_min_remember_times()
-    print('背过的单词总数={}'.format(len(remembered_words)))
-
-    passed_words = word_set.words_last_quiz_pass()
-    print('测验通过的单词总数={}'.format(len(passed_words)))
-
-    chuzhong = word_set.words_with_tag('俞敏洪初中')
-    print('初中词汇:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(chuzhong), len(chuzhong & remembered_words),
-                                                        round(len(chuzhong & remembered_words) * 100 / len(chuzhong)),
-                                                        len(chuzhong & passed_words),
-                                                        round(len(chuzhong & passed_words) * 100 / len(chuzhong))))
-
-    gaozhong = word_set.words_with_tag('俞敏洪高中')
-    print('高中词汇:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(gaozhong), len(gaozhong & remembered_words),
-                                                        round(len(gaozhong & remembered_words) * 100 / len(gaozhong)),
-                                                        len(gaozhong & passed_words),
-                                                        round(len(gaozhong & passed_words) * 100 / len(gaozhong))))
-
-    siji = word_set.words_with_tag('俞敏洪四级')
-    print('四级词汇:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(siji), len(siji & remembered_words),
-                                                        round(len(siji & remembered_words) * 100 / len(siji)),
-                                                        len(siji & passed_words),
-                                                        round(len(siji & passed_words) * 100 / len(siji))))
-
-    ae5000 = word_set.word_by_freq('AE', 0, 5000)
-    #print('{}'.format(len(ae5000)))
-    print('美语TOP5000:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(ae5000), len(ae5000 & remembered_words),
-                                                             round(len(ae5000 & remembered_words) * 100 / len(ae5000)),
-                                                             len(ae5000 & passed_words),
-                                                             round(len(ae5000 & passed_words) * 100 / len(ae5000))))
-
-    be5000 = word_set.word_by_freq('BE', 0, 5000)
-    #print('{}'.format(len(be5000)))
-    print('英语TOP5000:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(be5000), len(be5000 & remembered_words),
-                                                             round(len(be5000 & remembered_words) * 100 / len(be5000)),
-                                                             len(be5000 & passed_words),
-                                                             round(len(be5000 & passed_words) * 100 / len(be5000))))
-
-    #recent_quiz_words= word_set.words_recent_quiz(30)
-    #print('30天内做过测验的单词数：{}'.format(len(recent_quiz_words)))
-
-    #print('初中+高中+四级:总量={}'.format(len(siji | chuzhong | gaozhong)))
-
-    #制作测试题
-    #word_set.make_quiz_from_fail_record('20210519', 20)
-    #word_set.make_quiz_from_remembered_some_days_words('test', 15)
-    #word_set.make_quiz_from_tag('俞敏洪初中', 'test', 20)
-
-    #创建新词列表
-    #word_set.get_new_words_from_artical('words/article20210515.txt')
-    #word_set.get_new_words_from_list('words/words.txt')
-    #word_set.get_new_words_from_top_freq()
-
-    #创建复习列表
-    #word_set.get_review_words_from_fail_record()
-    #word_set.get_words_from_recent_remember_words()
-    #word_set.get_words_from_tag('俞敏洪初中')
-
-    #把多个不同的单词列表混合成一个大列表
-    #word_set.get_new_words_from_list_without_filter('words/words.txt')
 

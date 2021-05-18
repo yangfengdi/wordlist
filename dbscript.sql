@@ -5,6 +5,7 @@ create table IF NOT EXISTS dict (
   source text,
   create_time timestamp DEFAULT CURRENT_TIMESTAMP
 );
+CREATE INDEX idx_dict_word on dict (word);
 
 --drop table word_mapping;
 create table IF NOT EXISTS word_mapping (
@@ -12,6 +13,7 @@ create table IF NOT EXISTS word_mapping (
   target_word text,
   source text
 );
+CREATE INDEX idx_word_mapping_word on word_mapping (word);
 
 --drop table word_tag;
 create table IF NOT EXISTS word_tag (
