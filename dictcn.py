@@ -131,7 +131,8 @@ class dict_cn():
                 conn.close()
                 return '', ''
 
-            sql = "SELECT word, meaning FROM dict where word=? and source='DICTCN'"
+            #sql = "SELECT word, meaning FROM dict where word=? and source='DICTCN'"
+            sql = "SELECT word, meaning FROM dict where word=? COLLATE NOCASE and source='DICTCN'"
             cursor.execute(sql, (word,))
             row = cursor.fetchone()
             if row != None:
@@ -139,9 +140,14 @@ class dict_cn():
                 query_word = row[0]
                 query_meaning = row[1]
                 conn.close()
+
+                if word != query_word:
+                    #print('add word mapping {} = {}'.format(word, query_word))
+                    self.save_word_mapping(word, query_word, 'DICTCN')
+
                 return query_word, query_meaning
 
-            #print('searching word={}'.format(word))
+            print('searching word={}'.format(word))
             url = 'https://dict.cn/search?q={}'.format(word)
             headers = {'Host': 'dict.cn',
                    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0',
@@ -165,6 +171,9 @@ class dict_cn():
             meanend = response.text.find('<script', meanstart)
 
             findmean=response.text[meanstart + len('<div class="basic clearfix">'):meanend]
+
+            if findmean.find('404页面') != -1:
+                findmean = ''
 
             if len(findword) == 0:
                 findmean = ''

@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/words/article/raz.txtX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/article/science fushion G2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/article/science fushion G3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/article/science fushion G4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan-remember-20210521.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan-remember-20210523.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember/remember-20210520.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember/remember-20210521.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember/remember-20210525.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember/remember-20210527.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictcn.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictcn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/word_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/article20210515.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/article20210515.txtXX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/article20210516.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/article20210516.txtXX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/article20210517.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/article20210517.txtXX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/newword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/newword.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/remember-20210519.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remember/remember-20210519.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/words.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,15 +51,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/words" />
       <recent name="$PROJECT_DIR$/words/quiz" />
       <recent name="$PROJECT_DIR$/words/article" />
       <recent name="$PROJECT_DIR$/words/remember" />
+      <recent name="$PROJECT_DIR$/words" />
       <recent name="$PROJECT_DIR$/words/archive" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -377,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621357014845</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="添加待记忆的词。">
+      <created>1621359261353</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1621359261353</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="UnknownFeatures">

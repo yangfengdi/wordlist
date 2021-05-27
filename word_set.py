@@ -445,7 +445,7 @@ class word_set():
         self.__make_quiz(words, quiz_tag, page_max)
 
     def make_quiz_from_remembered_some_days_words(self, quiz_tag, page_max=10):
-        words = self.words_min_remember_times(3) #至少背过3次的单词
+        words = self.words_min_remember_times(2) #至少背过3次的单词
         words = words & self.words_min_last_remember_days(30) #最近一次记忆是在30天以前
         words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
         words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
@@ -486,12 +486,8 @@ class word_set():
         for word in words_list:
             words_dict[word] = words_meaning[word]
 
-        pdf_filename = "words/quiz-{}.pdf".format(quiz_tag)
-        txt_filename = "words/quiz-{}.txt".format(quiz_tag)
-
         chinese_number = ['0', '①', '②', '③', '④', '⑤', '⑥', '⑦', '⑧', '⑨', '⑩']
         roman_number = ['0', 'Ⅰ.', 'Ⅱ.', 'Ⅲ.', 'Ⅳ.', 'Ⅴ.', 'Ⅵ.', 'Ⅶ.', 'Ⅷ.', 'Ⅸ.', 'Ⅹ.']
-        canv = canvas.Canvas(pdf_filename)
         pdfmetrics.registerFont(TTFont("SimSun", "SimSun.ttf"))
 
         words_per_page = 6
@@ -500,7 +496,18 @@ class word_set():
         quiz_meanings_disorder = {}
         inside_page_index = 0
         page_no = 0
+
+        pdf_filename = ""
+        txt_filename = ""
+        canv = None
         for word in words_dict.keys():
+            if page_no % page_max == 0:
+                if round(page_no / page_max) > 0:
+                    canv.save()
+                pdf_filename = "words/quiz-{}-{}.pdf".format(quiz_tag, round(page_no / page_max) + 1)
+                txt_filename = "words/quiz-{}-{}.txt".format(quiz_tag, round(page_no / page_max) + 1)
+                canv = canvas.Canvas(pdf_filename)
+
             if inside_page_index == words_per_page:
                 inside_page_index = 0
                 page_no += 1
@@ -509,12 +516,17 @@ class word_set():
                 style.fontSize = 20
                 style.fontName = "SimSun"
                 style.alignment = 1
-                p = Paragraph("{}-单词练习-{}".format(quiz_tag, page_no), style)
+
+                display_page_no = page_no % page_max
+                if display_page_no == 0:
+                    display_page_no = page_max
+
+                p = Paragraph("单词练习-{}".format(display_page_no), style)
                 p.wrap(210 * mm, 35 * mm)
                 p.drawOn(canv, 0, 292 * mm)
 
                 with open(txt_filename, 'a') as f:
-                    f.write('##Page-{}'.format(page_no) + '\n')
+                    f.write('##Page-{}'.format(display_page_no) + '\n')
 
                 canv.setFont("SimSun", 18)
 
@@ -563,9 +575,6 @@ class word_set():
 
                 canv.showPage()
                 canv.setFont("SimSun", 18)
-
-            if page_no >= page_max:
-                break
 
             quiz_words[inside_page_index] = word
             quiz_meanings[inside_page_index] = words_dict[word]
