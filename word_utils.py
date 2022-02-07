@@ -95,10 +95,10 @@ if __name__ == '__main__':
     utils = db_utils()
 
     #导入单词记忆事件
-    utils.import_remember_events('words/remember')
+    #utils.import_remember_events('words/remember')
 
     #导入单词测验结果
-    utils.import_quiz_result('words/quiz')
+    #utils.import_quiz_result('words/quiz')
 
     #制作测试题
     #word_set.make_quiz_from_fail_record('20210520', 30)
@@ -106,7 +106,7 @@ if __name__ == '__main__':
     #word_set.make_quiz_from_tag('俞敏洪初中', 'test', 20)
 
     #创建新词quizlet列表
-    #word_set.get_new_words_from_articles('words/article')
+    word_set.get_new_words_from_articles('words/article')
     #word_set.get_new_words_from_docxs('words/docx')
     #word_set.get_new_words_from_list('words/words.txt')
     #word_set.get_new_words_from_top_freq()
@@ -121,3 +121,4 @@ if __name__ == '__main__':
 
     #从文章中把单词抽取出来（不过滤）
     #word_set.get_words_from_article('words/tf.txt')
+

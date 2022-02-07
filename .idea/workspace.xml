@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/words/article/raz.txtX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/article/science fushion G2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/article/science fushion G3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/article/science fushion G4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan-remember-20210521.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan-remember-20210523.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember/remember-20210520.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember/remember-20210521.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember/remember-20210525.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember/remember-20210527.txt" afterDir="false" />
+    <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="添加待记忆的词。">
+      <change afterPath="$PROJECT_DIR$/words/article/myon-favorites-articals-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/article/myon-msd-project-articals-1-16.txtXX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/myon-favorites-words-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/myon-msd-project-words-1-16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan-remember-quizlet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember/remember-20210603.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember/remember-20210604.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/remember/remember-20220207.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ciba.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictcn.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictcn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdftest.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/word_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/word_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/article/article20210515.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/article20210515.txtXX" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/article/article20210516.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/article20210516.txtXX" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/article/article20210517.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/article20210517.txtXX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/article20210506.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/article20210506.txtXX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/article20210513.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/article20210513.txtXX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/article20210514.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/article20210514.txtXX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/raz.txtX" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/raz.txtX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/science fushion G2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/science fushion G2.txtX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/science fushion G3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/science fushion G3.txtX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/science fushion G4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/science fushion G4.txtX" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/words/newword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/newword.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember-20210519.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remember/remember-20210519.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan-remember-20210521.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/words/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/words.txt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +43,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -55,24 +59,12 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/words/remember" />
       <recent name="$PROJECT_DIR$/words/quiz" />
       <recent name="$PROJECT_DIR$/words/article" />
-      <recent name="$PROJECT_DIR$/words/remember" />
       <recent name="$PROJECT_DIR$/words" />
       <recent name="$PROJECT_DIR$/words/archive" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.word_utils">
     <configuration name="dbutils" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -190,6 +182,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -404,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621359261353</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="添加待记忆的词。">
+      <created>1622125206522</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1622125206522</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -415,13 +415,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始提交。" />

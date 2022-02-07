@@ -257,7 +257,7 @@ class word_set():
                 else:
                     pass
             else:
-                if str[idx] in ('-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'):
+                if str[idx] in ('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'):
                     #curr_state = 1
                     curr_word = curr_word + str[idx]
                 else:
