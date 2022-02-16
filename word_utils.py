@@ -102,11 +102,11 @@ if __name__ == '__main__':
 
     #制作测试题
     #word_set.make_quiz_from_fail_record('20210520', 30)
-    #word_set.make_quiz_from_remembered_some_days_words('20210521', 30)
-    #word_set.make_quiz_from_tag('俞敏洪初中', 'test', 20)
+    #word_set.make_quiz_from_remembered_some_days_words('20220209', 30)
+    #word_set.make_quiz_from_tag('俞敏洪初中', '2022', 8)
 
     #创建新词quizlet列表
-    word_set.get_new_words_from_articles('words/article')
+    #word_set.get_new_words_from_articles('words/article')
     #word_set.get_new_words_from_docxs('words/docx')
     #word_set.get_new_words_from_list('words/words.txt')
     #word_set.get_new_words_from_top_freq()

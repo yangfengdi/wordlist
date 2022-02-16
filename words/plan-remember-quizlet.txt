@@ -1,140 +1,160 @@
-dabble|v.喷洒；玩水；泼溅；涉猎；浅尝
-gruesome|adj.可怕的；令人毛骨悚然的；阴森的
-secretly|adv.秘密地；背地里
-divine|adj.神圣的；神的; vt.推断; vi.预言；理解; n.牧师；神学家
-stadium|n.体育场；运动场；[生]期
-yew|n.紫杉；紫杉木
-gigantic|adj.巨大的
-giggle|v.咯咯地笑; n.咯咯笑；趣事
-slapping|adj.出奇地快；巨大的；极好的; adv.极快地；非常地
-hike|n.徒步旅行；远足；涨价; vi.远足；提高
-freshly|adv.新近；刚才
-practiced|adj.熟练的；老练的；练成的
-cannonball|n.炮弹；抱膝跳水；高速列车；炮弹式发球; v.以极快速度移动；抱膝跳水
-gnaw|v.咬；折磨；侵蚀
-poh|int.轻视之声; vt.使疲倦
-plaything|n.玩具；玩物；被玩弄的人
-ravenous|adj.贪婪的；极饿的
-shiner|n.发光物；发光体；银色小鱼；黑眼眶
-unspoiled|adj.未损坏的；未宠坏的
-ankle|n.踝；踝关节
-intercept|n.截取；妨碍；截距; vt.拦截；阻止
-baboon|n.狒狒
-lousy|adj.多虱的；可鄙的；差劲的; adj.【口】大量的（通常指不好的事物）
-shiver|v.颤动；发抖; v.打碎; n.冷颤；哆嗦; n.碎块
-jigsaw|n.拼图游戏；缕花锯；竖锯; vt.用竖锯锯；使互相交错搭接
-sleeve|n.套管；袖子
-gasp|v.喘气；喘息；渴望; n.喘气
-sickle|n.镰刀
-distraction|n.分心；分心的事物；注意力分散；娱乐；消遣；发狂
-architect|n.建筑师; n.【喻】缔造者；创造者
-unaware|adj.没有发觉的；不知道的
-nephew|n.外甥；侄子
-sternly|adv.严格地；严肃地；坚定地
-revolve|v.旋转；考虑；围绕
-heave|v.用力举起；抛出；扔；恶心；（费力地）发出（叹息等）; n.举；抛；起伏
-harrumph|n.哼声；鼻息; v.发哼声
-scurry|v.小步疾走；急赶; n.快跑声；疾走
-teamwork|n.合作；协同工作
-bleat|n.羊的鸣声；哀鸣; v.发出羊叫声；哀鸣；哭诉
-gleam|v.闪烁；隐约地闪现; n.微光；闪光；闪现
-harmony|n.和谐；协调；调和；和声
-droop|v.低垂；下垂；(草木)枯萎；(精神)萎靡; n.下垂；消沉
-awaken|v.醒；意识到；唤醒；激起；使意识到；使唤醒
-needlepoint|n.针尖；针绣花边
-imperceptibly|adv.极微小地；逐步地
-helpless|adj.无助的；无依靠的
-wag|v.(狗)摇摆(尾巴)；(狗尾巴)摇摆；摇(头或手表示不赞成)；逃学；饶舌；离别; n.摇摆；诙谐幽默的人；逃学
-desperate|adj.绝望的；不顾一切的；极其想要的
-myth|n.神话；虚构的故事
-binding|n.镶边；（书籍的）封皮；（滑雪板的）皮靴固定装置; adj.必须遵守的；有法律约束力的
-mug|n.脸；杯；一杯的量；恶棍; v.打劫；突击学习
-announcer|n.广播员；告知者
-tetanus|n.破伤风
-gravel|n.碎石; v.铺碎石；使困惑
-mist|n.雾；迷蒙；朦胧不清; vt.使…模糊；蒙上雾; vi.使模糊；下雾
-rubber|n.橡胶；橡皮；橡胶制品; adj.橡胶的
-lowness|n.低；下贱；粗鄙
-redouble|v.加倍；再折叠；重复
-racket|n.球拍; n.喧闹；敲诈；行业；职业; v.喧闹；花天酒地
-builder|n.建设者；建筑工人；促进剂；增洁剂
-darkness|n.黑暗
-throne|n.王位；君主
-misfortune|n.不幸；灾祸
-adrift|adv.漂流地；漫无目的地; adj.漂泊的；漫无目的的；松开的
-trapdoor|n.地板门；活板门；活盖
-jogging|n.慢跑
-statue|n.雕像；塑像
-scoreboard|n.记分板
-premium|n.额外费用；奖金；保险费; n.(商)溢价; adj.高价的；优质的
-potion|n.一服，一剂；（药物、毒物或有魔力的）饮料
-xi|n.希腊语中的第十四个字母
-dungeon|n.地牢；土牢；城堡主塔
-bundle|n.捆；束；包；大笔钱; v.捆；把...扎成一捆；匆忙地走
-momentous|adj.重要的；重大的
-behold|vt.看到；注视；领悟; vi.看；看啊(多用于祈使句；引起人的注意)
-badger|n.獾；獾皮(毛); Badger:獾州人(对威斯康星州人的昵称).; v.纠缠；一再烦扰；吵着要
-barque|n.三桅船；轻舟
-punishment|n.惩罚
-charm|n.魅力；吸引力；迷人；美貌; v.（使）着迷；施魔法
-curdle|v.凝结；变稠; v.(使)结成凝乳；变成凝乳状
-demi|pref.半
-huddle|n.杂乱一团；混乱；拥挤; v.推挤；乱堆；草率了事
-muse|v.沉思；冥想; n.沉思；[大写]（希腊神话）缪斯；艺术家的灵感；诗人
-widen|vt.加宽；使变宽；扩大; vi.变宽
-triumphantly|adv.胜利地；得意洋洋地
-realm|n.领域；王国
-stratosphere|n.平流层；高层次；最高阶段
-rightfully|adv.正直地；正当地
-outsmart|v.比...更聪明；智胜
-medaled|adj.接受奖章的；佩带徽章的
-spikes|pl.钉鞋
-unbeatable|adj.难以战胜的；竞争不过的；无敌的；无与伦比的
-shrine|n.圣地；神龛；庙; v.将...置于神龛内；把...奉为神圣
-woodsy|adj.森林的；像森林的
-upwind|adv.逆风的; adj.逆风的
-smelly|adj.难闻的；臭的
-amazement|n.惊愕；惊异
-retired|adj.退休的；退役的
-henceforth|adv.今后，此后
-grin|v.露齿而笑；(以咧嘴笑来)表示; n.露齿笑；咧嘴笑
-whopper|n.特大之物；弥天大谎
-churn|n.搅乳器; v.搅拌；搅动；翻腾；〈口〉粗制滥造
-underworld|n.黑社会；下层社会；阴间；地球
-demon|n.魔鬼；恶魔；精力充沛的人；高手
-blade|n.刀刃；刀锋；桨叶；叶片
-cower|v.畏缩；退缩；抖缩
-elegant|adj.优雅的；雅致的
-scattered|adj.分散的；稀疏的
-roars|n.怒吼
-hood|n.头巾；兜帽；遮罩；引擎盖; vt.覆盖
-plead|v.辩护；恳求；提出借口；认罪
-burial|n.埋葬；葬礼；坟墓
-ugliness|n.丑陋
-avenge|vt.为...报复；报仇
-necked|v.颈缩(冲槽); adj.压缩的
-doggy|n.小犬；小狗（=doggie）; adj.爱狗的；像狗一样的；摆阔的；低级的
-fisherman|n.渔夫；渔船
-goatskin|n.山羊皮
-lag|v.落后；减退；缓慢进行; n.落后；时间间隔
-strainers|过滤器
-conserve|n.蜜饯；果酱; v.保存；保持；节省；用糖保存
-whinny|n.马嘶声；嘶声; v.嘶；以嘶声表示
-thinker|n.思想者；思考者
-odor|n.气味；名声；气息
-brewski|n.啤酒；一瓶啤酒
-visibility|n.能见度；可见性
-rotten|adj.腐烂的；腐朽的；极坏的；讨厌的; adv.非常
-wrestle|v.摔跤；斗争；努力解决；斟酌; n.摔跤比赛；格斗
-dominion|n.统治；主权；领土; Domimion：.; n.英联邦的自治领土
-demotic|adj.平民的；民众的；通俗的
-thou|pron.[古]你；尔；汝
-harpy|n.残酷贪婪的人；恶妇人; Harpy.; n.[希神]哈耳皮埃(鸟身女妖)
-scoot|v.急走; n.急走；迅速跑开
-luck|n.运气；幸运；侥幸; v.侥幸成功；走运
-ceiling|n.天花板；上限
-togetherness|n.相聚；在一起；和睦
-disgusting|adj.令人厌恶的
-homecoming|n.归国；回家；返校节
-frontal|adj.前的；正面的；额的; n.额饰；祭坛前面的罩巾；建筑物的正面；三角门楣
-disk|n.圆盘；唱片；花盘；磁盘；盘形物
+eyeing|vbl.注视
+jangle|v.发出刺耳声；刺激(神经)；争吵; n.刺耳的声音
+shipwreck|n.遇难船；海难；船只失事; v.使遭遇海难
+lop|v.剪去(树枝)；砍掉；削减；耷拉下来
+disgust|n.厌恶；憎恶；反感; vt.使厌恶；使作呕
+unbelievable|adj.难以置信的
+headline|n.大字标题；新闻提要；头条新闻; v.加标题于；宣扬；作主角
+fury|n.愤怒；狂暴；狂怒的人；泼妇; Fury.; n.[罗神]复仇女神
+bushy|adj.浓密的；灌木一样的；灌木茂密的；多毛的
+triumphant|adj.胜利的；得意洋洋的
+lug|n.柄；突出部；螺帽; n.(英）耳朵; 笨蛋; vt.拖；拉；用力拖动
+greedily|adv.贪食地；贪婪地
+surgeon|n.外科医生
+jaw|n.颚；颌；下巴；钳口；说教; v.喋喋不休；教训
+drool|v.流口水；垂涎；胡说; n.口水；胡话
+shudder|vi.战栗；发抖; n.战栗；震颤
+script|n.剧本；脚本；手稿；手迹；字体；考卷
+kal|粗铁
+yikes|int.呀（表示惊讶）
+limply|adv.柔软的；四肢无力的；松弛的
+yo|int.唷(水手拉绳时一道发出的叫声)
+bowstring|n.弓弦；绞索; v.绞杀
+proclaim|vt.正式宣布；声明；表明；赞扬
+luckily|adv.幸运地；幸亏地
+ritual|n.仪式；典礼；宗教仪式；固定程序; adj.仪式的；老规矩的；惯常的
+practicing|adj.开业的；在工作的
+instantly|adv.立即地；即刻地
+crevice|n.(岩石、墙等)裂缝
+moat|n.壕沟；护城河; v.将…围以壕沟
+bronze|n.青铜；青铜色；青铜制品；铜牌; adj.青铜制的；青铜色的; vt.使成青铜色
+pur|v.咕噜咕噜叫；Pursue追逐；追赶
+mountaintop|n.山顶
+snooze|v.打盹儿；懒散着打发掉日子; n.打盹儿
+bordering|n.边缘(设立疆界；边界标志物)
+howdy|int.您好(招呼用语)
+nectary|n.蜜槽；蜜腺；蜜管
+sameness|n.千篇一律；相同；单调
+mim|adj.假正经的；假装羞怯(或谦虚)的；假文静的
+glug|v.(咕嘟咕嘟地)喝；发出咕嘟声
+overpower|v.压倒；制服；打败；使深深感动；给...提供过大的发动机
+blacksmithing|n.锻造，手工锻造
+salsa|n.沙司(墨西哥食物中辣调味汁); n.萨尔萨舞曲
+wit|n.智力；才智；机智；风趣; v.知道；即
+tremble|n.战悚；颤抖; v.发抖；忧虑；震颤
+witch|n.女巫；巫婆; vt.施巫术; vi.用神杖发现地下水源或矿物
+click|n.咔嗒声；[计]点击; v.（使）发出咔嗒声；点击
+neatly|adv.整洁地；熟练地
+wildly|adv.狂热地；激动地；剧烈地；轻率地；鲁莽地
+arc|n.弧；弧形物; vi.形成电弧；按弧形轨迹行进
+ambrosia|n.神的食物；特别美味的食物
+savory|adj.美味可口的；香辣的；令人愉快的；体面的; n.香薄荷; =savoury(英).
+torrent|n.激流；山洪；(谩骂、质问等的)连发，爆发
+peppy|adj.精神充沛的；活泼的
+cigar|n.雪茄烟
+footed|adj.有脚的；...脚的
+gross|adj.总的；粗鲁的；公然的；荒唐的；令人讨厌的; n.总量；总额; vt.总共赚得; adv.总共地
+horizon|n.地平线；眼界；范围
+lovingly|adv.钟情地；深情地
+stir|vt.激起；惹起；搅和; vi.活动；引起；挪动; n.骚乱；感动(激动；愤怒或震动)；搅拌
+scrawny|adj.瘦的；骨瘦如柴的
+faint|adj.微弱的；无力的；模糊的; v.昏倒; n.昏厥；昏倒
+lease|n.租约；租契；租期; vt.出租；租得
+scoop|n.铲子；勺；舀取；穴；独家新闻; vt.挖空；舀取；抢先报道（获得）
+bestow|v.授予；给予；使用；放置
+rightly|adv.正当地；公义地；正确地
+foul|adj.恶臭的；邪恶的；污秽的；恶劣的；犯规的; n.犯规; v.弄脏；妨碍；犯规
+bang|n.巨响；重击；刘海; v.重击；大声敲；剪成刘海；突然巨响; adv.正好地；准确地
+arrow|n.箭；箭头
+aphrodite|n.北美豹蝶; Aphrodite.; n.阿佛洛狄忒（爱与美之女神）
+sorceress|n.女魔法师；女巫
+peep|n.瞥见；偷看；初现; n.吱吱叫; v.窥视；慢慢露出; v.吱吱叫
+stygian|adj.地狱的；阴暗的；幽暗的；冥河的
+compartment|n.间隔；个别室；卧车包房; vt.划分
+hideous|adj.丑陋的；可怕的；可憎的；令人惊骇的
+bog|n.沼泽; v.使...陷于泥沼；陷于困境
+badminton|n.羽毛球
+hiccup|n.打嗝；暂时性的小问题; vi.打嗝; =hiccough.
+sludge|n.泥泞；淤泥；泥状雪
+craggy|adj.多峭壁的；棱角分明的
+uphill|adv.上坡地；向上地; adj.上坡的；向上的；费力的; n.上坡
+impenetrable|adj.不能穿过的；不可理喻的
+dawn|n.黎明；曙光；开端；破晓; vi.开始出现；破晓；逐渐明白
+liver|n.肝脏
+parenthood|n.父母的身份
+loch|n.湖；狭长的海湾
+immortal|adj.不朽的；永世的; n.不朽的人物；神
+bingo|n.宾果游戏; int.看吧！瞧！（因出乎意料的成功而表示兴奋的叫声）
+legacy|n.遗赠物；先人或过去遗留下来的东西; adj.[计算机]旧系统的
+helper|n.助手；帮手
+fiend|n.魔鬼；邪神
+prizefighter|n.职业拳击手(尤指古时赤手拳击手)
+chirping|鸣叫
+unconquerable|adj.不可征服的；克服不了的；压抑不住的
+knot|n.结；节; vi.打结; vt.把...打成结；系牢；捆扎
+butcher|n.屠夫；刽子手；肉商；小贩; vt.屠宰；滥杀；将某事弄得一团糟
+goddess|n.女神；受崇拜的女性
+slimy|adj.黏滑的；卑劣的
+wearer|n.穿用者
+mesmerize|v.施以催眠术；迷住；迷惑
+cluck|v.发咯咯声；发啧啧声; n.(孵蛋鸡)咯咯声；傻瓜
+haughtily|adv.傲慢地；高傲地
+ash|n.灰；灰烬; n.白蜡树；白蜡木; (复)ashes：骨灰；废墟；苍白.
+gulp|v.吞咽；喘气；抑制; n.吞食；[计]字节组
+spitting|n.吐出(逆火；点燃导火线)
+monstrous|adj.怪异的；畸形的；巨大的
+laurel|n.月桂树；荣誉; v.戴桂冠；授予荣誉
+amulet|n.护身符
+horribly|adv.可怕地；恐怖地；极其
+beckon|v.召唤；吸引；示意某人按自己的指示行动
+spicer|n.香料
+regain|v.恢复；重回；复得
+frown|n.皱眉；不悦; v.不同意；皱眉头
+scram|n.急停；急离；紧急刹车; v.快走开
+mischief|n.淘气；恶作剧；捣蛋鬼；损害；伤害
+hoof|n.蹄；人的脚; v.以蹄踢；行走
+gust|n.突然一阵; n.风味; vi.猛吹
+stench|n.臭气；恶臭
+granny|n.奶奶
+fate|n.命运；宿命
+hunch|n.预感；块；肉峰; v.弯腰驼背
+eagerly|adv.渴望地
+eternally|adv.不朽地；永久地
+willow|n.柳树；柳木制品
+merchant|n.商人；店主；专家; adj.商业的；商船的; n.（班轮提单）货方；签约方
+mighty|adj.强大的；巨大的; adv.很；极其
+ante|n.(纸牌游戏中发牌钱下的)赌注；(需预付的)款项; v.下赌注；付款; pref.表示“前”
+threes|n.祝你走运
+warmly|adv.亲切地；温暖地；热烈地
+shriek|v.尖叫；叫喊; n.尖叫
+rhythmic|adj.有节奏的；有韵律的
+fin|n.鳍；鱼翅；鳍状物；散热片；五元纸币
+dangle|v.摇晃；悬垂；挂着；追求; n.摇摆；摇摆物
+wicked|adj.坏的；邪恶的；缺德的; adv.极端地；非常地; vt.吸收
+sparing|adj.节约的；不足的；慎用
+wrinkly|adj.有皱纹的；易生皱纹的; n.老家伙
+sorts|n.种类; 分类.
+pup|n.小狗；小海豹；小伙子
+tread|n.步法；踏面；胎面花纹；鞋底; v.踩；行走；践踏；(鸟类)交配
+godlike|adj.神似的；神圣的
+raft|n.筏；木排；救生艇; n.大量; v.乘筏；制成筏
+rattle|vi.嘎嘎作响；喋喋不休; vt.使惊惶失措；使恼火；使作响；急促地谈讲; n.嘎嘎声；嘎嘎响的东西；拔浪鼓
+thunderbolt|n.雷电；晴天霹雳；（突然且具毁灭性的猛烈行动的）人或物
+weary|adj.疲倦的；厌烦的; v.疲倦；厌烦；生厌
+nee|adj.娘家姓...的
+deliriously|谵妄地
+gazelle|n.瞪羚；小羚羊
+fog|n.雾；朦胧；迷惑; v.以雾笼罩；使模糊；迷惑
+frantic|adj.疯狂的；狂乱的；急忙的
+uncoiling|开卷
+veil|n.面纱；面罩；掩饰物; vt.使戴面纱；遮蔽; vi.戴面纱
+thrash|n.打(谷)；鞭打; vt.抽打；彻底击败; vi.痛打；猛烈移动（动荡）
+riddle|n.谜；谜语; vt.解谜；出谜题；充满；打洞；筛选; vi.出谜题
+bearing|n.轴承；举止；忍受；支撑物；影响
+wreath|n.花圈；花环；花冠
+threaten|v.威胁；恐吓；似将发生
+ninny|n.笨人；傻子
+powerless|adj.无力的；无权的；无效能的
+unpredictable|adj.不可预知的
+hearth|n.炉床；灶台；炉边
+bind|v.捆绑；装订；约束；强迫；团结; n.窘境
