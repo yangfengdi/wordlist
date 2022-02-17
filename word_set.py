@@ -325,16 +325,15 @@ class word_set():
 
         words_first_letter_capital = self.words_with_tag('首字母大写')
 
-        words_top_freq = self.word_by_freq('BE', 0, 20000)|self.word_by_freq('AE', 0, 20000)
+        words_top_freq = self.word_by_freq('BE', 0, 15000)|self.word_by_freq('AE', 0, 15000)
 
         words_list = words_list - words_except #去除某些简单单词，如小学、初中单词等
         words_list = words_list - words_variant  #去除变体的单词
         words_list = words_list - words_proper #去除专用单词，如：国名、地名、人名等
         words_list = words_list - words_first_letter_capital #去除首字母大写单词
-
+        words_list = words_list & words_top_freq #剔除低频词
         result = {}
-        for word in words_list: #不筛除低频词
-        #for word in words_in_artical&words_top_freq:  #筛除低频词
+        for word in words_list:
             result[word] = words_meaning[word]
         return result
 
@@ -432,14 +431,14 @@ class word_set():
 
     def make_quiz_from_fail_record(self, quiz_tag, page_max = 10):
         words = self.words_last_quiz_fail()
-        words = words - self.words_max_last_remember_days(15) #最近15天内背过的单词不测验
+        words = words - self.words_max_last_remember_days(30) #最近30天内背过的单词不测验
         words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
         words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
         self.__make_quiz(words, quiz_tag, page_max)
 
     def make_quiz_from_tag(self, words_tag, quiz_tag, page_max = 10):
         words = self.words_with_tag(words_tag)
-        words = words - self.words_max_last_remember_days(15) #最近15天内背过的单词不测验
+        words = words - self.words_max_last_remember_days(30) #最近15天内背过的单词不测验
         words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
         words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
         self.__make_quiz(words, quiz_tag, page_max)
