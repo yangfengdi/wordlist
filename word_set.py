@@ -566,28 +566,30 @@ class word_set():
 
         return result, reversed_result
 
-    def make_quiz_from_fail_record(self, quiz_tag, page_max = 10):
+    def make_quiz_from_fail_record(self, start_date, page_max = 10):
         words = self.words_last_quiz_fail()
         words = words - self.words_max_last_remember_days(30) #最近30天内背过的单词不测验
         words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
         words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
-        self.__make_quiz(words, quiz_tag, page_max)
+        self.__make_quiz(words, start_date, page_max)
 
-    def make_quiz_from_tag(self, words_tag, quiz_tag, page_max = 10):
+    def make_quiz_from_tag(self, words_tag, start_date, page_max = 10):
         words = self.words_with_tag(words_tag)
         words = words - self.words_max_last_remember_days(30) #最近15天内背过的单词不测验
         words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
         words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
-        self.__make_quiz(words, quiz_tag, page_max)
+        self.__make_quiz(words, start_date, page_max)
 
-    def make_quiz_from_remembered_some_days_words(self, quiz_tag, page_max=10):
+    def make_quiz_from_remembered_some_days_words(self, start_date, page_max=10):
         words = self.words_min_remember_times(2) #至少背过3次的单词
         words = words & self.words_min_last_remember_days(30) #最近一次记忆是在30天以前
         words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
         words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
-        self.__make_quiz(words, quiz_tag, page_max)
+        self.__make_quiz(words, start_date, page_max)
 
-    def __make_quiz(self, words, quiz_tag, page_max = 10):
+    def __make_quiz(self, words, start_date, page_max = 10):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
         words_list = set()
         words_meaning = {}
 
@@ -640,8 +642,16 @@ class word_set():
             if page_no % page_max == 0:
                 if round(page_no / page_max) > 0:
                     canv.save()
-                pdf_filename = "words/quiz-{}-{}.pdf".format(quiz_tag, round(page_no / page_max) + 1)
-                txt_filename = "words/quiz-{}-{}.txt".format(quiz_tag, round(page_no / page_max) + 1)
+
+                #获取quiz的日期字符串，此处借用sqlite来进行计算
+                sql = "select strftime('%Y%m%d', date(?, ?)) "
+                #print(sql, start_date, '+{} day'.format(round(page_no / page_max)) )
+                cursor.execute(sql, (start_date, '+{} day'.format(round(page_no / page_max)), ))
+                row = cursor.fetchone()
+                cmp_date_str = row[0] #YYYYMMDD格式的日期字符串
+
+                pdf_filename = "words/plan/quiz-{}.pdf".format(cmp_date_str)
+                txt_filename = "words/plan/quiz-{}.txt".format(cmp_date_str)
                 canv = canvas.Canvas(pdf_filename)
 
             if inside_page_index == words_per_page:

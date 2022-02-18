@@ -103,7 +103,7 @@ if __name__ == '__main__':
     #制作测试题
     #word_set.make_quiz_from_fail_record('20210520', 30)
     #word_set.make_quiz_from_remembered_some_days_words('20220209', 30)
-    #word_set.make_quiz_from_tag('俞敏洪初中', '2022', 8)
+    word_set.make_quiz_from_tag('俞敏洪初中', '2022-02-18', 8)
 
     #创建新词列表
     #word_set.get_new_words_from_articles('words/article')

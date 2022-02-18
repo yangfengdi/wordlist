@@ -4,62 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220218.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220219.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220220.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220221.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220222.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220223.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220224.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220225.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220226.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220227.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220228.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220301.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220302.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220303.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220304.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220305.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220306.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220307.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220308.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220309.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220310.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220311.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220312.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220313.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220314.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220315.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220316.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220317.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220318.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220319.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220320.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220321.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220322.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220323.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220324.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220325.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220326.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220327.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220328.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220329.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220330.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/plan/remember-20220331.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/quiz/quiz-20220217.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/remember/remember-20220217.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/review.txt" afterDir="false" />
+    <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="添加自动生成每日quizlet set的算法。">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/db_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbscript.sql" beforeDir="false" afterPath="$PROJECT_DIR$/dbscript.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict.db" beforeDir="false" afterPath="$PROJECT_DIR$/dict.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/word_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/word_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/newword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/newword.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan-remember-quizlet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan-remember-quizlet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/quiz-2022-7.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/quiz-2022-7.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -477,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645092206457</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="添加自动生成每日quizlet set的算法。">
+      <created>1645163567196</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1645163567196</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -501,6 +456,7 @@
     <MESSAGE value="添加待记忆的词。" />
     <MESSAGE value="整理文件。" />
     <MESSAGE value="增强测试结果导入的容错性，删除无用代码，在提取生词过程中提出低频单词。" />
-    <option name="LAST_COMMIT_MESSAGE" value="增强测试结果导入的容错性，删除无用代码，在提取生词过程中提出低频单词。" />
+    <MESSAGE value="添加自动生成每日quizlet set的算法。" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加自动生成每日quizlet set的算法。" />
   </component>
 </project>
