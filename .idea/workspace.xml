@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/word_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220218.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/quiz/quiz-20220218.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220218.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remember/remember-20220218.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -439,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645165771221</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="更新词汇记忆与测验数据。">
+      <created>1645166587389</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1645166587389</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -465,6 +471,7 @@
     <MESSAGE value="增强测试结果导入的容错性，删除无用代码，在提取生词过程中提出低频单词。" />
     <MESSAGE value="添加自动生成每日quizlet set的算法。" />
     <MESSAGE value="修改quiz的生成算法，能够生成每日quiz。" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改quiz的生成算法，能够生成每日quiz。" />
+    <MESSAGE value="更新词汇记忆与测验数据。" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新词汇记忆与测验数据。" />
   </component>
 </project>

@@ -85,6 +85,14 @@ def show_stat_info(word_set):
                                                              len(words & passed_words),
                                                              round(len(words & passed_words) * 100 / len(words))))
 
+    words = word_set.word_by_freq('AE', 0, 15000)
+    #print('{}'.format(len(ae5000)))
+    print('美语TOP15000:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
+                                                                  round(len(words & remembered_words) * 100 / len(words)),
+                                                                  len(words & passed_words),
+                                                                  round(len(words & passed_words) * 100 / len(words))))
+
+
     #recent_quiz_words= word_set.words_recent_quiz(30)
     #print('30天内做过测验的单词数：{}'.format(len(recent_quiz_words)))
 
@@ -95,14 +103,14 @@ if __name__ == '__main__':
     utils = db_utils()
 
     #导入单词记忆事件
-    utils.import_remember_events('words/remember')
+    #utils.import_remember_events('words/remember')
 
     #导入单词测验结果
-    utils.import_quiz_result('words/quiz')
+    #utils.import_quiz_result('words/quiz')
 
     #制作测试题
-    #word_set.make_quiz_from_fail_record('20210520', 30)
-    #word_set.make_quiz_from_remembered_some_days_words('20220209', 30)
+    #word_set.make_quiz_from_fail_record('2022-02-18', 8)
+    #word_set.make_quiz_from_remembered_some_days_words('2022-02-18', 8)
     #word_set.make_quiz_from_tag('俞敏洪初中', '2022-02-18', 8)
 
     #创建新词列表
