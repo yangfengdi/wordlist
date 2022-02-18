@@ -1,0 +1,75 @@
+disorder|n.混乱；杂乱；不适；失调；疾病; vt.扰乱
+swear|v.咒骂；发誓；宣誓; n.誓言；咒骂；发誓
+slay|vt.杀害；残杀；使大笑
+chaos|n.混乱；无秩序；混沌
+mighty|adj.强大的；巨大的; adv.很；极其
+merry|adj.愉快的；欢乐的；微醉的
+technically|adv.技术上；学术上；严密地
+fog|n.雾；朦胧；迷惑; v.以雾笼罩；使模糊；迷惑
+butcher|n.屠夫；刽子手；肉商；小贩; vt.屠宰；滥杀；将某事弄得一团糟
+butt|n.烟蒂；屁股；枪托; n.笑柄；靶垛; n.大酒桶; n.抵撞; v.插嘴；顶撞
+ah|int.啊；哈; =aah.
+nap|n.小睡；绒毛；纳普牌; vi.打盹；疏忽
+thoughtful|adj.深思的；体贴的
+ritual|n.仪式；典礼；宗教仪式；固定程序; adj.仪式的；老规矩的；惯常的
+stool|n.凳子；搁脚凳；便桶；大便; vi.引诱
+render|vt.提供；表现；使成为；宣布；翻译；回报；给予补偿；【计】渲染; n.粉刷；打底；交纳
+edition|n.版；版本
+stomp|vt.跺（脚）；重踏; n.跺脚舞；顿足爵士舞乐曲
+sorts|n.种类; 分类.
+vicious|adj.恶毒的；恶意的；剧烈的；堕落的
+hint|n.暗示; v.暗示；示意
+hardworking|adj.努力工作的；勤奋的
+raft|n.筏；木排；救生艇; n.大量; v.乘筏；制成筏
+dictatorship|n.专政；独裁（权）
+linen|n.亚麻布；亚麻线；亚麻制品; adj.亚麻布制的；亚麻的
+proudly|adv.傲慢地；自大地；得意洋洋地
+fate|n.命运；宿命
+eerie|adj.怪诞的；可怕的；奇异的；害怕的
+hunch|n.预感；块；肉峰; v.弯腰驼背
+ghost|n.幽灵；鬼魂; n.[计]美国赛门铁克公司旗下的硬盘备份还原工具
+farewell|int.再会；别了; n.告别; adj.告别的
+earliest|n.最早; adj.最早的
+spiral|n.螺旋；螺旋形之物；不断恶化、增加或减少; v.螺旋移动；盘旋上升；不断恶化、增加或减少; adj.螺旋形的；盘旋的
+scarce|adj.缺乏的；不足的；稀少的；罕见的; adv.勉强
+unpredictable|adj.不可预知的
+huh|int.哼!哈!(表示轻蔑、吃惊或疑问)
+strengths|强项
+eyed|adj.眼的（常用于合成词）
+retreat|n.撤退；改变；隐居处; v.撤退；改变；退避；缩回象棋的棋子
+surgeon|n.外科医生
+sniff|vi.嗅；嗤之以鼻；找出; vt.嗅到；吸入；嗤之以鼻地说; n.嗅；吸气；气味
+helper|n.助手；帮手
+pup|n.小狗；小海豹；小伙子
+shaft|n.柄；竖井；杆状物；矛；轴；（一道）光线; vt.苛刻地对待；装杆于
+squash|n.壁球；摺皱不堪；拥挤嘈杂的人群；浓缩果汁；美国南瓜; vt.压制；压扁; vi.变扁；挤进
+temple|n.神殿；寺院；庙宇; n.太阳穴，鬓角
+sorrow|n.悲伤；悲痛；懊悔；伤心事; vi.悲伤；惋惜；悔恨
+scenery|n.风景；背景；布景
+tug|n.用力拉；拖船; v.用力拉
+charming|adj.迷人的
+commence|v.开始；着手；获得学位
+pooch|n.狗; vi.膨胀；凸起
+lone|adj.孤单的；唯一的；单独的
+captive|n.俘虏；迷恋者; adj.被俘的；被迷住的
+superstition|n.迷信；没有根据的理论
+plentiful|adj.丰富的；多的；充裕的
+grunt|v.咕哝；（猪等）打呼噜; n.咕哝；呼噜声
+echo|vi.发出回声；回响; vt.重复；模仿；附和; n.回声；重复；共鸣; Echo.; n.[希神]山林女神（失恋于那喀索斯；其哀声留于山间成为回声）
+offerings|n.提供之物
+clink|n.牢房；叮当声; v.(使)叮当响
+zap|v.击溃；射杀；快速移动; n.精力；活力; int.嚓(表示枪声等）
+demonstrate|vt.证明；演示；示范; vi.示威
+clam|n.蛤；沉默寡言的人; vi.保持沉默；挖蚌
+non|adv.[拉]非；不是
+stitch|n.一针；疼痛；碎布条; v.缝合
+brute|n.畜生；残忍的人; adj.残忍的；无理性的；粗暴的
+shudder|vi.战栗；发抖; n.战栗；震颤
+wanna|想要（仅能用于口语；相当于“wantto”或者“wanta”）
+instantly|adv.立即地；即刻地
+disguise|vt.掩饰；假装；假扮; n.伪装；伪装物
+minor|adj.轻微的；较小的；次要的; n.未成年人；辅修科目；[音]小调; v.辅修
+slippery|adj.滑的；狡猾的；不可靠的
+ooh|int.噢；呵(表示惊讶、欣喜、痛苦等); vi.以高兴（惊喜等）语调说
+hoist|v.升起；升高；举起; n.起重机；升高
+bordering|n.边缘(设立疆界；边界标志物)

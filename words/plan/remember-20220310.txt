@@ -1,0 +1,75 @@
+disorder|n.混乱；杂乱；不适；失调；疾病; vt.扰乱
+crow|n.乌鸦；啼叫；欢叫; v.报晓；啼叫；欢叫；夸口；洋洋自得
+shepherd|n.牧羊者；牧师；指导者; v.牧羊；照看；引领
+desperation|n.绝望；铤而走险
+immediate|adj.直接的；最接近的；立即的；目前的
+dribble|vt.使...慢慢流下；运球；细流；流口水; n.少量；细流
+threaten|v.威胁；恐吓；似将发生
+bronze|n.青铜；青铜色；青铜制品；铜牌; adj.青铜制的；青铜色的; vt.使成青铜色
+summon|vt.召唤；召集；振奋
+bet|v.打赌；确信无疑; n.赌注；确信
+practicing|adj.开业的；在工作的
+turf|n.草皮；泥炭；赛马场；赛马; v.铺草皮
+weekly|adj.每周的；一周一次的；周刊的; n.周刊；周报; adv.每周；一周一次
+frown|n.皱眉；不悦; v.不同意；皱眉头
+timber|n.木材；木料
+collapsed|adj.倒塌的
+robe|n.长袍; v.(使)穿上长袍
+maple|n.【C】枫树；槭树; n.【U】枫树干
+whistle|n.口哨；汽笛；警笛; v.吹口哨；鸣汽笛；呼啸；吹口哨召唤
+pitiful|adj.慈悲的；可怜的；凄惨的
+enlighten|v.启发；开导；教导
+stroll|n.闲逛；漫步; v.闲逛；漫步
+mellow|adj.成熟的；醇的；熟练的; v.（使）变熟，（使）柔和
+fury|n.愤怒；狂暴；狂怒的人；泼妇; Fury.; n.[罗神]复仇女神
+marvelous|adj.令人惊异的；非凡的; =marvellous
+loch|n.湖；狭长的海湾
+saddle|n.鞍；车座；山脊；当权; vt.装以马鞍；使负担; vi.装马鞍
+fate|n.命运；宿命
+bravely|adv.勇敢地
+nameless|adj.无名的；匿名的；不可名状的
+sailors|海员
+supervise|vt.监督；管理；指导
+grab|v.抓住；攫取; n.抓取物；抓
+destruction|n.破坏；毁灭
+huh|int.哼!哈!(表示轻蔑、吃惊或疑问)
+lining|n.衬里；内层
+stench|n.臭气；恶臭
+ultimate|adj.根本的；极限的；最后的；终极的; n.终极；极品；根本
+splash|n.溅泼（声）；溅泼的量；溅污的斑点；骚动；少许; v.溅（湿）；报道
+quest|n.探索；寻求; v.寻找；搜索
+delight|n.高兴；快乐; v.(使)高兴；(使)欣喜
+beast|n.兽；畜牲
+bolt|n.门闩；螺栓；一卷布；弩箭; v.（突然）逃离；闩住；狼吞虎咽；用螺栓固定; adv.挺直地
+mythical|adj.神话的；虚构的；杜撰出来的
+bind|v.捆绑；装订；约束；强迫；团结; n.窘境
+paddle|n.桨；划桨；明轮翼; v.划桨；戏水；抚弄
+sunglasses|n.墨镜；太阳镜
+beware|v.小心；谨防
+echo|vi.发出回声；回响; vt.重复；模仿；附和; n.回声；重复；共鸣; Echo.; n.[希神]山林女神（失恋于那喀索斯；其哀声留于山间成为回声）
+stinky|adj.恶臭的
+plentiful|adj.丰富的；多的；充裕的
+mankind|n.人类；男人
+stall|n.栅栏；小隔间；货摊；座位; v.把...关进畜舍里；失速；熄火；拖延；（使）动弹不得
+disgust|n.厌恶；憎恶；反感; vt.使厌恶；使作呕
+steaming|n.汽蒸(蒸烘)
+disgrace|n.耻辱; v.耻辱；丢脸
+smooth|adj.光滑的；平稳的；流畅的；圆滑的；可口的；安祥的；均匀的; v.使光滑；消除；安慰；理顺(羽毛)
+gloomy|adj.阴暗的；忧闷的；前景黯淡的
+carcass|n.尸体；残骸；骨架；(人的)身躯
+squawk|n.叫声；嘈杂的抱怨; v.呱呱地叫鸣；喋喋不休地发牢骚
+pat|n.轻拍；轻打；小块; v.轻拍；抚摸；拍打
+horribly|adv.可怕地；恐怖地；极其
+magician|n.魔术师；术士
+brute|n.畜生；残忍的人; adj.残忍的；无理性的；粗暴的
+eternally|adv.不朽地；永久地
+palaces|宫城
+hearth|n.炉床；灶台；炉边
+grandson|n.孙子；外孙
+assist|vt.帮助；协助; vi.帮助；出席; n.帮助；协助；助攻；协助的器械
+linger|vi.徘徊；逗留；消磨；漫步
+hoot|n.鸣笛声；猫头鹰叫声；一点点；好笑的人或事; v.大声叫嚣；(汽笛、喇叭等)呜呜作响；哄赶
+oceans|n.大洋
+spitting|n.吐出(逆火；点燃导火线)
+vanity|n.自负；虚荣心；无价值的东西；浮华
+robbery|n.抢劫

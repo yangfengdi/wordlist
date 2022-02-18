@@ -1,0 +1,75 @@
+achievement|n.成就；成绩；完成；达到
+shaker|n.摇动者；摇动器；搅拌器; Shaker：adj.；夏克尔风格的
+chariot|n.二轮战车; v.驾驭战车
+hip|n.臀部；髋；屋脊; adj.时髦的；通晓的; int.（欢呼声）嘿
+miserable|adj.痛苦的；悲惨的；贫乏的；狼狈的
+lug|n.柄；突出部；螺帽; n.(英）耳朵; 笨蛋; vt.拖；拉；用力拖动
+merry|adj.愉快的；欢乐的；微醉的
+scattered|adj.分散的；稀疏的
+hoof|n.蹄；人的脚; v.以蹄踢；行走
+shiner|n.发光物；发光体；银色小鱼；黑眼眶
+butt|n.烟蒂；屁股；枪托; n.笑柄；靶垛; n.大酒桶; n.抵撞; v.插嘴；顶撞
+scoreboard|n.记分板
+keeper|n.看守人；饲养员；管理者
+rituals|仪式
+confusion|n.惶惑；混淆；混乱；不确定状态
+slam|v.砰地关上；猛放；猛烈攻击; n.砰然声；猛烈抨击; n.满贯
+speeding|adj.高速行驶的; n.超速行驶
+firmly|adv.牢牢地；坚定地
+oath|n.誓言；誓约；咒骂语
+learners|学习者
+sadly|adv.悲哀地；遗憾的是；极为
+spikes|pl.钉鞋
+dart|n.飞镖；投射；突进；缝褶; vi.快速投掷；突然移动; vt.使突然移动
+self|n.自己；本性；自我; pron.我自己；你自己；他或她自己; adj.始终如一的；同一类型的；性质不变的; v.近亲繁殖；自花授粉
+mortal|adj.致命的；终有一死的；不共戴天的；极度的; n.凡人
+historian|n.历史学家；编史者
+headline|n.大字标题；新闻提要；头条新闻; v.加标题于；宣扬；作主角
+eyeing|vbl.注视
+healer|n.医治者；治疗物
+waterfall|n.瀑布
+bravery|n.勇敢；华丽(的衣服)
+sandal|n.凉鞋; n.檀香木
+chrome|n.铬；铬黄；谷歌浏览器; vt.镀铬
+chunk|n.矮胖的人或物；厚块（片）；相当大的量; vt.（高尔夫球）没击中; vi.发出猛冲的声音
+tickle|vt.使发痒；逗乐；使快乐; vi.觉得痒; n.痒；抓痒
+scurry|v.小步疾走；急赶; n.快跑声；疾走
+donkey|n.驴；愚蠢的人
+rubber|n.橡胶；橡皮；橡胶制品; adj.橡胶的
+savory|adj.美味可口的；香辣的；令人愉快的；体面的; n.香薄荷; =savoury(英).
+scoot|v.急走; n.急走；迅速跑开
+tuck|v.打摺；卷起；收拢；藏起；大吃; n.缝摺；船底后端；食品
+sorrow|n.悲伤；悲痛；懊悔；伤心事; vi.悲伤；惋惜；悔恨
+dreary|adj.沉闷的；令人沮丧的；情绪低落的
+rotten|adj.腐烂的；腐朽的；极坏的；讨厌的; adv.非常
+barrage|n.弹幕；掩护炮火; n.拦河坝; vt.以密集火力进攻
+hoax|v.欺骗；哄骗；愚弄; n.愚弄人；恶作剧
+jumper|n.跳跃者；跳高运动员；雪橇；[电]跳线; n.无袖连衣裙；套头衫；连衫裤童装；工作夹克
+sway|v.摇动；摇摆；支配；影响；说服，使相信; n.摇摆；支配；影响
+flourish|v.茂盛；繁荣；挥舞；活跃; n.挥舞；花样；炫耀；华丽词藻
+motion|n.移动；动作；打手势；示意；提议；大便; v.示意；运动；向...打手势
+reincarnation|n.转世；再生
+spiro|n.螺
+salsa|n.沙司(墨西哥食物中辣调味汁); n.萨尔萨舞曲
+buffet|n.自助餐；饮食柜台；打击; vt.连续猛击；打击
+splashdown|n.在海中降落
+slap|n.侮辱；掴；拍击声; vt.侮辱；拍击；惩罚；申斥; adv.直接地；正面地；突然地
+spectator|n.观众；旁观者
+snug|adj.温暖舒适的；合身的；安全的; v.使整洁干净；舒适地依靠；紧贴; n.酒吧里的私房
+scoop|n.铲子；勺；舀取；穴；独家新闻; vt.挖空；舀取；抢先报道（获得）
+shiver|v.颤动；发抖; v.打碎; n.冷颤；哆嗦; n.碎块
+invasion|n.侵略；侵入
+scrawny|adj.瘦的；骨瘦如柴的
+splashing|喷洒,泼洒
+embrace|v.拥抱；包含；包围；接受；信奉; n.拥抱
+brow|n.前额；眉毛；山脊；表情
+secretly|adv.秘密地；背地里
+mythology|n.神话；神话学；神话集
+terror|n.恐怖；惊骇；令人惧怕或讨厌的人或事物
+whirl|v.使...旋转；回旋；迅速移动；头晕目眩; n.回旋；旋转；一个接一个的活动；混乱；尝试
+hoo|int.呼!(表示激动；高兴；轻蔑；赞同等)
+tent|n.帐篷; v.住帐篷；宿营
+withstand|vt.对抗；经得起；承受
+crack|v.破裂；砸开；发出爆裂声；撞击；破解；变嘶哑；崩溃；制裁；开玩笑; n.裂缝；裂痕；爆裂声；猛击；尝试；俏皮话; adj.训练有素的
+satisfied|adj.感到满意的
+archaeological|adj.考古学的；考古学上的

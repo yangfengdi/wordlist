@@ -1,0 +1,75 @@
+peer|n.同辈；同等的人；贵族; vi.凝视；窥视
+howling|adj.咆哮的；哭哭啼啼的；寂寥的
+frightened|adj.受惊的
+shaker|n.摇动者；摇动器；搅拌器; Shaker：adj.；夏克尔风格的
+slay|vt.杀害；残杀；使大笑
+limp|n.跛行; adj.柔软的；无力的；软弱的; vi.跛行；蹒跚
+chaos|n.混乱；无秩序；混沌
+mighty|adj.强大的；巨大的; adv.很；极其
+frantically|adv.狂暴地；疯狂似地
+butcher|n.屠夫；刽子手；肉商；小贩; vt.屠宰；滥杀；将某事弄得一团糟
+roar|v.吼叫；咆哮; n.吼声；咆哮；轰鸣；喧闹
+confusion|n.惶惑；混淆；混乱；不确定状态
+parade|n.游行；检阅；游行地; vi.参加游行；阅兵；散步；炫耀; vt.夸耀；使参加游行；检阅；绕行
+persuasion|n.说服；劝说；信念
+cast|v.掷；抛；投；铸造；指定演员；加起来；投射(目光)；投(票)；预测; n.演员阵容；投掷；[医]固定用敷料
+um|int.嗯
+render|vt.提供；表现；使成为；宣布；翻译；回报；给予补偿；【计】渲染; n.粉刷；打底；交纳
+raft|n.筏；木排；救生艇; n.大量; v.乘筏；制成筏
+dictatorship|n.专政；独裁（权）
+fertility|n.【C】肥沃；(人)繁殖力；(思想等的)丰富
+armor|n.盔甲；装甲
+goddess|n.女神；受崇拜的女性
+sake|n.理由；缘故；目的；利益
+uncles|n.叔伯
+tournament|n.锦标赛；比赛；比武
+mortal|adj.致命的；终有一死的；不共戴天的；极度的; n.凡人
+historian|n.历史学家；编史者
+waterfall|n.瀑布
+earliest|n.最早; adj.最早的
+spiral|n.螺旋；螺旋形之物；不断恶化、增加或减少; v.螺旋移动；盘旋上升；不断恶化、增加或减少; adj.螺旋形的；盘旋的
+scarce|adj.缺乏的；不足的；稀少的；罕见的; adv.勉强
+fake|adj.假的; n.骗子；假货；欺骗; vt.伪造；伪装; vi.假造
+eyed|adj.眼的（常用于合成词）
+strengths|强项
+formerly|adv.以前；从前
+surgeon|n.外科医生
+rack|n.行李架；（放衣物、碗碟等的）架子；拷问台；折磨；（比赛开始前固定球位置的）三角框; vt.使痛苦；把...放在架子上；累计取得
+bravery|n.勇敢；华丽(的衣服)
+blacksmith|n.铁匠
+dangle|v.摇晃；悬垂；挂着；追求; n.摇摆；摇摆物
+helper|n.助手；帮手
+shaft|n.柄；竖井；杆状物；矛；轴；（一道）光线; vt.苛刻地对待；装杆于
+dawn|n.黎明；曙光；开端；破晓; vi.开始出现；破晓；逐渐明白
+courtyard|n.庭院；院子
+dreary|adj.沉闷的；令人沮丧的；情绪低落的
+commence|v.开始；着手；获得学位
+hoax|v.欺骗；哄骗；愚弄; n.愚弄人；恶作剧
+captive|n.俘虏；迷恋者; adj.被俘的；被迷住的
+jumper|n.跳跃者；跳高运动员；雪橇；[电]跳线; n.无袖连衣裙；套头衫；连衫裤童装；工作夹克
+offerings|n.提供之物
+sway|v.摇动；摇摆；支配；影响；说服，使相信; n.摇摆；支配；影响
+revenge|n.报仇；报复；报复心；雪耻机会; vt.报复；报仇
+la|n.A音的唱名；第六音; int.啊呀；呀
+zap|v.击溃；射杀；快速移动; n.精力；活力; int.嚓(表示枪声等）
+plunge|v.使投入；跳入；栽进；下降，急降，突降; n.投入；跳入
+demonstrate|vt.证明；演示；示范; vi.示威
+veil|n.面纱；面罩；掩饰物; vt.使戴面纱；遮蔽; vi.戴面纱
+buffet|n.自助餐；饮食柜台；打击; vt.连续猛击；打击
+cursing|n.咒骂；诅咒
+trays|塔板
+stroke|n.中风；击打；一笔（画）；意外的运气; v.击打; v.轻抚；奉承
+snug|adj.温暖舒适的；合身的；安全的; v.使整洁干净；舒适地依靠；紧贴; n.酒吧里的私房
+invasion|n.侵略；侵入
+shove|v.推挤；撞；乱塞；乱放; n.推；挤
+angel|n.天使；天使般的人
+cloak|n.斗蓬；宽大外衣；掩盖物; v.遮掩；隐匿
+wanna|想要（仅能用于口语；相当于“wantto”或者“wanta”）
+instantly|adv.立即地；即刻地
+beer|n.啤酒
+slippery|adj.滑的；狡猾的；不可靠的
+livestock|n.家畜；牲畜
+ooh|int.噢；呵(表示惊讶、欣喜、痛苦等); vi.以高兴（惊喜等）语调说
+liver|n.肝脏
+satisfied|adj.感到满意的
+tickle|vt.使发痒；逗乐；使快乐; vi.觉得痒; n.痒；抓痒

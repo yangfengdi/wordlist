@@ -105,11 +105,16 @@ if __name__ == '__main__':
     #word_set.make_quiz_from_remembered_some_days_words('20220209', 30)
     #word_set.make_quiz_from_tag('俞敏洪初中', '2022', 8)
 
-    #创建新词quizlet列表
+    #创建新词列表
     #word_set.get_new_words_from_articles('words/article')
     #word_set.get_new_words_from_docxs('words/docx')
     #word_set.get_new_words_from_list('words/words.txt')
     #word_set.get_new_words_from_top_freq()
+
+    #创建待记忆词汇记忆模板，这些词汇将会适时被排入quizlet set中
+    #utils.import_word_remember_plan('words/newword.txt', 'NEW', (1, 2, 3, 8, 0))
+    #utils.import_word_remember_plan('words/review.txt', 'OLD', (2, 3, 8, 0))
+    #word_set.create_quizlet_set('2022-02-25', 75, 12)
 
     #创建复习quizlet列表
     #word_set.get_words_from_recent_remember_words()

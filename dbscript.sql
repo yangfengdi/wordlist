@@ -45,3 +45,22 @@ create table IF NOT EXISTS word_freq (
   freq_type text
 );
 
+-- 单词记忆计划表
+-- drop table word_remember_plan;
+create table IF NOT EXISTS word_remember_plan (
+  word text,
+  word_type text,
+  seq_no integer,
+  gap_days integer,
+  plan_status text,
+  plan_remember_date date,
+  ideal_remember_date date,
+  create_time timestamp DEFAULT CURRENT_TIMESTAMP
+);
+-- 评价单词记忆计划的效果，可以通过看实际计划时间与理想时间的偏差来评估
+select julianday(plan_remember_date) - julianday(ideal_remember_date) gap, count(1)
+from word_remember_plan a group by gap;
+-- 查看每天计划的单词量，看是不是每天都按照计划排满了，偏后段的时间，随着单词接近背完，每天的背诵量可能不会被排满
+select plan_remember_date, count(1) from word_remember_plan
+group by plan_remember_date;
+-- 计划重排前的初始化

@@ -16,6 +16,143 @@ class word_set():
     def __init__(self):
         pass
 
+    # 自动为要制定背诵计划的单词生成每日的quizlet set
+    # 计划要记忆的单词都被保存在word_remember_plan中，有新词也有旧词，保存在word_type字段中
+    # start_date：记忆起始日期，制定的quizlet set的起始时间是从这一天开始的，
+    #             如果此前曾经制定过start_date日期及以后时间的记忆计划，则记忆计划会被清除，
+    #             并基于最新的要记忆的单词和参数重新计划，但是原来自动生成的remember-YYYYMMDD.txt文件不会自动删除，需要手工处理
+    # set_size：quizlet set的大小，也就是每天背多少个单词，含新词和复习旧词的总数
+    # new_word_cnt：每天的quizlet set中添加的新词的数目
+    #               设置new_word_cnt需要认真考虑与set_size的相对大小，
+    #               举个例子：如果单词采用标准的艾宾浩斯记忆法来记（取决于准备单词时调用db_utils.import_word_remember_plan的gap_days参数），
+    #               每个单词需要被记5次，只有第一次被记忆的时候被认为是新词，其余4次记忆都是复习，
+    #               这意味着new_word_cnt最多只能有set_size的1/5，否则会出现每次加入过大比例的新词，造成旧词复习进度不能按时完成的情况
+    #               如果掺杂了一些需要复习的旧词，则new_word_cnt需要设置得更小一些，才能把旧词消化掉
+    # 在系统自动制定每天的单词quizlet set背诵计划的时候，会尽量按照为每个单词在db_utils.import_word_remember_plan
+    # 导入词汇到系统时所指定的gap_days安排背诵的间隔时间规划每天的quizlet set，但是受限于quizlet size参数的限制，并不能确保每个单词都能按理想的时间被安排记忆
+    # 在word_remember_plan表中，实际被规划记忆的时间被保存在plan_remember_date字段，严格按照gap_days设定的背诵时间被保存在ideal_remember_date字段
+    # 通过对比plan_remember_date和ideal_remember_date两个时间的差距，可以评估计划算法的效果，一般来说，只要参数选择合理，
+    # word_remember_plan表中会有超过一半的记录的plan_remember_date和ideal_remember_date两个时间之差为0
+    def create_quizlet_set(self, start_date, set_size, new_word_cnt):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+        old_word_cnt = set_size - new_word_cnt
+
+        sql = "update word_remember_plan set plan_status='UNPLANNED', " \
+              "plan_remember_date=NULL where plan_remember_date>=date(?)"
+        cursor.execute(sql, (start_date,))
+        conn.commit()
+
+        offset_days = 0 #表示quizlet set的日期比当前日期多几天
+        #以下大循环，每运转一圈，则quizlet set的日期往后走一天，知道所有的记忆记录都规划了时间
+        while True:
+            #单词记忆计划表中的每一条记忆记录都规划了时间的情况下，就可以退出这个循环了
+            cursor.execute("SELECT count(1) FROM word_remember_plan WHERE plan_status='UNPLANNED'")
+            if cursor.fetchone()[0] == 0:
+                break
+
+            #获取quizlet set使用的日期，这个日期在制定计划的过程中会用到，也会在quizlet set的导出文件中名中会用到
+            sql = "select strftime('%Y%m%d', date(?, ?) ), strftime('%Y-%m-%d', date(?, ?) )"
+            cursor.execute(sql, (start_date, '+{} day'.format(offset_days), start_date, '+{} day'.format(offset_days), ))
+            row = cursor.fetchone()
+            cmp_date_str = row[0] #YYYYMMDD格式的日期字符串
+            date_str = row[1] #YYYY-MM-DD格式的日期字符串
+
+            #当天的quizlet set中的词汇
+            quizlet_set = set()
+
+            # 针对记忆计划已经被开启了的词汇（也就是seq=0的记录的plan_remember_date已经在此前被确定了的词汇，
+            # 无论word_type取值是什么，这些词汇在quizlet set中都算是旧词）
+            # seq_no从后往前找，看是否存在已经到期需要复习的旧词
+            for seq_no in range(4, 0, -1):
+                sql="select word, julianday(date(?))-julianday(date(plan_remember_date, '+'||gap_days||' day')) delay_days " \
+                    "from word_remember_plan where plan_status='PLANNED' " \
+                    "and date(plan_remember_date, '+'||gap_days||' day') <= date(?) and seq_no=? " \
+                    "and word in (select word from word_remember_plan where seq_no=? " \
+                    "and plan_status='UNPLANNED' ) order by delay_days desc"
+                cursor.execute(sql, (date_str, date_str, seq_no - 1, seq_no, ))
+
+                words = set()
+                for row in cursor:
+                    if len(quizlet_set) + len(words) >= old_word_cnt:
+                        break #如果旧词的量已经达到了，就不要再添加旧词了
+                    words.add(row[0])
+                quizlet_set = quizlet_set | words
+                for word in words:
+                    sql = "update word_remember_plan set plan_status='PLANNED', " \
+                          "plan_remember_date=date(?) where word=? and seq_no=?"
+                    cursor.execute(sql, (date_str, word, seq_no,))
+                    conn.commit()
+
+            #启动还没有开始复习的旧词
+            sql="select word from word_remember_plan where word_type='OLD' and " \
+                "plan_status='UNPLANNED' and seq_no=0 "
+            cursor.execute(sql)
+            words = set()
+            for row in cursor:
+                if len(quizlet_set) + len(words) >= old_word_cnt:
+                    break #如果旧词的量已经达到了，就不要再添加旧词了
+                words.add(row[0])
+            quizlet_set = quizlet_set | words
+            for word in words:
+                sql = "update word_remember_plan set plan_status='PLANNED', " \
+                      "plan_remember_date=date(?), ideal_remember_date=date(?) where word=? and seq_no=0"
+                cursor.execute(sql, (date_str, date_str, word,))
+                conn.commit()
+                #把这个单词的其它记忆点的理想时间设置上去
+                sum_gap_days = 0
+                for ideal_seq in range(0, 4):
+                    sql = "select gap_days from word_remember_plan where word=? and seq_no=?"
+                    cursor.execute(sql, (word, ideal_seq, ))
+                    row = cursor.fetchone()
+                    if row == None:
+                        break
+                    sum_gap_days += row[0]
+                    sql = "update word_remember_plan set ideal_remember_date=date(?, '+'||?||' day') where word=? and seq_no=?"
+                    cursor.execute(sql, (date_str, sum_gap_days, word, ideal_seq+1, ))
+                    conn.commit()
+
+            #启动还没有开始记忆的新词
+            sql="select word from word_remember_plan where word_type='NEW' and " \
+                "plan_status='UNPLANNED' and seq_no=0 "
+            cursor.execute(sql)
+            words = set()
+            for row in cursor:
+                if len(words) >= new_word_cnt:
+                    break #如果新词的量已经达到了，就不要再添加新词了
+                words.add(row[0])
+            quizlet_set = quizlet_set | words
+            for word in words:
+                sql = "update word_remember_plan set plan_status='PLANNED', " \
+                      "plan_remember_date=date(?), ideal_remember_date=date(?) where word=? and seq_no=0"
+                cursor.execute(sql, (date_str, date_str, word,))
+                conn.commit()
+                #把这个单词的其它记忆点的理想时间设置上去
+                sum_gap_days = 0
+                for ideal_seq in range(0, 4):
+                    sql = "select gap_days from word_remember_plan where word=? and seq_no=?"
+                    cursor.execute(sql, (word, ideal_seq, ))
+                    row = cursor.fetchone()
+                    if row == None:
+                        break
+                    sum_gap_days += row[0]
+                    sql = "update word_remember_plan set ideal_remember_date=date(?, '+'||?||' day') where word=? and seq_no=?"
+                    cursor.execute(sql, (date_str, sum_gap_days, word, ideal_seq+1, ))
+                    conn.commit()
+
+            #把quizlet set写入到文件中
+            dictcn = dict_cn()
+            words = {}
+            for word in quizlet_set:
+                dict_word, meaning = dictcn.search(word)
+                words[dict_word] = meaning
+            self.__write_dict_to_file(words, "words/plan/remember-{}.txt".format(cmp_date_str))
+
+            #做下一天的quizlet set
+            offset_days += 1
+
+        conn.close()
+
     def get_new_words_from_docxs(self, dir):
         dirs = os.listdir( dir )
         rough_words_in_docx = set()

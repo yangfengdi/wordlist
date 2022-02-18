@@ -177,3 +177,111 @@ class db_utils():
 
         conn.close()
         print('import file {} completed, add {} word freq records.'.format(file, count))
+
+    # 导入待安排记忆计划的单词，为系统制定细化到每天的quizlet set计划做准备
+    # file：待导入的词库文件，可以是每行一个单词，也可以每行用|分隔单词与释义，释义不会被采用
+    # word_type：指明导入的单词是新词(NEW)还是旧词(OLD)，
+    #            是新词还是旧词与系统中是否存在记忆记录无关，
+    #            会被保存在word_remember_plan.word_type中，在自动制定计划的时候会用到，
+    #            自动制定计划的时候可以指定每天包含多少个新词，到时候就会用到这个数据
+    # gap_days:是保存一个单词多次背诵的时间间隔的元组，用于制定单词背诵计划
+    #          如(2,5,0)表示一个单词需要背3次，第一次背完之后过2天（隔1天）再背第二次，第二次背完之后过5天再背第三次
+    #          艾宾浩斯的记忆法建议的计划计划是分别在第1、2、4、7、15记忆，换算成gap_day元组就是(1, 2, 3, 8, 0)
+    #          对于有些曾经背过多次的单词，如果需要做强化复习，可以不需要完全按照艾宾浩斯的曲线来记忆，可以酌情考虑记忆次数与每次记忆间隔时间
+    #          每个单词规划的记忆次数限定为不超过5次
+    def import_word_remember_plan(self, file, word_type, gap_days):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        if len(gap_days)>5:
+            print('单词的规划记忆次数不可超过5次')
+
+        count = 0
+        skip_count = 0
+        for word in open(file):
+            word = word[:word.find("|")]
+            word = word.strip(' ')
+            word = word.strip('\n')
+            word = word.strip('\r')
+            word = word.strip('\t')
+
+            #print(word)
+
+            cursor.execute("SELECT count(1) FROM word_remember_plan WHERE word='{}' and remember_status='NOT_REMEMBER'".format(word))
+            if cursor.fetchone()[0] != 0:
+                skip_count += 1
+                continue
+
+
+            for seq in range(len(gap_days)):
+                sql = "INSERT INTO word_remember_plan (word, word_type, seq_no, gap_days, plan_status, remember_status) " \
+                    "VALUES (?, ?, ? , ?, 'UNPLANNED', 'NOT_REMEMBER')"
+                cursor.execute(sql,(word,word_type, seq, gap_days[seq]))
+                conn.commit()
+
+            count += 1
+
+        conn.close()
+        print('import file {} completed, add {} plan remember new word, skip {} words.'.format(file, count, skip_count))
+
+    def import_quiz_fail_event(self, file, quiz_date):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        count = 0
+        skip_count = 0
+        for line in open(file):
+            word = line[:line.find("|")]
+            word = word.strip(' ')
+            word = word.strip('\n')
+            word = word.strip('\r')
+            word = word.strip('\t')
+
+            if len(word) == 0 :
+                continue
+
+            sql = "SELECT count(1) FROM quiz_event WHERE word=? and quiz_date=strftime('%Y-%m-%d', ?) and quiz_result='FAIL'"
+            cursor.execute(sql,(word, quiz_date,))
+            if cursor.fetchone()[0] != 0:
+                skip_count += 1
+                #print('skip duplicated mistake event, word={} mistake_date={}.'.format(word, mistake_date))
+                continue
+
+            sql = "INSERT INTO quiz_event (word, quiz_date, quiz_result) VALUES (?, strftime('%Y-%m-%d', ?), 'FAIL')"
+            cursor.execute(sql, (word, quiz_date,))
+            conn.commit()
+            count += 1
+
+        conn.close()
+        print('import file {} completed, add {} quiz events, skip {} duplicated events.'.format(file, count, skip_count))
+
+    def import_quiz_pass_event(self, file, quiz_date):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        count = 0
+        skip_count = 0
+        for line in open(file):
+            word = line[:line.find("|")]
+            word = word.strip(' ')
+            word = word.strip('\n')
+            word = word.strip('\r')
+            word = word.strip('\t')
+
+            if len(word) == 0 :
+                continue
+
+            sql = "SELECT count(1) FROM quiz_event WHERE word=? and quiz_date=strftime('%Y-%m-%d', ?) and quiz_result='PASS'"
+            cursor.execute(sql,(word, quiz_date,))
+            if cursor.fetchone()[0] != 0:
+                skip_count += 1
+                #print('skip duplicated mistake event, word={} mistake_date={}.'.format(word, mistake_date))
+                continue
+
+            sql = "INSERT INTO quiz_event (word, quiz_date, quiz_result) VALUES (?, strftime('%Y-%m-%d', ?), 'PASS')"
+            cursor.execute(sql, (word, quiz_date,))
+            conn.commit()
+            count += 1
+
+        conn.close()
+        print('import file {} completed, add {} quiz events, skip {} duplicated events.'.format(file, count, skip_count))

@@ -1,0 +1,75 @@
+lag|v.落后；减退；缓慢进行; n.落后；时间间隔
+lowness|n.低；下贱；粗鄙
+immediate|adj.直接的；最接近的；立即的；目前的
+jogging|n.慢跑
+fog|n.雾；朦胧；迷惑; v.以雾笼罩；使模糊；迷惑
+technically|adv.技术上；学术上；严密地
+mangle|v.碾压；损坏；糟蹋；乱切; n.碾压机
+ah|int.啊；哈; =aah.
+nap|n.小睡；绒毛；纳普牌; vi.打盹；疏忽
+thoughtful|adj.深思的；体贴的
+maniac|n.疯子；热衷者；躁狂者
+luck|n.运气；幸运；侥幸; v.侥幸成功；走运
+turf|n.草皮；泥炭；赛马场；赛马; v.铺草皮
+mist|n.雾；迷蒙；朦胧不清; vt.使…模糊；蒙上雾; vi.使模糊；下雾
+weekly|adj.每周的；一周一次的；周刊的; n.周刊；周报; adv.每周；一周一次
+edition|n.版；版本
+relative|adj.相对的；比较的；相关的; n.亲戚；[语]关系词
+stomp|vt.跺（脚）；重踏; n.跺脚舞；顿足爵士舞乐曲
+sword|n.剑；刀
+vicious|adj.恶毒的；恶意的；剧烈的；堕落的
+hint|n.暗示; v.暗示；示意
+sorts|n.种类; 分类.
+courageous|adj.勇敢的；有勇气的，有胆量的
+hardworking|adj.努力工作的；勤奋的
+lifeboat|n.救生船
+pitiful|adj.慈悲的；可怜的；凄惨的
+saddle|n.鞍；车座；山脊；当权; vt.装以马鞍；使负担; vi.装马鞍
+proudly|adv.傲慢地；自大地；得意洋洋地
+heal|vt.治愈；使恢复健康；使和解; vi.痊愈
+mansion|n.大厦；宅邸；公寓
+ire|n.愤怒
+eerie|adj.怪诞的；可怕的；奇异的；害怕的
+mishap|n.不幸之事；灾祸；恶运
+humbly|adv.恭顺地；谦卑地
+unpredictable|adj.不可预知的
+imperceptibly|adv.极微小地；逐步地
+lees|n.沉淀物；渣滓
+sniff|vi.嗅；嗤之以鼻；找出; vt.嗅到；吸入；嗤之以鼻地说; n.嗅；吸气；气味
+mischief|n.淘气；恶作剧；捣蛋鬼；损害；伤害
+huddle|n.杂乱一团；混乱；拥挤; v.推挤；乱堆；草率了事
+hitch|n.猛拉；急促猛推；跛行；妨碍；免费搭车; vt.拴住；连住；急拉；拉紧；免费搭车; vi.蹒跚；被缠结；免费乘车
+liberate|v.解放；使获得自由；释出；放出
+lovingly|adv.钟情地；深情地
+pup|n.小狗；小海豹；小伙子
+medaled|adj.接受奖章的；佩带徽章的
+misfortune|n.不幸；灾祸
+intercept|n.截取；妨碍；截距; vt.拦截；阻止
+scenery|n.风景；背景；布景
+jerk|v.急动；猛拉; n.猛拉；急动；笨蛋；蠢人; adj.颠簸不稳的
+kaboom|背着网接团身后空翻
+tug|n.用力拉；拖船; v.用力拉
+muddy|adj.泥泞的；浑浊的；糊涂的; v.使沾上烂泥；使...混浊；使迷惑
+jigsaw|n.拼图游戏；缕花锯；竖锯; vt.用竖锯锯；使互相交错搭接
+quest|n.探索；寻求; v.寻找；搜索
+delight|n.高兴；快乐; v.(使)高兴；(使)欣喜
+lease|n.租约；租契；租期; vt.出租；租得
+lure|vt.诱惑；吸引; n.诱惑；吸引力；饵
+fiercely|adv.猛烈地；厉害地
+moonlight|n.月光; v.兼职; adj.夜间的
+gloomy|adj.阴暗的；忧闷的；前景黯淡的
+slumber|n.睡眠；微睡；休止状态; v.睡觉；打盹；静止；休眠
+non|adv.[拉]非；不是
+stitch|n.一针；疼痛；碎布条; v.缝合
+squawk|n.叫声；嘈杂的抱怨; v.呱呱地叫鸣；喋喋不休地发牢骚
+magician|n.魔术师；术士
+clicking|n.微小静电干扰声
+lousy|adj.多虱的；可鄙的；差劲的; adj.【口】大量的（通常指不好的事物）
+lunge|n.刺；刺进；跃进; v.猛向前冲；踢；刺出
+palaces|宫城
+oceans|n.大洋
+sheriff|n.郡治安官；郡长
+dire|adj.可怕的；悲惨的；极其的
+momentous|adj.重要的；重大的
+bordering|n.边缘(设立疆界；边界标志物)
+ichor|n.[希神]灵液；[医]脓水
