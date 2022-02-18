@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="添加自动生成每日quizlet set的算法。">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_set.py" afterDir="false" />
+    <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/word_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220218.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/quiz/quiz-20220218.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220218.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remember/remember-20220218.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +52,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/words/plan" />
       <recent name="$PROJECT_DIR$/words/quiz" />
+      <recent name="$PROJECT_DIR$/words/remember" />
+      <recent name="$PROJECT_DIR$/words/plan" />
       <recent name="$PROJECT_DIR$/words/remember/archive" />
       <recent name="$PROJECT_DIR$/words/quiz/archive" />
-      <recent name="$PROJECT_DIR$/words/remember" />
     </key>
   </component>
   <component name="RunManager" selected="Python.word_utils">
@@ -432,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645163567196</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="修改quiz的生成算法，能够生成每日quiz。">
+      <created>1645165771221</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1645165771221</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -457,6 +464,7 @@
     <MESSAGE value="整理文件。" />
     <MESSAGE value="增强测试结果导入的容错性，删除无用代码，在提取生词过程中提出低频单词。" />
     <MESSAGE value="添加自动生成每日quizlet set的算法。" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加自动生成每日quizlet set的算法。" />
+    <MESSAGE value="修改quiz的生成算法，能够生成每日quiz。" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改quiz的生成算法，能够生成每日quiz。" />
   </component>
 </project>
