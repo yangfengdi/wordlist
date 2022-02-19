@@ -103,10 +103,10 @@ if __name__ == '__main__':
     utils = db_utils()
 
     #导入单词记忆事件
-    #utils.import_remember_events('words/remember')
+    utils.import_remember_events('words/remember')
 
     #导入单词测验结果
-    #utils.import_quiz_result('words/quiz')
+    utils.import_quiz_result('words/quiz')
 
     #制作测试题
     #word_set.make_quiz_from_fail_record('2022-02-18', 8)
@@ -122,7 +122,7 @@ if __name__ == '__main__':
     #创建待记忆词汇记忆模板，这些词汇将会适时被排入quizlet set中
     #utils.import_word_remember_plan('words/newword.txt', 'NEW', (1, 2, 3, 8, 0))
     #utils.import_word_remember_plan('words/review.txt', 'OLD', (2, 3, 8, 0))
-    #word_set.create_quizlet_set('2022-02-25', 75, 12)
+    #word_set.create_quizlet_set('2022-02-20', 75, 12)
 
     #创建复习quizlet列表
     #word_set.get_words_from_recent_remember_words()

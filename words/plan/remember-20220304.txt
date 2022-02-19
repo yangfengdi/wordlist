@@ -1,75 +1,75 @@
-chill|v.(使)变冷；(使)扫兴；[冶]冷淬; n.寒冷；扫兴；寒心；着凉; adj.冷淡的；寒冷的
-cellar|n.地窖；地下室; vt.把...藏入地窑
-clockwise|adj.顺时针方向的; adv.顺时针方向地
-demi|pref.半
-reunion|n.团聚；联合
-cigar|n.雪茄烟
-crown|n.王冠；王权；花冠；顶点；齿冠；克朗（丹麦、瑞典、捷克等国的货币单位）; vt.加冕；使...成王；居...之顶；镶齿冠；使圆满；打…的头部
-blindfold|v.蒙住...的眼睛; n.蒙眼物；盲目; adj.被蒙上眼睛的
-creator|n.创造者；[计]创建者; Creator.; n.上帝
-compartment|n.间隔；个别室；卧车包房; vt.划分
-boot|n.靴子；猛踢；解雇；[英]汽车行李箱; vt.踢；穿靴子；逐出；启动(计算机)
-unbelievable|adj.难以置信的
-developing|adj.发展中的
-cracking|n.分裂；分解; adj.很快的；很好的；很美的; adv.很快地；很好地；很美地
-lid|n.盖子；眼睑; vt.给...装盖子
-deck|n.甲板；层面；一副牌; vt.装饰；用力击倒
-deli|n.(=delicatessen)熟食店
-bet|v.打赌；确信无疑; n.赌注；确信
-compliant|adj.适用的；顺从的
-frown|n.皱眉；不悦; v.不同意；皱眉头
-collapsed|adj.倒塌的
-robe|n.长袍; v.(使)穿上长袍
-darkness|n.黑暗
-churn|n.搅乳器; v.搅拌；搅动；翻腾；〈口〉粗制滥造
-conserve|n.蜜饯；果酱; v.保存；保持；节省；用糖保存
-marvelous|adj.令人惊异的；非凡的; =marvellous
-detour|n.绕路；便道; v.绕路而行
-conquer|vt.征服；克服；战胜; vi.得胜
-click|n.咔嗒声；[计]点击; v.（使）发出咔嗒声；点击
-hooded|adj.戴头巾的；有兜帽的；有罩盖的；[动]有冠顶的
-convert|v.(使)转变；使…改变信仰；转化；兑换；换算; n.皈依者；改变信仰的人
-cope|vi.应付；对抗；妥善处理; vt.笼罩；盖上斗篷; n.长袍；斗篷状物
-appetite|n.食欲；嗜好；欲望
-disk|n.圆盘；唱片；花盘；磁盘；盘形物
-cocoon|n.茧；茧状物; v.包围；包裹
-demotic|adj.平民的；民众的；通俗的
-crocodile|n.鳄鱼
-cha|n.茶
-dedication|n.奉献；献词；献堂礼
-bolt|n.门闩；螺栓；一卷布；弩箭; v.（突然）逃离；闩住；狼吞虎咽；用螺栓固定; adv.挺直地
-cower|v.畏缩；退缩；抖缩
-fairy|n.仙女；小精灵; adj.优雅的；幻想中的；虚构的
-paddle|n.桨；划桨；明轮翼; v.划桨；戏水；抚弄
-unharmed|adj.没有受伤的；无恙的
-clan|n.氏族；宗族；党派
-dabble|v.喷洒；玩水；泼溅；涉猎；浅尝
+ante|n.(纸牌游戏中发牌钱下的)赌注；(需预付的)款项; v.下赌注；付款; pref.表示“前”
+budge|v.移动；妥协; n.羔皮; adj.浮夸的；庄严的
 shortage|n.不足；缺少，短缺
-desperate|adj.绝望的；不顾一切的；极其想要的
-stinky|adj.恶臭的
-harness|n.马具；安全带；甲胄；系在身上的绳子; vt.束以马具；披上甲胄；利用；管理；控制
-ceiling|n.天花板；上限
-pillar|n.柱子；支柱；核心(人物); vt.用柱支持
-raging|adj.狂暴的；非凡的；熊熊燃烧的
-tone|n.语气；音调；调子；色调；风气; v.使更健壮；定调；调色；装腔作势地说
-clench|v.紧握；紧咬；牢牢地抓住；确定; n.牢牢抓住；钉紧
-steaming|n.汽蒸(蒸烘)
-craggy|adj.多峭壁的；棱角分明的
-circus|n.马戏团；马戏表演；竞技场；广场
-nonstop|adj.直达的；不断的；不间断的; adv.直达地；不间断地; n.直达车；直达行驶
-composed|adj.镇静的；沉着的；由…组成的
-charm|n.魅力；吸引力；迷人；美貌; v.（使）着迷；施魔法
+convert|v.(使)转变；使…改变信仰；转化；兑换；换算; n.皈依者；改变信仰的人
+curdle|v.凝结；变稠; v.(使)结成凝乳；变成凝乳状
+wool|n.羊毛；毛线；毛织品
+bind|v.捆绑；装订；约束；强迫；团结; n.窘境
+crocodile|n.鳄鱼
+beast|n.兽；畜牲
+assist|vt.帮助；协助; vi.帮助；出席; n.帮助；协助；助攻；协助的器械
+blindfold|v.蒙住...的眼睛; n.蒙眼物；盲目; adj.被蒙上眼睛的
 bloody|adj.流血的；血腥的；嗜杀的; vt.使流血; adv.[俚]非常
-mere|adj.仅仅的；纯粹的
 uncover|vt.揭开；揭露
+deaths|死亡人口
+intensive|adj.密集的；彻底的；精细的；强调的; n.(语法)强调成份
+crown|n.王冠；王权；花冠；顶点；齿冠；克朗（丹麦、瑞典、捷克等国的货币单位）; vt.加冕；使...成王；居...之顶；镶齿冠；使圆满；打…的头部
+unbelievable|adj.难以置信的
+swimmer|n.游泳者
+fury|n.愤怒；狂暴；狂怒的人；泼妇; Fury.; n.[罗神]复仇女神
+practicing|adj.开业的；在工作的
+appetite|n.食欲；嗜好；欲望
+cuff|n.袖口；手铐; n.巴掌; v.为...上袖口；带手铐; v.轻拍；掴
 creation|n.创造；创作
+divine|adj.神圣的；神的; vt.推断; vi.预言；理解; n.牧师；神学家
+dabble|v.喷洒；玩水；泼溅；涉猎；浅尝
+syrup|n.糖浆；甜而黏稠的汁液
+bald|adj.秃头的；单调的；无装饰的; v.（使）变秃头
+lair|n.(野兽的)巢穴；(人的)藏身处
+deli|n.(=delicatessen)熟食店
+carcass|n.尸体；残骸；骨架；(人的)身躯
+fairy|n.仙女；小精灵; adj.优雅的；幻想中的；虚构的
+harness|n.马具；安全带；甲胄；系在身上的绳子; vt.束以马具；披上甲胄；利用；管理；控制
+rattle|vi.嘎嘎作响；喋喋不休; vt.使惊惶失措；使恼火；使作响；急促地谈讲; n.嘎嘎声；嘎嘎响的东西；拔浪鼓
+victorious|adj.胜利的；得胜的
+loch|n.湖；狭长的海湾
+hoot|n.鸣笛声；猫头鹰叫声；一点点；好笑的人或事; v.大声叫嚣；(汽笛、喇叭等)呜呜作响；哄赶
+apiece|adv.每人；每个；各
+beware|v.小心；谨防
+spelling|n.拼法；拼写
+demotic|adj.平民的；民众的；通俗的
+creator|n.创造者；[计]创建者; Creator.; n.上帝
+disk|n.圆盘；唱片；花盘；磁盘；盘形物
+maker|n.制造者；制定者; Maker:上帝.
+mere|adj.仅仅的；纯粹的
+trickle|vi.滴流；慢慢移动; n.细流；徐徐地流
+dedication|n.奉献；献词；献堂礼
+reunion|n.团聚；联合
+overtime|n.加班时间(加班加点费)；(比赛)延长时间; adv.在规定时间之外(超出时间地)
+supporter|n.支持者；拥护者；支撑物
+raging|adj.狂暴的；非凡的；熊熊燃烧的
+pillar|n.柱子；支柱；核心(人物); vt.用柱支持
+banquet|n.宴会; vi.参加宴会; vt.宴请；设宴
+distraction|n.分心；分心的事物；注意力分散；娱乐；消遣；发狂
+courier|n.送快信的；急差；旅行服务员
+desperate|adj.绝望的；不顾一切的；极其想要的
+developing|adj.发展中的
+detour|n.绕路；便道; v.绕路而行
+lid|n.盖子；眼睑; vt.给...装盖子
+mornings|n.每天上午；在任何上午
+boot|n.靴子；猛踢；解雇；[英]汽车行李箱; vt.踢；穿靴子；逐出；启动(计算机)
+doggy|n.小犬；小狗（=doggie）; adj.爱狗的；像狗一样的；摆阔的；低级的
+disgrace|n.耻辱; v.耻辱；丢脸
+tight|adj.紧的；紧身的；密集的；拮据的; adv.紧紧地；牢固地；迅速地
+shabby|adj.破旧的；寒酸的；低劣的，无耻的；卑劣的
+routine|n.例行公事；常规；无聊; adj.常规的；例行的；乏味的
 demon|n.魔鬼；恶魔；精力充沛的人；高手
 disgusting|adj.令人厌恶的
-chipmunk|n.[动]花栗鼠
-syrup|n.糖浆；甜而黏稠的汁液
-curdle|v.凝结；变稠; v.(使)结成凝乳；变成凝乳状
-hearth|n.炉床；灶台；炉边
-grandson|n.孙子；外孙
-linger|vi.徘徊；逗留；消磨；漫步
-supporter|n.支持者；拥护者；支撑物
-charitable|adj.仁慈的；(为)慈善事业的；宽恕的
+darkness|n.黑暗
+sailors|海员
+fiend|n.魔鬼；邪神
+crow|n.乌鸦；啼叫；欢叫; v.报晓；啼叫；欢叫；夸口；洋洋自得
+unharmed|adj.没有受伤的；无恙的
+deck|n.甲板；层面；一副牌; vt.装饰；用力击倒
+bonding|n.形成的亲密关系；[牙]黏结
+demi|pref.半

@@ -1,75 +1,75 @@
-lag|v.落后；减退；缓慢进行; n.落后；时间间隔
-lowness|n.低；下贱；粗鄙
-immediate|adj.直接的；最接近的；立即的；目前的
-jogging|n.慢跑
-fog|n.雾；朦胧；迷惑; v.以雾笼罩；使模糊；迷惑
-technically|adv.技术上；学术上；严密地
-mangle|v.碾压；损坏；糟蹋；乱切; n.碾压机
-ah|int.啊；哈; =aah.
-nap|n.小睡；绒毛；纳普牌; vi.打盹；疏忽
+footed|adj.有脚的；...脚的
+destruction|n.破坏；毁灭
+gasp|v.喘气；喘息；渴望; n.喘气
+gross|adj.总的；粗鲁的；公然的；荒唐的；令人讨厌的; n.总量；总额; vt.总共赚得; adv.总共地
 thoughtful|adj.深思的；体贴的
-maniac|n.疯子；热衷者；躁狂者
-luck|n.运气；幸运；侥幸; v.侥幸成功；走运
-turf|n.草皮；泥炭；赛马场；赛马; v.铺草皮
-mist|n.雾；迷蒙；朦胧不清; vt.使…模糊；蒙上雾; vi.使模糊；下雾
-weekly|adj.每周的；一周一次的；周刊的; n.周刊；周报; adv.每周；一周一次
-edition|n.版；版本
-relative|adj.相对的；比较的；相关的; n.亲戚；[语]关系词
-stomp|vt.跺（脚）；重踏; n.跺脚舞；顿足爵士舞乐曲
-sword|n.剑；刀
-vicious|adj.恶毒的；恶意的；剧烈的；堕落的
-hint|n.暗示; v.暗示；示意
-sorts|n.种类; 分类.
-courageous|adj.勇敢的；有勇气的，有胆量的
-hardworking|adj.努力工作的；勤奋的
-lifeboat|n.救生船
-pitiful|adj.慈悲的；可怜的；凄惨的
-saddle|n.鞍；车座；山脊；当权; vt.装以马鞍；使负担; vi.装马鞍
-proudly|adv.傲慢地；自大地；得意洋洋地
-heal|vt.治愈；使恢复健康；使和解; vi.痊愈
-mansion|n.大厦；宅邸；公寓
-ire|n.愤怒
-eerie|adj.怪诞的；可怕的；奇异的；害怕的
-mishap|n.不幸之事；灾祸；恶运
-humbly|adv.恭顺地；谦卑地
-unpredictable|adj.不可预知的
-imperceptibly|adv.极微小地；逐步地
-lees|n.沉淀物；渣滓
-sniff|vi.嗅；嗤之以鼻；找出; vt.嗅到；吸入；嗤之以鼻地说; n.嗅；吸气；气味
-mischief|n.淘气；恶作剧；捣蛋鬼；损害；伤害
-huddle|n.杂乱一团；混乱；拥挤; v.推挤；乱堆；草率了事
-hitch|n.猛拉；急促猛推；跛行；妨碍；免费搭车; vt.拴住；连住；急拉；拉紧；免费搭车; vi.蹒跚；被缠结；免费乘车
-liberate|v.解放；使获得自由；释出；放出
-lovingly|adv.钟情地；深情地
-pup|n.小狗；小海豹；小伙子
-medaled|adj.接受奖章的；佩带徽章的
-misfortune|n.不幸；灾祸
-intercept|n.截取；妨碍；截距; vt.拦截；阻止
-scenery|n.风景；背景；布景
-jerk|v.急动；猛拉; n.猛拉；急动；笨蛋；蠢人; adj.颠簸不稳的
-kaboom|背着网接团身后空翻
-tug|n.用力拉；拖船; v.用力拉
-muddy|adj.泥泞的；浑浊的；糊涂的; v.使沾上烂泥；使...混浊；使迷惑
-jigsaw|n.拼图游戏；缕花锯；竖锯; vt.用竖锯锯；使互相交错搭接
-quest|n.探索；寻求; v.寻找；搜索
-delight|n.高兴；快乐; v.(使)高兴；(使)欣喜
-lease|n.租约；租契；租期; vt.出租；租得
-lure|vt.诱惑；吸引; n.诱惑；吸引力；饵
-fiercely|adv.猛烈地；厉害地
-moonlight|n.月光; v.兼职; adj.夜间的
-gloomy|adj.阴暗的；忧闷的；前景黯淡的
-slumber|n.睡眠；微睡；休止状态; v.睡觉；打盹；静止；休眠
-non|adv.[拉]非；不是
-stitch|n.一针；疼痛；碎布条; v.缝合
-squawk|n.叫声；嘈杂的抱怨; v.呱呱地叫鸣；喋喋不休地发牢骚
-magician|n.魔术师；术士
-clicking|n.微小静电干扰声
-lousy|adj.多虱的；可鄙的；差劲的; adj.【口】大量的（通常指不好的事物）
-lunge|n.刺；刺进；跃进; v.猛向前冲；踢；刺出
-palaces|宫城
-oceans|n.大洋
-sheriff|n.郡治安官；郡长
-dire|adj.可怕的；悲惨的；极其的
-momentous|adj.重要的；重大的
+poker|n.扑克; n.戳(或捅)的人；拨火棍
 bordering|n.边缘(设立疆界；边界标志物)
-ichor|n.[希神]灵液；[医]脓水
+unpredictable|adj.不可预知的
+gnaw|v.咬；折磨；侵蚀
+happier|adj.更快乐的；更幸福的
+hairy|adj.多毛的；长毛的；令人恐怖的；难对付的
+thumb|n.拇指; v.翻阅；示意要求搭车
+tug|n.用力拉；拖船; v.用力拉
+pup|n.小狗；小海豹；小伙子
+triumphant|adj.胜利的；得意洋洋的
+positively|adv.极其；绝对地；十分肯定的；坚定的
+non|adv.[拉]非；不是
+faraway|adj.遥远的；远方的；(神情)恍惚的；出神的
+gleam|v.闪烁；隐约地闪现; n.微光；闪光；闪现
+nights|adv.每晚；在夜晚
+goatskin|n.山羊皮
+fisherman|n.渔夫；渔船
+fog|n.雾；朦胧；迷惑; v.以雾笼罩；使模糊；迷惑
+giggle|v.咯咯地笑; n.咯咯笑；趣事
+jaw|n.颚；颌；下巴；钳口；说教; v.喋喋不休；教训
+furious|adj.狂怒的；猛烈的
+cranky|adj.怪癖的；不稳的
+frontal|adj.前的；正面的；额的; n.额饰；祭坛前面的罩巾；建筑物的正面；三角门楣
+sneaky|adj.鬼祟的；卑鄙的
+sorts|n.种类; 分类.
+nap|n.小睡；绒毛；纳普牌; vi.打盹；疏忽
+harpy|n.残酷贪婪的人；恶妇人; Harpy.; n.[希神]哈耳皮埃(鸟身女妖)
+hem|n.褶边; vt.缝边；包围；约束
+eerie|adj.怪诞的；可怕的；奇异的；害怕的
+helplessly|adv.无能为力地；无助地
+gravel|n.碎石; v.铺碎石；使困惑
+gruesome|adj.可怕的；令人毛骨悚然的；阴森的
+harmony|n.和谐；协调；调和；和声
+spawn|n.卵；产物；后代；结果; vt.产卵；种菌丝于；产生；造成; vi.产卵；大量生产
+grin|v.露齿而笑；(以咧嘴笑来)表示; n.露齿笑；咧嘴笑
+ah|int.啊；哈; =aah.
+sniff|vi.嗅；嗤之以鼻；找出; vt.嗅到；吸入；嗤之以鼻地说; n.嗅；吸气；气味
+vicious|adj.恶毒的；恶意的；剧烈的；堕落的
+goalie|n.(足球等运动的)守门员; =goalkeeper
+fragment|n.碎片；片段; v.使破碎；分裂
+hardworking|adj.努力工作的；勤奋的
+harrumph|n.哼声；鼻息; v.发哼声
+eagerly|adv.渴望地
+flail|v.挥动；用连迦打；敲打; n.连迦
+wink|n.眨眼；使眼色；瞬间; v.眨眼；使眼色；闪烁
+proudly|adv.傲慢地；自大地；得意洋洋地
+gunman|n.持枪者；枪手；持枪歹徒；职业杀手
+scenery|n.风景；背景；布景
+gigantic|adj.巨大的
+jealousy|n.妒忌
+headquarters|n.总部；司令部；指挥部
+gymnastics|n.体操
+gut|n.内脏；肠子；羊肠线；胆量；勇气; vt.取出内脏；摧毁（内部）; adj.本能的；（问题等）根本的
+jealous|adj.妒忌的；羡慕的；嫉妒的
+amused|adj.愉快的；顽皮的；被逗乐的；觉得好笑的
+technically|adv.技术上；学术上；严密地
+freshly|adv.新近；刚才
+dwell|vi.居住；存在；冥想；详细阐述
+stomp|vt.跺（脚）；重踏; n.跺脚舞；顿足爵士舞乐曲
+edition|n.版；版本
+foul|adj.恶臭的；邪恶的；污秽的；恶劣的；犯规的; n.犯规; v.弄脏；妨碍；犯规
+robbery|n.抢劫
+fling|vt.投；粗暴地推向...；猛冲；激动地说；全身心投入; n.投掷；一时的行乐；漫不经心的一段(尝试或感情); vi.急冲；(动物)猛跳
+smoothly|adv.平滑地；流畅地
+enlighten|v.启发；开导；教导
+combination|n.结合；结合到一起的事物或人；密码
+stitch|n.一针；疼痛；碎布条; v.缝合
+glint|n.闪烁; v.闪耀；闪闪发光
+furiously|adv.狂怒地；有力地；猛烈地
+hint|n.暗示; v.暗示；示意

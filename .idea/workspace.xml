@@ -6,7 +6,50 @@
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbscript.sql" beforeDir="false" afterPath="$PROJECT_DIR$/dbscript.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict.db" beforeDir="false" afterPath="$PROJECT_DIR$/dict.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/word_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220219.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remember/remember-20220219.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220220.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220221.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220222.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220223.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220224.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220225.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220226.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220227.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220228.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220301.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220302.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220303.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220304.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220305.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220306.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220307.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220308.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220309.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220310.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220312.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220313.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220314.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220315.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220316.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220317.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220318.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220319.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220320.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220322.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220324.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220325.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220326.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220328.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220329.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220330.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220331.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +94,10 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/words/quiz" />
-      <recent name="$PROJECT_DIR$/words/remember" />
-      <recent name="$PROJECT_DIR$/words/plan" />
       <recent name="$PROJECT_DIR$/words/remember/archive" />
+      <recent name="$PROJECT_DIR$/words/remember" />
+      <recent name="$PROJECT_DIR$/words/quiz" />
+      <recent name="$PROJECT_DIR$/words/plan" />
       <recent name="$PROJECT_DIR$/words/quiz/archive" />
     </key>
   </component>
@@ -445,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645166587389</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="更新词汇记忆与测验数据。">
+      <created>1645167454960</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1645167454960</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="UnknownFeatures">

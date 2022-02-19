@@ -1,75 +1,75 @@
-goodwill|n.善意；亲切；友好；商誉；信誉
-bestow|v.授予；给予；使用；放置
-aviator|n.飞行员
-squeaky|adj.吱吱响的；发轧声的；短促尖声的
-adrift|adv.漂流地；漫无目的地; adj.漂泊的；漫无目的的；松开的
-await|v.等候；期待；将降临于
-bloodstained|adj.染着血的；犯杀人罪的
-afterlife|n.来世；后来的岁月
-amazement|n.惊愕；惊异
-brigade|n.旅；队；组; vt.组队；编组
-builder|n.建设者；建筑工人；促进剂；增洁剂
-willow|n.柳树；柳木制品
-swoop|v.抓取；猛扑；突然袭击; n.俯冲；攫取；突然袭击
-devil|n.魔鬼；淘气鬼；坏人；家伙；棘手的事; vt.困扰；添加辣味调料；给...做助手
-rhythmic|adj.有节奏的；有韵律的
-legendary|adj.传说的；传奇的；著名的
-warmly|adv.亲切地；温暖地；热烈地
-badminton|n.羽毛球
-announcer|n.广播员；告知者
-moan|n.呻吟声；抱怨声; vt.抱怨；呻吟; vi.呻吟；抱怨
-binding|n.镶边；（书籍的）封皮；（滑雪板的）皮靴固定装置; adj.必须遵守的；有法律约束力的
-dining|n.就餐
-cannonball|n.炮弹；抱膝跳水；高速列车；炮弹式发球; v.以极快速度移动；抱膝跳水
-badger|n.獾；獾皮(毛); Badger:獾州人(对威斯康星州人的昵称).; v.纠缠；一再烦扰；吵着要
-aw|int.表示抗议、怀疑、厌恶等的感叹语
-mortality|n.死亡率；死亡数目；必死性
-beloved|adj.心爱的; n.爱人
-ahoy|int.喂（用来呼叫船或人）
-ankle|n.踝；踝关节
-armful|n.一抱之量
-weary|adj.疲倦的；厌烦的; v.疲倦；厌烦；生厌
-bleat|n.羊的鸣声；哀鸣; v.发出羊叫声；哀鸣；哭诉
-bundle|n.捆；束；包；大笔钱; v.捆；把...扎成一捆；匆忙地走
-foresee|v.预见；预知
-poke|n.戳；刺；拨；钱袋; v.戳；捅；刺；拨开；伸出
-holler|v.叫喊；发牢骚; n.叫喊；怨言
-avenge|vt.为...报复；报仇
-immortal|adj.不朽的；永世的; n.不朽的人物；神
-burial|n.埋葬；葬礼；坟墓
-arc|n.弧；弧形物; vi.形成电弧；按弧形轨迹行进
-aphrodite|n.北美豹蝶; Aphrodite.; n.阿佛洛狄忒（爱与美之女神）
-hurl|v.用力投掷；愤慨地说出；丢下
-scram|n.急停；急离；紧急刹车; v.快走开
-beautifully|adv.美丽地；完美地；出色地；很好
-blacksmithing|n.锻造，手工锻造
-cattle|n.牛；家畜；畜牲
-behold|vt.看到；注视；领悟; vi.看；看啊(多用于祈使句；引起人的注意)
-eternity|n.永远；来世；不朽；漫长的时间
-luckily|adv.幸运地；幸亏地
-enormous|adj.巨大的；庞大的
 thud|n.重击声；砰的一声; v.发出砰的一声
-detached|adj.超然的；分离的；独立的
-architect|n.建筑师; n.【喻】缔造者；创造者
-betcha|int.当然；真的；的确！; =betyou.
-yo|int.唷(水手拉绳时一道发出的叫声)
-arrow|n.箭；箭头
-administrator|n.管理人；行政官
-brewski|n.啤酒；一瓶啤酒
-buddy|n.伙伴；兄弟；好朋友; vi.结交
-blade|n.刀刃；刀锋；桨叶；叶片
-swamp|n.沼泽；湿地；困境; v.淹没；使陷于困境；使忙于应付
-pluck|v.摘；猛拉；拔；拨弹（乐器）; n.猛拉；勇气；动物内脏
-cautiously|adv.慎重地；谨慎的
-stable|adj.稳定的；安定的；可靠的; n.马棚；马厩；一批人; v.使（马）入厩；入马棚
+clench|v.紧握；紧咬；牢牢地抓住；确定; n.牢牢抓住；钉紧
+swoop|v.抓取；猛扑；突然袭击; n.俯冲；攫取；突然袭击
+compartment|n.间隔；个别室；卧车包房; vt.划分
+thoughtful|adj.深思的；体贴的
+collapsed|adj.倒塌的
+legendary|adj.传说的；传奇的；著名的
+conquer|vt.征服；克服；战胜; vi.得胜
+bordering|n.边缘(设立疆界；边界标志物)
+unpredictable|adj.不可预知的
+compliant|adj.适用的；顺从的
+nonstop|adj.直达的；不断的；不间断的; adv.直达地；不间断地; n.直达车；直达行驶
+tug|n.用力拉；拖船; v.用力拉
+pup|n.小狗；小海豹；小伙子
+bet|v.打赌；确信无疑; n.赌注；确信
+robe|n.长袍; v.(使)穿上长袍
+non|adv.[拉]非；不是
 tread|n.步法；踏面；胎面花纹；鞋底; v.踩；行走；践踏；(鸟类)交配
-awaken|v.醒；意识到；唤醒；激起；使意识到；使唤醒
-girdle|n.腰带；围绕物; vt.以腰带束缚；在...周围绕
-baboon|n.狒狒
-bang|n.巨响；重击；刘海; v.重击；大声敲；剪成刘海；突然巨响; adv.正好地；准确地
-bog|n.沼泽; v.使...陷于泥沼；陷于困境
-exhausted|adj.用完的；精疲力竭的
+tone|n.语气；音调；调子；色调；风气; v.使更健壮；定调；调色；装腔作势地说
+mortality|n.死亡率；死亡数目；必死性
+rhythmic|adj.有节奏的；有韵律的
+hooded|adj.戴头巾的；有兜帽的；有罩盖的；[动]有冠顶的
+fog|n.雾；朦胧；迷惑; v.以雾笼罩；使模糊；迷惑
+stinky|adj.恶臭的
+hearth|n.炉床；灶台；炉边
+scram|n.急停；急离；紧急刹车; v.快走开
+bolt|n.门闩；螺栓；一卷布；弩箭; v.（突然）逃离；闩住；狼吞虎咽；用螺栓固定; adv.挺直地
+click|n.咔嗒声；[计]点击; v.（使）发出咔嗒声；点击
+paddle|n.桨；划桨；明轮翼; v.划桨；戏水；抚弄
+marvelous|adj.令人惊异的；非凡的; =marvellous
+hurl|v.用力投掷；愤慨地说出；丢下
+sneaky|adj.鬼祟的；卑鄙的
+sorts|n.种类; 分类.
+nap|n.小睡；绒毛；纳普牌; vi.打盹；疏忽
+eerie|adj.怪诞的；可怕的；奇异的；害怕的
+spawn|n.卵；产物；后代；结果; vt.产卵；种菌丝于；产生；造成; vi.产卵；大量生产
+clan|n.氏族；宗族；党派
+ah|int.啊；哈; =aah.
+devil|n.魔鬼；淘气鬼；坏人；家伙；棘手的事; vt.困扰；添加辣味调料；给...做助手
+clockwise|adj.顺时针方向的; adv.顺时针方向地
+cope|vi.应付；对抗；妥善处理; vt.笼罩；盖上斗篷; n.长袍；斗篷状物
+sniff|vi.嗅；嗤之以鼻；找出; vt.嗅到；吸入；嗤之以鼻地说; n.嗅；吸气；气味
+vicious|adj.恶毒的；恶意的；剧烈的；堕落的
+moan|n.呻吟声；抱怨声; vt.抱怨；呻吟; vi.呻吟；抱怨
+cracking|n.分裂；分解; adj.很快的；很好的；很美的; adv.很快地；很好地；很美地
+hardworking|adj.努力工作的；勤奋的
+squeaky|adj.吱吱响的；发轧声的；短促尖声的
+stable|adj.稳定的；安定的；可靠的; n.马棚；马厩；一批人; v.使（马）入厩；入马棚
+proudly|adv.傲慢地；自大地；得意洋洋地
+afterlife|n.来世；后来的岁月
+holler|v.叫喊；发牢骚; n.叫喊；怨言
+steaming|n.汽蒸(蒸烘)
+goodwill|n.善意；亲切；友好；商誉；信誉
+betcha|int.当然；真的；的确！; =betyou.
+composed|adj.镇静的；沉着的；由…组成的
+poke|n.戳；刺；拨；钱袋; v.戳；捅；刺；拨开；伸出
 unmarried|adj.未婚的；独身的; n.未婚者
-barque|n.三桅船；轻舟
-granny|n.奶奶
-ambrosia|n.神的食物；特别美味的食物
+cower|v.畏缩；退缩；抖缩
+amused|adj.愉快的；顽皮的；被逗乐的；觉得好笑的
+technically|adv.技术上；学术上；严密地
+conserve|n.蜜饯；果酱; v.保存；保持；节省；用糖保存
+linger|vi.徘徊；逗留；消磨；漫步
+frown|n.皱眉；不悦; v.不同意；皱眉头
+craggy|adj.多峭壁的；棱角分明的
+weary|adj.疲倦的；厌烦的; v.疲倦；厌烦；生厌
+stomp|vt.跺（脚）；重踏; n.跺脚舞；顿足爵士舞乐曲
+edition|n.版；版本
+grandson|n.孙子；外孙
+immortal|adj.不朽的；永世的; n.不朽的人物；神
+cocoon|n.茧；茧状物; v.包围；包裹
+scenery|n.风景；背景；布景
+stitch|n.一针；疼痛；碎布条; v.缝合
+circus|n.马戏团；马戏表演；竞技场；广场
+hint|n.暗示; v.暗示；示意
+girdle|n.腰带；围绕物; vt.以腰带束缚；在...周围绕

@@ -1,75 +1,75 @@
-eldest|adj.最年长的；最老的
-rightly|adv.正当地；公义地；正确地
-splendid|adj.极好的；辉煌的；壮观的；杰出的
-rage|n.狂怒；大怒；狂暴；肆虐；风行; v.大怒；怒斥；激烈进行；肆虐
-lug|n.柄；突出部；螺帽; n.(英）耳朵; 笨蛋; vt.拖；拉；用力拖动
-scattered|adj.分散的；稀疏的
-mastermind|n.聪明人；智多星；策划者; v.(巧妙地)策划
-shiner|n.发光物；发光体；银色小鱼；黑眼眶
-recall|n.回忆；取消；召回; vt.召回；恢复；回想起；唤起；与...相似
-realm|n.领域；王国
-redouble|v.加倍；再折叠；重复
-regroup|v.重新组合；重新编制；重新部署
-scoreboard|n.记分板
-sneaky|adj.鬼祟的；卑鄙的
-pasture|n.牧场；草原; vi.吃草; vt.放牧
+plentiful|adj.丰富的；多的；充裕的
+roars|n.怒吼
 rituals|仪式
-keeper|n.看守人；饲养员；管理者
-ripples|皱纹,纹波,涟漪
-regain|v.恢复；重回；复得
-oath|n.誓言；誓约；咒骂语
-stumble|v.绊倒；蹒跚；犯错误；无意中发现; n.绊倒；错误
+poh|int.轻视之声; vt.使疲倦
+rotten|adj.腐烂的；腐朽的；极坏的；讨厌的; adv.非常
 learners|学习者
-romp|v.嬉闹玩笑；欢快地迅速奔跑；轻易地取得胜利; n.好玩的游戏；欢闹；顽皮嬉闹的人；轻易取得的胜利
-reminder|n.提醒物；提示；催单
-liar|n.说谎者；骗子
-self|n.自己；本性；自我; pron.我自己；你自己；他或她自己; adj.始终如一的；同一类型的；性质不变的; v.近亲繁殖；自花授粉
-talker|n.说话的人；健谈者
-ferry|n.渡船；渡口; vt.摆渡；运输; vi.摆渡
-rake|n.耙子；耙状物; n.放荡的人; n.斜度；倾角; v.用耙子聚；收集；搜索; v.使倾斜
+huh|int.哼!哈!(表示轻蔑、吃惊或疑问)
+motion|n.移动；动作；打手势；示意；提议；大便; v.示意；运动；向...打手势
+stool|n.凳子；搁脚凳；便桶；大便; vi.引诱
+reincarnation|n.转世；再生
+oath|n.誓言；誓约；咒骂语
+ritual|n.仪式；典礼；宗教仪式；固定程序; adj.仪式的；老规矩的；惯常的
+ghost|n.幽灵；鬼魂; n.[计]美国赛门铁克公司旗下的硬盘备份还原工具
+scoreboard|n.记分板
+grab|v.抓住；攫取; n.抓取物；抓
 sandal|n.凉鞋; n.檀香木
-cunning|adj.狡猾的；有眼光的；精巧的；可爱的; n.【C】狡诈；灵巧
 scurry|v.小步疾走；急赶; n.快跑声；疾走
 donkey|n.驴；愚蠢的人
-rubber|n.橡胶；橡皮；橡胶制品; adj.橡胶的
+squash|n.壁球；摺皱不堪；拥挤嘈杂的人群；浓缩果汁；美国南瓜; vt.压制；压扁; vi.变扁；挤进
+mighty|adj.强大的；巨大的; adv.很；极其
+horribly|adv.可怕地；恐怖地；极其
 savory|adj.美味可口的；香辣的；令人愉快的；体面的; n.香薄荷; =savoury(英).
-scoot|v.急走; n.急走；迅速跑开
-rotten|adj.腐烂的；腐朽的；极坏的；讨厌的; adv.非常
-amused|adj.愉快的；顽皮的；被逗乐的；觉得好笑的
-monstrous|adj.怪异的；畸形的；巨大的
-ref|n.裁判员
-slimy|adj.黏滑的；卑劣的
-hay|n.干草；一小笔钱；床
-pan|n.平底锅；盘子；盘状物；淘盘；脸；严厉批评; v.严厉批评；（用淘盘）淘金
-flourish|v.茂盛；繁荣；挥舞；活跃; n.挥舞；花样；炫耀；华丽词藻
-freely|adv.自由地；免费地；直率地；大量地
-reconstruct|v.重建；修复；重现
-silvery|adj.含银的；银色光泽的；银铃般的
-tunic|n.束腰外衣；短上衣；被膜
-rightfully|adv.正直地；正当地
-revolve|v.旋转；考虑；围绕
-roars|n.怒吼
-motion|n.移动；动作；打手势；示意；提议；大便; v.示意；运动；向...打手势
-salsa|n.沙司(墨西哥食物中辣调味汁); n.萨尔萨舞曲
-myths|神话
+pendragon|n.古代不列巅或威尔斯的王侯；首领；旨长
+rubber|n.橡胶；橡皮；橡胶制品; adj.橡胶的
+hoist|v.升起；升高；举起; n.起重机；升高
 retired|adj.退休的；退役的
-reincarnation|n.转世；再生
-tempt|vt.诱惑；怂恿；引诱；吸引
-rally|n.集会；（价值等）回升；回合; vi.重整旗鼓；恢复精神；(人)集合起来; vt.嘲弄；重新召集；激励
-moisture|n.水分；潮气；湿度
-scoop|n.铲子；勺；舀取；穴；独家新闻; vt.挖空；舀取；抢先报道（获得）
-shiver|v.颤动；发抖; v.打碎; n.冷颤；哆嗦; n.碎块
-scrawny|adj.瘦的；骨瘦如柴的
-rejoice|v.（使）高兴；（使）欢喜
-marketplace|n.集会场所；市场
-secretly|adv.秘密地；背地里
-brow|n.前额；眉毛；山脊；表情
-spawn|n.卵；产物；后代；结果; vt.产卵；种菌丝于；产生；造成; vi.产卵；大量生产
-terror|n.恐怖；惊骇；令人惧怕或讨厌的人或事物
-puppy|n.小狗；自负的小伙子
-revive|vt.使重生；恢复精神；唤醒; vi.复生
-whine|n.闹声；抱怨；牢骚; v.哭诉；发牢骚
-owe|vt.欠（债；钱；人情等）；应当给予；感激；把...归功于
-ravenous|adj.贪婪的；极饿的
+regroup|v.重新组合；重新编制；重新部署
+supervise|vt.监督；管理；指导
+clam|n.蛤；沉默寡言的人; vi.保持沉默；挖蚌
+echo|vi.发出回声；回响; vt.重复；模仿；附和; n.回声；重复；共鸣; Echo.; n.[希神]山林女神（失恋于那喀索斯；其哀声留于山间成为回声）
+keeper|n.看守人；饲养员；管理者
+romp|v.嬉闹玩笑；欢快地迅速奔跑；轻易地取得胜利; n.好玩的游戏；欢闹；顽皮嬉闹的人；轻易取得的胜利
+sorrow|n.悲伤；悲痛；懊悔；伤心事; vi.悲伤；惋惜；悔恨
 romantic|adj.浪漫的；不切实际的; n.浪漫的人
+reminder|n.提醒物；提示；催单
+pat|n.轻拍；轻打；小块; v.轻拍；抚摸；拍打
+brute|n.畜生；残忍的人; adj.残忍的；无理性的；粗暴的
+brow|n.前额；眉毛；山脊；表情
+lug|n.柄；突出部；螺帽; n.(英）耳朵; 笨蛋; vt.拖；拉；用力拖动
+rejoice|v.（使）高兴；（使）欢喜
+disorder|n.混乱；杂乱；不适；失调；疾病; vt.扰乱
+terror|n.恐怖；惊骇；令人惧怕或讨厌的人或事物
+secretly|adv.秘密地；背地里
+perfume|n.香水；香气; vt.洒香水于；使香气弥漫
+plead|v.辩护；恳求；提出借口；认罪
+plaything|n.玩具；玩物；被玩弄的人
+revolve|v.旋转；考虑；围绕
+scrawny|adj.瘦的；骨瘦如柴的
+pooch|n.狗; vi.膨胀；凸起
+clink|n.牢房；叮当声; v.(使)叮当响
+peg|n.钉；支柱；借口; vt.钉木桩；扔; vi.努力工作；匆忙走
+lone|adj.孤单的；唯一的；单独的
+vanity|n.自负；虚荣心；无价值的东西；浮华
+flourish|v.茂盛；繁荣；挥舞；活跃; n.挥舞；花样；炫耀；华丽词藻
 archaeological|adj.考古学的；考古学上的
+ness|n.岬；海角
+scoot|v.急走; n.急走；迅速跑开
+lining|n.衬里；内层
+scoop|n.铲子；勺；舀取；穴；独家新闻; vt.挖空；舀取；抢先报道（获得）
+peppy|adj.精神充沛的；活泼的
+fate|n.命运；宿命
+potion|n.一服，一剂；（药物、毒物或有魔力的）饮料
+butt|n.烟蒂；屁股；枪托; n.笑柄；靶垛; n.大酒桶; n.抵撞; v.插嘴；顶撞
+merry|adj.愉快的；欢乐的；微醉的
+rightly|adv.正当地；公义地；正确地
+practiced|adj.熟练的；老练的；练成的
+ref|n.裁判员
+ripples|皱纹,纹波,涟漪
+newly|adv.新近地；重新地
+rightfully|adv.正直地；正当地
+salsa|n.沙司(墨西哥食物中辣调味汁); n.萨尔萨舞曲
+scattered|adj.分散的；稀疏的
+scarce|adj.缺乏的；不足的；稀少的；罕见的; adv.勉强
+nephew|n.外甥；侄子
+butcher|n.屠夫；刽子手；肉商；小贩; vt.屠宰；滥杀；将某事弄得一团糟

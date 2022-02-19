@@ -1,75 +1,75 @@
-shaker|n.摇动者；摇动器；搅拌器; Shaker：adj.；夏克尔风格的
-magnificent|adj.壮丽的；宏伟的；极好的
-sprinkle|v.洒；撒；下稀疏小雨; n.少量散布的屑状物
-memorize|v.记住；记录；记下
-grateful|adj.感激的；令人愉快的
-serpent|n.蛇；蛇一般的人；狡猾的人
-grace|n.优美；优雅；恩惠; vt.使优美；使荣耀
-bull|n.公牛；股市看涨的人；警察; n.荒谬的话; n.教皇诏书; adj.公牛的；鲁莽的
-unlock|v.开锁；开启；揭开；显露
-confusion|n.惶惑；混淆；混乱；不确定状态
-hoarse|adj.沙哑的；嘶哑的；刺耳的
-fasten|vt.拴紧；使固定；系；强加于; vi.固定；系紧；抓紧
-rewrite|n.重写；改写; vt.改写；重写; vi.修改
-officially|adv.官方地；正式地；公务上；职务上
-afternoons|adv.每天下午
-prophecy|n.预言; =prophesy.
-torch|n.手电筒；火炬；火把；纵火犯; v.纵火
-riddle|n.谜；谜语; vt.解谜；出谜题；充满；打洞；筛选; vi.出谜题
-warriors|武士
-kindness|n.仁慈；好意；友好的行为
-doggie|n.小狗；狗；汪汪; adj.狗的；像狗一样的; =doggy.
-soul|n.灵魂；心灵；精神
-mortal|adj.致命的；终有一死的；不共戴天的；极度的; n.凡人
-historian|n.历史学家；编史者
-satisfied|adj.感到满意的
-sweat|n.汗水; n.焦急；繁重工作；(凝结在物体表面的)水珠; v.(使)出汗
-compound|n.化合物；复合词；复合物; n.院子(用围墙圈起来的场地）; adj.化合的；【语】（词语等）复合的；【植】复合的；【动】群体的; vt.混合；调合；使严重；私了；【经】以复利计算; vi.妥协
-goner|n.完蛋的人；无可救药者
-heartless|adj.无情的；残酷的
-flip|vt.掷；轻击；弹; vi.翻转; n.（跳水或体操动作中的）空翻；轻弹；浏览; adj.无礼的；冒失的；轻率的
-waterfall|n.瀑布
-bravery|n.勇敢；华丽(的衣服)
-supervise|vt.监督；管理；指导
-aerobics|n.有氧运动；健美操
-grab|v.抓住；攫取; n.抓取物；抓
-lining|n.衬里；内层
-nearest|adj.最近的
-aboard|adv.在船上；在火车上；在飞机上; prep.上船；上飞机；上车
-foolish|adj.愚蠢的；荒谬的；可笑的
-dreamy|adj.梦幻般的；心不在焉的；不切实际的；轻柔的
-terribly|adv.可怕地；非常地；很
-threes|n.祝你走运
-dreary|adj.沉闷的；令人沮丧的；情绪低落的
-fingertips|指尖
-hoax|v.欺骗；哄骗；愚弄; n.愚弄人；恶作剧
-hospitality|n.款待；殷勤；好客；酒店管理
-jumper|n.跳跃者；跳高运动员；雪橇；[电]跳线; n.无袖连衣裙；套头衫；连衫裤童装；工作夹克
-wicked|adj.坏的；邪恶的；缺德的; adv.极端地；非常地; vt.吸收
-accompany|vt.陪伴；伴随...发生；补充；给...伴奏; vi.伴奏
-thoughtfully|adv.深思地；考虑周到地；细心地
-peck|v.啄；连续敲击；轻吻; n.啄痕；啄食；轻吻; n.配克；大量
-sway|v.摇动；摇摆；支配；影响；说服，使相信; n.摇摆；支配；影响
-glide|v.滑动；滑翔；溜走; n.滑动；滑过；滑音
-condo|n.[口]分户出售公寓大厦; =condominium.
 groan|v.呻吟；抱怨；发嘎吱声；受重压; n.呻吟；呻吟声
-blond|adj.金发的; n.金发的人
-finest|adj.好的；出色的
-pat|n.轻拍；轻打；小块; v.轻拍；抚摸；拍打
-gorgeous|adj.华丽的；灿烂的；极好的
-stink|n.臭味；臭气; vi.发臭味；招人讨厌
-horribly|adv.可怕地；恐怖地；极其
-eternal|adj.永久的；永恒的; n.永恒的事
-carpenter|n.木匠; v.做木工活
-buffet|n.自助餐；饮食柜台；打击; vt.连续猛击；打击
-snug|adj.温暖舒适的；合身的；安全的; v.使整洁干净；舒适地依靠；紧贴; n.酒吧里的私房
-invasion|n.侵略；侵入
-ash|n.灰；灰烬; n.白蜡树；白蜡木; (复)ashes：骨灰；废墟；苍白.
+skim|vt.撇去；略读；掠过；滑过; vi.掠过；表面凝结；瞒报; n.浮沫；略读；脱脂物
+stadium|n.体育场；运动场；[生]期
+peacefully|adv.平静地；和平地
 brass|n.黄铜(制品)；铜管（乐器）；厚脸皮; adj.黄铜的
-daddy|n.爸爸
+memorize|v.记住；记录；记下
+unlock|v.开锁；开启；揭开；显露
+fasten|vt.拴紧；使固定；系；强加于; vi.固定；系紧；抓紧
+kindness|n.仁慈；好意；友好的行为
+spectator|n.观众；旁观者
+statue|n.雕像；塑像
+barrage|n.弹幕；掩护炮火; n.拦河坝; vt.以密集火力进攻
+tent|n.帐篷; v.住帐篷；宿营
+sadly|adv.悲哀地；遗憾的是；极为
+whirl|v.使...旋转；回旋；迅速移动；头晕目眩; n.回旋；旋转；一个接一个的活动；混乱；尝试
+banish|vt.驱逐；流放；消除
+shiner|n.发光物；发光体；银色小鱼；黑眼眶
+sweat|n.汗水; n.焦急；繁重工作；(凝结在物体表面的)水珠; v.(使)出汗
+sometime|adj.以前的; adv.改天；来日；某时
+sternly|adv.严格地；严肃地；坚定地
+grand|adj.重大的；豪华的；宏伟的；壮丽的; n.大钢琴；一千美元
+fingertips|指尖
+spectacle|n.景象；场面；奇观；壮观；公开展示；表相，假相; n.（复）眼镜
+sneak|vt.偷偷摸摸做; vi.偷偷地走；偷偷地做; n.鬼鬼祟祟的人；潜行；溜; adj.出其不意的；暗中进行的
+headline|n.大字标题；新闻提要；头条新闻; v.加标题于；宣扬；作主角
+chariot|n.二轮战车; v.驾驭战车
+chrome|n.铬；铬黄；谷歌浏览器; vt.镀铬
+shore|n.岸；滨
+bravery|n.勇敢；华丽(的衣服)
+achievement|n.成就；成绩；完成；达到
+shrine|n.圣地；神龛；庙; v.将...置于神龛内；把...奉为神圣
+soul|n.灵魂；心灵；精神
+hoax|v.欺骗；哄骗；愚弄; n.愚弄人；恶作剧
 dung|n.动物的粪便; v.上粪
-drool|v.流口水；垂涎；胡说; n.口水；胡话
-digest|n.摘要; vt.消化；理解; vi.消化
-vanity|n.自负；虚荣心；无价值的东西；浮华
-tickle|vt.使发痒；逗乐；使快乐; vi.觉得痒; n.痒；抓痒
+soak|vt.使浸透；吸入；浸洗；使喝醉；敲竹杠; vi.浸泡；渗透；渗入；酗酒; n.浸；湿透；酒鬼
+raft|n.筏；木排；救生艇; n.大量; v.乘筏；制成筏
+sorceress|n.女魔法师；女巫
+postcard|n.明信片; adj.如画的
+sprinkle|v.洒；撒；下稀疏小雨; n.少量散布的屑状物
+spikes|pl.钉鞋
+slippery|adj.滑的；狡猾的；不可靠的
+sleeve|n.套管；袖子
+magnificent|adj.壮丽的；宏伟的；极好的
+threes|n.祝你走运
+goner|n.完蛋的人；无可救药者
+slay|vt.杀害；残杀；使大笑
+speeding|adj.高速行驶的; n.超速行驶
+aboard|adv.在船上；在火车上；在飞机上; prep.上船；上飞机；上车
+sway|v.摇动；摇摆；支配；影响；说服，使相信; n.摇摆；支配；影响
+shiver|v.颤动；发抖; v.打碎; n.冷颤；哆嗦; n.碎块
+riddle|n.谜；谜语; vt.解谜；出谜题；充满；打洞；筛选; vi.出谜题
+carpenter|n.木匠; v.做木工活
+self|n.自己；本性；自我; pron.我自己；你自己；他或她自己; adj.始终如一的；同一类型的；性质不变的; v.近亲繁殖；自花授粉
+hoof|n.蹄；人的脚; v.以蹄踢；行走
+splashdown|n.在海中降落
+dreamy|adj.梦幻般的；心不在焉的；不切实际的；轻柔的
+splashing|喷洒,泼洒
+afternoons|adv.每天下午
+sickle|n.镰刀
+condo|n.[口]分户出售公寓大厦; =condominium.
+smelly|adj.难闻的；臭的
+household|n.家庭；户; adj.家庭的；家喻户晓的
+mortal|adj.致命的；终有一死的；不共戴天的；极度的; n.凡人
+slapping|adj.出奇地快；巨大的；极好的; adv.极快地；非常地
+grace|n.优美；优雅；恩惠; vt.使优美；使荣耀
+miserable|adj.痛苦的；悲惨的；贫乏的；狼狈的
+invasion|n.侵略；侵入
+sludge|n.泥泞；淤泥；泥状雪
+spiro|n.螺
+eyeing|vbl.注视
+withstand|vt.对抗；经得起；承受
+compound|n.化合物；复合词；复合物; n.院子(用围墙圈起来的场地）; adj.化合的；【语】（词语等）复合的；【植】复合的；【动】群体的; vt.混合；调合；使严重；私了；【经】以复利计算; vi.妥协
 milky|adj.乳状的；乳白色的
+daddy|n.爸爸
+shaker|n.摇动者；摇动器；搅拌器; Shaker：adj.；夏克尔风格的

@@ -1,75 +1,75 @@
-lowness|n.低；下贱；粗鄙
-shepherd|n.牧羊者；牧师；指导者; v.牧羊；照看；引领
-desperation|n.绝望；铤而走险
-reunion|n.团聚；联合
-intensive|adj.密集的；彻底的；精细的；强调的; n.(语法)强调成份
-dribble|vt.使...慢慢流下；运球；细流；流口水; n.少量；细流
-victorious|adj.胜利的；得胜的
-boot|n.靴子；猛踢；解雇；[英]汽车行李箱; vt.踢；穿靴子；逐出；启动(计算机)
-jealous|adj.妒忌的；羡慕的；嫉妒的
-threaten|v.威胁；恐吓；似将发生
-bronze|n.青铜；青铜色；青铜制品；铜牌; adj.青铜制的；青铜色的; vt.使成青铜色
-fling|vt.投；粗暴地推向...；猛冲；激动地说；全身心投入; n.投掷；一时的行乐；漫不经心的一段(尝试或感情); vi.急冲；(动物)猛跳
-summon|vt.召唤；召集；振奋
-unbelievable|adj.难以置信的
-lid|n.盖子；眼睑; vt.给...装盖子
-luck|n.运气；幸运；侥幸; v.侥幸成功；走运
-mangle|v.碾压；损坏；糟蹋；乱切; n.碾压机
-trickle|vi.滴流；慢慢移动; n.细流；徐徐地流
-jealousy|n.妒忌
-mist|n.雾；迷蒙；朦胧不清; vt.使…模糊；蒙上雾; vi.使模糊；下雾
-timber|n.木材；木料
-maple|n.【C】枫树；槭树; n.【U】枫树干
-whistle|n.口哨；汽笛；警笛; v.吹口哨；鸣汽笛；呼啸；吹口哨召唤
-wink|n.眨眼；使眼色；瞬间; v.眨眼；使眼色；闪烁
-cuff|n.袖口；手铐; n.巴掌; v.为...上袖口；带手铐; v.轻拍；掴
-stroll|n.闲逛；漫步; v.闲逛；漫步
-mellow|adj.成熟的；醇的；熟练的; v.（使）变熟，（使）柔和
-happier|adj.更快乐的；更幸福的
-helplessly|adv.无能为力地；无助地
-mansion|n.大厦；宅邸；公寓
-detour|n.绕路；便道; v.绕路而行
-mishap|n.不幸之事；灾祸；恶运
-spelling|n.拼法；拼写
-bravely|adv.勇敢地
-fiend|n.魔鬼；邪神
-jaw|n.颚；颌；下巴；钳口；说教; v.喋喋不休；教训
-nameless|adj.无名的；匿名的；不可名状的
-hooded|adj.戴头巾的；有兜帽的；有罩盖的；[动]有冠顶的
-medaled|adj.接受奖章的；佩带徽章的
-ultimate|adj.根本的；极限的；最后的；终极的; n.终极；极品；根本
-combination|n.结合；结合到一起的事物或人；密码
-stench|n.臭气；恶臭
-splash|n.溅泼（声）；溅泼的量；溅污的斑点；骚动；少许; v.溅（湿）；报道
-lovingly|adv.钟情地；深情地
-misfortune|n.不幸；灾祸
-mornings|n.每天上午；在任何上午
 ante|n.(纸牌游戏中发牌钱下的)赌注；(需预付的)款项; v.下赌注；付款; pref.表示“前”
-momentous|adj.重要的；重大的
-mythical|adj.神话的；虚构的；杜撰出来的
-muddy|adj.泥泞的；浑浊的；糊涂的; v.使沾上烂泥；使...混浊；使迷惑
-nights|adv.每晚；在夜晚
-eagerly|adv.渴望地
-sunglasses|n.墨镜；太阳镜
-fairy|n.仙女；小精灵; adj.优雅的；幻想中的；虚构的
-routine|n.例行公事；常规；无聊; adj.常规的；例行的；乏味的
 shortage|n.不足；缺少，短缺
-mankind|n.人类；男人
-stall|n.栅栏；小隔间；货摊；座位; v.把...关进畜舍里；失速；熄火；拖延；（使）动弹不得
-hem|n.褶边; vt.缝边；包围；约束
-disgust|n.厌恶；憎恶；反感; vt.使厌恶；使作呕
-tone|n.语气；音调；调子；色调；风气; v.使更健壮；定调；调色；装腔作势地说
-dwell|vi.居住；存在；冥想；详细阐述
-lure|vt.诱惑；吸引; n.诱惑；吸引力；饵
-moonlight|n.月光; v.兼职; adj.夜间的
-nonstop|adj.直达的；不断的；不间断的; adv.直达地；不间断地; n.直达车；直达行驶
-smooth|adj.光滑的；平稳的；流畅的；圆滑的；可口的；安祥的；均匀的; v.使光滑；消除；安慰；理顺(羽毛)
-lair|n.(野兽的)巢穴；(人的)藏身处
-mere|adj.仅仅的；纯粹的
-shabby|adj.破旧的；寒酸的；低劣的，无耻的；卑劣的
+bordering|n.边缘(设立疆界；边界标志物)
+needlepoint|n.针尖；针绣花边
+henceforth|adv.今后，此后
 uncover|vt.揭开；揭露
-eternally|adv.不朽地；永久地
-lousy|adj.多虱的；可鄙的；差劲的; adj.【口】大量的（通常指不好的事物）
-lunge|n.刺；刺进；跃进; v.猛向前冲；踢；刺出
+unpredictable|adj.不可预知的
+neatly|adv.整洁地；熟练地
+horror|n.恐怖；战栗；厌恶；震惊; adj.恐怖的
+unbelievable|adj.难以置信的
+hourglass|n.时漏；砂漏；水漏
+cuff|n.袖口；手铐; n.巴掌; v.为...上袖口；带手铐; v.轻拍；掴
+yo|int.唷(水手拉绳时一道发出的叫声)
+mist|n.雾；迷蒙；朦胧不清; vt.使…模糊；蒙上雾; vi.使模糊；下雾
+fog|n.雾；朦胧；迷惑; v.以雾笼罩；使模糊；迷惑
+myth|n.神话；虚构的故事
+timber|n.木材；木料
+momentous|adj.重要的；重大的
+hood|n.头巾；兜帽；遮罩；引擎盖; vt.覆盖
+shepherd|n.牧羊者；牧师；指导者; v.牧羊；照看；引领
+sneaky|adj.鬼祟的；卑鄙的
+mule|n.骡子；固执的人；走私毒品者; n.拖鞋
+desperation|n.绝望；铤而走险
+helpless|adj.无助的；无依靠的
+hie|v.快走；赶紧；催促
+lair|n.(野兽的)巢穴；(人的)藏身处
+muddy|adj.泥泞的；浑浊的；糊涂的; v.使沾上烂泥；使...混浊；使迷惑
+hiccup|n.打嗝；暂时性的小问题; vi.打嗝; =hiccough.
+spawn|n.卵；产物；后代；结果; vt.产卵；种菌丝于；产生；造成; vi.产卵；大量生产
+mysteriously|adv.神秘地；故弄玄虚地
+fairy|n.仙女；小精灵; adj.优雅的；幻想中的；虚构的
+smooth|adj.光滑的；平稳的；流畅的；圆滑的；可口的；安祥的；均匀的; v.使光滑；消除；安慰；理顺(羽毛)
+mellow|adj.成熟的；醇的；熟练的; v.（使）变熟，（使）柔和
+necked|v.颈缩(冲槽); adj.压缩的
+victorious|adj.胜利的；得胜的
+sniff|vi.嗅；嗤之以鼻；找出; vt.嗅到；吸入；嗤之以鼻地说; n.嗅；吸气；气味
+vicious|adj.恶毒的；恶意的；剧烈的；堕落的
+mythical|adj.神话的；虚构的；杜撰出来的
 apiece|adv.每人；每个；各
+hideous|adj.丑陋的；可怕的；可憎的；令人惊骇的
+spelling|n.拼法；拼写
+exhausted|adj.用完的；精疲力竭的
+mug|n.脸；杯；一杯的量；恶棍; v.打劫；突击学习
+scenery|n.风景；背景；布景
+mere|adj.仅仅的；纯粹的
+granny|n.奶奶
+trickle|vi.滴流；慢慢移动; n.细流；徐徐地流
+moonlight|n.月光; v.兼职; adj.夜间的
+reunion|n.团聚；联合
+mankind|n.人类；男人
+detour|n.绕路；便道; v.绕路而行
+mutter|v.咕哝；抱怨；低语; n.嘟哝；抱怨；低语
 spitting|n.吐出(逆火；点燃导火线)
+eternally|adv.不朽地；永久地
+homecoming|n.归国；回家；返校节
+lid|n.盖子；眼睑; vt.给...装盖子
+mornings|n.每天上午；在任何上午
+boot|n.靴子；猛踢；解雇；[英]汽车行李箱; vt.踢；穿靴子；逐出；启动(计算机)
+whistle|n.口哨；汽笛；警笛; v.吹口哨；鸣汽笛；呼啸；吹口哨召唤
+amused|adj.愉快的；顽皮的；被逗乐的；觉得好笑的
+hike|n.徒步旅行；远足；涨价; vi.远足；提高
+stench|n.臭气；恶臭
+shabby|adj.破旧的；寒酸的；低劣的，无耻的；卑劣的
+misfortune|n.不幸；灾祸
+routine|n.例行公事；常规；无聊; adj.常规的；例行的；乏味的
+edition|n.版；版本
+stomp|vt.跺（脚）；重踏; n.跺脚舞；顿足爵士舞乐曲
+horizon|n.地平线；眼界；范围
+heave|v.用力举起；抛出；扔；恶心；（费力地）发出（叹息等）; n.举；抛；起伏
+fiend|n.魔鬼；邪神
+ah|int.啊；哈; =aah.
+sunglasses|n.墨镜；太阳镜
+muse|v.沉思；冥想; n.沉思；[大写]（希腊神话）缪斯；艺术家的灵感；诗人
+mishap|n.不幸之事；灾祸；恶运
+intensive|adj.密集的；彻底的；精细的；强调的; n.(语法)强调成份

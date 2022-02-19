@@ -1,75 +1,75 @@
-smoothly|adv.平滑地；流畅地
-crow|n.乌鸦；啼叫；欢叫; v.报晓；啼叫；欢叫；夸口；洋洋自得
-harrumph|n.哼声；鼻息; v.发哼声
-immediate|adj.直接的；最接近的；立即的；目前的
-punishment|n.惩罚
-practiced|adj.熟练的；老练的；练成的
-furiously|adv.狂怒地；有力地；猛烈地
-poh|int.轻视之声; vt.使疲倦
-bet|v.打赌；确信无疑; n.赌注；确信
-practicing|adj.开业的；在工作的
-sneaky|adj.鬼祟的；卑鄙的
-harpy|n.残酷贪婪的人；恶妇人; Harpy.; n.[希神]哈耳皮埃(鸟身女妖)
-turf|n.草皮；泥炭；赛马场；赛马; v.铺草皮
-weekly|adj.每周的；一周一次的；周刊的; n.周刊；周报; adv.每周；一周一次
-frown|n.皱眉；不悦; v.不同意；皱眉头
-racket|n.球拍; n.喧闹；敲诈；行业；职业; v.喧闹；花天酒地
-pasture|n.牧场；草原; vi.吃草; vt.放牧
-triumphant|adj.胜利的；得意洋洋的
-thereafter|adv.其后；从那时以后
-collapsed|adj.倒塌的
-robe|n.长袍; v.(使)穿上长袍
-positively|adv.极其；绝对地；十分肯定的；坚定的
-pitiful|adj.慈悲的；可怜的；凄惨的
-enlighten|v.启发；开导；教导
-quietly|adv.安静地；悄悄地；平静地
-fury|n.愤怒；狂暴；狂怒的人；泼妇; Fury.; n.[罗神]复仇女神
-marvelous|adj.令人惊异的；非凡的; =marvellous
-loch|n.湖；狭长的海湾
-saddle|n.鞍；车座；山脊；当权; vt.装以马鞍；使负担; vi.装马鞍
-headquarters|n.总部；司令部；指挥部
-ferry|n.渡船；渡口; vt.摆渡；运输; vi.摆渡
-rake|n.耙子；耙状物; n.放荡的人; n.斜度；倾角; v.用耙子聚；收集；搜索; v.使倾斜
-vine|n.藤；蔓；攀爬植物
-sailors|海员
+liberate|v.解放；使获得自由；释出；放出
 destruction|n.破坏；毁灭
-freshwater|adj.淡水的；内河（航行）的; n.淡水
-hairy|adj.多毛的；长毛的；令人恐怖的；难对付的
-quest|n.探索；寻求; v.寻找；搜索
-delight|n.高兴；快乐; v.(使)高兴；(使)欣喜
-premium|n.额外费用；奖金；保险费; n.(商)溢价; adj.高价的；优质的
-beast|n.兽；畜牲
-bolt|n.门闩；螺栓；一卷布；弩箭; v.（突然）逃离；闩住；狼吞虎咽；用螺栓固定; adv.挺直地
-amused|adj.愉快的；顽皮的；被逗乐的；觉得好笑的
-poker|n.扑克; n.戳(或捅)的人；拨火棍
-bind|v.捆绑；装订；约束；强迫；团结; n.窘境
-paddle|n.桨；划桨；明轮翼; v.划桨；戏水；抚弄
-beware|v.小心；谨防
-slimy|adj.黏滑的；卑劣的
-stinky|adj.恶臭的
-murky|adj.黑暗的；朦胧的；烟雾弥漫的；含糊的；隐晦的
-puddle|n.水坑；地上积水；胶泥; v.搅浊；在泥污中打滚；排尿
-potion|n.一服，一剂；（药物、毒物或有魔力的）饮料
-steaming|n.汽蒸(蒸烘)
-disgrace|n.耻辱; v.耻辱；丢脸
-gloomy|adj.阴暗的；忧闷的；前景黯淡的
-carcass|n.尸体；残骸；骨架；(人的)身躯
-squawk|n.叫声；嘈杂的抱怨; v.呱呱地叫鸣；喋喋不休地发牢骚
-faraway|adj.遥远的；远方的；(神情)恍惚的；出神的
-rumble|n.隆隆声；辘辘声; n.(旧式汽车车厢后的)折叠加座; 打群架; v.发隆隆声；使辘辘响
-moisture|n.水分；潮气；湿度
 magician|n.魔术师；术士
-swan|n.天鹅; vi.闲荡；游荡
-spawn|n.卵；产物；后代；结果; vt.产卵；种菌丝于；产生；造成; vi.产卵；大量生产
+linen|n.亚麻布；亚麻线；亚麻制品; adj.亚麻布制的；亚麻的
+retreat|n.撤退；改变；隐居处; v.撤退；改变；退避；缩回象棋的棋子
+lunge|n.刺；刺进；跃进; v.猛向前冲；踢；刺出
+delight|n.高兴；快乐; v.(使)高兴；(使)欣喜
+poker|n.扑克; n.戳(或捅)的人；拨火棍
+nephew|n.外甥；侄子
+charming|adj.迷人的
+nameless|adj.无名的；匿名的；不可名状的
+jerk|v.急动；猛拉; n.猛拉；急动；笨蛋；蠢人; adj.颠簸不稳的
+lease|n.租约；租契；租期; vt.出租；租得
+hairy|adj.多毛的；长毛的；令人恐怖的；难对付的
 thumb|n.拇指; v.翻阅；示意要求搭车
-palaces|宫城
-hearth|n.炉床；灶台；炉边
-grandson|n.孙子；外孙
-assist|vt.帮助；协助; vi.帮助；出席; n.帮助；协助；助攻；协助的器械
-linger|vi.徘徊；逗留；消磨；漫步
-hoot|n.鸣笛声；猫头鹰叫声；一点点；好笑的人或事; v.大声叫嚣；(汽笛、喇叭等)呜呜作响；哄赶
+triumphant|adj.胜利的；得意洋洋的
+luck|n.运气；幸运；侥幸; v.侥幸成功；走运
+positively|adv.极其；绝对地；十分肯定的；坚定的
+swear|v.咒骂；发誓；宣誓; n.誓言；咒骂；发誓
+faraway|adj.遥远的；远方的；(神情)恍惚的；出神的
+saddle|n.鞍；车座；山脊；当权; vt.装以马鞍；使负担; vi.装马鞍
 oceans|n.大洋
-privacy|n.隐居；隐私；秘密；私生活
+temple|n.神殿；寺院；庙宇; n.太阳穴，鬓角
+threaten|v.威胁；恐吓；似将发生
+humbly|adv.恭顺地；谦卑地
+farewell|int.再会；别了; n.告别; adj.告别的
 cranky|adj.怪癖的；不稳的
-puppy|n.小狗；自负的小伙子
+medaled|adj.接受奖章的；佩带徽章的
+furiously|adv.狂怒地；有力地；猛烈地
+lag|v.落后；减退；缓慢进行; n.落后；时间间隔
+minor|adj.轻微的；较小的；次要的; n.未成年人；辅修科目；[音]小调; v.辅修
+palaces|宫城
+superstition|n.迷信；没有根据的理论
+maple|n.【C】枫树；槭树; n.【U】枫树干
+weekly|adj.每周的；一周一次的；周刊的; n.周刊；周报; adv.每周；一周一次
+quest|n.探索；寻求; v.寻找；搜索
+lousy|adj.多虱的；可鄙的；差劲的; adj.【口】大量的（通常指不好的事物）
+immediate|adj.直接的；最接近的；立即的；目前的
+disguise|vt.掩饰；假装；假扮; n.伪装；伪装物
+mansion|n.大厦；宅邸；公寓
+huddle|n.杂乱一团；混乱；拥挤; v.推挤；乱堆；草率了事
+grunt|v.咕哝；（猪等）打呼噜; n.咕哝；呼噜声
+dribble|vt.使...慢慢流下；运球；细流；流口水; n.少量；细流
+summon|vt.召唤；召集；振奋
+gloomy|adj.阴暗的；忧闷的；前景黯淡的
+stall|n.栅栏；小隔间；货摊；座位; v.把...关进畜舍里；失速；熄火；拖延；（使）动弹不得
+splash|n.溅泼（声）；溅泼的量；溅污的斑点；骚动；少许; v.溅（湿）；报道
+stroll|n.闲逛；漫步; v.闲逛；漫步
+ire|n.愤怒
+lees|n.沉淀物；渣滓
+squawk|n.叫声；嘈杂的抱怨; v.呱呱地叫鸣；喋喋不休地发牢骚
+shudder|vi.战栗；发抖; n.战栗；震颤
+hunch|n.预感；块；肉峰; v.弯腰驼背
+turf|n.草皮；泥炭；赛马场；赛马; v.铺草皮
+ultimate|adj.根本的；极限的；最后的；终极的; n.终极；极品；根本
+lowness|n.低；下贱；粗鄙
+lovingly|adv.钟情地；深情地
+lure|vt.诱惑；吸引; n.诱惑；吸引力；饵
+disgust|n.厌恶；憎恶；反感; vt.使厌恶；使作呕
+ness|n.岬；海角
+bravely|adv.勇敢地
+lifeboat|n.救生船
+jigsaw|n.拼图游戏；缕花锯；竖锯; vt.用竖锯锯；使互相交错搭接
+bronze|n.青铜；青铜色；青铜制品；铜牌; adj.青铜制的；青铜色的; vt.使成青铜色
+newly|adv.新近地；重新地
 robbery|n.抢劫
+smoothly|adv.平滑地；流畅地
+kaboom|背着网接团身后空翻
+enlighten|v.启发；开导；教导
+jogging|n.慢跑
+intercept|n.截取；妨碍；截距; vt.拦截；阻止
+mangle|v.碾压；损坏；糟蹋；乱切; n.碾压机
+imperceptibly|adv.极微小地；逐步地
+ichor|n.[希神]灵液；[医]脓水
+pitiful|adj.慈悲的；可怜的；凄惨的

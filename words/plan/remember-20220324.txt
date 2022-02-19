@@ -1,75 +1,75 @@
-shaker|n.摇动者；摇动器；搅拌器; Shaker：adj.；夏克尔风格的
-shore|n.岸；滨
-grateful|adj.感激的；令人愉快的
-spectacle|n.景象；场面；奇观；壮观；公开展示；表相，假相; n.（复）眼镜
-serpent|n.蛇；蛇一般的人；狡猾的人
-bull|n.公牛；股市看涨的人；警察; n.荒谬的话; n.教皇诏书; adj.公牛的；鲁莽的
-unlock|v.开锁；开启；揭开；显露
-hoarse|adj.沙哑的；嘶哑的；刺耳的
-sneak|vt.偷偷摸摸做; vi.偷偷地走；偷偷地做; n.鬼鬼祟祟的人；潜行；溜; adj.出其不意的；暗中进行的
-pasture|n.牧场；草原; vi.吃草; vt.放牧
-fasten|vt.拴紧；使固定；系；强加于; vi.固定；系紧；抓紧
-rewrite|n.重写；改写; vt.改写；重写; vi.修改
-speeding|adj.高速行驶的; n.超速行驶
-officially|adv.官方地；正式地；公务上；职务上
-shrine|n.圣地；神龛；庙; v.将...置于神龛内；把...奉为神圣
-afternoons|adv.每天下午
-prophecy|n.预言; =prophesy.
-torch|n.手电筒；火炬；火把；纵火犯; v.纵火
-warriors|武士
-doggie|n.小狗；狗；汪汪; adj.狗的；像狗一样的; =doggy.
-soul|n.灵魂；心灵；精神
-spikes|pl.钉鞋
+waterfall|n.瀑布
+plentiful|adj.丰富的；多的；充裕的
 peacefully|adv.平静地；和平地
-mortal|adj.致命的；终有一死的；不共戴天的；极度的; n.凡人
-goner|n.完蛋的人；无可救药者
-ferry|n.渡船；渡口; vt.摆渡；运输; vi.摆渡
-rake|n.耙子；耙状物; n.放荡的人; n.斜度；倾角; v.用耙子聚；收集；搜索; v.使倾斜
-heartless|adj.无情的；残酷的
-flip|vt.掷；轻击；弹; vi.翻转; n.（跳水或体操动作中的）空翻；轻弹；浏览; adj.无礼的；冒失的；轻率的
-bravery|n.勇敢；华丽(的衣服)
-aerobics|n.有氧运动；健美操
-nearest|adj.最近的
-aboard|adv.在船上；在火车上；在飞机上; prep.上船；上飞机；上车
-foolish|adj.愚蠢的；荒谬的；可笑的
-slapping|adj.出奇地快；巨大的；极好的; adv.极快地；非常地
-sludge|n.泥泞；淤泥；泥状雪
-skim|vt.撇去；略读；掠过；滑过; vi.掠过；表面凝结；瞒报; n.浮沫；略读；脱脂物
-terribly|adv.可怕地；非常地；很
-threes|n.祝你走运
-sometime|adj.以前的; adv.改天；来日；某时
-soak|vt.使浸透；吸入；浸洗；使喝醉；敲竹杠; vi.浸泡；渗透；渗入；酗酒; n.浸；湿透；酒鬼
-dreary|adj.沉闷的；令人沮丧的；情绪低落的
-hoax|v.欺骗；哄骗；愚弄; n.愚弄人；恶作剧
-hospitality|n.款待；殷勤；好客；酒店管理
-sorceress|n.女魔法师；女巫
-slimy|adj.黏滑的；卑劣的
-sickle|n.镰刀
-wicked|adj.坏的；邪恶的；缺德的; adv.极端地；非常地; vt.吸收
-accompany|vt.陪伴；伴随...发生；补充；给...伴奏; vi.伴奏
-thoughtfully|adv.深思地；考虑周到地；细心地
-peck|v.啄；连续敲击；轻吻; n.啄痕；啄食；轻吻; n.配克；大量
-sway|v.摇动；摇摆；支配；影响；说服，使相信; n.摇摆；支配；影响
-glide|v.滑动；滑翔；溜走; n.滑动；滑过；滑音
-blond|adj.金发的; n.金发的人
-spiro|n.螺
-finest|adj.好的；出色的
-gorgeous|adj.华丽的；灿烂的；极好的
-splashdown|n.在海中降落
-stink|n.臭味；臭气; vi.发臭味；招人讨厌
-eternal|adj.永久的；永恒的; n.永恒的事
-carpenter|n.木匠; v.做木工活
-moisture|n.水分；潮气；湿度
-smelly|adj.难闻的；臭的
-spectator|n.观众；旁观者
-splashing|喷洒,泼洒
-ash|n.灰；灰烬; n.白蜡树；白蜡木; (复)ashes：骨灰；废墟；苍白.
-snug|adj.温暖舒适的；合身的；安全的; v.使整洁干净；舒适地依靠；紧贴; n.酒吧里的私房
-daddy|n.爸爸
+poh|int.轻视之声; vt.使疲倦
+memorize|v.记住；记录；记下
+angel|n.天使；天使般的人
+unlock|v.开锁；开启；揭开；显露
+grit|n.砂砾；粗砂石；勇气；决心; vt.覆以砂砾；咬紧牙关; vi.发出刺耳声
+huh|int.哼!哈!(表示轻蔑、吃惊或疑问)
+fasten|vt.拴紧；使固定；系；强加于; vi.固定；系紧；抓紧
+lumber|n.木材；木料; v.伐木; vi.缓慢地移动; vt.拖累
+stool|n.凳子；搁脚凳；便桶；大便; vi.引诱
 banish|vt.驱逐；流放；消除
+ghost|n.幽灵；鬼魂; n.[计]美国赛门铁克公司旗下的硬盘备份还原工具
+grab|v.抓住；攫取; n.抓取物；抓
+ox|n.牛；公牛
+parade|n.游行；检阅；游行地; vi.参加游行；阅兵；散步；炫耀; vt.夸耀；使参加游行；检阅；绕行
+chant|n.圣歌；赞美诗；旋律；喊叫; v.吟唱；诵扬；叫喊
+la|n.A音的唱名；第六音; int.啊呀；呀
+fake|adj.假的; n.骗子；假货；欺骗; vt.伪造；伪装; vi.假造
+grand|adj.重大的；豪华的；宏伟的；壮丽的; n.大钢琴；一千美元
+buffet|n.自助餐；饮食柜台；打击; vt.连续猛击；打击
+horribly|adv.可怕地；恐怖地；极其
+sob|v.抽泣；呜咽; n.呜咽；哭泣
+pendragon|n.古代不列巅或威尔斯的王侯；首领；旨长
+blacksmith|n.铁匠
+bravery|n.勇敢；华丽(的衣服)
+supervise|vt.监督；管理；指导
+soul|n.灵魂；心灵；精神
+hoax|v.欺骗；哄骗；愚弄; n.愚弄人；恶作剧
+echo|vi.发出回声；回响; vt.重复；模仿；附和; n.回声；重复；共鸣; Echo.; n.[希神]山林女神（失恋于那喀索斯；其哀声留于山间成为回声）
+plunge|v.使投入；跳入；栽进；下降，急降，突降; n.投入；跳入
+pee|n.小便; vi.小便
+sake|n.理由；缘故；目的；利益
+soak|vt.使浸透；吸入；浸洗；使喝醉；敲竹杠; vi.浸泡；渗透；渗入；酗酒; n.浸；湿透；酒鬼
+cloak|n.斗蓬；宽大外衣；掩盖物; v.遮掩；隐匿
+postcard|n.明信片; adj.如画的
+pat|n.轻拍；轻打；小块; v.轻拍；抚摸；拍打
+brute|n.畜生；残忍的人; adj.残忍的；无理性的；粗暴的
+fertility|n.【C】肥沃；(人)繁殖力；(思想等的)丰富
+threes|n.祝你走运
+goner|n.完蛋的人；无可救药者
+magnificent|adj.壮丽的；宏伟的；极好的
+disorder|n.混乱；杂乱；不适；失调；疾病; vt.扰乱
+aboard|adv.在船上；在火车上；在飞机上; prep.上船；上飞机；上车
+clink|n.牢房；叮当声; v.(使)叮当响
+perfume|n.香水；香气; vt.洒香水于；使香气弥漫
+plead|v.辩护；恳求；提出借口；认罪
+plaything|n.玩具；玩物；被玩弄的人
+sway|v.摇动；摇摆；支配；影响；说服，使相信; n.摇摆；支配；影响
+carpenter|n.木匠; v.做木工活
+jumper|n.跳跃者；跳高运动员；雪橇；[电]跳线; n.无袖连衣裙；套头衫；连衫裤童装；工作夹克
+peg|n.钉；支柱；借口; vt.钉木桩；扔; vi.努力工作；匆忙走
+vanity|n.自负；虚荣心；无价值的东西；浮华
+rag|n.破布；碎布；破衣服；（低劣的）报纸
+lining|n.衬里；内层
+persuasion|n.说服；劝说；信念
+afternoons|adv.每天下午
+peer|n.同辈；同等的人；贵族; vi.凝视；窥视
+fate|n.命运；宿命
+peppy|adj.精神充沛的；活泼的
+halfway|adj.中途的；不彻底的; adv.半路地；在…中间；折中地
+potion|n.一服，一剂；（药物、毒物或有魔力的）饮料
+mortal|adj.致命的；终有一死的；不共戴天的；极度的; n.凡人
+practiced|adj.熟练的；老练的；练成的
+condo|n.[口]分户出售公寓大厦; =condominium.
+household|n.家庭；户; adj.家庭的；家喻户晓的
 invasion|n.侵略；侵入
-puppy|n.小狗；自负的小伙子
-drool|v.流口水；垂涎；胡说; n.口水；胡话
-digest|n.摘要; vt.消化；理解; vi.消化
-sleeve|n.套管；袖子
-tickle|vt.使发痒；逗乐；使快乐; vi.觉得痒; n.痒；抓痒
+roar|v.吼叫；咆哮; n.吼声；咆哮；轰鸣；喧闹
+knot|n.结；节; vi.打结; vt.把...打成结；系牢；捆扎
+confusion|n.惶惑；混淆；混乱；不确定状态
+historian|n.历史学家；编史者
+satisfied|adj.感到满意的
+daddy|n.爸爸
+shaker|n.摇动者；摇动器；搅拌器; Shaker：adj.；夏克尔风格的

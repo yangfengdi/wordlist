@@ -1,75 +1,75 @@
-neatly|adv.整洁地；熟练地
-smoothly|adv.平滑地；流畅地
-cranky|adj.怪癖的；不稳的
-plaything|n.玩具；玩物；被玩弄的人
-downstream|adv.朝下游方向; adj.顺流的
-furiously|adv.狂怒地；有力地；猛烈地
-jealous|adj.妒忌的；羡慕的；嫉妒的
-fling|vt.投；粗暴地推向...；猛冲；激动地说；全身心投入; n.投掷；一时的行乐；漫不经心的一段(尝试或感情); vi.急冲；(动物)猛跳
-mysteriously|adv.神秘地；故弄玄虚地
-pendragon|n.古代不列巅或威尔斯的王侯；首领；旨长
-jealousy|n.妒忌
-mule|n.骡子；固执的人；走私毒品者; n.拖鞋
-magically|adv.如魔法般地；用魔法地
-outfit|n.配备；用具；机构; vt.配备；供应; vi.得到装备
-willow|n.柳树；柳木制品
-triumphant|adj.胜利的；得意洋洋的
-plead|v.辩护；恳求；提出借口；认罪
-positively|adv.极其；绝对地；十分肯定的；坚定的
-outsmart|v.比...更聪明；智胜
-myth|n.神话；虚构的故事
-wink|n.眨眼；使眼色；瞬间; v.眨眼；使眼色；闪烁
-necked|v.颈缩(冲槽); adj.压缩的
 warmly|adv.亲切地；温暖地；热烈地
-enlighten|v.启发；开导；教导
-happier|adj.更快乐的；更幸福的
-helplessly|adv.无能为力地；无助地
-thee|pron.[古]你；汝；你自己
-mutter|v.咕哝；抱怨；低语; n.嘟哝；抱怨；低语
-overthrow|v.推翻；打倒；颠覆；[体]高投; n.推翻；瓦解；颠覆；[体]高投
-dining|n.就餐
-jaw|n.颚；颌；下巴；钳口；说教; v.喋喋不休；教训
-beloved|adj.心爱的; n.爱人
-overlord|n.霸王；大君主；最高君主
-participants|adj.有份的；n
-respectful|adj.表示尊敬的；有礼貌的；谦恭的
-destruction|n.破坏；毁灭
 boast|v.自夸；吹牛；以...为荣; n.自夸；引以为荣的事物
+collapsed|adj.倒塌的
+bind|v.捆绑；装订；约束；强迫；团结; n.窘境
+freshwater|adj.淡水的；内河（航行）的; n.淡水
 nasty|adj.下流的；严重的；令人不快的；难懂的；危害的
-newly|adv.新近地；重新地
-combination|n.结合；结合到一起的事物或人；密码
-foresee|v.预见；预知
-needlepoint|n.针尖；针绣花边
-perfume|n.香水；香气; vt.洒香水于；使香气弥漫
-ness|n.岬；海角
-hairy|adj.多毛的；长毛的；令人恐怖的；难对付的
+murky|adj.黑暗的；朦胧的；烟雾弥漫的；含糊的；隐晦的
+henceforth|adv.今后，此后
+pasture|n.牧场；草原; vi.吃草; vt.放牧
+bet|v.打赌；确信无疑; n.赌注；确信
+horror|n.恐怖；战栗；厌恶；震惊; adj.恐怖的
 olive|n.橄榄；橄榄树；橄榄色; adj.黄褐色的；橄榄色的
-poker|n.扑克; n.戳(或捅)的人；拨火棍
-waking|adj.醒着的
-nights|adv.每晚；在夜晚
-cattle|n.牛；家畜；畜牲
-eagerly|adv.渴望地
-boar|n.野猪；公猪
-eternity|n.永远；来世；不朽；漫长的时间
-invincible|adj.不可征服的；不能战胜的
-luckily|adv.幸运地；幸亏地
-hem|n.褶边; vt.缝边；包围；约束
-enormous|adj.巨大的；庞大的
-dwell|vi.居住；存在；冥想；详细阐述
-nephew|n.外甥；侄子
-detached|adj.超然的；分离的；独立的
-odor|n.气味；名声；气息
-muse|v.沉思；冥想; n.沉思；[大写]（希腊神话）缪斯；艺术家的灵感；诗人
+robe|n.长袍; v.(使)穿上长袍
+hourglass|n.时漏；砂漏；水漏
 grudge|n.怨恨；恶意; vt.不愿；吝惜；嫉妒
-tee|n.字母t；形状像字母T的东西; [游戏]目标.; [高尔夫球]发球的球座.; v.将（高尔夫球）置于球座
+luckily|adv.幸运地；幸亏地
+practicing|adj.开业的；在工作的
+dining|n.就餐
+fury|n.愤怒；狂暴；狂怒的人；泼妇; Fury.; n.[罗神]复仇女神
+puppy|n.小狗；自负的小伙子
+cattle|n.牛；家畜；畜牲
+beloved|adj.心爱的; n.爱人
+stinky|adj.恶臭的
+thereafter|adv.其后；从那时以后
+hearth|n.炉床；灶台；炉边
+bolt|n.门闩；螺栓；一卷布；弩箭; v.（突然）逃离；闩住；狼吞虎咽；用螺栓固定; adv.挺直地
+eternity|n.永远；来世；不朽；漫长的时间
+paddle|n.桨；划桨；明轮翼; v.划桨；戏水；抚弄
+hood|n.头巾；兜帽；遮罩；引擎盖; vt.覆盖
+marvelous|adj.令人惊异的；非凡的; =marvellous
 newsroom|n.编辑部；报章杂志阅览室；报纸贩卖部
-peep|n.瞥见；偷看；初现; n.吱吱叫; v.窥视；慢慢露出; v.吱吱叫
-peg|n.钉；支柱；借口; vt.钉木桩；扔; vi.努力工作；匆忙走
-swamp|n.沼泽；湿地；困境; v.淹没；使陷于困境；使忙于应付
-faraway|adj.遥远的；远方的；(神情)恍惚的；出神的
+rake|n.耙子；耙状物; n.放荡的人; n.斜度；倾角; v.用耙子聚；收集；搜索; v.使倾斜
+waking|adj.醒着的
+hie|v.快走；赶紧；催促
+helpless|adj.无助的；无依靠的
+carcass|n.尸体；残骸；骨架；(人的)身躯
+hiccup|n.打嗝；暂时性的小问题; vi.打嗝; =hiccough.
+boar|n.野猪；公猪
+magically|adv.如魔法般地；用魔法地
+vine|n.藤；蔓；攀爬植物
+invincible|adj.不可征服的；不能战胜的
+loch|n.湖；狭长的海湾
+hoot|n.鸣笛声；猫头鹰叫声；一点点；好笑的人或事; v.大声叫嚣；(汽笛、喇叭等)呜呜作响；哄赶
+beware|v.小心；谨防
+odor|n.气味；名声；气息
+hideous|adj.丑陋的；可怕的；可憎的；令人惊骇的
+moisture|n.水分；潮气；湿度
+ferry|n.渡船；渡口; vt.摆渡；运输; vi.摆渡
 pluck|v.摘；猛拉；拔；拨弹（乐器）; n.猛拉；勇气；动物内脏
-mug|n.脸；杯；一杯的量；恶棍; v.打劫；突击学习
-thumb|n.拇指; v.翻阅；示意要求搭车
+enormous|adj.巨大的；庞大的
+steaming|n.汽蒸(蒸烘)
+respectful|adj.表示尊敬的；有礼貌的；谦恭的
+assist|vt.帮助；协助; vi.帮助；出席; n.帮助；协助；助攻；协助的器械
+beast|n.兽；畜牲
+tee|n.字母t；形状像字母T的东西; [游戏]目标.; [高尔夫球]发球的球座.; v.将（高尔夫球）置于球座
+disgrace|n.耻辱; v.耻辱；丢脸
+homecoming|n.归国；回家；返校节
+linger|vi.徘徊；逗留；消磨；漫步
+rumble|n.隆隆声；辘辘声; n.(旧式汽车车厢后的)折叠加座; 打群架; v.发隆隆声；使辘辘响
+hike|n.徒步旅行；远足；涨价; vi.远足；提高
+willow|n.柳树；柳木制品
+frown|n.皱眉；不悦; v.不同意；皱眉头
+swan|n.天鹅; vi.闲荡；游荡
+grandson|n.孙子；外孙
 frantic|adj.疯狂的；狂乱的；急忙的
-peppy|adj.精神充沛的；活泼的
-robbery|n.抢劫
+sailors|海员
+thee|pron.[古]你；汝；你自己
+swamp|n.沼泽；湿地；困境; v.淹没；使陷于困境；使忙于应付
+horizon|n.地平线；眼界；范围
+heave|v.用力举起；抛出；扔；恶心；（费力地）发出（叹息等）; n.举；抛；起伏
+detached|adj.超然的；分离的；独立的
+crow|n.乌鸦；啼叫；欢叫; v.报晓；啼叫；欢叫；夸口；洋洋自得
+downstream|adv.朝下游方向; adj.顺流的
+slimy|adj.黏滑的；卑劣的
+foresee|v.预见；预知

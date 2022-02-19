@@ -1,75 +1,75 @@
-disorder|n.混乱；杂乱；不适；失调；疾病; vt.扰乱
-peer|n.同辈；同等的人；贵族; vi.凝视；窥视
-howling|adj.咆哮的；哭哭啼啼的；寂寥的
-frightened|adj.受惊的
-magnificent|adj.壮丽的；宏伟的；极好的
-swear|v.咒骂；发誓；宣誓; n.誓言；咒骂；发誓
-memorize|v.记住；记录；记下
-grit|n.砂砾；粗砂石；勇气；决心; vt.覆以砂砾；咬紧牙关; vi.发出刺耳声
-roar|v.吼叫；咆哮; n.吼声；咆哮；轰鸣；喧闹
-confusion|n.惶惑；混淆；混乱；不确定状态
-parade|n.游行；检阅；游行地; vi.参加游行；阅兵；散步；炫耀; vt.夸耀；使参加游行；检阅；绕行
-persuasion|n.说服；劝说；信念
-cast|v.掷；抛；投；铸造；指定演员；加起来；投射(目光)；投(票)；预测; n.演员阵容；投掷；[医]固定用敷料
-chant|n.圣歌；赞美诗；旋律；喊叫; v.吟唱；诵扬；叫喊
-knot|n.结；节; vi.打结; vt.把...打成结；系牢；捆扎
-ritual|n.仪式；典礼；宗教仪式；固定程序; adj.仪式的；老规矩的；惯常的
-stool|n.凳子；搁脚凳；便桶；大便; vi.引诱
-linen|n.亚麻布；亚麻线；亚麻制品; adj.亚麻布制的；亚麻的
-fertility|n.【C】肥沃；(人)繁殖力；(思想等的)丰富
-pee|n.小便; vi.小便
-goddess|n.女神；受崇拜的女性
-peacefully|adv.平静地；和平地
-fate|n.命运；宿命
-hunch|n.预感；块；肉峰; v.弯腰驼背
-ghost|n.幽灵；鬼魂; n.[计]美国赛门铁克公司旗下的硬盘备份还原工具
-halfway|adj.中途的；不彻底的; adv.半路地；在…中间；折中地
-sake|n.理由；缘故；目的；利益
-farewell|int.再会；别了; n.告别; adj.告别的
-uncles|n.叔伯
-tournament|n.锦标赛；比赛；比武
-fake|adj.假的; n.骗子；假货；欺骗; vt.伪造；伪装; vi.假造
-historian|n.历史学家；编史者
-huh|int.哼!哈!(表示轻蔑、吃惊或疑问)
-lumber|n.木材；木料; v.伐木; vi.缓慢地移动; vt.拖累
-formerly|adv.以前；从前
-retreat|n.撤退；改变；隐居处; v.撤退；改变；退避；缩回象棋的棋子
-rack|n.行李架；（放衣物、碗碟等的）架子；拷问台；折磨；（比赛开始前固定球位置的）三角框; vt.使痛苦；把...放在架子上；累计取得
 waterfall|n.瀑布
-blacksmith|n.铁匠
-postcard|n.明信片; adj.如画的
-temple|n.神殿；寺院；庙宇; n.太阳穴，鬓角
-pooch|n.狗; vi.膨胀；凸起
-lone|adj.孤单的；唯一的；单独的
-charming|adj.迷人的
-rag|n.破布；碎布；破衣服；（低劣的）报纸
-clink|n.牢房；叮当声; v.(使)叮当响
-soak|vt.使浸透；吸入；浸洗；使喝醉；敲竹杠; vi.浸泡；渗透；渗入；酗酒; n.浸；湿透；酒鬼
-grand|adj.重大的；豪华的；宏伟的；壮丽的; n.大钢琴；一千美元
-superstition|n.迷信；没有根据的理论
-plentiful|adj.丰富的；多的；充裕的
-grunt|v.咕哝；（猪等）打呼噜; n.咕哝；呼噜声
-echo|vi.发出回声；回响; vt.重复；模仿；附和; n.回声；重复；共鸣; Echo.; n.[希神]山林女神（失恋于那喀索斯；其哀声留于山间成为回声）
-jumper|n.跳跃者；跳高运动员；雪橇；[电]跳线; n.无袖连衣裙；套头衫；连衫裤童装；工作夹克
-ox|n.牛；公牛
-la|n.A音的唱名；第六音; int.啊呀；呀
-condo|n.[口]分户出售公寓大厦; =condominium.
-plunge|v.使投入；跳入；栽进；下降，急降，突降; n.投入；跳入
-clam|n.蛤；沉默寡言的人; vi.保持沉默；挖蚌
-buffet|n.自助餐；饮食柜台；打击; vt.连续猛击；打击
-trays|塔板
-stroke|n.中风；击打；一笔（画）；意外的运气; v.击打; v.轻抚；奉承
-brute|n.畜生；残忍的人; adj.残忍的；无理性的；粗暴的
-sob|v.抽泣；呜咽; n.呜咽；哭泣
-banish|vt.驱逐；流放；消除
+groan|v.呻吟；抱怨；发嘎吱声；受重压; n.呻吟；呻吟声
+wicked|adj.坏的；邪恶的；缺德的; adv.极端地；非常地; vt.吸收
+brass|n.黄铜(制品)；铜管（乐器）；厚脸皮; adj.黄铜的
+offerings|n.提供之物
+kindness|n.仁慈；好意；友好的行为
+spiral|n.螺旋；螺旋形之物；不断恶化、增加或减少; v.螺旋移动；盘旋上升；不断恶化、增加或减少; adj.螺旋形的；盘旋的
+helper|n.助手；帮手
+bull|n.公牛；股市看涨的人；警察; n.荒谬的话; n.教皇诏书; adj.公牛的；鲁莽的
+goddess|n.女神；受崇拜的女性
+officially|adv.官方地；正式地；公务上；职务上
+terribly|adv.可怕地；非常地；很
 shove|v.推挤；撞；乱塞；乱放; n.推；挤
-shudder|vi.战栗；发抖; n.战栗；震颤
-angel|n.天使；天使般的人
-cloak|n.斗蓬；宽大外衣；掩盖物; v.遮掩；隐匿
+sweat|n.汗水; n.焦急；繁重工作；(凝结在物体表面的)水珠; v.(使)出汗
+tournament|n.锦标赛；比赛；比武
+cast|v.掷；抛；投；铸造；指定演员；加起来；投射(目光)；投(票)；预测; n.演员阵容；投掷；[医]固定用敷料
+fingertips|指尖
 beer|n.啤酒
-disguise|vt.掩饰；假装；假扮; n.伪装；伪装物
-minor|adj.轻微的；较小的；次要的; n.未成年人；辅修科目；[音]小调; v.辅修
-hoist|v.升起；升高；举起; n.起重机；升高
-household|n.家庭；户; adj.家庭的；家喻户晓的
+wanna|想要（仅能用于口语；相当于“wantto”或者“wanta”）
+foolish|adj.愚蠢的；荒谬的；可笑的
+render|vt.提供；表现；使成为；宣布；翻译；回报；给予补偿；【计】渲染; n.粉刷；打底；交纳
+buffet|n.自助餐；饮食柜台；打击; vt.连续猛击；打击
+tickle|vt.使发痒；逗乐；使快乐; vi.觉得痒; n.痒；抓痒
+trays|塔板
+doggie|n.小狗；狗；汪汪; adj.狗的；像狗一样的; =doggy.
+hoarse|adj.沙哑的；嘶哑的；刺耳的
+snug|adj.温暖舒适的；合身的；安全的; v.使整洁干净；舒适地依靠；紧贴; n.酒吧里的私房
+dung|n.动物的粪便; v.上粪
+dictatorship|n.专政；独裁（权）
+commence|v.开始；着手；获得学位
+rack|n.行李架；（放衣物、碗碟等的）架子；拷问台；折磨；（比赛开始前固定球位置的）三角框; vt.使痛苦；把...放在架子上；累计取得
+strengths|强项
+earliest|n.最早; adj.最早的
+flip|vt.掷；轻击；弹; vi.翻转; n.（跳水或体操动作中的）空翻；轻弹；浏览; adj.无礼的；冒失的；轻率的
+heartless|adj.无情的；残酷的
+aerobics|n.有氧运动；健美操
+chaos|n.混乱；无秩序；混沌
+eternal|adj.永久的；永恒的; n.永恒的事
+ash|n.灰；灰烬; n.白蜡树；白蜡木; (复)ashes：骨灰；废墟；苍白.
+sprinkle|v.洒；撒；下稀疏小雨; n.少量散布的屑状物
+compound|n.化合物；复合词；复合物; n.院子(用围墙圈起来的场地）; adj.化合的；【语】（词语等）复合的；【植】复合的；【动】群体的; vt.混合；调合；使严重；私了；【经】以复利计算; vi.妥协
+stroke|n.中风；击打；一笔（画）；意外的运气; v.击打; v.轻抚；奉承
+gorgeous|adj.华丽的；灿烂的；极好的
+confusion|n.惶惑；混淆；混乱；不确定状态
+grateful|adj.感激的；令人愉快的
+jumper|n.跳跃者；跳高运动员；雪橇；[电]跳线; n.无袖连衣裙；套头衫；连衫裤童装；工作夹克
+nearest|adj.最近的
+formerly|adv.以前；从前
+peck|v.啄；连续敲击；轻吻; n.啄痕；啄食；轻吻; n.配克；大量
+riddle|n.谜；谜语; vt.解谜；出谜题；充满；打洞；筛选; vi.出谜题
+prophecy|n.预言; =prophesy.
+rewrite|n.重写；改写; vt.改写；重写; vi.修改
+blond|adj.金发的; n.金发的人
+milky|adj.乳状的；乳白色的
+finest|adj.好的；出色的
+warriors|武士
+serpent|n.蛇；蛇一般的人；狡猾的人
+surgeon|n.外科医生
+dreamy|adj.梦幻般的；心不在焉的；不切实际的；轻柔的
+howling|adj.咆哮的；哭哭啼啼的；寂寥的
+glide|v.滑动；滑翔；溜走; n.滑动；滑过；滑音
+frightened|adj.受惊的
+instantly|adv.立即地；即刻地
+drool|v.流口水；垂涎；胡说; n.口水；胡话
+grace|n.优美；优雅；恩惠; vt.使优美；使荣耀
+accompany|vt.陪伴；伴随...发生；补充；给...伴奏; vi.伴奏
+stink|n.臭味；臭气; vi.发臭味；招人讨厌
+hospitality|n.款待；殷勤；好客；酒店管理
+digest|n.摘要; vt.消化；理解; vi.消化
+thoughtfully|adv.深思地；考虑周到地；细心地
+historian|n.历史学家；编史者
+uncles|n.叔伯
 satisfied|adj.感到满意的
-squash|n.壁球；摺皱不堪；拥挤嘈杂的人群；浓缩果汁；美国南瓜; vt.压制；压扁; vi.变扁；挤进
+torch|n.手电筒；火炬；火把；纵火犯; v.纵火
+dreary|adj.沉闷的；令人沮丧的；情绪低落的

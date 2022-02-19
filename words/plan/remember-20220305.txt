@@ -1,75 +1,75 @@
-overtime|n.加班时间(加班加点费)；(比赛)延长时间; adv.在规定时间之外(超出时间地)
-crow|n.乌鸦；啼叫；欢叫; v.报晓；啼叫；欢叫；夸口；洋洋自得
-banquet|n.宴会; vi.参加宴会; vt.宴请；设宴
-intensive|adj.密集的；彻底的；精细的；强调的; n.(语法)强调成份
-victorious|adj.胜利的；得胜的
-frontal|adj.前的；正面的；额的; n.额饰；祭坛前面的罩巾；建筑物的正面；三角门楣
-doggy|n.小犬；小狗（=doggie）; adj.爱狗的；像狗一样的；摆阔的；低级的
-trickle|vi.滴流；慢慢移动; n.细流；徐徐地流
-goalie|n.(足球等运动的)守门员; =goalkeeper
-goatskin|n.山羊皮
-budge|v.移动；妥协; n.羔皮; adj.浮夸的；庄严的
-gunman|n.持枪者；枪手；持枪歹徒；职业杀手
-sneaky|adj.鬼祟的；卑鄙的
-practicing|adj.开业的；在工作的
-deaths|死亡人口
-rattle|vi.嘎嘎作响；喋喋不休; vt.使惊惶失措；使恼火；使作响；急促地谈讲; n.嘎嘎声；嘎嘎响的东西；拔浪鼓
-distraction|n.分心；分心的事物；注意力分散；娱乐；消遣；发狂
-gnaw|v.咬；折磨；侵蚀
-gravel|n.碎石; v.铺碎石；使困惑
-efficiency|n.效率；功率
-cuff|n.袖口；手铐; n.巴掌; v.为...上袖口；带手铐; v.轻拍；掴
-fury|n.愤怒；狂暴；狂怒的人；泼妇; Fury.; n.[罗神]复仇女神
-loch|n.湖；狭长的海湾
-glint|n.闪烁; v.闪耀；闪闪发光
-droop|v.低垂；下垂；(草木)枯萎；(精神)萎靡; n.下垂；消沉
-spelling|n.拼法；拼写
-eights|八叠板,八层叠板
-fiend|n.魔鬼；邪神
-bald|adj.秃头的；单调的；无装饰的; v.（使）变秃头
-gross|adj.总的；粗鲁的；公然的；荒唐的；令人讨厌的; n.总量；总额; vt.总共赚得; adv.总共地
-sailors|海员
-gymnastics|n.体操
-gruesome|adj.可怕的；令人毛骨悚然的；阴森的
-gasp|v.喘气；喘息；渴望; n.喘气
-giggle|v.咯咯地笑; n.咯咯笑；趣事
-hoot|n.鸣笛声；猫头鹰叫声；一点点；好笑的人或事; v.大声叫嚣；(汽笛、喇叭等)呜呜作响；哄赶
-foul|adj.恶臭的；邪恶的；污秽的；恶劣的；犯规的; n.犯规; v.弄脏；妨碍；犯规
-mornings|n.每天上午；在任何上午
-gleam|v.闪烁；隐约地闪现; n.微光；闪光；闪现
-divine|adj.神圣的；神的; vt.推断; vi.预言；理解; n.牧师；神学家
-courier|n.送快信的；急差；旅行服务员
-ante|n.(纸牌游戏中发牌钱下的)赌注；(需预付的)款项; v.下赌注；付款; pref.表示“前”
-grin|v.露齿而笑；(以咧嘴笑来)表示; n.露齿笑；咧嘴笑
-beast|n.兽；畜牲
-amused|adj.愉快的；顽皮的；被逗乐的；觉得好笑的
-bind|v.捆绑；装订；约束；强迫；团结; n.窘境
-beware|v.小心；谨防
-routine|n.例行公事；常规；无聊; adj.常规的；例行的；乏味的
-flail|v.挥动；用连迦打；敲打; n.连迦
-furious|adj.狂怒的；猛烈的
-dominion|n.统治；主权；领土; Domimion：.; n.英联邦的自治领土
-freshly|adv.新近；刚才
-swimmer|n.游泳者
-drape|n.布帘；褶皱; v.用布帘覆盖；（使）呈褶裥状；悬挂
-maker|n.制造者；制定者; Maker:上帝.
-bonding|n.形成的亲密关系；[牙]黏结
-disgrace|n.耻辱; v.耻辱；丢脸
-fragment|n.碎片；片段; v.使破碎；分裂
-lair|n.(野兽的)巢穴；(人的)藏身处
-dungeon|n.地牢；土牢；城堡主塔
-fisherman|n.渔夫；渔船
-apiece|adv.每人；每个；各
-shabby|adj.破旧的；寒酸的；低劣的，无耻的；卑劣的
-elegant|adj.优雅的；雅致的
-carcass|n.尸体；残骸；骨架；(人的)身躯
-spawn|n.卵；产物；后代；结果; vt.产卵；种菌丝于；产生；造成; vi.产卵；大量生产
-footed|adj.有脚的；...脚的
+warmly|adv.亲切地；温暖地；热烈地
+magician|n.魔术师；术士
+heal|vt.治愈；使恢复健康；使和解; vi.痊愈
 faint|adj.微弱的；无力的；模糊的; v.昏倒; n.昏厥；昏倒
-wool|n.羊毛；毛线；毛织品
+boast|v.自夸；吹牛；以...为荣; n.自夸；引以为荣的事物
+delight|n.高兴；快乐; v.(使)高兴；(使)欣喜
+nephew|n.外甥；侄子
+nasty|adj.下流的；严重的；令人不快的；难懂的；危害的
+eights|八叠板,八层叠板
+needlepoint|n.针尖；针绣花边
+neatly|adv.整洁地；熟练地
+mischief|n.淘气；恶作剧；捣蛋鬼；损害；伤害
+saddle|n.鞍；车座；山脊；当权; vt.装以马鞍；使负担; vi.装马鞍
+dominion|n.统治；主权；领土; Domimion：.; n.英联邦的自治领土
+grudge|n.怨恨；恶意; vt.不愿；吝惜；嫉妒
+luckily|adv.幸运地；幸亏地
+dining|n.就餐
+mist|n.雾；迷蒙；朦胧不清; vt.使…模糊；蒙上雾; vi.使模糊；下雾
+foresee|v.预见；预知
+cattle|n.牛；家畜；畜牲
+myth|n.神话；虚构的故事
+beloved|adj.心爱的; n.爱人
+oceans|n.大洋
+elegant|adj.优雅的；雅致的
+hitch|n.猛拉；急促猛推；跛行；妨碍；免费搭车; vt.拴住；连住；急拉；拉紧；免费搭车; vi.蹒跚；被缠结；免费乘车
+momentous|adj.重要的；重大的
+eternity|n.永远；来世；不朽；漫长的时间
+clicking|n.微小静电干扰声
+sheriff|n.郡治安官；郡长
+mule|n.骡子；固执的人；走私毒品者; n.拖鞋
+waking|adj.醒着的
+palaces|宫城
+muddy|adj.泥泞的；浑浊的；糊涂的; v.使沾上烂泥；使...混浊；使迷惑
+mysteriously|adv.神秘地；故弄玄虚地
+boar|n.野猪；公猪
+slumber|n.睡眠；微睡；休止状态; v.睡觉；打盹；静止；休眠
+magically|adv.如魔法般地；用魔法地
+quest|n.探索；寻求; v.寻找；搜索
+necked|v.颈缩(冲槽); adj.压缩的
+immediate|adj.直接的；最接近的；立即的；目前的
+weekly|adj.每周的；一周一次的；周刊的; n.周刊；周报; adv.每周；一周一次
+invincible|adj.不可征服的；不能战胜的
+relative|adj.相对的；比较的；相关的; n.亲戚；[语]关系词
+gloomy|adj.阴暗的；忧闷的；前景黯淡的
+mug|n.脸；杯；一杯的量；恶棍; v.打劫；突击学习
+pluck|v.摘；猛拉；拔；拨弹（乐器）; n.猛拉；勇气；动物内脏
+enormous|adj.巨大的；庞大的
+squawk|n.叫声；嘈杂的抱怨; v.呱呱地叫鸣；喋喋不休地发牢骚
+courageous|adj.勇敢的；有勇气的，有胆量的
+moonlight|n.月光; v.兼职; adj.夜间的
+respectful|adj.表示尊敬的；有礼貌的；谦恭的
+ness|n.岬；海角
+maniac|n.疯子；热衷者；躁狂者
+fiercely|adv.猛烈地；厉害地
+tee|n.字母t；形状像字母T的东西; [游戏]目标.; [高尔夫球]发球的球座.; v.将（高尔夫球）置于球座
+dungeon|n.地牢；土牢；城堡主塔
+droop|v.低垂；下垂；(草木)枯萎；(精神)萎靡; n.下垂；消沉
+willow|n.柳树；柳木制品
+misfortune|n.不幸；灾祸
+sword|n.剑；刀
+efficiency|n.效率；功率
+frantic|adj.疯狂的；狂乱的；急忙的
+newly|adv.新近地；重新地
+thee|pron.[古]你；汝；你自己
+swamp|n.沼泽；湿地；困境; v.淹没；使陷于困境；使忙于应付
+drape|n.布帘；褶皱; v.用布帘覆盖；（使）呈褶裥状；悬挂
 drift|vi.漂流；漂移；吹积；漂泊；偏离; vt.使漂流；使堆积; n.漂流；趋势；漂泊
-assist|vt.帮助；协助; vi.帮助；出席; n.帮助；协助；助攻；协助的器械
-tight|adj.紧的；紧身的；密集的；拮据的; adv.紧紧地；牢固地；迅速地
-gut|n.内脏；肠子；羊肠线；胆量；勇气; vt.取出内脏；摧毁（内部）; adj.本能的；（问题等）根本的
-gigantic|adj.巨大的
-harmony|n.和谐；协调；调和；和声
+dire|adj.可怕的；悲惨的；极其的
+detached|adj.超然的；分离的；独立的
+mutter|v.咕哝；抱怨；低语; n.嘟哝；抱怨；低语
+muse|v.沉思；冥想; n.沉思；[大写]（希腊神话）缪斯；艺术家的灵感；诗人
+mishap|n.不幸之事；灾祸；恶运
+downstream|adv.朝下游方向; adj.顺流的
+turf|n.草皮；泥炭；赛马场；赛马; v.铺草皮
+pitiful|adj.慈悲的；可怜的；凄惨的
