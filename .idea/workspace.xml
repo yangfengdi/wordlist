@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
+    <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="更新词汇记忆与测验数据。">
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/article/RAZ-K.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbscript.sql" beforeDir="false" afterPath="$PROJECT_DIR$/dbscript.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/db_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dict.db" beforeDir="false" afterPath="$PROJECT_DIR$/dict.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/word_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220219.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remember/remember-20220219.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/myon-msd-project-articals-1-16.txtXX" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/myon-msd-project-articals-1-16.txtXX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/article/raz.txtX" beforeDir="false" afterPath="$PROJECT_DIR$/words/article/RAZ-K-old.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/myon-msd-project-words-1-16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/myon-msd-project-words-1-16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/newword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/newword.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/words/plan/remember-20220220.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/words/plan/remember-20220221.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/words/plan/remember-20220222.txt" beforeDir="false" />
@@ -49,7 +55,7 @@
       <change beforePath="$PROJECT_DIR$/words/plan/remember-20220328.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/words/plan/remember-20220329.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/words/plan/remember-20220330.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220331.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/review.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/review.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +80,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1mW517vdRCFrAUsgvpJ8RXDQ5lX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -87,7 +96,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -96,9 +105,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/words/remember/archive" />
       <recent name="$PROJECT_DIR$/words/remember" />
+      <recent name="$PROJECT_DIR$/words/quiz/archive" />
       <recent name="$PROJECT_DIR$/words/quiz" />
       <recent name="$PROJECT_DIR$/words/plan" />
-      <recent name="$PROJECT_DIR$/words/quiz/archive" />
     </key>
   </component>
   <component name="RunManager" selected="Python.word_utils">
@@ -165,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="spliteword" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="wordlist" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spliteword.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,10 +219,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.word_utils" />
+        <item itemvalue="Python.utils" />
         <item itemvalue="Python.dbutils" />
         <item itemvalue="Python.dict" />
         <item itemvalue="Python.pdftest" />
-        <item itemvalue="Python.spliteword" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645167454960</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="更新词汇记忆与测验数据。">
+      <created>1645255268979</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1645255268979</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -511,7 +527,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始提交。" />

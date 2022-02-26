@@ -118,7 +118,7 @@ class word_set():
             cursor.execute(sql)
             words = set()
             for row in cursor:
-                if len(words) >= new_word_cnt:
+                if len(words) >= set_size - len(quizlet_set):
                     break #如果新词的量已经达到了，就不要再添加新词了
                 words.add(row[0])
             quizlet_set = quizlet_set | words
@@ -173,9 +173,19 @@ class word_set():
             dict_word, meaning = dictcn.search(word)
             words.add(dict_word)
 
-        words = words - self.words_min_remember_times(1) #如果一个词曾经被背过一定次数以上就跳过
+        words_count = len(words)
+        print('从文章中读取到 {} 个单词'.format(words_count))
+
         words = words - self.words_last_quiz_pass() #如果一个词最近一次测验是通过的就跳过
+        print('剔除测验通过的 {} 个单词，剩余 {} 个单词'.format(words_count - len(words), len(words)))
+        words_count = len(words)
+
+        words = words - self.words_min_remember_times(1) #如果一个词曾经被背过一定次数以上就跳过
+        print('剔除曾经背过的 {} 个单词，剩余 {} 个单词'.format(words_count - len(words), len(words)))
+
         words_dict = self.__filter_words(words)
+        print('最终输出 {} 个新词'.format(len(words_dict)))
+
         self.__write_dict_to_file(words_dict, "words/newword.txt")
 
     def get_words_from_article(self, file):
@@ -202,9 +212,18 @@ class word_set():
             dict_word, meaning = dictcn.search(word)
             words.add(dict_word)
 
-        words = words - self.words_min_remember_times(1) #如果一个词曾经被背过一定次数以上就跳过
+        words_count = len(words)
+        print('从文章中读取到 {} 个单词'.format(words_count))
+
         words = words - self.words_last_quiz_pass() #如果一个词最近一次测验是通过的就跳过
+        print('剔除测验通过的 {} 个单词，剩余 {} 个单词'.format(words_count - len(words), len(words)))
+        words_count = len(words)
+
+        words = words - self.words_min_remember_times(1) #如果一个词曾经被背过一定次数以上就跳过
+        print('剔除曾经背过的 {} 个单词，剩余 {} 个单词'.format(words_count - len(words), len(words)))
+
         words_dict = self.__filter_words(words)
+        print('最终输出 {} 个新词'.format(len(words_dict)))
         self.__write_dict_to_file(words_dict, "words/newword.txt")
 
     # 按词频位置选择单词
@@ -464,11 +483,27 @@ class word_set():
 
         words_top_freq = self.word_by_freq('BE', 0, 15000)|self.word_by_freq('AE', 0, 15000)
 
+        words_count = len(words_list)
+
         words_list = words_list - words_except #去除某些简单单词，如小学、初中单词等
+        print('剔除 {} 个小学词汇、初中词汇等简单单词，剩余 {} 个单词'.format(words_count - len(words_list), len(words_list)))
+        words_count = len(words_list)
+
         words_list = words_list - words_variant  #去除变体的单词
+        print('剔除 {} 个复数、过去式、过去分词等变体单词，剩余 {} 个单词'.format(words_count - len(words_list), len(words_list)))
+        words_count = len(words_list)
+
         words_list = words_list - words_proper #去除专用单词，如：国名、地名、人名等
+        print('剔除 {} 个国名、地名、人名等专有词汇，剩余 {} 个单词'.format(words_count - len(words_list), len(words_list)))
+        words_count = len(words_list)
+
         words_list = words_list - words_first_letter_capital #去除首字母大写单词
+        print('剔除 {} 个首字母大写，剩余 {} 个单词'.format(words_count - len(words_list), len(words_list)))
+        words_count = len(words_list)
+
         words_list = words_list & words_top_freq #剔除低频词
+        print('剔除 {} 个词频低于 美语TOP15000 的低频单词，剩余 {} 个单词'.format(words_count - len(words_list), len(words_list)))
+
         result = {}
         for word in words_list:
             result[word] = words_meaning[word]

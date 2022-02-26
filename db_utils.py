@@ -207,15 +207,15 @@ class db_utils():
 
             #print(word)
 
-            cursor.execute("SELECT count(1) FROM word_remember_plan WHERE word='{}' and remember_status='NOT_REMEMBER'".format(word))
+            cursor.execute("SELECT count(1) FROM word_remember_plan WHERE word='{}'".format(word))
             if cursor.fetchone()[0] != 0:
                 skip_count += 1
                 continue
 
 
             for seq in range(len(gap_days)):
-                sql = "INSERT INTO word_remember_plan (word, word_type, seq_no, gap_days, plan_status, remember_status) " \
-                    "VALUES (?, ?, ? , ?, 'UNPLANNED', 'NOT_REMEMBER')"
+                sql = "INSERT INTO word_remember_plan (word, word_type, seq_no, gap_days, plan_status) " \
+                    "VALUES (?, ?, ? , ?, 'UNPLANNED')"
                 cursor.execute(sql,(word,word_type, seq, gap_days[seq]))
                 conn.commit()
 
