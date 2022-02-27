@@ -111,7 +111,7 @@ if __name__ == '__main__':
     #制作测试题
     #word_set.make_quiz_from_fail_record('2022-02-18', 8)
     #word_set.make_quiz_from_remembered_some_days_words('2022-02-18', 8)
-    #word_set.make_quiz_from_tag('俞敏洪初中', '2022-02-18', 8)
+    word_set.make_quiz_from_tag('俞敏洪高中', '2022-03-05', 8)
 
     #创建新词列表
     #word_set.get_new_words_from_articles('words/article')
