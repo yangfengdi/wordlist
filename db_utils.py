@@ -212,7 +212,6 @@ class db_utils():
                 skip_count += 1
                 continue
 
-
             for seq in range(len(gap_days)):
                 sql = "INSERT INTO word_remember_plan (word, word_type, seq_no, gap_days, plan_status) " \
                     "VALUES (?, ?, ? , ?, 'UNPLANNED')"

@@ -1,100 +1,100 @@
-ghost|n.幽灵；鬼魂; n.[计]美国赛门铁克公司旗下的硬盘备份还原工具
-interviewer|n.采访者；接见者；（面试时的）主考官
-dash|v.猛冲；猛掷；泼溅；匆忙完成; n.破折号；短跑；猛冲；冲
-penalty|n.处罚；惩罚；不利；罚球
-stab|v.刺；戳；刺伤; n.刺；戳；刺痛；尝试
-pillow|n.枕头; vt.枕；搁；垫
-neighborhoods|生活社区
-edible|adj.可食用的; n.食品；食物
-upside|n.上部上涨；优势；潜力; prop.上面；上方
-speck|n.斑点；灰尘；污点；少量; v.用斑点标记
-wretched|adj.可怜的；不幸的；悲惨的；质量差的；恶劣的；卑鄙的
-landowner|n.地主；土地所有者
-construct|vt.建造；构筑；造(句); n.构想
-competitor|n.竞争者；对手
-mailman|n.邮差；邮递员; =postman（英）.
-wax|n.蜡；蜂蜡; vt.(用蜡)涂; vi.变圆
-define|v.规定；限定；定义；解释
-slap|n.侮辱；掴；拍击声; vt.侮辱；拍击；惩罚；申斥; adv.直接地；正面地；突然地
-excitement|n.激动；兴奋
-xi|n.希腊语中的第十四个字母
-slam|v.砰地关上；猛放；猛烈攻击; n.砰然声；猛烈抨击; n.满贯
-unequal|adj.不相等的；不平等的；不胜任的
-wreck|v.使…失事；使…遇难；破坏; n.遇难；残骸；破坏；（船）失事下沉
-stove|n.炉子；窑；【主英】温室
-lad|n.少年；小伙子；伙伴
-satin|n.缎子; adj.缎子的
-puck|n.冰球；橡胶圆盘；小淘气
-cargo|n.货物；船货
-enforce|vt.强迫；强制；实施；执行；加强
-dart|n.飞镖；投射；突进；缝褶; vi.快速投掷；突然移动; vt.使突然移动
-daytime|n.白天；日间
-karate|n.空手道(日本的一种徒手武术)
-insult|n.侮辱；辱骂；冒犯; vt.侮辱；辱骂；凌辱
-flock|n.一群；兽群；大堆；群众；羊群; v.聚集；成群而行
-peacefully|adv.平静地；和平地
-slave|n.奴隶；像奴隶般受制的人；【机】从动装置; v.做苦工；做奴隶；拼命干
-opener|n.开启工具；开端；揭幕赛；(板球的)首位击球员
-cast|v.掷；抛；投；铸造；指定演员；加起来；投射(目光)；投(票)；预测; n.演员阵容；投掷；[医]固定用敷料
-explanation|n.解释；说明
-ash|n.灰；灰烬; n.白蜡树；白蜡木; (复)ashes：骨灰；废墟；苍白.
-stiff|adj.硬的；僵直的；艰难的；生硬的；拘谨的；烈性的; adv.极其；僵硬地; n.死尸；流浪汉；过于拘谨的人；吝啬鬼；醉鬼
-eel|n.鳗鱼；鳝鱼
-betray|vt.背叛；出卖；泄露；显露
-pointer|n.指针；教鞭；（能指出猎物位置的）猎犬；暗示；主意; Pointer:指极星.
-frightened|adj.受惊的
-fame|n.名声；名望; vt.使出名
-critter|n.生物；家畜；人
-aboard|adv.在船上；在火车上；在飞机上; prep.上船；上飞机；上车
-banner|n.横幅；旗帜；大标题; adj.杰出的；特别好的; vt.用横幅装饰；以大标题报道
-forming|n.形成(成形法；模锻); v.形成
-highlight|vt.强调；照亮；加亮；使...显得重要；使突出; n.加亮区；精彩部分；最重要的细节或事件；闪光点; [计算机]醒目
-creepy|adj.(使人)毛骨悚然的；怪异的
-motorcycles|摩托车
-daddy|n.爸爸
-physically|adv.身体上地；实际上
-drill|n.钻孔机；钻子；反复操练；播种机; v.练习；钻孔；(军事)训练
-necklace|n.项链
-policeman|n.（男）警察
-pony|n.小马；小型的东西; v.付清
-ketchup|n.蕃茄酱; =catchup.
-plentiful|adj.丰富的；多的；充裕的
-ornament|n.装饰；装饰物; vt.装饰
-replay|n.重赛；重演；重播; v.重新比赛；重放
-personality|n.个性；名人；特色
-biscuit|n.饼干；淡褐色
-palm|n.手掌；棕榈; vt.把...藏于掌中；诓骗某人
-disobey|v.违反；不服从
-pea|n.豌豆
-underneath|adv.在下面; n.下部；底部; prep.在...下面
-pickup|n.拾起；（开车)去接；搭便车者；获得；加速；拾音器；小型卡车；实况转播；（生意）好转；逮捕；发现，截获；固定器；随便买的东西; adj.临时的；凑合的
-fin|n.鳍；鱼翅；鳍状物；散热片；五元纸币
-frown|n.皱眉；不悦; v.不同意；皱眉头
-shallow|adj.浅的；薄的; n.浅滩；浅处; v.变浅
-yew|n.紫杉；紫杉木
-pat|n.轻拍；轻打；小块; v.轻拍；抚摸；拍打
 navy|n.海军；船队；海军蓝
-practicing|adj.开业的；在工作的
-seasonal|adj.季节的；依照季节的；周期性的
-honesty|n.诚实；正直
-tent|n.帐篷; v.住帐篷；宿营
-originally|adv.原本；起初；独创地
-undergo|vt.经历；经受；遭受
-recess|n.休息；幽深处；凹缝；壁龛；放假; v.放入壁龛；作凹处；休息
-replacement|n.更换；接替者
-sadly|adv.悲哀地；遗憾的是；极为
-zipper|n.拉链; v.拉上拉链
-roughly|adv.粗略地；大约；粗暴地；粗糙地；粗鲁地
-samurai|n.(日本的)武士
-hamburgers|n.麦当劳公司的股份(证券；纽约B364证券交易市场行业用语)
+yew|n.紫杉；紫杉木
+dart|n.飞镖；投射；突进；缝褶; vi.快速投掷；突然移动; vt.使突然移动
 soap|n.肥皂；肥皂剧; vt.用肥皂洗；阿谀奉承
-mare|n.母马；母驴；(月球等)表面阴暗处
-fountain|n.喷泉；源泉；储水容器；泉水; v.使像喷泉一样流
-moisture|n.水分；潮气；湿度
-bold|adj.大胆的；陡峭的；醒目的；粗体的；无礼的
-sneeze|n.喷嚏; vi.打喷嚏
-joyful|adj.愉快的；高兴的
-traveler|n.旅行者(移式起重机；导丝钩；临时记帐单)
+bent|bend的过去式和过去分词.; adj.下定决心的；弯曲的; n.嗜好
+nationality|n.国籍；民族
+atmosphere|n.大气；空气；气氛；气压
+stiff|adj.硬的；僵直的；艰难的；生硬的；拘谨的；烈性的; adv.极其；僵硬地; n.死尸；流浪汉；过于拘谨的人；吝啬鬼；醉鬼
+suffer|vt.遭受；忍受；容忍，宽恕，听任；允许，准许; vi.受苦；患病；受损失；变差，变糟；处于不利地位
+wisdom|n.智慧；明智；才智；聪明；至理名言
+analysis|n.分析；解析
+lad|n.少年；小伙子；伙伴
 paddle|n.桨；划桨；明轮翼; v.划桨；戏水；抚弄
-overdue|adj.过期的；未兑的；迟到的
+aspect|n.方面；方位；外观；外貌
+approximately|adv.大约；近似地
+personality|n.个性；名人；特色
+upside|n.上部上涨；优势；潜力; prop.上面；上方
+construction|n.建设；结构；建筑物；建造；构造；解释
+process|n.工序；过程; v.加工；处理；起诉；列队前进
+disturb|v.扰乱；妨碍；使...不安；打破...的平静；打乱...的治安
+burst|n.爆发；破裂；阵; v.爆裂；迸发；冲；闯
+seasonal|adj.季节的；依照季节的；周期性的
+fame|n.名声；名望; vt.使出名
+recess|n.休息；幽深处；凹缝；壁龛；放假; v.放入壁龛；作凹处；休息
+secure|adj.安全的；牢靠的；稳妥的; vt.使安全；获得；固定
+sharpen|vt.使尖锐；磨快；加剧; vi.变尖锐
+companion|n.同伴；志趣相投的人；成对物品之一；参考书; v.陪伴
+technical|adj.技术的；专业的；工艺的
+rare|adj.罕见的；珍贵的；煎得嫩的
+daytime|n.白天；日间
+express|n.快车；快递；专使; adj.明确的；急速的；直接的; adv.用快递; vt.表达；表示；挤压出；快递
+consistent|adj.始终如一的；持续的；一致的
+hesitate|vi.犹豫；不情愿；口吃
+physically|adv.身体上地；实际上
+practical|adj.明智的；实际的；实用的；事实上的; n.实践考试
+fin|n.鳍；鱼翅；鳍状物；散热片；五元纸币
+ancient|adj.古老的；古代的; n.古人
+energetic|adj.精力旺盛的；有力的；能量的
+accurate|adj.准确的；精确的
+guarantee|n.保证；保证书；担保；担保人；抵押品; vt.保证；担保
+measure|n.措施；量度；尺寸；程度；办法; v.测量；比较；给予；权衡
+opener|n.开启工具；开端；揭幕赛；(板球的)首位击球员
+prejudice|n.偏见；伤害; vt.伤害；使...存偏见；使偏袒
+extraordinary|adj.非凡的；特别的；特派的
+actual|adj.实际的；事实上的
+quarrel|n.吵架；争论；怨言; vi.吵架；争论；挑剔
 stark|adj.严酷的；荒凉的；光秃秃的；鲜明的; adv.完全；实在；简直
+exist|v.存在；生存；活着
+excitement|n.激动；兴奋
+parcel|n.包裹；部分；一块(土地); vt.分配；打包
+xi|n.希腊语中的第十四个字母
+apologize|vi.道歉；赔罪
+undergo|vt.经历；经受；遭受
+fountain|n.喷泉；源泉；储水容器；泉水; v.使像喷泉一样流
+aboard|adv.在船上；在火车上；在飞机上; prep.上船；上飞机；上车
+portable|adj.轻便的；手提式的；[计]可移植的; n.便携的东西
+unique|adj.独特的；独一无二的；稀罕的
+vital|adj.至关重要的；有活力的；生死攸关的
+disappointed|adj.失望的
+traveler|n.旅行者(移式起重机；导丝钩；临时记帐单)
+overdue|adj.过期的；未兑的；迟到的
+advance|n.前进；进展；预付金; v.前进；预付；增长；推进; adj.预先的；提前的
+congratulate|vt.祝贺；庆祝
+handle|v.处理；对待；操作；触；买卖; n.把手；柄
+weep|v.流泪；哭泣；悲叹；渗出; n.哭泣；眼泪
+identify|vt.鉴定；识别，辨认出，认出；认明；把…看成一样; vi.认同；感同身受
+fuel|n.燃料；刺激因素; vt.供以燃料; vi.加燃料
+interviewer|n.采访者；接见者；（面试时的）主考官
+dial|n.拨号盘；刻度盘；日晷；钟面; v.拨号；打电话
+unequal|adj.不相等的；不平等的；不胜任的
+handful|n.一把；少数；难控制的人；棘手之事
+wretched|adj.可怜的；不幸的；悲惨的；质量差的；恶劣的；卑鄙的
+replay|n.重赛；重演；重播; v.重新比赛；重放
+journey|n.旅程；旅行；行程; v.旅行
+culture|n.栽培；文化；教养; vt.培养，栽培
+roughly|adv.粗略地；大约；粗暴地；粗糙地；粗鲁地
+concern|n.关心；关心的事；忧虑，担心; vt.涉及；影响；关心；（使）担心; n.公司；企业
+embarrass|vt.使窘迫；使尴尬；使为难; vi.窘迫
+symptom|n.症状；征兆
+insult|n.侮辱；辱骂；冒犯; vt.侮辱；辱骂；凌辱
+visual|adj.视觉的；视力的；看的见的；形象的; n.画面；图象
+edible|adj.可食用的; n.食品；食物
+effect|n.效应；结果；影响；印象；效果；要旨; v.使产生；引起
+palm|n.手掌；棕榈; vt.把...藏于掌中；诓骗某人
+sharp|adj.锋利的；突然的；灵敏的；明显的；辛辣的；【音】升音阶的; adv.准时地；突然地；偏高地
+charge|n.责任；电荷；指控；费用；照顾; vi.要价；充电；向前冲，冲锋；记在账上; vt.控诉；赊帐；给…充电；委以重任；归罪于；装填（炸药等）
+begin|v.开始；着手
+vehicle|n.车辆；交通工具；传播媒介；手段；工具
+academic|adj.学院的；学术的；理论的; n.大学教师，大学生；学者，学究
+tendency|n.趋势；倾向；秉性
+spread|v.传播；展开；散布；铺开；伸展；涂撒; n.范围；传播；差额；幅度；盛宴
+challenging|adj.挑战性的；有吸引力的; 动词challenge的现在分词.
+status|n.地位；情形；状况，状态；身份
+moisture|n.水分；潮气；湿度
+admire|vt.钦佩；赞美；羡慕；欣赏
+shallow|adj.浅的；薄的; n.浅滩；浅处; v.变浅
+stare|v.盯着看；凝视; n.凝视
+persuade|vt.说服；劝说
+pillow|n.枕头; vt.枕；搁；垫
+critter|n.生物；家畜；人

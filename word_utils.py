@@ -111,7 +111,8 @@ if __name__ == '__main__':
     #制作测试题
     #word_set.make_quiz_from_fail_record('2022-02-18', 8)
     #word_set.make_quiz_from_remembered_some_days_words('2022-02-18', 8)
-    word_set.make_quiz_from_tag('俞敏洪高中', '2022-03-05', 8)
+    #word_set.make_quiz_from_tag('俞敏洪初中', '2022-03-05', 8)
+    #word_set.make_quiz_from_list('words/words.txt', '2022-03-05', 8)
 
     #创建新词列表
     #word_set.get_new_words_from_articles('words/article')
@@ -123,7 +124,8 @@ if __name__ == '__main__':
     #utils.import_word_remember_plan('words/newword.txt', 'NEW', (1, 2, 3, 8, 0)) #标准艾宾浩斯记忆
     #utils.import_word_remember_plan('words/newword.txt', 'NEW', (1, 3, 8, 0)) #简化的艾宾浩斯记忆
     #utils.import_word_remember_plan('words/review.txt', 'OLD', (2, 3, 8, 0))
-    #word_set.create_quizlet_set('2022-02-27', 100, 17)
+    #utils.import_word_remember_plan('words/words.txt', 'OLD', (2, 3, 0))
+    #word_set.create_quizlet_set('2022-03-14', 100, 17)
 
     #创建复习quizlet列表
     #word_set.get_words_from_recent_remember_words()

@@ -153,6 +153,10 @@ class word_set():
 
         conn.close()
 
+    def __print_word_list(self, list):
+        for word in list:
+            print(word)
+
     def get_new_words_from_docxs(self, dir):
         dirs = os.listdir( dir )
         rough_words_in_docx = set()
@@ -610,10 +614,40 @@ class word_set():
 
     def make_quiz_from_tag(self, words_tag, start_date, page_max = 10):
         words = self.words_with_tag(words_tag)
+        word_count = len(words)
+        print('初始获得 {} 个单词'.format(word_count))
+
         words = words - self.words_max_last_remember_days(30) #最近15天内背过的单词不测验
+        print('剔除 {} 个最近30内记忆过的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
         words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
+        print('剔除 {} 个最近一次测验通过的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
         words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
+        print('剔除 {} 个最近30天内做过测验的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+
         self.__make_quiz(words, start_date, page_max)
+
+    def make_quiz_from_list(self, file, start_date, page_max = 10):
+        words = self.words_in_list(file)
+
+        word_count = len(words)
+        print('初始获得 {} 个单词'.format(word_count))
+
+        words = words - self.words_max_last_remember_days(30) #最近15天内背过的单词不测验
+        print('剔除 {} 个最近30内记忆过的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
+        words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
+        print('剔除 {} 个最近一次测验通过的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
+        words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
+        print('剔除 {} 个最近30天内做过测验的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+
+        self.__make_quiz(words, start_date, page_max, filter=False)
 
     def make_quiz_from_remembered_some_days_words(self, start_date, page_max=10):
         words = self.words_min_remember_times(2) #至少背过3次的单词
@@ -622,7 +656,7 @@ class word_set():
         words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
         self.__make_quiz(words, start_date, page_max)
 
-    def __make_quiz(self, words, start_date, page_max = 10):
+    def __make_quiz(self, words, start_date, page_max = 10, filter = True):
         conn = sqlite3.connect('dict.db')
         cursor = conn.cursor()
         words_list = set()
@@ -634,26 +668,42 @@ class word_set():
             words_meaning[dict_word] = meaning
             words_list.add(dict_word)
 
-        words_variant = self.words_with_tag('复数')
-        words_variant = words_variant|self.words_with_tag('第三人称单数')
-        words_variant = words_variant|self.words_with_tag('过去式')
-        words_variant = words_variant|self.words_with_tag('过去分词')
-        words_variant = words_variant|self.words_with_tag('现在分词')
-        words_variant = words_variant|self.words_with_tag('比较级')
-        words_variant = words_variant|self.words_with_tag('最高级')
+        if filter :
+            words_variant = self.words_with_tag('复数')
+            words_variant = words_variant|self.words_with_tag('第三人称单数')
+            words_variant = words_variant|self.words_with_tag('过去式')
+            words_variant = words_variant|self.words_with_tag('过去分词')
+            words_variant = words_variant|self.words_with_tag('现在分词')
+            words_variant = words_variant|self.words_with_tag('比较级')
+            words_variant = words_variant|self.words_with_tag('最高级')
 
-        words_proper = self.words_with_tag('姓氏')
-        words_proper = words_proper|self.words_with_tag('人名')
-        words_proper = words_proper|self.words_with_tag('国名')
-        words_proper = words_proper|self.words_with_tag('美国州名')
-        words_proper = words_proper|self.words_with_tag('城市')
-        words_proper = words_proper|self.words_with_tag('缩写')
+            words_proper = self.words_with_tag('姓氏')
+            words_proper = words_proper|self.words_with_tag('人名')
+            words_proper = words_proper|self.words_with_tag('国名')
+            words_proper = words_proper|self.words_with_tag('美国州名')
+            words_proper = words_proper|self.words_with_tag('城市')
+            words_proper = words_proper|self.words_with_tag('缩写')
 
-        words_first_letter_capital = self.words_with_tag('首字母大写')
+            words_first_letter_capital = self.words_with_tag('首字母大写')
 
-        words_list = words_list - words_variant  #去除变体的单词
-        words_list = words_list - words_proper #去除专用单词，如：国名、地名、人名等
-        words_list = words_list - words_first_letter_capital #去除首字母大写单词
+            word_count = len(words_list)
+
+            self.__print_word_list(words_list & words_variant)
+            words_list = words_list - words_variant  #去除变体的单词
+            print('剔除 {} 个变体单词，剩余 {} 个单词'.format(word_count - len(words_list), len(words_list)))
+            word_count = len(words_list)
+
+            self.__print_word_list(words_list & words_proper)
+            words_list = words_list - words_proper #去除专用单词，如：国名、地名、人名等
+            print('剔除 {} 个国名、地名等专有单词，剩余 {} 个单词'.format(word_count - len(words_list), len(words_list)))
+            word_count = len(words_list)
+
+            self.__print_word_list(words_list & words_first_letter_capital)
+            words_list = words_list - words_first_letter_capital #去除首字母大写单词
+            print('剔除 {} 个首字母大写单词，剩余 {} 个单词'.format(word_count - len(words_list), len(words_list)))
+
+        self.__print_word_list(words_list)
+        print('最终输出 {} 个单词'.format(len(words_list)))
 
         words_dict = {}
         for word in words_list:

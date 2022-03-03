@@ -1,100 +1,100 @@
-seaside|n.海边; adj.海边(的)；海滨(的)
-wit|n.智力；才智；机智；风趣; v.知道；即
-interviewer|n.采访者；接见者；（面试时的）主考官
-racket|n.球拍; n.喧闹；敲诈；行业；职业; v.喧闹；花天酒地
-excitedly|adv.激动地；兴奋地
-wilderness|n.荒野；荒地
-quietly|adv.安静地；悄悄地；平静地
-wrestle|v.摔跤；斗争；努力解决；斟酌; n.摔跤比赛；格斗
-edible|adj.可食用的; n.食品；食物
-stretched|拉伸的
 goody|n.想要的东西；甜食；伪善者；身份低微之老妇; int.这实在太好了
-topical|adj.谈论的；时事问题的；局部的
-thickly|adv.厚厚地；浓密地；声音沙哑地
-confusion|n.惶惑；混淆；混乱；不确定状态
-librarian|n.图书管理员；图书馆学专家；图书馆馆长
-core|n.核心；果心；要点; vt.挖去果核
-imagination|n.想象；想象力；空想；幻想
-excitement|n.激动；兴奋
-raft|n.筏；木排；救生艇; n.大量; v.乘筏；制成筏
-mantle|n.斗篷；覆盖物；墙的外皮；（汽灯的）纱罩；[地]地幔; v.覆盖；笼罩；脸红
-poh|int.轻视之声; vt.使疲倦
-unequal|adj.不相等的；不平等的；不胜任的
-digest|n.摘要; vt.消化；理解; vi.消化
-rally|n.集会；（价值等）回升；回合; vi.重整旗鼓；恢复精神；(人)集合起来; vt.嘲弄；重新召集；激励
-crack|v.破裂；砸开；发出爆裂声；撞击；破解；变嘶哑；崩溃；制裁；开玩笑; n.裂缝；裂痕；爆裂声；猛击；尝试；俏皮话; adj.训练有素的
-canary|n.金丝雀；加那利舞；加那利白葡萄酒；告密者
-lad|n.少年；小伙子；伙伴
-mighty|adj.强大的；巨大的; adv.很；极其
-silently|adv.沉默地；寂静地
-whopper|n.特大之物；弥天大谎
-premium|n.额外费用；奖金；保险费; n.(商)溢价; adj.高价的；优质的
-fictional|adj.虚构的；小说的
-daytime|n.白天；日间
-separately|adv.分别地；个别地；独立地；分开地
-insult|n.侮辱；辱骂；冒犯; vt.侮辱；辱骂；凌辱
-sacks|n.(纸；麻；帆布质的)大袋子；一袋的分量; 宽松的短上衣; 睡袋；吊床; (棒球)垒；(橄榄球)成功擒抱四分卫; 解雇; vt.把...装进袋子；解雇；(橄榄球)擒抱四分卫
-dome|n.圆屋顶；苍穹；脑袋；圆形的火山口; vt.加圆屋顶于...上；使成圆屋顶; vi.成圆顶状
-ditch|n.沟渠；壕沟; vt.丢弃；坠入沟中；飞机（在海上）迫降; vi.挖渠；飞机紧急降落
-lifeguard|n.救生员
 witch|n.女巫；巫婆; vt.施巫术; vi.用神杖发现地下水源或矿物
-opener|n.开启工具；开端；揭幕赛；(板球的)首位击球员
-disagreement|n.不合；争论；不一致
-wedding|n.婚礼；结合
-itch|n.痒；渴望；疥癣; v.（使）痒；渴望
-practiced|adj.熟练的；老练的；练成的
-lightweight|adj.轻量级的；无足轻重的；比较轻的; n.轻量级拳击运动员；无足轻重的人或物；轻便
-punishment|n.惩罚
-cockroach|n.蟑螂
-shred|v.撕成碎片; n.碎布条；细片；少许
-pa|n.爸爸
-instantly|adv.立即地；即刻地
-fame|n.名声；名望; vt.使出名
-critter|n.生物；家畜；人
-whirlpool|n.漩涡; Whirlpool.; n.惠尔普（美国电子电气公司)
-plead|v.辩护；恳求；提出借口；认罪
-relaxation|n.消遣；松弛；放松
-mummy|n.木乃伊; n.妈妈（=mommy）
-mitzvah|n.（犹太教）戒律；德行
-skilled|adj.有技能的；熟练的
-recreate|v.再创造；使得到休养；得到消遣；休息娱乐
-rage|n.狂怒；大怒；狂暴；肆虐；风行; v.大怒；怒斥；激烈进行；肆虐
-magistrate|n.地方法官；行政官
-loot|n.掠夺品；赃物；钱; v.掠夺；洗劫
-replay|n.重赛；重演；重播; v.重新比赛；重放
-wildly|adv.狂热地；激动地；剧烈地；轻率地；鲁莽地
-cycling|n.骑自行车
-dancer|n.跳舞者；舞蹈演员
-palm|n.手掌；棕榈; vt.把...藏于掌中；诓骗某人
-powerfully|adv.非常地；强有力地
-credits|演职员名单
-shallow|adj.浅的；薄的; n.浅滩；浅处; v.变浅
-ballet|n.芭蕾舞
-navy|n.海军；船队；海军蓝
-puddle|n.水坑；地上积水；胶泥; v.搅浊；在泥污中打滚；排尿
-fuse|n.保险丝；导火线；引线; vt.熔化；融合；装导线；装引信于; vi.熔化；融合
-trustworthy|adj.可信赖的
-seasonal|adj.季节的；依照季节的；周期性的
 kingdoms|王朝
-quote|v.引述；报价；举证; n.引用
-sly|adj.狡猾的；会心的；淘气的；诡异的
-potion|n.一服，一剂；（药物、毒物或有魔力的）饮料
-pee|n.小便; vi.小便
+navy|n.海军；船队；海军蓝
+mantle|n.斗篷；覆盖物；墙的外皮；（汽灯的）纱罩；[地]地幔; v.覆盖；笼罩；脸红
 alley|n.胡同；巷；跑道；球道
-twinkle|vi.闪耀；闪烁；眨眼；轻快移动; vt.使闪耀; n.闪烁；闪耀；眨眼；瞬息
-sled|n.雪撬
-specialty|n.专业；专长；特别；特产；特性
-widen|vt.加宽；使变宽；扩大; vi.变宽
-movements|n.动作
-woodsy|adj.森林的；像森林的
-whinny|n.马嘶声；嘶声; v.嘶；以嘶声表示
-privacy|n.隐居；隐私；秘密；私生活
-nervousness|n.神经紧张；情绪不安
-moisture|n.水分；潮气；湿度
-lightly|adv.轻轻地；轻快地；轻蔑地；轻率地；轻微地
-goddess|n.女神；受崇拜的女性
-compound|n.化合物；复合词；复合物; n.院子(用围墙圈起来的场地）; adj.化合的；【语】（词语等）复合的；【植】复合的；【动】群体的; vt.混合；调合；使严重；私了；【经】以复利计算; vi.妥协
-owners|业主
-overdue|adj.过期的；未兑的；迟到的
-mill|n.磨坊；工厂；磨粉机; v.碾碎；磨；（使）乱转
+stretched|拉伸的
+core|n.核心；果心；要点; vt.挖去果核
 ravenous|adj.贪婪的；极饿的
+cycling|n.骑自行车
+whirlpool|n.漩涡; Whirlpool.; n.惠尔普（美国电子电气公司)
+lad|n.少年；小伙子；伙伴
+puddle|n.水坑；地上积水；胶泥; v.搅浊；在泥污中打滚；排尿
+widen|vt.加宽；使变宽；扩大; vi.变宽
+lightweight|adj.轻量级的；无足轻重的；比较轻的; n.轻量级拳击运动员；无足轻重的人或物；轻便
+loot|n.掠夺品；赃物；钱; v.掠夺；洗劫
+crack|v.破裂；砸开；发出爆裂声；撞击；破解；变嘶哑；崩溃；制裁；开玩笑; n.裂缝；裂痕；爆裂声；猛击；尝试；俏皮话; adj.训练有素的
+premium|n.额外费用；奖金；保险费; n.(商)溢价; adj.高价的；优质的
+mitzvah|n.（犹太教）戒律；德行
+imagination|n.想象；想象力；空想；幻想
+fame|n.名声；名望; vt.使出名
+seasonal|adj.季节的；依照季节的；周期性的
+sacks|n.(纸；麻；帆布质的)大袋子；一袋的分量; 宽松的短上衣; 睡袋；吊床; (棒球)垒；(橄榄球)成功擒抱四分卫; 解雇; vt.把...装进袋子；解雇；(橄榄球)擒抱四分卫
+wrestle|v.摔跤；斗争；努力解决；斟酌; n.摔跤比赛；格斗
+ballet|n.芭蕾舞
+practiced|adj.熟练的；老练的；练成的
+specialty|n.专业；专长；特别；特产；特性
+ditch|n.沟渠；壕沟; vt.丢弃；坠入沟中；飞机（在海上）迫降; vi.挖渠；飞机紧急降落
+wit|n.智力；才智；机智；风趣; v.知道；即
+woodsy|adj.森林的；像森林的
+fuse|n.保险丝；导火线；引线; vt.熔化；融合；装导线；装引信于; vi.熔化；融合
+disagreement|n.不合；争论；不一致
+relaxation|n.消遣；松弛；放松
+daytime|n.白天；日间
+librarian|n.图书管理员；图书馆学专家；图书馆馆长
+rally|n.集会；（价值等）回升；回合; vi.重整旗鼓；恢复精神；(人)集合起来; vt.嘲弄；重新召集；激励
+punishment|n.惩罚
+critter|n.生物；家畜；人
+opener|n.开启工具；开端；揭幕赛；(板球的)首位击球员
+wildly|adv.狂热地；激动地；剧烈地；轻率地；鲁莽地
+twinkle|vi.闪耀；闪烁；眨眼；轻快移动; vt.使闪耀; n.闪烁；闪耀；眨眼；瞬息
+owners|业主
+movements|n.动作
+trustworthy|adj.可信赖的
+skilled|adj.有技能的；熟练的
+potion|n.一服，一剂；（药物、毒物或有魔力的）饮料
+credits|演职员名单
+excitedly|adv.激动地；兴奋地
+cockroach|n.蟑螂
+dancer|n.跳舞者；舞蹈演员
+quote|v.引述；报价；举证; n.引用
+excitement|n.激动；兴奋
+canary|n.金丝雀；加那利舞；加那利白葡萄酒；告密者
+privacy|n.隐居；隐私；秘密；私生活
+recreate|v.再创造；使得到休养；得到消遣；休息娱乐
+wedding|n.婚礼；结合
+pa|n.爸爸
+plead|v.辩护；恳求；提出借口；认罪
+lightly|adv.轻轻地；轻快地；轻蔑地；轻率地；轻微地
+topical|adj.谈论的；时事问题的；局部的
+separately|adv.分别地；个别地；独立地；分开地
+goddess|n.女神；受崇拜的女性
+overdue|adj.过期的；未兑的；迟到的
+nervousness|n.神经紧张；情绪不安
+pee|n.小便; vi.小便
+wilderness|n.荒野；荒地
+digest|n.摘要; vt.消化；理解; vi.消化
+interviewer|n.采访者；接见者；（面试时的）主考官
+whopper|n.特大之物；弥天大谎
+fictional|adj.虚构的；小说的
+unequal|adj.不相等的；不平等的；不胜任的
+quietly|adv.安静地；悄悄地；平静地
+seaside|n.海边; adj.海边(的)；海滨(的)
+sled|n.雪撬
+raft|n.筏；木排；救生艇; n.大量; v.乘筏；制成筏
+replay|n.重赛；重演；重播; v.重新比赛；重放
+dome|n.圆屋顶；苍穹；脑袋；圆形的火山口; vt.加圆屋顶于...上；使成圆屋顶; vi.成圆顶状
+instantly|adv.立即地；即刻地
+compound|n.化合物；复合词；复合物; n.院子(用围墙圈起来的场地）; adj.化合的；【语】（词语等）复合的；【植】复合的；【动】群体的; vt.混合；调合；使严重；私了；【经】以复利计算; vi.妥协
+shred|v.撕成碎片; n.碎布条；细片；少许
+insult|n.侮辱；辱骂；冒犯; vt.侮辱；辱骂；凌辱
+powerfully|adv.非常地；强有力地
+edible|adj.可食用的; n.食品；食物
+palm|n.手掌；棕榈; vt.把...藏于掌中；诓骗某人
+sly|adj.狡猾的；会心的；淘气的；诡异的
+racket|n.球拍; n.喧闹；敲诈；行业；职业; v.喧闹；花天酒地
+whinny|n.马嘶声；嘶声; v.嘶；以嘶声表示
+silently|adv.沉默地；寂静地
+mummy|n.木乃伊; n.妈妈（=mommy）
+poh|int.轻视之声; vt.使疲倦
+moisture|n.水分；潮气；湿度
+itch|n.痒；渴望；疥癣; v.（使）痒；渴望
+magistrate|n.地方法官；行政官
+shallow|adj.浅的；薄的; n.浅滩；浅处; v.变浅
+mighty|adj.强大的；巨大的; adv.很；极其
+rage|n.狂怒；大怒；狂暴；肆虐；风行; v.大怒；怒斥；激烈进行；肆虐
+thickly|adv.厚厚地；浓密地；声音沙哑地
+mill|n.磨坊；工厂；磨粉机; v.碾碎；磨；（使）乱转
+lifeguard|n.救生员
+confusion|n.惶惑；混淆；混乱；不确定状态
