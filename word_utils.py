@@ -103,7 +103,7 @@ if __name__ == '__main__':
     utils = db_utils()
 
     #导入单词记忆事件
-    #utils.import_remember_events('words/remember')
+    utils.import_remember_events('words/remember')
 
     #导入单词测验结果
     #utils.import_quiz_result('words/quiz')
