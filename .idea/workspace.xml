@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="更新词汇记忆与测验数据。">
+      <change afterPath="$PROJECT_DIR$/words/quiz/quiz-20220305.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220305.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/WIP/remember-20220305.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remember/remember-20220305.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +58,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/words/quiz" />
+      <recent name="$PROJECT_DIR$/words/remember" />
+      <recent name="$PROJECT_DIR$/words/remember/archive" />
       <recent name="$PROJECT_DIR$/words/plan/WIP" />
       <recent name="$PROJECT_DIR$/words/quiz/archive" />
-      <recent name="$PROJECT_DIR$/words/remember/archive" />
-      <recent name="$PROJECT_DIR$/words/remember" />
-      <recent name="$PROJECT_DIR$/words/quiz" />
     </key>
   </component>
   <component name="RunManager" selected="Python.word_utils">
@@ -490,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646325016337</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="更新词汇记忆与测验数据。">
+      <created>1646385858113</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1646385858113</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="UnknownFeatures">
