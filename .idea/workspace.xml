@@ -5,11 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="更新词汇记忆与测验数据。">
-      <change afterPath="$PROJECT_DIR$/words/quiz/quiz-20220305.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4-1.27.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4-1.27.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4-1.27.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4-1.27.0.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4-1.27.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4-1.27.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4/generic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4/merger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4/pagerange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4/pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF4/xmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/spell_words.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict.db" beforeDir="false" afterPath="$PROJECT_DIR$/dict.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/word_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220305.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/WIP/remember-20220305.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/remember/remember-20220305.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220314.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220314.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220314.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220314.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220315.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220315.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220315.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220315.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220316.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220316.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220316.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220316.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220317.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220317.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220317.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220317.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220318.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220318.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220318.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220318.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220319.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220319.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/quiz-20220319.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220319.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220314.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220314.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220315.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220315.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220316.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220316.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220317.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220317.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220318.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220318.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220319.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220319.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220320.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220320.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220321.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220321.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220322.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220322.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220323.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220323.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220324.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220324.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220325.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220325.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220326.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220326.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220327.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220327.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220328.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220328.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/remember-20220329.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/tmp/remember-20220329.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,18 +94,18 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/words/plan/WIP" />
+      <recent name="$PROJECT_DIR$/words/plan/tmp" />
       <recent name="$PROJECT_DIR$/words/quiz" />
       <recent name="$PROJECT_DIR$/words/remember" />
       <recent name="$PROJECT_DIR$/words/remember/archive" />
-      <recent name="$PROJECT_DIR$/words/plan/WIP" />
-      <recent name="$PROJECT_DIR$/words/quiz/archive" />
     </key>
   </component>
   <component name="RunManager" selected="Python.word_utils">
@@ -501,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646385858113</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="更新词汇记忆与测验数据。">
+      <created>1646488625187</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1646488625187</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="UnknownFeatures">

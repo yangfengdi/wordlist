@@ -1,0 +1,100 @@
+navy|n.海军；船队；海军蓝
+yew|n.紫杉；紫杉木
+slave|n.奴隶；像奴隶般受制的人；【机】从动装置; v.做苦工；做奴隶；拼命干
+shrine|n.圣地；神龛；庙; v.将...置于神龛内；把...奉为神圣
+soap|n.肥皂；肥皂剧; vt.用肥皂洗；阿谀奉承
+ash|n.灰；灰烬; n.白蜡树；白蜡木; (复)ashes：骨灰；废墟；苍白.
+explanation|n.解释；说明
+mare|n.母马；母驴；(月球等)表面阴暗处
+biscuit|n.饼干；淡褐色
+competitor|n.竞争者；对手
+lad|n.少年；小伙子；伙伴
+drill|n.钻孔机；钻子；反复操练；播种机; v.练习；钻孔；(军事)训练
+statue|n.雕像；塑像
+personality|n.个性；名人；特色
+skim|vt.撇去；略读；掠过；滑过; vi.掠过；表面凝结；瞒报; n.浮沫；略读；脱脂物
+pickup|n.拾起；（开车)去接；搭便车者；获得；加速；拾音器；小型卡车；实况转播；（生意）好转；逮捕；发现，截获；固定器；随便买的东西; adj.临时的；凑合的
+upside|n.上部上涨；优势；潜力; prop.上面；上方
+self|n.自己；本性；自我; pron.我自己；你自己；他或她自己; adj.始终如一的；同一类型的；性质不变的; v.近亲繁殖；自花授粉
+tent|n.帐篷; v.住帐篷；宿营
+process|n.工序；过程; v.加工；处理；起诉；列队前进
+daddy|n.爸爸
+ketchup|n.蕃茄酱; =catchup.
+sludge|n.泥泞；淤泥；泥状雪
+zipper|n.拉链; v.拉上拉链
+fame|n.名声；名望; vt.使出名
+seasonal|adj.季节的；依照季节的；周期性的
+spiro|n.螺
+splashdown|n.在海中降落
+recess|n.休息；幽深处；凹缝；壁龛；放假; v.放入壁龛；作凹处；休息
+thou|pron.[古]你；尔；汝
+surgery|n.外科手术；外科；诊所；手术室
+sorceress|n.女魔法师；女巫
+joyful|adj.愉快的；高兴的
+pointer|n.指针；教鞭；（能指出猎物位置的）猎犬；暗示；主意; Pointer:指极星.
+daytime|n.白天；日间
+samurai|n.(日本的)武士
+stygian|adj.地狱的；阴暗的；幽暗的；冥河的
+physically|adv.身体上地；实际上
+sleeve|n.套管；袖子
+sneak|vt.偷偷摸摸做; vi.偷偷地走；偷偷地做; n.鬼鬼祟祟的人；潜行；溜; adj.出其不意的；暗中进行的
+sometime|adj.以前的; adv.改天；来日；某时
+highlight|vt.强调；照亮；加亮；使...显得重要；使突出; n.加亮区；精彩部分；最重要的细节或事件；闪光点; [计算机]醒目
+spikes|pl.钉鞋
+teamwork|n.合作；协同工作
+opener|n.开启工具；开端；揭幕赛；(板球的)首位击球员
+prejudice|n.偏见；伤害; vt.伤害；使...存偏见；使偏袒
+thinker|n.思想者；思考者
+stark|adj.严酷的；荒凉的；光秃秃的；鲜明的; adv.完全；实在；简直
+strainers|过滤器
+stratosphere|n.平流层；高层次；最高阶段
+replacement|n.更换；接替者
+splashing|喷洒,泼洒
+neighborhoods|生活社区
+excitement|n.激动；兴奋
+xi|n.希腊语中的第十四个字母
+undergo|vt.经历；经受；遭受
+aboard|adv.在船上；在火车上；在飞机上; prep.上船；上飞机；上车
+shiner|n.发光物；发光体；银色小鱼；黑眼眶
+bold|adj.大胆的；陡峭的；醒目的；粗体的；无礼的
+eel|n.鳗鱼；鳝鱼
+overdue|adj.过期的；未兑的；迟到的
+ornament|n.装饰；装饰物; vt.装饰
+policeman|n.（男）警察
+flock|n.一群；兽群；大堆；群众；羊群; v.聚集；成群而行
+pony|n.小马；小型的东西; v.付清
+slapping|adj.出奇地快；巨大的；极好的; adv.极快地；非常地
+pat|n.轻拍；轻打；小块; v.轻拍；抚摸；拍打
+interviewer|n.采访者；接见者；（面试时的）主考官
+construct|vt.建造；构筑；造(句); n.构想
+stir|vt.激起；惹起；搅和; vi.活动；引起；挪动; n.骚乱；感动(激动；愤怒或震动)；搅拌
+unequal|adj.不相等的；不平等的；不胜任的
+smelly|adj.难闻的；臭的
+textbooks|教材
+wretched|adj.可怜的；不幸的；悲惨的；质量差的；恶劣的；卑鄙的
+replay|n.重赛；重演；重播; v.重新比赛；重放
+disobey|v.违反；不服从
+stadium|n.体育场；运动场；[生]期
+spectacle|n.景象；场面；奇观；壮观；公开展示；表相，假相; n.（复）眼镜
+insult|n.侮辱；辱骂；冒犯; vt.侮辱；辱骂；凌辱
+spectator|n.观众；旁观者
+speeding|adj.高速行驶的; n.超速行驶
+edible|adj.可食用的; n.食品；食物
+palm|n.手掌；棕榈; vt.把...藏于掌中；诓骗某人
+effect|n.效应；结果；影响；印象；效果；要旨; v.使产生；引起
+satin|n.缎子; adj.缎子的
+enforce|vt.强迫；强制；实施；执行；加强
+sternly|adv.严格地；严肃地；坚定地
+supervisor|n.监督人；主管人；管理人；督学；检查员；导师
+tetanus|n.破伤风
+moisture|n.水分；潮气；湿度
+slam|v.砰地关上；猛放；猛烈攻击; n.砰然声；猛烈抨击; n.满贯
+penalty|n.处罚；惩罚；不利；罚球
+frown|n.皱眉；不悦; v.不同意；皱眉头
+slap|n.侮辱；掴；拍击声; vt.侮辱；拍击；惩罚；申斥; adv.直接地；正面地；突然地
+plentiful|adj.丰富的；多的；充裕的
+shore|n.岸；滨
+shallow|adj.浅的；薄的; n.浅滩；浅处; v.变浅
+shiver|v.颤动；发抖; v.打碎; n.冷颤；哆嗦; n.碎块
+sickle|n.镰刀
+critter|n.生物；家畜；人

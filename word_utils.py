@@ -1,5 +1,6 @@
 from word_set import word_set
 from db_utils import db_utils
+from PyPDF4 import PdfFileReader, PdfFileWriter
 
 #初始化数据库的过程中导入的数据
 def db_init_import(utils):
@@ -108,11 +109,20 @@ if __name__ == '__main__':
     #导入单词测验结果
     #utils.import_quiz_result('words/quiz')
 
-    #制作测试题
+    #制作单词意思连连看测试题
     #word_set.make_quiz_from_fail_record('2022-02-18', 8)
     #word_set.make_quiz_from_remembered_some_days_words('2022-02-18', 8)
-    #word_set.make_quiz_from_tag('俞敏洪初中', '2022-03-05', 8)
+    word_set.make_quiz_from_tag('俞敏洪高中', '2022-03-15', 8)
     #word_set.make_quiz_from_list('words/words.txt', '2022-03-05', 8)
+
+    # pdf_output = PdfFileWriter()
+    # pdf_input = PdfFileReader(open("words/plan/quiz-20220315.pdf", 'rb'))
+    # for page in range(pdf_input.getNumPages()):
+    #     pdf_output.addPage(pdf_input.getPage(page))
+    # pdf_input = PdfFileReader(open("words/plan/quiz-20220316.pdf", 'rb'))
+    # for page in range(pdf_input.getNumPages()):
+    #     pdf_output.addPage(pdf_input.getPage(page))
+    # pdf_output.write(open("words/plan/quiz-20220315.pdf", 'wb'))
 
     #创建新词列表
     #word_set.get_new_words_from_articles('words/article')
