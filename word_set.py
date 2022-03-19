@@ -345,7 +345,7 @@ class word_set():
 
         words_first_letter_capital = self.words_with_tag('首字母大写')
 
-        words_top_freq = self.word_by_freq('BE', 0, 15000)|self.word_by_freq('AE', 0, 15000)
+        words_top_freq = self.word_by_freq('BE', 0, 30000)|self.word_by_freq('AE', 0, 30000)
 
         words_count = len(words_list)
 
@@ -366,7 +366,7 @@ class word_set():
         words_count = len(words_list)
 
         words_list = words_list & words_top_freq #剔除低频词
-        print('剔除 {} 个词频低于 美语TOP15000 的低频单词，剩余 {} 个单词'.format(words_count - len(words_list), len(words_list)))
+        print('剔除 {} 个词频低于 美语/英语TOP30000 的低频单词，剩余 {} 个单词'.format(words_count - len(words_list), len(words_list)))
 
         result = {}
         for word in words_list:
