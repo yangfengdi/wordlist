@@ -361,10 +361,12 @@ class word_set():
         print('剔除 {} 个国名、地名、人名等专有词汇，剩余 {} 个单词'.format(words_count - len(words_list), len(words_list)))
         words_count = len(words_list)
 
+        #self.__print_word_list(words_list & words_first_letter_capital)
         words_list = words_list - words_first_letter_capital #去除首字母大写单词
         print('剔除 {} 个首字母大写，剩余 {} 个单词'.format(words_count - len(words_list), len(words_list)))
         words_count = len(words_list)
 
+        #self.__print_word_list(words_list - words_top_freq)
         words_list = words_list & words_top_freq #剔除低频词
         print('剔除 {} 个词频低于 美语/英语TOP30000 的低频单词，剩余 {} 个单词'.format(words_count - len(words_list), len(words_list)))
 

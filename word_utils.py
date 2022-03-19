@@ -27,6 +27,7 @@ def db_init_import(utils):
     #utils.import_word_tag('words/tag-简单词.txt', '简单词')
     #utils.import_word_tag('words/archive/tag-六级.txt', '六级')
     #utils.import_word_tag('words/archive/tag-托福.txt', '托福')
+    #utils.import_word_tag('words/archive/NCE2.txt', '新概念2')
 
     #导入单词错词本
     #utils.import_quiz_fail_event('words/fail-20210201.txt', '2021-02-01')
@@ -53,6 +54,12 @@ def show_stat_info(word_set):
                                                         round(len(words & remembered_words) * 100 / len(words)),
                                                         len(words & passed_words),
                                                         round(len(words & passed_words) * 100 / len(words))))
+
+    words = word_set.words_with_tag('新概念2')
+    print('新概念2:\t\t\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
+                                                              round(len(words & remembered_words) * 100 / len(words)),
+                                                              len(words & passed_words),
+                                                              round(len(words & passed_words) * 100 / len(words))))
 
     words = word_set.words_with_tag('俞敏洪四级')
     print('四级词汇:\t\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
@@ -100,8 +107,8 @@ def show_stat_info(word_set):
 if __name__ == '__main__':
     word_set = word_set()
     show_stat_info(word_set) #展示单词统计信息
-
     utils = db_utils()
+    #db_init_import(utils)
 
     #导入单词记忆事件
     #utils.import_remember_events('words/remember')
