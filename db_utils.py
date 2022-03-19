@@ -130,8 +130,8 @@ class db_utils():
                     word = sections[1][5:]
                     quiz_result = sections[3][12:13].upper()
 
-                    if quiz_result != 'P' and quiz_result != 'F':
-                        continue
+                    # if quiz_result != 'P' and quiz_result != 'F':
+                    #     continue
 
                     #print('{}={}'.format(word, quiz_result))
 

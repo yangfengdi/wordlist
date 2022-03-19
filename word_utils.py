@@ -104,16 +104,16 @@ if __name__ == '__main__':
     utils = db_utils()
 
     #导入单词记忆事件
-    #utils.import_remember_events('words/remember')
+    utils.import_remember_events('words/remember')
 
     #导入单词测验结果
-    #utils.import_quiz_result('words/quiz')
+    utils.import_quiz_result('words/quiz')
 
     #制作单词意思连连看测试题
     #word_set.make_quiz_from_fail_record('2022-02-18', 8)
-    #word_set.make_quiz_from_remembered_some_days_words('2022-02-18', 8)
-    word_set.make_quiz_from_tag('俞敏洪高中', '2022-03-15', 8)
-    #word_set.make_quiz_from_list('words/words.txt', '2022-03-05', 8)
+    #word_set.make_quiz_from_remembered_some_days_words('2022-03-20', 8)
+    #word_set.make_quiz_from_tag('俞敏洪高中', '2022-03-15', 8)
+    #word_set.make_quiz_from_list('words/words.txt', '2022-03-20', 8)
 
     # pdf_output = PdfFileWriter()
     # pdf_input = PdfFileReader(open("words/plan/quiz-20220315.pdf", 'rb'))

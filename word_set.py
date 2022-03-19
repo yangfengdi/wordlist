@@ -437,7 +437,7 @@ class word_set():
         words_dict = self.__filter_words(words)
         self.__write_dict_to_file(words_dict, "words/newword.txt")
 
-    def __create_random_mapping_for_quiz(self, size):
+    def create_random_mapping_for_quiz(self, size):
         result = {}
         reversed_result = {}
 
@@ -496,7 +496,17 @@ class word_set():
         word_count = len(words)
         print('初始获得 {} 个单词'.format(word_count))
 
-        words = words - self.words_max_last_remember_days(30) #最近15天内背过的单词不测验
+        # 临时删除特定词汇集合
+        words = words - self.words_with_tag('俞敏洪初中')
+        print('剔除 {} 个「俞敏洪初中」单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
+        # 临时删除特定词汇集合
+        words = words - self.words_with_tag('俞敏洪高中')
+        print('剔除 {} 个「俞敏洪高中」单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
+        words = words - self.words_max_last_remember_days(30) #最近30天内背过的单词不测验
         print('剔除 {} 个最近30内记忆过的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
         word_count = len(words)
 
@@ -511,10 +521,43 @@ class word_set():
 
     def make_quiz_from_remembered_some_days_words(self, start_date, page_max=10):
         words = self.words_min_remember_times(2) #至少背过3次的单词
-        words = words & self.words_min_last_remember_days(30) #最近一次记忆是在30天以前
+
+        word_count = len(words)
+        print('初始获得 {} 个单词'.format(word_count))
+
+        # 临时删除特定词汇集合
+        words = words - self.words_with_tag('俞敏洪初中')
+        print('剔除 {} 个「俞敏洪初中」单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
+        # 临时删除特定词汇集合
+        words = words - self.words_with_tag('俞敏洪高中')
+        print('剔除 {} 个「俞敏洪高中」单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
+        words = words - self.words_max_last_remember_days(30) #最近30天内背过的单词不测验
+        print('剔除 {} 个最近30内记忆过的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
         words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
+        print('剔除 {} 个最近一次测验通过的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
         words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
+        print('剔除 {} 个最近30天内做过测验的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+
         self.__make_quiz(words, start_date, page_max)
+
+    # 在词库中随机获得一个单词（用于在「连连看」练习中做干扰项）
+    def __get_random_word(self):
+        conn = sqlite3.connect('dict.db')
+        cursor = conn.cursor()
+
+        sql="select word, meaning from dict where source='DICTCN' order by random() limit 1"
+        cursor.execute(sql)
+
+        for row in cursor:
+            return row[0], row[1]
 
     def __make_quiz(self, words, start_date, page_max = 10, filter = True):
         conn = sqlite3.connect('dict.db')
@@ -544,6 +587,9 @@ class word_set():
             words_proper = words_proper|self.words_with_tag('城市')
             words_proper = words_proper|self.words_with_tag('缩写')
 
+            words_simple = self.words_with_tag('简单词')
+            words_simple = words_simple|self.words_with_tag('小学')
+
             words_first_letter_capital = self.words_with_tag('首字母大写')
 
             word_count = len(words_list)
@@ -556,6 +602,11 @@ class word_set():
             self.__print_word_list(words_list & words_proper)
             words_list = words_list - words_proper #去除专用单词，如：国名、地名、人名等
             print('剔除 {} 个国名、地名等专有单词，剩余 {} 个单词'.format(word_count - len(words_list), len(words_list)))
+            word_count = len(words_list)
+
+            self.__print_word_list(words_list & words_simple)
+            words_list = words_list - words_simple #去除简单单词，小学单词等
+            print('剔除 {} 个简单单词，小学单词，剩余 {} 个单词'.format(word_count - len(words_list), len(words_list)))
             word_count = len(words_list)
 
             self.__print_word_list(words_list & words_first_letter_capital)
@@ -600,6 +651,9 @@ class word_set():
                 canv = canvas.Canvas(pdf_filename)
 
             if inside_page_index == words_per_page:
+                #添加干扰词汇
+                quiz_words[words_per_page], quiz_meanings[words_per_page]= self.__get_random_word()
+
                 inside_page_index = 0
                 page_no += 1
 
@@ -621,8 +675,9 @@ class word_set():
 
                 canv.setFont("SimSun", 18)
 
-                quiz_mapping, reversed_quiz_mapping = self.__create_random_mapping_for_quiz(words_per_page)
-                for i in range(0, words_per_page):
+                quiz_mapping, reversed_quiz_mapping = self.create_random_mapping_for_quiz(words_per_page+1)
+                #print(quiz_mapping, reversed_quiz_mapping)
+                for i in range(0, words_per_page+1):
                     quiz_meanings_disorder[i] = quiz_meanings[quiz_mapping[i]]
 
                 for i in range(0, words_per_page):
@@ -651,7 +706,7 @@ class word_set():
                 with open(txt_filename, 'a') as f:
                     f.write('\n')
 
-                for i in range(0, words_per_page):
+                for i in range(0, words_per_page+1):
                     style = ParagraphStyle(name='normal')
                     style.backColor = HexColor(0xEEEEEE)
                     style.fontSize = 18
@@ -660,7 +715,8 @@ class word_set():
 
                     p = Paragraph('{}{}'.format(chinese_number[i + 1], quiz_meanings_disorder[i]), style)
                     meaning_width, meaning_height = p.wrap(110 * mm, 40 * mm)
-                    p.drawOn(canv, 100 * mm, (270 - i * 45) * mm - meaning_height)
+                    #p.drawOn(canv, 100 * mm, (270 - i * 45) * mm - meaning_height)
+                    p.drawOn(canv, 100 * mm, (270 - i * 40) * mm - meaning_height)
 
                     #print('{}meaning={}'.format(chinese_number[i+1], quiz_meanings_disorder[i]))
 
@@ -813,3 +869,9 @@ class word_set():
     def __print_word_list(self, list):
         for word in list:
             print(word)
+
+if __name__ == '__main__':
+    ws = word_set()
+    print(ws.create_random_mapping_for_quiz(8))
+
+
