@@ -522,10 +522,23 @@ class word_set():
         self.__make_quiz(words, start_date, page_max, filter=False)
 
     def make_quiz_from_remembered_some_days_words(self, start_date, page_max=10):
-        words = self.words_min_remember_times(2) #至少背过3次的单词
+        words = self.words_min_remember_times(2) #至少背过2次的单词
+        #words = self.words_min_remember_times(1)
 
         word_count = len(words)
         print('初始获得 {} 个单词'.format(word_count))
+
+        words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
+        print('剔除 {} 个最近一次测验通过的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
+        words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
+        print('剔除 {} 个最近30天内做过测验的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
+
+        words = words - self.words_max_last_remember_days(30) #最近30天内背过的单词不测验
+        print('剔除 {} 个最近30内记忆过的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
+        word_count = len(words)
 
         # 临时删除特定词汇集合
         words = words - self.words_with_tag('俞敏洪初中')
@@ -535,18 +548,6 @@ class word_set():
         # 临时删除特定词汇集合
         words = words - self.words_with_tag('俞敏洪高中')
         print('剔除 {} 个「俞敏洪高中」单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
-        word_count = len(words)
-
-        words = words - self.words_max_last_remember_days(30) #最近30天内背过的单词不测验
-        print('剔除 {} 个最近30内记忆过的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
-        word_count = len(words)
-
-        words = words - self.words_last_quiz_pass() #最近一次测验是通过的单词不测验
-        print('剔除 {} 个最近一次测验通过的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
-        word_count = len(words)
-
-        words = words - self.words_recent_quiz(30) #最近30天内做过测验的单词不测验
-        print('剔除 {} 个最近30天内做过测验的单词，剩余 {} 个单词'.format(word_count - len(words), len(words)))
 
         self.__make_quiz(words, start_date, page_max)
 
@@ -596,26 +597,26 @@ class word_set():
 
             word_count = len(words_list)
 
-            self.__print_word_list(words_list & words_variant)
+            #self.__print_word_list(words_list & words_variant)
             words_list = words_list - words_variant  #去除变体的单词
             print('剔除 {} 个变体单词，剩余 {} 个单词'.format(word_count - len(words_list), len(words_list)))
             word_count = len(words_list)
 
-            self.__print_word_list(words_list & words_proper)
+            #self.__print_word_list(words_list & words_proper)
             words_list = words_list - words_proper #去除专用单词，如：国名、地名、人名等
             print('剔除 {} 个国名、地名等专有单词，剩余 {} 个单词'.format(word_count - len(words_list), len(words_list)))
             word_count = len(words_list)
 
-            self.__print_word_list(words_list & words_simple)
+            #self.__print_word_list(words_list & words_simple)
             words_list = words_list - words_simple #去除简单单词，小学单词等
             print('剔除 {} 个简单单词，小学单词，剩余 {} 个单词'.format(word_count - len(words_list), len(words_list)))
             word_count = len(words_list)
 
-            self.__print_word_list(words_list & words_first_letter_capital)
+            #self.__print_word_list(words_list & words_first_letter_capital)
             words_list = words_list - words_first_letter_capital #去除首字母大写单词
             print('剔除 {} 个首字母大写单词，剩余 {} 个单词'.format(word_count - len(words_list), len(words_list)))
 
-        self.__print_word_list(words_list)
+        #self.__print_word_list(words_list)
         print('最终输出 {} 个单词'.format(len(words_list)))
 
         words_dict = {}
