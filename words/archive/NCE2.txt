@@ -1,3603 +1,550 @@
-dare|vt.敢；挑战；冒...的风险; vi.勇于；胆敢; aux.胆敢; n.胆量；挑战
-playground|n.操场；运动场；游乐场
-relieve|v.救济；减轻；解除；偷
-trip|n.旅行；摔倒；差错；轻快的步伐; vt.使跌倒；使失败；使犯错；起锚；竖帆; vi.绊倒；旅行；轻快地走；失误；结巴
-kit|n.成套工具；工具箱；装备; vt.装备
-hardly|adv.几乎不；简直不；刚刚
-softly|adv.柔和地；静静地；温柔地
-tank|n.箱；罐；槽；贮水池；坦克; vt.把...储于槽中
-finish|v.完成；结束；最后加工；用完; n.结束；完成；最后一层涂饰
-louder|adj.更大声的
-cliff|n.悬崖；峭壁
-considered|adj.考虑过的；被尊重的
-his|adj.他的; pron.他的
-remain|v.剩余；逗留；留下；依然；保持; n.剩余物；遗迹；残骸
-thread|n.线；思路；螺纹；线索；细丝；帖子; vt.穿过；穿线于；遍布; vi.滴下成丝状；小心地通过；蜿蜒前进
-picnic|n.野餐；愉快的时间；猪脊肉; vi.野餐
-amused|adj.愉快的；顽皮的；被逗乐的；觉得好笑的
-lose|vt.丢失；失败；削减；丧生；看不到；亏损；迷失; vi.失败；经受损失；走慢
-burners|炉
-carefully|adv.小心地，谨慎地；仔细地，认真地
-target|n.目标；对象；靶; vt.把...作为目标；瞄准
-creative|adj.创造的，创造性的；创作的；产生的，引起…的（后接of）
-graveyard|n.墓地；废弃场地
-later|adv.后来；稍后; adj.后来的；以后的；接近末期的
-pull|v.拉；拖；牵；拔；吸引; n.拉；拉力；引力；划船；影响力
-source|n.来源；发源地；原始资料; v.从...获得
-around|prep.到处；在...附近；围绕；大约；符合; adv.到处；在周围；现有；闲散地；转弯；掉头; adj.存在的；在风行的
-tallest|adj.最高的
-base|n.底部；基地；基础；基数；基线；(棒球)垒；[化]碱; vt.以...作基础; adj.卑鄙的；不道德的
-seaside|n.海边; adj.海边(的)；海滨(的)
-piracy|n.盗版；剽窃；著作权侵害；海盗行为
-neighborhoods|生活社区
-oh|int.啊呀；哦
-protect|v.保护；投保
-glad|adj.高兴的；乐意的; v.使高兴; n.剑兰
-row|n.排；划船；路；吵闹; v.划船；将...排成排；吵架
-created|adj.创造的; v.创造；创设；制造; vbl.创造；创作；设立
-cable|n.电缆；缆；索；电报; v.发电报；(通过电缆)交流；(用缆绳)固定
-raggedy|adj.有些破的；有些参差不齐的；有些刺耳的
-truck|n.卡车；手推车；敞篷货车; n.交易；交往；商品蔬菜；实物工资；垃圾; v.以卡车运; v.交易；打交道
-grandson|n.孙子；外孙
-tip|n.小费；小建议；轻拍；尖端，顶端；倾斜，翻倒; v.给小费；装顶端；倾斜；翻倒
-butterfly|n.蝴蝶；蝶状物；蝶泳; vt.(烹饪时把鱼肉等）切开摊平
-cracker|n.薄脆饼干；发出爆裂声的东西；爆竹；裂化设备；黑客；迷人的女子；自夸的人；穷苦白人; (复)crackers：n.胡桃钳; Cracker; n.佛罗里达州和乔治亚州当地居民的别名
-waste|n.废物；浪费；荒地; v.浪费；滥用；消耗; adj.荒芜的；无用的；浪费的
-corpse|n.尸体
-jersey|n.毛线衫；毛织运动衫; Jersey:泽西岛；泽西乳牛.
-normal|adj.正常的；正规的；精神健全的; n.常态；标准
-slice|n.薄片；部分；曲球; v.切成薄片；割；切开
-sugar|n.糖，食糖；糖缸；甜言蜜语，阿谀奉承；宝贝，心肝; v.使甜；在...上撒糖
-slowly|adv.缓慢地
-topical|adj.谈论的；时事问题的；局部的
-stormy|adj.暴风雨的；激烈的；粗暴的
-loudly|adv.大声地；高声地；花俏地
-restaurant|n.餐馆；饭店
-sir|n.先生；阁下; Sir; n.（用于姓名前）...爵士
-suppose|vt.假设；假定；认为；想；应该；让(虚拟语气); vi.推测
-bird|n.鸟；禽
-continent|n.大陆；洲；(theContinent)欧洲大陆
-higher|adj.更高的；高等的
-absence|n.缺席；缺乏
-pretend|v.假装；装作；自以为
-particularly|adv.特别；尤其；详细地
-gently|adv.轻轻地；温柔地，文雅地，有礼貌地；和缓地；高贵地
-wedge|n.楔子；楔形物; vt.楔住；嵌；挤进
-crystal|n.水晶；结晶体；表蒙子; adj.透明的；晶体的
-formations|群系
-clean|adj.干净的；纯洁的；完全的；空白的；正当的；精准的; adv.完全地; n.清洁; v.打扫；清扫；擦，刷
-happiness|n.幸福；快乐；适当
-jewelry|n.珠宝；珠宝类
-learn|v.学会；学习；得知
-exciting|adj.令人兴奋的；使人激动的
-stop|v.停止；阻止；停留; n.停止；逗留；车站
-seat|n.座位；底座；席位；臀部；所在地; vt.使坐下；可容纳; vi.坐
-beeswax|n.蜂蜡
-offered|v.提供；奉献；提议; vbl.提供；奉献；提议
-stomach|n.胃；胃口；腹部; vt.忍受；吃得下
-international|adj.国际的；世界性的; n.国际比赛
-sense|n.感官；感觉；意识；鉴赏力；意义；理智；道理；见识; v.感觉；意识到；理解；检测
-shock|n.震惊；震动；冲击；休克; v.使震惊；使震动；使受电击
-route|n.路线；(固定)线路；途径; vt.为...安排路线；(按路线)发送
-swell|v.（使）膨胀；（使）鼓起；（使）增长; n.增大；膨胀；肿胀；汹涌; adj.很棒的；时髦的；一流的
-czar|n.沙皇；独揽大权者
-reds|n.[俚]红胶丸(安眠药的俚称)
-garden|n.园地(用于种植花、果、菜); v.从事园艺活动
-hat|n.帽子; vt.给...戴帽子; vi.提供帽子；制造帽子
-study|n.研究；学习；学科；书房；(绘画或文学)习作；练习曲；沉思；记忆力…的人；台词记得…的人; v.研究；学习；读书；仔细观察；努力
-audience|n.听众；观众；读者；倾听；拥护者；正式会见
-your|adj.你的；你们的
-tie|n.束缚；使人结合在一起的事物；领带；绳；不分胜负; v.系；约束；捆绑；打结；连结
-twice|adv.两倍；两次
-marathon|n.马拉松；耐力比赛
-nut|n.坚果；果仁; n.螺母；螺帽；难对付的人(事); vi.采坚果
-horsepower|n.马力(功率单位)
-mug|n.脸；杯；一杯的量；恶棍; v.打劫；突击学习
-sculptor|n.雕刻家
-purse|n.钱包；小钱袋；(获奖)奖金; vt.皱起；放进钱包
-appetite|n.食欲；嗜好；欲望
-sad|adj.悲哀的；忧愁的；伤心的
-explore|v.探测；探险；考察；探究
-campaign|n.运动；战役；活动；竞选运动; v.参加竞选；从事运动
-usually|adv.通常；经常
-volunteer|n.志愿者；(自行生长的)植物; v.(自愿)做
-without|prep.没有；无；在外面; adv.在缺乏的情况下；在外面; conj.除非
-urgent|adj.紧急的；急迫的；坚持要求的
-dugout|n.防空洞；独木舟；[棒、足]球员休息处；替补席
-attract|v.吸引；引来
-bowl|n.碗；碗状物；圆形露天剧场；季后赛; n.木球；保龄球; v.投球；打保龄球
-headless|adj.不在意的；没有头的；愚笨的
-zoom|v.急速上升；嗡嗡作响；（镜头）拉近（拉远）; n.急速上升；嗡嗡声；(摄影)变焦
-explosions|爆炸
-chip|n.缺口；碎屑；油炸土豆条；薄片；筹码；芯片；（足球）高球；（高尔夫球）近穴球; v.形成（缺口）；切下；凿下；凑份子；打高球；近穴击球；将（土豆等）切条
-street|n.街道；马路; adj.街道的
-rather|adv.相当；宁愿；有点儿; int.好呀
-owner|n.所有人；物主
-writers|作家
-hut|n.小屋；棚屋; v.在棚屋中隐蔽
-label|n.标记；标签；称号；唱片公司; vt.贴标签于；把...归类
-crop|n.农作物；收成；庄稼；(一)批; v.修剪；啃吃；收获；出现
-carpet|n.地毯；地毯状物; vt.铺盖；铺以地毯
-kingdoms|王朝
-quick|adj.迅速的；快的；机敏的; adv.迅速地；快
-detect|v.发觉；察觉；探测
-dye|n.染料；染色; v.染；染色
-plant|n.植物；工厂；设备；设施; v.种植；设立；建立；安插；栽赃
-reply|v.回答；答复；回应; n.回答；答复
-ocean|n.海洋；海量
-engine|n.发动机；引擎；机车；火车头; vt.给...装引擎
-patrol|n.巡逻；巡查; v.巡逻；巡查
-reserved|adj.保留的；预订的；含蓄的；缄默的
-final|adj.最终的；最后的；决定性的；不可改变的; n.决赛；大学毕业考试；期终考试
-festival|adj.节日的；喜庆的; n.节日；欢宴；庆祝及祭祀
-send|vt.发送；派遣；使处于...的状态；放出；运输; vi.差遣；发出；传送
-hall|n.大厅；礼堂
-medical|adj.医疗的；医学的；医药的；内科的
-such|adj.这样的；如此的; adv.如此地; pron.这样的人或事；其本身；这；那
-sister|n.姐妹
-step|n.步骤；台阶；舞步；步伐; v.踏；以步测量
-ours|pron.我们的
-member|n.成员；会员；部分
-admire|vt.钦佩；赞美；羡慕；欣赏
-nurse|n.护士；保姆; v.看护；护理；栽培
-each|pron.每个；个人；个自; adj.每；每个; adv.每个
-cure|n.治疗；治愈；疗法；对策; v.治愈；治疗；纠正
-it|pron.它
-care|v.关心；担忧；照顾；喜爱；介意；倾向于；愿望；在乎; n.小心；照料；忧虑；注意；护理
-bubble|n.气泡；泡影; v.起泡；冒泡；充满...感情
-tower|n.塔；高楼; vi.高耸；胜过
-cowboy|n.牛仔
-mad|adj.发疯的，发狂似的；狂热的；鲁莽的；着迷的；生气的；极度激动的
-already|adv.已经
-unkind|adj.不和善的；无情的；不厚道的
-breathing|n.呼吸
-rank|n.等级；阶层；排；列; v.排列；分等级；列为；排名，排位; adj.繁茂的；讨厌的
-ponytail|n.(女子的)马尾发型
-add|v.加；增加；补充
-skyscrapers|摩天楼
-direct|adj.直接的；笔直的；坦白的; v.对准；指挥；指示；命令
-unfortunately|adv.不幸地；遗憾地
-education|n.教育；修养；教育学
-wet|adj.湿的；雨天的；懦弱的; n.潮气；雨天; vt.(使)弄湿
-stash|vt.隐藏；储藏; n.隐藏地点；隐藏物
-dam|n.水坝；堤；障碍物; v.筑坝；抑制(情感等）
-accurately|adv.准确地；精确地
-ankle|n.踝；踝关节
-auto|n.汽车; pref.自动的; v.乘汽车
-preacher|n.传道者；讲道者；牧师
-building|n.建筑物
-school|n.学校；学派；院系；鱼群; v.教育；训练；成群地游
-knight|n.骑士；爵士；武士; vt.授以爵位
-excursion|n.远足；短途旅行；【物】偏移，漂移，偏离；偏差，偏振
-age|n.年龄；时代；时期；长时间; v.（使）变老；（使）陈化
-think|v.认为；想；记起；考虑; n.想
-spirit|n.精神；心灵；幽灵；精灵; (复)spirits：精力；情绪；烈酒.; v.使精神振作；偷偷带走
-repeat|n.重复；反复; v.重复；复述; adj.重复的；反复的
-pot|n.罐；壶；一大笔(钱)；奖杯（尤指银杯）；大麻; v.把...装罐；射猎；(台球)入袋
-injury|n.伤害；损害
-faithful|adj.忠诚的；忠实的；忠贞的
-friend|n.朋友；支持者；友人; vt.与...为友
-common|adj.常见的；共同的；普通的；平常的；平凡的；粗俗的; n.公地；平民；普通；公园
-tone|n.语气；音调；调子；色调；风气; v.使更健壮；定调；调色；装腔作势地说
-bowling|n.保龄球
-migrate|vi.迁移；迁徙；转移
-blog|n.博客；网络随笔；日志
-write|v.写；书写；填写；作曲
-sip|n.啜饮; v.啜饮；啜
-arm|n.臂；扶手；袖子; n.武器；军种; vt.武装；装备; （复）arms:军事行动；纹章；兵役.
-satisfaction|n.满意；赔偿；乐事；妥善处理；确信
-hope|v.希望；期望；盼望; n.希望
-precious|adj.宝贵的；珍贵的；矫揉造作的; adv.极其; n.宝贝，心爱的人
-caterpillars|毛虫树
-very|adv.很；完全；正是; adj.恰好的；同一的；真正的；最...的
-down|adv.向下; prep.沿着...而下; adj.向下的；消沉的；无礼的; n.绒毛；汗毛; v.击倒；打败；吞下；被抑制
-spoon|n.匙；调羹；匙状物; vt.以匙舀起; vi.调情
-rush|v.冲；仓促行事；突袭；奔；急速流动; n.抢购；匆忙；冲进；急速行进；蜂拥; adj.繁忙的；紧急的
-revolution|n.革命；变革；重大改变；旋转
-par|n.同等；等位；常态；票面价值；[体]标准杆数; adj.票面的；平常的；标准的
-smash|v.打碎；粉碎；猛撞; n.破碎；撞击；轰动的演出；[网球]高压扣球; adj.极为成功的
-heart|n.心；内心；中心；要点；红桃; v.将…记在心里，铭记；鼓励
-bedroom|n.卧室; adj.两性关系的；性感的；市郊住宅区的
-punish|vt.惩罚；粗暴对待; vi.处罚
-stronger|adj.更强壮的
-padding|n.垫充；垫塞；填料；废话
-swimmers|白色有光绒面呢
-easy|adj.容易的；轻松的；不费力的；舒适的；安逸的；轻微的；随和的；无约束的
-history|n.历史；历史学；对过去事情的记载；过去的事
-soggy|adj.湿而软的；潮湿的；湿透的；乏味的
-until|prep.直到...的时候；在...以前；直到…为止; conj.直到...时候才...；在...之前；直到...的程度；直到…为止
-bunch|n.串；束；一群；捆; n.突出物；凸起; vt.使成一束(或一群等); vi.隆起；成束成群
-ladder|n.阶梯；梯子；梯状物
-annoying|adj.恼人的；讨厌的
-crater|n.坑(陨石坑、弹坑等)；凹地；火山口
-amount|n.数量；总额; vi.总计；等于
-album|n.唱片集；唱片；相册；集邮册；纪念册
-impatient|adj.不耐烦的；急躁的
-leg|n.腿; vi.用脚走路
-risk|n.危险；风险；投资报酬的风险; vt.冒...的危险；承受...的风险
-gigantic|adj.巨大的
-grizzly|adj.灰(白)色的；灰白的; n.灰熊；格筛
-customer|n.顾客；主顾；家伙
-mend|vt.修理；修补；改进; vi.改过自新；改进；痊愈; n.修补；改进；修补处
-fright|n.惊骇；惊恐；怪人
-house|n.房屋；住一屋的人；机构；议院；观众；听众；黄道十二宫之一; v.给…房子住；储存(某物)；容纳；藏有
-cause|vt.引起；使发生; n.原因；理由；事业
-homemade|adj.自制的；国产的
-raindrops|雨点
-salary|n.薪水; v.给...薪水
-pickup|n.拾起；（开车)去接；搭便车者；获得；加速；拾音器；小型卡车；实况转播；（生意）好转；逮捕；发现，截获；固定器；随便买的东西; adj.临时的；凑合的
-less|adj.更少的；较少的; adv.更少地；较少地; n.少量；次要; prep.减
-kitten|n.小猫; vi.生育小猫
-ill|adj.坏的；有病的；恶意的；引起痛苦的; adv.恶劣地；勉强地; n.邪恶；不幸；祸害；坏话
-trampoline|n.蹦床；弹床
-airlines|n.航空公司
-doorway|n.门口
-satin|n.缎子; adj.缎子的
-taste|n.味觉；味道；尝试；品味；爱好; v.品尝；有...味道的；体验
-gear|n.传动装置；齿轮；排挡；工具；装备; v.调整；使适应于；以齿轮连起
-accident|n.事故；意外；偶然；造化
-mole|n.痣; n.鼹鼠；钱鼠；间谍；凿岩机; n.防波堤; n.摩尔；克分子
-harmless|adj.无害的；无恶意的
-own|adj.自己的；特有的; n.自己的东西; v.承认；拥有
-steam|n.蒸汽；水汽；蒸汽动力；轮船; v.蒸；冒热气；行驶；发怒
-radio|n.收音机；无线电; v.用无线电通讯
-rooster|n.公鸡；雄禽；狂妄自负的人
-old|adj.老的；过去的；旧的，破旧的；...岁的; n.旧时
-hatch|n.孵化；舱口，舱口盖; v.孵；孵出；策划
-accomplishment|n.成就；完成
-observe|v.观察；遵守；注意到；庆祝
-tomorrow|adv.明天; n.明天；将来
-leopard|n.豹，美洲豹；豹的毛皮；豹皮外衣；【纹章学】狮子侧身行走像
-drop|vt.落下；跌倒；下降；放弃；漏掉；断绝关系; n.滴；微量；减少；滴状物
-border|n.边界；边境；边缘; vt.与...接壤；加边于; vi.近似；毗邻
-cardboard|n.厚纸板; adj.厚纸板的；不真实的；无实质的
-dear|adj.亲爱的；宝贵的；昂贵的; n.可爱的人；亲爱的人; adv.高价地; int.啊；哎呀(用以表示惊奇、害怕以及其他强烈感情)
-guitar|n.吉他
-chirp|v.吱喳而鸣；轻松愉快地说; n.喳喳声；唧唧声
-question|n.问题；疑问; v.询问；怀疑
-bin|n.箱柜；仓；垃圾箱; vt.放入箱内
-gold|adj.金色的；金制的; n.金币；金黄色；金牌；金子
-realize|vt.实现；了解；意识到；变卖
-canal|n.运河；沟渠；气管；食管; vt.建运河；疏导
-snowball|n.雪球；打雪仗；滚雪球式的募捐法; v.向...丢雪球；使生长或快速的增长
-sleigh|n.雪橇; vi.坐雪橇
-closest|adj.最靠近的
-seventh|num.第七；七分之一
-piggy|n.小猪; adj.贪心的
-quiver|v.颤抖；振动; n.颤抖；箭袋；箭袋内的箭
-angrily|adv.气愤地
-python|n.大蟒；巨蟒
-pocket|n.口袋；袋子；球袋；钱；小块地方；在...掌握之中；保障金; adj.小型的；孤立的；局部的; v.装…在口袋里；私吞；击(球)落袋
-tales|n.[律]候补陪审员召集令
-advice|n.劝告；忠告；建议
-mornings|n.每天上午；在任何上午
-method|n.方法；条理; n.类函数；类成员函数（计算机）
-toy|n.玩具
-true|adj.真实的；真的；准确的；精确的；忠诚的; adv.真实地；准确地; n.真相；精确; vt.使...平衡
-boundary|n.边界；分界线
-pitcher|n.水罐；[棒球]投手；[植]瓶状叶
-laughter|n.【U】笑；笑声
-pound|n.磅；英镑; n.（汽车）扣押所；宠物收留所; vt.捣碎；敲打；连续猛击; vi.咚咚地走；怦怦地响
-behind|prep.在...之后；迟于...；落后于；基于；追赶; adv.在后面地；落后地；迟；不如; n.屁股
-examiner|n.主考者；审查员
-wrestle|v.摔跤；斗争；努力解决；斟酌; n.摔跤比赛；格斗
-float|v.漂浮；浮现；飘动；提出; n.浮标；漂浮物；漂浮
-agent|n.代理人；代理商；药剂；特工人员
-air|n.空气；天空；空中；感觉；神态；曲调；装腔作势; v.晾干；使通风；广播
-bald|adj.秃头的；单调的；无装饰的; v.（使）变秃头
-road|n.路；道路；途径；方法
-dive|n.潜水；跳水; vi.跳水；俯冲；潜心钻研
-basement|n.根基；地下室
-greedy|adj.贪婪的
-liquid|adj.液体的；液态的；清澈的；清脆的；已转化成现款的（财）; n.液体
-female|adj.女性的；雌性的; n.女性；雌性动物；[植]雌株
-cling|vi.紧贴；附着；依恋；坚持; n.紧抓；紧贴
-cannot|无法；不能，不可以；禁止
-north|adj.北方的；北的; adv.向北方; n.北方；北
-boredom|n.无聊；厌烦；厌倦；令人厌烦的事物
-suggest|vt.建议；暗示；使想起；表明；要求
-sunrise|n.【U】日出; n.【C】(太阳升起时的)一片天空
-its|pron.（it的所有格)它的
-pass|v.通过；经过；度过；传递；发生; n.通行证；及格；乘车券；传球；关隘，山口
-banana|n.香蕉
-ones|n.其中之一个；【计】二进制反码
-threaten|v.威胁；恐吓；似将发生
-eel|n.鳗鱼；鳝鱼
-library|n.图书馆；藏书；书房
-sociable|adj.好交际的；社交的
-nectar|n.花蜜；甜美的饮料；众神饮用的酒
-honesty|n.诚实；正直
-plow|n.犁；耕地; vt.耕犁；费力通过；破浪前行; vi.耕田；费力前进；辛苦进行
-family|n.家庭；亲属；家族；子女；[生]科；语族；[化]族; adj.家庭的；家族的；适合于全家的
-harmful|adj.有害的
-gather|v.聚集；集合；收集；推测; n.聚集；褶子
-bright|adj.明亮的；聪明的；阳光的；生动的；有前途的; adv.一早; n.亮色
-ballpark|n.棒球场；变动范围
-sour|adj.酸的；酸腐的；刻薄的; v.变酸
-noble|adj.高贵的；宏伟的；高尚的; n.贵族
-lamb|n.小羊；羔羊肉；羔羊；温顺的人; vi.产羊羔
-someone|pron.某人；有人
-fund|n.基金; vt.资助；转为（长期贷款）
-shoe|n.鞋；鞋状物；蹄铁；制动蹄片; vt.穿鞋；装防护物
-market|n.市场；集市; v.销售；推销；买卖
-real|adj.真实的；真的；正宗的；真正的；名副其实的；实际的；现实的；不动产的; adv.非常; n.真实；雷阿尔（昔日西班牙等地的货币）
-peculiar|adj.奇怪的；特殊的；独特的；古怪的; n.特权
-axle|n.轮轴；车轴
-immense|adj.巨大的；广大的；非常好的
-sounded|vbl.听起来
-firefighter|n.消防队员
-eighteen|num.十八
-cut|v.切；割；剪；削减；伤害；切牌; n.切口；切；式样；剪辑
-mistake|n.错误；误会；过失; v.误解；弄错
-ornament|n.装饰；装饰物; vt.装饰
-arrive|vi.到达；到来；成功
-diamond|n.钻石；菱形；棒球内场；纸牌的方块; vt.用钻石装饰
-remains|n.剩余物；遗迹；遗体
 mare|n.母马；母驴；(月球等)表面阴暗处
-need|v.需要；必需; n.需要；必要；缺乏; aux.需要，必须（无时态、人称变化，后与不带to的动词不定式连用，多用于疑问句和否定句）
-sticker|n.贴纸；粘附物；固执的人；尖刺
-donkey|n.驴；愚蠢的人
-sympathetically|adv.同情地；表示好感地
-enthusiast|n.热心人；热衷者
-turn|v.翻转；旋转；转动；转向；轮流；（使）变得; n.轮流；转动
-fluid|n.液体；流体; adj.流动的；流畅的；不定的
-pose|v.摆姿势；把...摆正位置；造成；提出；假装; n.姿态；姿势；装腔作势
-deep|adj.深的；深刻的；深奥的；深切的; adv.深深地; n.深处
-regularly|adv.有规律地；定期地
-pouch|n.小袋；小包；囊状袋; vt.装...入袋中；用袋运输; vi.用袋送信件
-earth|n.地球；泥土；世间
-universal|adj.普遍的；全世界的；宇宙的；全体的；通用的; n.通用原理，普遍原则
-bottle|n.瓶子; vt.抑制；把...装入瓶内
-right|adj.正确的；对的；右边的；合适的；重要的；完全的; adv.正确地；直接地；向右；恰恰，就；立即；完全地; n.权利；道理；正确；右边；右派; v.扶直；纠正；公正对待；补偿；恢复平衡
-lorry|n.卡车
-sizes|n.大小
-speck|n.斑点；灰尘；污点；少量; v.用斑点标记
-fluff|n.软毛；绒毛；无价值物；失误; v.（使）变柔软；搞糟；忘词
-ancient|adj.古老的；古代的; n.古人
-foot|n.脚；英尺；最底部；音步; v.表演舞步；步行；付账；踏；共计
-unable|adj.不能的；不会的
-queue|n.长队；行列；辫子; v.排队
-midnight|n.午夜；漆黑
-bet|v.打赌；确信无疑; n.赌注；确信
-desert|n.沙漠；荒地；应得(的惩罚或奖励); v.遗弃；离弃；放弃；擅离职守
-explosion|n.爆炸；爆炸声；激增；爆发
-once|adv.一次；曾经; conj.一旦; n.一次; adj.曾经的
-cattle|n.牛；家畜；畜牲
-batter|v.猛击；打坏；往后递倾; n.打击手；面糊；斜外墙
-engaged|adj.忙碌的；使用中的；订婚了的
-abnormal|adj.反常的；不正常的；变态的; n.不正常的人
-administration|n.实施；管理；行政；行政部门；任期
-ivory|n.象牙；乳白色
-reflect|v.反映；反射；反省；归咎；显示
-eighty|num.八十
-classroom|n.教室；课堂
-drags|n.铸锭列车；锭模列车
-careful|adj.小心谨慎的；慎重的；精心的
-odor|n.气味；名声；气息
-la|n.A音的唱名；第六音; int.啊呀；呀
-semi|n.半挂车；半挂车货车；半决赛; pref.表示“一半的；部分的；不完全的”
-drum|n.鼓；鼓状物；鼓声; vi.击鼓；连续敲击；引起兴趣; vt.灌输；击鼓；逐出
-reminder|n.提醒物；提示；催单
-mink|n.貂；貂皮衣
-bat|n.球棒；球拍; n.蝙蝠; v.用棒击打；拍打; v.眨眼睛
-pastry|n.面粉糕饼；馅饼皮
-slipper|n.拖鞋
-fall|v.落下；倒下；来临; n.秋天；落下；瀑布
-sum|n.金额；总数；要点; v.概括；总结；归纳；总计
-traditional|adj.传统的
-wagon|n.四轮马车；货车; v.用四轮马车运
-vision|n.视力；视觉；幻觉；眼光；洞察力；想象力; v.幻想；设想
-generator|n.发电机；发生器
-greatly|adv.很；非常；大大地
-prime|adj.最好的；首要的；典型的; n.壮年；全盛时期；青春; n.[数]质数; vt.事先指点；在（金属、木材等上）打底漆; vi.变得首要
-shelter|n.避难所；庇护；庇护所; v.保护；隐匿；庇护
-fielder|n.守场员
-examine|vt.检查；调查；考试；仔细观察; vi.检查；调查
-caterpillar|n.毛虫; Caterpillar.; n.卡特彼勒(财富500强公司之一；总部所在地美国；主要经营工业农业设备)
-jolt|n.震摇；摇动；震惊；少量; vt.颠簸；敲击；动摇；震动; vi.颠簸而行
-shady|adj.荫凉的；可疑的
-naked|adj.裸体的；无掩饰的；明白的；无覆盖的
-engineer|n.工程师；机(械)师; vt.设计；建造；策划
-equipment|n.设备；装备；器材
-bridge|n.桥梁；纽带；桥牌；鼻梁；（音乐）琴马；齿桥; vt.架桥；渡过；缩短...差距
-disobey|v.违反；不服从
-delicate|adj.微妙的；精美的；纤细的；脆弱的；敏锐的；美味的
-walrus|n.海象
-computer|n.电脑；计算机
-tent|n.帐篷; v.住帐篷；宿营
-fill|vt.装满；弥漫；填充；担任; n.足量
-salt|n.盐；刺激；盐类; vt.用盐腌；加盐于
-protection|n.保护；防卫
-tag|n.标签；附属物；捉人游戏；谚语；名称; vt.连接；附以签条；尾随；添饰；指责; vi.紧随；尾随
-senate|n.参议院；大学理事会
-both|adj.两者的; pron.两者; conj.不但...而且...
-parrot|n.鹦鹉；盲目重复或模仿他人行为的人; vt.学舌；盲目重复或模仿
-dull|adj.呆滞的；钝的；迟钝的；无趣的；暗的; v.变钝；迟钝
-nerve|n.神经；勇气；敏感处；叶脉；厚脸皮; v.鼓起勇气; （复）nerves:神经紧张.
-nice|adj.好的；美妙的；友好的；令人愉快的；精细的
-talk|v.交谈；商讨；演讲；阐述；劝服; n.谈话；会谈；讨论；讲话；空谈
-concentration|n.集中；专心；浓度
-hang|v.悬挂；(使)低垂；悬浮(在空中)；逗留；绞死; n.悬挂方式；悬挂；绞刑
-long|adj.长的；冗长的；久的；长音的; adv.长期地；久地；用于名词后强调某事发生在某整段时间; v.渴望; n.长时间；长音节；囤积商品者
-copper|n.铜；铜币；警察；紫铜色；有紫铜色翅膀的小蝴蝶; vt.镀铜
-yesterday|n.昨天；近来; adv.昨天；近来
-speech|n.演说；演讲；言语；语言能力
-dollar|n.美元
-students|学生
-square|n.正方形；广场；街区；平方；直角尺；古板的人; adj.正方形的；规矩的；结实的；公正的；断然的; v.一致；结清；收买；使...成方形；使成平方；调整; adv.成直角；直接的；正方形地
-asleep|adj.睡着的；已死的；不活跃的；麻木的; adv.睡着；进入静止状态
-mask|n.伪装；面罩；面具；[计算机]掩码; v.掩饰；戴面具；遮盖
-even|adj.平坦的；平和的；偶数的；相等的; adv.甚至；正当；更；恰好; v.使平坦；相等
-amazement|n.惊愕；惊异
-bed|n.床；基座；底层；河床；花坛；苗圃；地层; v.安置；发生性关系
-confident|adj.自信的；有信心的；有把握的
-fat|adj.肥胖的；多脂肪的；丰满的; n.脂肪；肥肉; vt.使变胖
-tanker|n.油轮；加油飞机；罐车
-gift|n.礼物；赠品; n.天赋；才能; vt.赋予；赠送
-hill|n.小山；丘陵；山冈；斜坡; vt.堆起；培土
-beak|n.鸟嘴；鸟嘴状物体；鹰钩鼻; n.地方治安官；校长
-soda|n.汽水；苏打
-and|conj.和；加；接着；那么
-him|pron.他(he的宾格)
-institute|n.学院；学会；协会; vt.开始；制定；创立
-hurry|v.匆忙；催促；赶紧; n.匆忙；仓促；急忙
-dumb|adj.哑的；愚蠢的；不能说话的; vt.使沉默
-dairy|n.牛奶场；乳品店；乳制品；地方小店; adj.牛奶的；乳制品的
-athletic|adj.运动的；活跃的；健壮的
-wink|n.眨眼；使眼色；瞬间; v.眨眼；使眼色；闪烁
-dress|n.服装；女装; v.打扮；穿衣；穿着；给（某人）穿衣
-brand|n.烙印；商标；牌子；标记; vt.加污名于；铭记；打烙印
-squeeze|v.挤压；塞进；压榨；设法腾出; n.挤压；少量；拥挤；严控；财政困难
-courage|n.勇气；胆量
-close|v.关；合拢；不开放；停业；结束；收盘；（使）缩小；牢牢握住或抓住；（使）靠拢；同意；短兵相接; adj.亲近的；近的；几乎的；闷热的；严密的；紧凑的；剪得很短的；守口如瓶的；吝啬的；势均力敌的; adv.接近；靠近；紧紧地; n.死胡同；完结；结论
-groan|v.呻吟；抱怨；发嘎吱声；受重压; n.呻吟；呻吟声
-en|n.半方；N字; prep.作为；一起；在...中
-arts|n.文科
-sack|n.袋子；解雇; vt.解雇；把...装入袋子；劫掠
-clothing|n.(总称)衣服；覆盖物
-presto|adv.(音乐演奏)急速; adj.(音乐)急速的; n.(音乐)快拍；急速
-timing|n.时间的掌握；时间的安排；时机；定时
-check|v.检查；阻止；核对；买单; n.检查；阻碍；支票；账单；方格图案；(国际象棋)将军
-type|n.类型；典型；铅字; v.打字
-crawfish|n.小龙虾
-collapsed|adj.倒塌的
-rowing|n.划船，赛艇运动
-worth|n.价值；财富; adj.值得的；值钱的
-umbrella|n.伞；雨伞；庇护
-wasp|n.黄蜂；胡蜂
-finally|adv.最后；决定性地；最终
-baseball|n.棒球
-doorbell|n.门铃
-self|n.自己；本性；自我; pron.我自己；你自己；他或她自己; adj.始终如一的；同一类型的；性质不变的; v.近亲繁殖；自花授粉
-except|prep.除了...之外; conj.除非；除了...之外；若不是; vt.除；除外
-swallow|n.燕子；吞咽；一次吞咽的量; v.忍受；吞下；咽下；轻信；不流露感情；收回
-crocodile|n.鳄鱼
-debt|n.债务；恩情；负债状态；义务；罪
-haunt|n.常到的地方; vt.缠住；常到；出没(像鬼魂一样); vi.徘徊；出没(像鬼魂一样)
-salty|adj.咸的
-farewell|int.再会；别了; n.告别; adj.告别的
-severe|adj.严厉的；严重的；剧烈的；严格的；严峻的
-lane|n.小路；小巷；行车道；跑道；航道
-general|adj.普遍的；全面的；一般性的；大致的；笼统的；常规的；总的；首席的; n.将军；一般
-stretched|拉伸的
-dinosaur|n.恐龙; n.(俚)过时、落伍的人或事物
-balance|n.平衡；天平；平静；结余；差额；调和；制衡; vt.权衡；使平衡；抵消；称重量; vi.均衡；建立平衡
-geographic|adj.地理的；地理学的
-somewhere|adv.在某处；到某种程度；大约; n.某处
-glance|v.扫视；匆匆一看；一瞥；反光；闪烁；掠过; n.一瞥；扫视
-aircraft|n.飞机
-too|adv.也；太；而且；很
-elbow|n.手肘；扶手；急弯; v.用手肘推开；推挤
-flute|n.长笛；凹槽; vi.吹长笛；发出笛声; vt.刻凹槽
-scary|adj.可怕的；容易受惊的；引起恐慌的
-carriers|载体
-championships|锦标赛
-understand|v.懂得；明白；理解；认识到；听说；获悉
-shout|v.呼喊；高声呼叫; n.呼喊；大声叫
-honour|n.荣誉；头衔；荣幸; vt.尊敬；信守承诺；方形舞中鞠躬致敬
-broad|adj.宽广的；清楚无误的；明显的；胸怀开阔的；粗俗的; n.女子
-ugly|adj.丑陋的；难看的；令人困窘的；令人不愉快的
-consider|v.考虑；思考；认为；体谅；注视
-event|n.大事；事件；项目
-shop|n.商店；车间; v.逛商店；购物；买东西
-grunt|v.咕哝；（猪等）打呼噜; n.咕哝；呼噜声
-scientist|n.科学家
-sheet|n.被单；纸；(薄)片；一片; n.[船]帆脚索; v.铺盖；使成片; adj.片状的
-spell|v.拼写；拼成；导致；暂时代替; n.咒语；魔力；一段时间；一阵发作；轮班
-diver|n.跳水者；潜水员
-barber|n.理发师; vi.当理发师; vt.给…理发；修剪
-serious|adj.严肃的；严重的；认真的；危急的；庄重的
-despair|n.绝望；失望; vi.失望
-stunt|n.特技；阻碍成长; vt.阻碍成长；表演特技
-whenever|adv.无论何时; conj.每当；无论何时；随时
-brightly|adv.生辉地；明亮地；鲜明地
-beneath|prep.在...之下；被...覆盖；低于...；不值得; adv.在下方；在底下
-former|adj.前者的；前任的；以前的; n.创造者；学校某一年级的学生
-superior|n.上级；高手；上标; adj.高傲的；上层的；上好的；出众的
-many|adj.许多的; pron.许多人或物; n.许多；许多人
-undisturbed|adj.未受干扰的；安静的；镇定的
-den|n.兽穴；集聚地; v.穴居
-article|n.文章；物品；条款；[语]冠词; vt.订契约
-complex|adj.复杂的；合成的；复合的; n.综合体；复合体；[医]综合症状；[心]情结
-grassy|adj.长满草的；草绿色的；像草的
-quail|n.鹌鹑; vi.畏缩；胆怯
-amphibian|adj.两栖类的；水陆两用的; n.两栖动物；水陆两用飞机；水陆两用车
-finger|n.指针；手指（尤指大拇指以外的手指）; v.触碰；用指抚摸
-tide|n.趋势；潮流；潮汐；潮水; v.渡过；（使）随潮漂流
-personality|n.个性；名人；特色
-church|n.礼拜仪式；教堂；基督教徒; adj.教堂的; v.把...带到教堂接受某种宗教仪式
-unlike|adj.不同的，不相似的; prep.不像，与…不同；与...平时不同
-pretty|adv.相当地; adj.漂亮的；秀丽的；好看的; vt.使漂亮; n.漂亮的东西；美人
-woolen|n.毛制品; adj.羊毛的；羊毛制的；毛织的
-where|adv.在哪里；在那个地方; conj.在...地方
-chant|n.圣歌；赞美诗；旋律；喊叫; v.吟唱；诵扬；叫喊
-miserable|adj.痛苦的；悲惨的；贫乏的；狼狈的
-winner|n.获胜者；【网球】制胜球
-lowest|adj.最低的；最底下的；最小的
-worm|n.虫；蠕虫; v.蠕动；驱虫；慢慢获取
-wait|v.等；等待; n.等待；等候
-reptile|n.爬行动物；卑鄙的人; adj.爬虫类的
-uncertain|adj.不确定的；不稳定的；易变的
-collar|n.衣领；项圈；[机]轴环; vt.抓住；为...戴上项圈；为...上领子
-vegetable|n.蔬菜；植物；植物人; adj.蔬菜的；植物的
-barbecue|n.烤肉；烧烤；烤架; v.烤炙
-joyful|adj.愉快的；高兴的
-feeder|n.饲养者；进食者；供给者；输电线；分支；支流；支线驳船
-place|n.地方；地位；职位；获奖的名次; v.将（某物）放置；安排；订货；寄托；辨认；获得名次
-wax|n.蜡；蜂蜡; vt.(用蜡)涂; vi.变圆
-haircuts|(纸面)微裂痕,毛痕,粘丝,贴丝
-spaceship|n.宇宙飞船
-survive|vt.幸免于难；存活；艰难度过；比...活得长; vi.活着；继续存在
-lake|n.湖；湖泊; n.深红色；[化]色淀
-heavy|adj.大(量)的；重的；沉重的；猛烈的
-confine|vt.限制；禁闭; n.范围；界限；约束；限制
-kind|adj.亲切的；善良的；仁慈的；宽容的; n.种类；本质
-tightly|adv.紧紧地；坚固地
-habitats|生境
-entirely|adv.完全地；全部地
-vulture|n.秃鹰；兀鹰；贪婪的人
-noon|n.正午；中午；全盛期；顶点
-separately|adv.分别地；个别地；独立地；分开地
-anywhere|adv.任何地方; n.任何(一个)地方
-clock|n.时钟; v.计时；打卡
-remind|vt.使想起；提醒
-eleven|n.十一；十一个一组; adj.十一的; pron.十一个
-carelessly|adv.粗心大意地；疏忽地
-avoid|vt.避免；逃避；[律]使无效；撤销
-set|v.放置；设定；确定；规定；调整；分配；(太阳)落下去；将（宝石）镶嵌到（某物）；配乐; n.集合；组合；日落；一套；一副；一局比赛；舞台；姿态；头发的定型; adj.规定的；固定的；不变的；做好准备的；固执的；不自然的
-butcher|n.屠夫；刽子手；肉商；小贩; vt.屠宰；滥杀；将某事弄得一团糟
-ostrich|n.驼鸟；驼鸟般的人
-dentist|n.牙科医生
-truant|n.懒惰鬼；旷课者; adj.偷懒的；旷课的；游荡的; v.偷懒；旷课
-relax|v.休息；放松；使...放松；放宽
-cool|adj.凉爽的；凉的；冷静的；冷漠的; vt.(使)变凉；(使)冷却；(使)冷静; vi.变凉；冷静下来; n.凉爽；冷静；凉快; adv.冷静地
-exit|n.出口；退场; v.离去；退出
-move|n.移动；步骤；迁居；动作; vt.推动；使移动；使...感动；提议; vi.移动；搬家；采取行动
-future|adj.将来的; n.将来；前程；期货
-sharply|adv.锐利地；严厉地；厉害地；轮廓清晰、线条分明地
-competition|n.竞争；比赛
-port|n.港口
-wander|vi.漫步；蜿蜒；迷路；闲逛；徘徊; vt.漫步于; n.漫游；徘徊；闲逛
-fit|adj.适宜的；合适的；健康的; v.适合；安装; n.发作；适宜
-spectacular|adj.壮观的；令人惊叹的; n.壮观；豪华节目
-considerably|adv.非常地；相当地；颇
-basket|n.篮；篓；筐；[篮]球篮；投篮得分
-effect|n.效应；结果；影响；印象；效果；要旨; v.使产生；引起
-color|n.颜色；彩色；颜料; vt.渲染；把...涂颜色; vi.脸红；着色；影响，左右; =colour（英）
-fix|v.使...固定；修理，处理，解决；确定；准备；操纵; n.困境；(船只、飞机等的)定方位；贿赂；（暂时的）解决方法；理解
-preserve|v.保护；保存；保持; n.禁猎区；蜜饯
-probably|adv.大概；或许；很可能
-book|n.书；本子; v.预订；记录在案
-seal|n.封条；印章; n.海豹; v.密封；盖印；明确
-sooner|n.抢先占地的人; adv.比预期早; Sooner.; 美国俄克拉荷马州的别名.
-sunup|n.日出
-weather|n.天气；气象；境遇; vt.使风化；经受住；使日晒雨淋; vi.风化；褪色；经受风雨; adj.上风的；天气预报的
-fountain|n.喷泉；源泉；储水容器；泉水; v.使像喷泉一样流
-related|adj.相关的；有亲属关系的；属于同一种类的（或组别的）
-refer|vt.把...提交；把...归因；归类; vi.参考；谈及；咨询
-extent|n.广度；宽度；长度；大小；范围；程度; n.[律]扣押；临时所有权令
-fewer|adj.少的；越来越少的; adj.较少的; int.较少数
-clothes|n.服装；衣服
-worse|adj.更坏的；更差的；更严重的; adv.更坏；更差; n.更坏的事物
-specific|adj.明确的；特殊的；具有特效的; n.特效药；详情；特性
-small|adj.小的；年幼的；少的；不重要的；小气的; adv.小地；小块地；小声地; n.狭小部分；(pl.)零星物品；(pl.)小件衣服
-organ|n.器官；风琴；机构；喉舌；报刊
-salads|沙拉
-inventor|n.发明家；创造者
-darn|v.织补; n.补钉; int.该死（damn的委婉语）
-grass|n.草；草地; vt.喂(草)；(以草)覆盖；告发
-barely|adv.几乎不；刚刚；勉强；少量地
-curly|adj.卷曲的
-day|n.白天；一天；时代
-game|n.游戏；运动会；比赛；一场比赛；比赛得分；猎物；花招; v.赌博; adj.勇敢的；乐意的；跛的
-violently|adv.猛烈地；强烈地；暴力地
-hide|v.藏；隐瞒；遮避; vt.鞭打; n.兽皮
-orange|n.橙子，橘子；橙黄色; adj.橙色的
-low|adj.低的；少的；低落的；低声的；卑劣的；低等的; adv.低地；低声地；低下地；廉价地; n.低水平；低价；低谷; v.哞哞叫
-cocoon|n.茧；茧状物; v.包围；包裹
-stinky|adj.恶臭的
-exactly|adv.精确地；确切地；完全地；严密地；正是
-universe|n.宇宙；万物；世界
-drain|v.排出；排干；喝光；耗尽; n.下水道；消耗
-smoothly|adv.平滑地；流畅地
-pleasure|n.愉快；高兴；快事；（用于回答对方的感谢）荣幸; vt.使高兴; vi.高兴；享受快乐
-pen|n.钢笔；笔；写作；围栏；雌天鹅; v.写；把…关在圈中
-slope|n.倾斜；斜坡；斜面；斜率；斜线; vt.使倾斜; vi.倾斜；有坡度
-boss|n.老板；上司；首脑; v.管理；指挥
-fourth|n.第四；四分之一；第四音阶；第四档
-occasion|n.场合；时机；理由；机会；盛大场面; vt.引起；致使
-third|num.第三；三分之一; adj.第三的；三分之一的
-sow|v.播种；散布; n.母猪
-excited|adj.感到兴奋的；激动的
-lad|n.少年；小伙子；伙伴
-matter|n.事情；事态；问题；关于...的事情；物质；重要性; v.有关系；要紧
-laboratory|n.实验室
-patent|n.专利；特许; vt.给予专利权; adj.专利的；显著的
-store|n.商店；贮藏；充裕; vt.储存；贮藏；保存
-ex|prep.【商】在...交货，在…前免费；从，自，根据；【经】不，无，不包括; n.已离婚的丈夫（或妻子），过去的情人；字母X；X形物; adj.以前的，旧时的
-scaly|adj.有鳞的；剥落的；被虫蛀的；卑劣的
-flower|n.花；开花植物；精华；盛时; v.开花；成熟；用花装饰
-east|adj.东方的; adv.向东方; n.东方；东部
-trash|n.废物；垃圾; vt.废弃；捣毁；擦去; vi.捣毁
-waterfall|n.瀑布
-dad|n.爸爸
-frightened|adj.受惊的
-sly|adj.狡猾的；会心的；淘气的；诡异的
-earn|vt.赚得；赢得；获得
-dome|n.圆屋顶；苍穹；脑袋；圆形的火山口; vt.加圆屋顶于...上；使成圆屋顶; vi.成圆顶状
-clear|adj.清楚的；明确的；明白(某事)的；清晰的；清澈的；晴朗的；头脑清醒的; v.清空；清除；澄清；放晴；使明确; adv.清楚地；彻底地; n.空地
-blackboard|n.黑板
-necklace|n.项链
-footstep|n.脚步；脚步声；足迹
-trustworthy|adj.可信赖的
-glow|n.光辉；热情；赤热; vi.发红光；红光焕发
-patch|n.小片；补丁；眼罩；（贴在伤口的）膏药；【生态】斑块; vt.修补；补缀；解决；掩饰
-donate|v.捐赠；捐献
-honest|adj.诚实的；正直的；坦率的
-grade|n.等级；年级；成绩；斜坡; v.分级；评分；渐次变化
-soldier|n.士兵；军人; vi.当兵；坚持做
-entertainment|n.娱乐
-aerial|adj.空中的；空气的；航空的；空想的; n.天线
-use|n.使用；用法；使用权；运用; v.利用；对待；使用；吸（烟）；服用（毒品）
-fox|n.狐狸；狡猾的人；迷人的时髦女郎; vt.欺骗；迷惑
-or|conj.或者；还是；否则; prep.在...之前
-scout|n.童子军；侦察员；守卫; vt.侦察；物色
-breezy|adj.有微风的；轻松活泼的
-cannon|n.大炮；机关炮; v.开炮；相撞
-cookie|n.饼干；家伙
-ambassador|n.大使；代表
-reason|n.原因；理由；理智；理性; v.理论；论证；推理；劝说
-burial|n.埋葬；葬礼；坟墓
-agency|n.代理；代理处；政府机构
-pronounce|vt.发音；宣告；宣判；断言; vi.发音；发表意见
-least|adj.最小的；最少的; adv.最小地；最少地；最轻微地; n.最小；最少
-hollow|adj.空的；空洞的；凹陷的；虚伪的；(声音)沉闷的; n.山谷；洞；窟窿; vt.挖空; vi.形成空洞; adv.完全地；彻底
-conversation|n.谈话；会话
-remedy|n.治疗法；药物；补救; vt.治疗；补救；矫正
-incredible|adj.难以置信的；惊人的
-during|prep.在...期间
-orbit|n.势力范围；眼眶；轨迹; vt.绕轨道而行；进入轨道; vi.盘旋
-halibut|n.大比目鱼
-primary|adj.首要的；主要的；初级的；初等教育的；根本的；初期的; n.第一位；初选；最主要者；要素；原色；初级线圈
-be|v.有；在；是；到达；拜访
-backward|adj.向后的；落后的; adv.向后
-lot|n.许多；大量；抽签；签；命运；一块地；拍卖品；一类或一些(人或物)；批；套；份儿; adv.很；非常; v.划分；分配
-herald|n.使者；传令官；先驱；预兆; vt.预报；标志
-birthday|n.生日
-harden|v.(使)变硬；(使)坚强
-inspector|n.检查员；巡视员；巡官
-lick|v.舔；轻拍；击败；掠过; n.舔；少许；打；速度
-backbone|n.脊骨；骨干；骨气；毅力
-head|n.头部；头脑；顶端；领袖；硬币的正面; v.前进；为首；朝向; adj.首要的；前面的
-aeroplane|n.飞机
-spark|vi.闪烁；冒火花；热情回应; vt.激发；引起；向...求爱; n.火星；朝气；情人；俗丽的年轻人
-upset|adj.心烦的；苦恼的；不安的；不适的; v.推翻；翻倒；颠覆；打乱；使心烦; n.混乱；推翻
-sadly|adv.悲哀地；遗憾的是；极为
-skunk|n.臭鼬；臭鼬皮；讨厌鬼; v.使惨败；欺骗
-period|n.一段时间；周期；时期；课时；学时；句号；月经
-breath|n.呼吸；气息
-unequal|adj.不相等的；不平等的；不胜任的
-grownup|n.成人
-continue|v.继续；连续；维持；持续
-tick|v.滴答作响；给…标记号；运作；空转; n.滴答声；一会儿；勾号；壁虱；蜱虫；枕套；褥套；赊欠
-husband|n.丈夫
-art|n.艺术；美术；技巧；艺术品；人文学科；阴谋; adj.艺术(品)的；美术(品)的
-fireworks|n.烟火
-aunt|n.伯母；姑；婶；姨
-skiing|n.滑雪；滑雪术
-totally|adv.完全
-honeycomb|n.蜂窝；蜂窝状物; v.使布满小孔；成蜂窝状
-invent|vt.发明；捏造
-knife|n.刀; v.用刀切割
-milk|n.奶；牛奶；乳汁; v.挤乳；产乳；榨取
-ace|n.幺点；好手；高手；发球得分; adj.一流的；卓越的; vt.发球得分；考试中取得好成绩
-change|n.变化；零钱; v.改变
-language|n.语言；语言文字；表达方式
-foul|adj.恶臭的；邪恶的；污秽的；恶劣的；犯规的; n.犯规; v.弄脏；妨碍；犯规
-department|n.部门；系；科；处；局; n.知识范围
-touch|vt.触摸；感动；吃；喝；触及; vi.接触；联系; n.触觉；接触；修饰；少许；痕迹
-buddy|n.伙伴；兄弟；好朋友; vi.结交
-military|adj.军事的; n.军队
-do|v.做；干; n.注意事项；聚会；事情
-anchorman|n.新闻节目主播；接力赛中的最后一棒
-cheek|n.面颊；脸蛋
-blacken|v.(使)变黑；诽谤
-destroy|v.破坏；杀死；消灭；摧毁
-tumble|v.暴跌；倒塌；跌倒；翻滚；弄乱；明白；突然发现; n.暴跌；跌跤；混乱
-honey|n.蜂蜜；甜蜜；宝贝; v.说甜言蜜语；（加蜜）使甜; adj.甜蜜的；亲爱的
-pop|v.发出(砰的响声)；取出；突然行动；突然出现；爆开；睁大；开枪; n.流行音乐，流行艺术；爆裂声；爸爸; adj.通俗的；流行的；热门的
-gorilla|n.大猩猩；残暴的人
-meal|n.一餐；膳食; n.粗碾的谷物
-ski|v.滑雪; n.滑雪板；雪橇
-whisky|n.威士忌酒; =whiskey(美).
-archive|n.档案；档案馆; vt.存档
-really|adv.实在；真正地；事实上
-democracy|n.民主国家；民主；民主制
-professors|大学教授
-portrait|n.肖像；画像；描写
-rainforest|n.雨林
-form|n.形式；形状；表格；良好的健康状态；表现状态；常规; v.形成；建立
-laugh|v.发笑；笑；嘲笑; n.笑声；笑；笑料
-tiny|adj.极小的；微小的
-from|prep.出自；来自；从(...起)
-include|vt.包括；包含；列入
-camel|n.骆驼；浮船箱；驼色
-scoop|n.铲子；勺；舀取；穴；独家新闻; vt.挖空；舀取；抢先报道（获得）
-nighttime|n.夜间; adj.夜间的
-meet|v.遇见；满足; n.运动会；集会; adj.合适的
-therefore|adv.因此；所以
-beard|n.胡须; vt.公开反对；抓住胡须
-goalie|n.(足球等运动的)守门员; =goalkeeper
-substance|n.实质；物质；财产；内容；重要性
-bump|v.碰撞；颠簸而行；提高; n.肿块；撞击；表面隆起; adv.突然的；猛烈的
-explosive|adj.爆炸(性)的；引发争论的；大声的; n.炸药
-participate|vi.参加；参与; vt.分享
-direction|n.方向；指导；用法说明；趋势；目标；管理
-excitement|n.激动；兴奋
-artiste|n.艺人；表演艺术家
-civil|adj.公民的；文明的；国内的；民用的；民事的；【建】土木的
-perfect|adj.完美的；完全的；完满的；十足的；理想的; vt.使完美；使完全
-three|num.三; n.三；三个; adj.三个的
-into|prep.到...里；进入；朝；除；对...有兴趣
-officially|adv.官方地；正式地；公务上；职务上
-terrify|v.使害怕；使恐怖；威胁
-group|n.群；组；团体；集团; v.聚合；成群、组；把...聚集；把...分类
-couch|n.长椅；睡椅；长沙发；兽穴; vt.表达；躺下; vi.埋伏；躺下
-through|adv.通过；径直；自始至终；(电话)接通；完全; prep.穿过；凭借；一直到; adj.直达的；直通的；贯穿的；完成的；结束的
-playtime|n.课间休息时间；娱乐时间；上演时间
-rarely|adv.很少；难得
-harvest|n.收成；收获；收割；成果；后果; v.收获；收割
-lady|n.夫人；女士
-operate|v.操作；运转；经营；动手术
-available|adj.可利用的；可得到的；有空的；有效的；【政】有资格的，适合的
-cast|v.掷；抛；投；铸造；指定演员；加起来；投射(目光)；投(票)；预测; n.演员阵容；投掷；[医]固定用敷料
-sender|n.寄件人；发报机；送话器
-must|aux.必须；应当；很可能; n.必须做的事；未发酵的葡萄汁；发霉
-mainly|adv.主要地；大部分地
-penny|n.便士；【美】分
-shell|n.壳；炮弹；[计]外壳程序; v.脱落；去壳；拾贝壳；炮轰
-fortune|n.命运；财产；运气
-shorten|v.弄短；变短
-birdseed|n.鸟饵
-runner|n.赛跑的人；跑步者
-covering|n.覆盖物; adj.掩护的；掩盖的
-case|n.例子；情况；案例；（辩论或诉讼）论据；箱; v.装箱；踩点；仔细检查
-paddle|n.桨；划桨；明轮翼; v.划桨；戏水；抚弄
-sort|n.种类；某一种人; v.整理；分类；处理；安排妥当
-desolate|adj.荒凉的；荒芜的；孤单寂寞的
-recruit|v.吸收(新成员)；征兵；招聘; n.新成员；新兵
-butter|n.黄油；奶油; vt.涂黄油；奉承
-birth|n.分娩；出生；诞生；血统; v.分娩；产生; adj.有血亲关系的
-middle|adj.中等的；中间的；中期的; n.中间; vt.放在中间；把...对折
-enabled|adj.可激活的；已启用的
-package|n.包裹；整批交易; vt.把...打包；把...进行推销
-listen|v.听；倾听；听从；听信; n.听；倾听
-tomb|n.坟墓; vt.埋葬
-slap|n.侮辱；掴；拍击声; vt.侮辱；拍击；惩罚；申斥; adv.直接地；正面地；突然地
-local|adj.地方性的；当地的；局部的; n.当地人
-letter|n.信；字母; v.写下；印刷; n.租赁人
-recognize|vt.承认；认出；意识到；表示感激；识别
-sleet|n.雨雪; v.下雨雪；下冰雹
-hurriedly|adv.匆忙地
-fact|n.事实；真相；实际
-waterways|n.排水沟
-deaf|adj.聋的；充耳不闻的
-president|n.(国家)总统；(公司)总裁；校长；总经理；社长
-which|adj.哪一个；哪一些; pron.哪一个；哪些
-weight|n.重量；体重；重任；重要; vt.使...负重；使倾斜
-ward|n.病房；行政区；监护；守卫；受监护人; vt.守护；躲开
-stroke|n.中风；击打；一笔（画）；意外的运气; v.击打; v.轻抚；奉承
-child|n.小孩；子女；产物
-blank|adj.空白的；茫然的; n.[C]空白；空白处
-plane|n.飞机；水平；平面; n.刨子; n.悬铃木; adj.平的；飞机的; vt.磨平；刨; vi.（鸟、飞机）滑翔
-stew|n.炖汤；焖；烦恼; v.炖汤；焖；忧虑
-polecat|n.臭猫；臭鼬类动物
-coat|n.外套；上衣；层；表皮; vt.涂上；覆盖；包上
-fictional|adj.虚构的；小说的
-stepsister|n.异母(或异父)的姐妹
-village|n.村庄，乡村，村
-radical|adj.激进的；彻底的；基本的; n.激进分子
-jet|n.喷气式飞机；喷口；喷射；喷气式发动机; v.喷射；喷出；搭乘喷射式飞机
-illustration|n.说明；插图；图解；例证
-screen|n.屏幕；银幕；隔板；屏风；掩蔽物；纱窗；纱门；筛子; v.掩蔽；包庇；放映；筛；检查
-whistle|n.口哨；汽笛；警笛; v.吹口哨；鸣汽笛；呼啸；吹口哨召唤
-plough|v.用犁耕田；耕犁；开(路); n.犁；耕地；铲雪机
-solve|v.解决；解答
-observers|观测器
-stock|n.存货；储备；树干；股票；股份；家畜；血统；汤汁；声望; v.采购；储存；供给；发新芽; adj.惯用的；存货的
-socialist|adj.社会主义的; n.社会主义者
-valuable|adj.贵重的；宝贵的; n.(pl.)贵重物品
-cone|n.圆锥体；锥形物；球果; vt.变成锥形
-photo|n.照片; v.拍照
-glass|n.玻璃；玻璃杯；玻璃制品; vt.镶玻璃; （复）glasses:眼镜.
-extraordinary|adj.非凡的；特别的；特派的
-announcement|n.通告；宣布；声明
-canopy|n.天篷；遮篷；苍穹
-path|n.路线；小路；小径；轨道；路程
-don|n.先生（西班牙用语）；(牛津、剑桥大学的)指导教师; v.穿上
-gratitude|n.感激；感谢；感恩
-round|adj.圆的；球形的；丰满的；完整的；整数的；不确切的；大量的；坦率的；严厉粗暴的; adv.环绕地；周长；调转方向；依次；到某处; prep.围绕；在另一侧；四处; n.一局(轮)；常规活动；巡视；圆形物；(由一人给大家买的)一巡饮料；一整片面包；一阵(掌声)；一发(子弹); v.绕行；弄圆；使成为整数
-aboard|adv.在船上；在火车上；在飞机上; prep.上船；上飞机；上车
-easier|adj.容易些的，更简单的；更轻松的
-burner|n.燃烧器；火炉
-fabric|n.结构；织物；构造
-did|v.做; conj.是；要；做
-sky|n.天空；天气；天国; v.把...投向空中；将…高挂
-pigeon|n.鸽子
-ditch|n.沟渠；壕沟; vt.丢弃；坠入沟中；飞机（在海上）迫降; vi.挖渠；飞机紧急降落
-burg|n.镇；城；城堡
-important|adj.重要的；重大的；（指人）有很大影响或权威的
-rubber|n.橡胶；橡皮；橡胶制品; adj.橡胶的
-appearance|n.出现；露面；外貌；外表；出场
-darling|n.亲爱的；可爱的人；可爱的物; adj.可爱的；亲爱的
-pipe|n.管子；烟斗；管乐器; vt.以管输送；装管道；吹奏；尖声说；(为衣服等)滚边; vi.吹奏管乐；尖叫
-major|adj.较多的；主要的；严重的；(音乐)大调的; n.成年人；主修（科目）；陆军少校；举足轻重者; v.主修
-hippo|n.河马; =hippopotamus
-trail|n.踪迹；小径；尾；一系列; vi.拖；落后于; vt.追踪；拖拽；尾随
-deed|n.行为；事迹；[法]契约; vt.立契转让
-merry|adj.愉快的；欢乐的；微醉的
-grandfather|n.(外)祖父; v.使…不受新法律制约
-quantity|n.量；数量；大量
-calm|adj.平静的；冷静的; v.(使)平静；(使)镇静; n.镇定；平静；平稳
-rescue|vt.营救；援救; n.营救；救援
-light|n.光；光线；灯；打火机；领悟；浅色；天窗; adj.轻的；浅色的；明亮的；轻松的；容易的；清淡的; v.点燃；变亮；照亮; adv.清楚地；轻便地
-spot|n.地点；场所；职位；污点；斑点；少量；聚光灯；插播节目; adj.现场的；现货的；插播的; v.（使）产生污渍；玷污；认出；用灯光照射
-teacher|n.教师
-secretary|n.部长；秘书；书记；大臣；写字台
-forbid|vt.禁止；阻止；不许
-mirror|n.镜子；反映; vt.反映；反射
-liberty|n.自由；自由权；冒失
-toward|prep.向；朝；对于；接近；关于；将近; adj.有希望的；有利的；逼近的
-alarm|n.警报；警报器；惊恐; vt.警告；使惊恐；向...报警
-swimmer|n.游泳者
-sight|n.视力；看见；视线；景物; v.瞄准；看见；观测
-bring|vt.带来；促使；引起；劝诱; vi.产生
-council|n.地方议会；委员会；理事会；会议；委员
-remove|v.消除；脱掉；免除；搬迁
-responsible|adj.有责任的；负责的；责任重大的；可靠的
-instantly|adv.立即地；即刻地
-grill|n.烤架；铁格子；烧烤(食物); vt.拷问；(在烤架上)烤
-enter|v.进入; 【计算机】送入
-helpers|辅助工
-life|n.一生；生命；生活；人生
-dock|n.码头；船坞；船埠; v.进(港、码头)
-chest|n.胸部；胸腔；箱子；金库
-headmaster|n.(中小学的)校长
-sailor|n.海员；水手；扁平的硬边草帽
-humour|n.幽默；诙谐；幽默感；脾气；情绪; n.体液; vi.纵容；迁就; =humor（美).
-story|n.故事；传说；谎言；叙述；新闻报道；情节; n.楼层(=storey); v.以历史事件为图案装饰
-explorer|n.探测者；探险者
-youngest|adj.年纪最小的; n.年纪最小的人
-attention|n.注意；注意力；照料；留心；关怀；(口令)立正
-bag|n.袋；袋状物；包；一袋的量; vt.把...装进袋子；使膨胀；猎杀; vi.（如袋子般）松垂
-ruler|n.尺子；划线板; n.统治者；支配者
-wash|n.洗；洗涤; v.洗；洗涤；洗清
-vent|n.排气口；火山口；发泄；表达; v.发泄；表达；排放
-papa|n.爸爸
-violence|n.猛烈；暴力；暴行；强暴
-film|n.电影；薄膜；胶卷; vt.把...拍成电影；给...覆上一薄层；拍照片; vi.变朦胧；拍摄电影
-uncles|n.叔伯
-clue|n.线索；提示
-salmon|n.鲑；大马哈鱼；橙红色的
-surface|n.表面；外表；平面; adj.表面的；肤浅的; vt.在...上加表层；使...成平面; vi.浮到水面；显露；在表面工作
-across|adv.横过；穿过；朝向特定的方向；在对面；横写地; prep.横过；穿过；在对面；在(身体某部位)上；在…各处
-aggressively|adv.侵略地；攻击地；有干劲地
-claw|n.爪；钳；螯；爪状物; v.抓；撕
-sweeter|全景分析器
-remember|v.记得；想起；记住，铭记；回忆；提及
-spend|n.预算；花销; v.花费；浪费；度过；用尽（气力等）
-expensive|adj.昂贵的；高价的
-sell|v.出售；卖
-chase|vt.追捕；追求；镂刻，雕刻；试图赢得; vi.奔跑；追赶; n.追捕；争取；狩猎
-tell|v.告诉；吩咐；讲述；表达；辨别；判断；泄露；告发；产生效果
-supply|n.供应；补给；贮备; vt.供应；提供；补充
-expected|adj.预期的；预料的
-resource|n.资源；机敏；才略；寄托；消遣
-married|adj.已婚的；婚姻的；密切结合的; n.已婚者
-note|n.笔记；便条；纸币；音符；票据；注解；音调; vt.注意；记录；注解
-push|v.推；按；挤；逼迫；催促; n.推；奋力；决心
-robots|机器人
-settle|v.解决；定居；安顿；平静；结算; n.背长椅，座位；定居，安顿
-stud|n.大头钉；饰钉；立柱；板墙筋；壁骨；种马；耳环；年轻男子; vt.镶嵌；点缀
-on|prep.在...之上；由...支撑着；在（某一天）；关于；基于; adv.穿着；向前（移动)；表示持续性; adj.表示已连接、处于工作状态或使用中；发生；值班
-flat|adj.平坦的；扁平的；单调的；断然的；[音乐]降音的；气不足的; adv.平直地；直截了当；低于标准音高地; n.公寓；平面部分；[音乐]降半音；泄气轮胎; v.变平；降调；住公寓
-decorate|v.装饰；布置；装修；授予某人奖章或其他奖状
-anyone|pron.任何人
-ratty|adj.糟糕的；破烂的；卑鄙的；像老鼠的；鼠多的; adj.恼怒的
-grip|n.紧握；手提包；了解；手柄; vt.吸引；紧抓
-nee|adj.娘家姓...的
-originally|adv.原本；起初；独创地
-traditions|传统
-alligator|n.短吻鳄; adj.鳄鱼皮的
-crush|v.压碎；击败；使...失望；折皱；压榨; n.压碎；压榨；极度拥挤；迷恋
-musician|n.音乐家
-name|n.名称；姓名；名义；名誉；名人; v.命名；取名；说出(...的名字); adj.著名的
-extreme|adj.极度的；极端的; n.极端；极限
-above|prep.超过；在...上面；高于; adj.上面的；以上的; adv.在上面；超过；更重要地；上文地; n.上面的东西
-survivor|n.幸存者
-next|adj.下一个的；其次的；隔壁的; adv.其次；下次；然后; n.下一个; prep.靠近
-postcard|n.明信片; adj.如画的
-poodle|n.狮子狗
-extra|adj.额外的; n.额外之物；临时演员; adv.特别地
-similarity|n.相似；类似
-morning|n.早晨；上午；开端
-meantime|adv.与此同时; n.同时；其间
-carton|n.纸板箱；硬纸盒; vt.把...装入纸板箱; vi.制作纸盒
-daylight|n.日光；白昼；黎明
-wider|adj.更宽的；更广阔的
-understanding|n.理解；非正式协议；谅解；同情心; adj.有同情心的
-specially|adv.特别地；专门地；尤其
-half|n.一半；下半场；半学年; adj.一半的；不完全的; adv.一半地；不完全地
-instruction|n.指令；教学；教诲；说明
-pray|v.祈祷；请求；恳求；祈求
-bike|n.自行车；脚踏车；摩托车; vi.骑自行车
-disguise|vt.掩饰；假装；假扮; n.伪装；伪装物
-pa|n.爸爸
-replay|n.重赛；重演；重播; v.重新比赛；重放
-quarter|n.四分之一；一刻钟；一季；25美分；区；方向; v.四等分; adj.四分之一的
-run|v.跑；行驶；运转；运营；持续；蔓延；传播；竞选；遭遇；熔化；褪色；流; n.路程；奔跑；趋向; adj.熔化的；浇铸的；洄游的
-rump|n.[鸟]尾部；[兽]臀部；余党
-voyage|n.航行；旅程; v.航行；旅行
-shred|v.撕成碎片; n.碎布条；细片；少许
-thirteenth|num.第十三; n.十三分之一
-liftoff|n.（火箭等）发射；起飞
-smoke|n.烟；抽烟；无常的事物; v.吸烟；以烟熏；冒烟
-water|n.水；海域；雨水；海水; v.给...浇水；给...供水；加水稀释；充满眼泪；给...水喝
-silently|adv.沉默地；寂静地
-simple|adj.简单的；朴素的；单纯的；笨的
-wildlife|n.野生动植物; adj.野生动植物的
-secret|n.秘密；奥秘；秘诀; adj.秘密的；机密的
-suddenly|adv.突然地
-under|prep.低于；在...下；在...内；在...控制下; adv.在昏迷中；在...下; adj.下面的；从属的；少于的
-involve|vt.包含；使忙于；牵涉；使卷入；使陷入
-host|n.主人；主持人；主办方；大量；寄主；主机; v.主办；主持；做东
-precipitation|n.仓促；急躁；沉淀；降雨量；坠落；凝结；冰雹
-celebrity|n.名人；名誉；社会名流
-iron|n.熨斗；铁；刚强; (复）irons:镣铐.; v.熨；烫; adj.铁的；刚强的
-division|n.划分；除法；部门；分开；师（军队）
-wag|v.(狗)摇摆(尾巴)；(狗尾巴)摇摆；摇(头或手表示不赞成)；逃学；饶舌；离别; n.摇摆；诙谐幽默的人；逃学
-bread|n.面包; vt.在...上撒面包屑
-delight|n.高兴；快乐; v.(使)高兴；(使)欣喜
-bedtime|n.就寝时间
-stretch|v.伸展；延伸；张开；夸大; n.伸展；张开；弹性；一段时间；刑期; adj.可伸缩的
-forest|n.森林；林火; vt.(用树林)覆盖；置于(树林中)
-perfectly|adv.完全地；无瑕疵地；完整地；完美地；圆满地
-boxing|n.拳击；盒式包装；制箱材料
-shame|n.羞愧；耻辱；可耻的人或物; vt.使丢脸；使羞愧；使蒙羞
-bulky|adj.庞大的；笨重的；肥大的
-gentleman|n.绅士；先生；有教养的人
-postman|n.邮递员; =mailman.
-snake|n.蛇；狡诈的人; v.蜿蜒；拖曳
-hair|n.头发；毛发；极少量
-shortly|adv.立刻；马上
-mountain|n.大量；山；山脉；高山
-face|n.表面；脸；表情; v.面对；面向；朝
-funny|adj.可笑的；有趣的；滑稽的；奇怪的；非法的
-shark|n.鲨鱼; n.贪婪的人；放高利贷的人；老手; v.诈取；诈骗
-fame|n.名声；名望; vt.使出名
-reserve|vt.保留；预订；延期; n.候补；预备品；贮存; n.含蓄；克制
-snatch|n.抢夺；一阵；一点点; v.夺取；抓住
-smile|n.微笑；笑容; v.微笑；露出笑容
-intend|vt.想要；打算；意指
-interior|adj.内地的；国内的；内部的; n.内部；内在
-apparently|adv.表面上；似乎；显然
-costume|n.服装；剧装; vt.提供服装；为...设计服装; adj.服装打扮的
-jumbo|n.喷气式飞机; adj.特大的
-cage|n.笼子；监狱；笼状结构; vt.关入笼中
-belly|n.腹部; v.膨胀
-underneath|adv.在下面; n.下部；底部; prep.在...下面
-near|adj.近的；近似的；亲近的；吝啬的; adv.在附近；不久以后；几乎；[罕]吝啬地; prep.附近；接近；临近；大约；(质量、大小等)相仿；濒临; v.接近；靠近
-behavior|n.行为；举止；习性；态度
-sixty|n.六十; adj.六十的；六十个的
-organization|n.机构；组织; adj.有组织的
-machinery|n.机械；(总称)机器
-porch|n.门廊
-warm|adj.温暖的；暖和的；热情的; v.变暖；使暖和; n.温暖的空气
-atmosphere|n.大气；空气；气氛；气压
-file|n.档案；卷宗；文件；锉刀，指甲锉; vt.把...归档；提出(申请书、议案等)
-sneeze|n.喷嚏; vi.打喷嚏
-cry|v.哭；(大声)叫喊；(强烈)要求; n.叫声；哭；喊
-kiss|n.吻；轻触; v.吻；轻触
-argue|v.说服；争论；辩论
-gymnastics|n.体操
-lanterns|灯具
-thirteen|num.十三
-partner|n.伙伴；搭档；伴侣；合伙人; v.同...合作；做...的搭档
-jug|n.水壶；罐；监牢; vt.罐焖；把……关进监狱
-tube|n.管子；管状物；地铁；电视；管状器官; v.提供或装上管子
-treated|v.对待；招待；治疗; vbl.对待；招待；治疗
-button|n.纽扣；按钮; v.扣上纽扣；用纽扣装饰
-something|pron.某事物；有价值或重要的人或事物；大致；左右; adv.有点；非常
-fifth|num.第五; n.五分之一
-allow|vt.允许；让某人得到；留出；同意（法律）; vi.(for)考虑到；允许
-posters|招贴广告
-of|prep.关于；...的（表所属）；出身于；由于
-me|pron.我(宾格)
-space|n.空间；处所；太空；空地；空闲；空格；间隙; v.留间隔；分隔；走神；忘记
-lunch|n.午餐; v.吃(午餐)；提供(午餐)
-acid|n.酸；酸性物质；迷幻药; adj.酸的；酸性的；尖酸的
-belt|n.腰带；带状物；地带；皮带; vt.用皮带抽打；用带系上；用带标示; vi.疾驰；大声歌唱
-brother|n.兄弟；教友；同胞；老兄
-crawl|v.爬行；卑躬屈膝；自由式游泳; n.爬行；匍匐而行；[体]自由式游泳
-man|n.男人；人；男子汉；情人；强者；下属; v.使...振奋；为...配备人手
-recovery|n.恢复；痊愈；复原；重获
-generation|n.代；（产品类型的）代；产生；繁殖
-cloudy|adj.多云的；阴天的；混浊的；模糊不清的
-bravery|n.勇敢；华丽(的衣服)
-memorial|n.纪念碑；纪念物；纪念仪式; adj.纪念的；追悼的
-lap|n.膝部；（衣服的）下摆；控制范围; n.重叠部分；(跑道的)一圈; n.舐；（波浪）拍打声; v.包围；（使）重叠；领先一圈; v.舔食；轻拍
-salute|v.行礼；致意；问候; n.致敬；敬礼；欢迎
-screw|n.螺钉；螺丝；螺状物；螺旋桨；螺旋；吝啬鬼；监狱看守人；性交；工资；薪水; v.拧紧；拧；压榨；性交
-accept|vt.接受；同意；承担(责任等); vi.接受
-due|adj.应有的；到期的；预定的；应付的; n.应得物；会费
-myths|神话
-progress|n.进步；发展；前进; v.进步；发展；缓速前进；促进
-price|n.价格；代价；价值; v.给…定价；估价；贴价格标签；比较价格
-hitchhike|v.搭便车
-compete|v.竞争；比赛；对抗
-painter|n.画家；油漆匠
-lightly|adv.轻轻地；轻快地；轻蔑地；轻率地；轻微地
-freak|n.怪人；狂热爱好者；怪事；反复无常; adj.奇异的；不正常的; vt.使强烈反应(震惊；畏惧); vi.在药物影响下变得异乎寻常
-chuckle|v.轻声笑；咯咯笑；暗自笑; n.轻声笑；咯咯笑
-emperor|n.皇帝
-clunk|n.沉闷的金属声；愚蠢乏味的人; v.发出沉闷声；打击某物（使）发出沉闷声地
-forget|v.忘记；忽略
-guide|n.向导；导游；指南；指导者; vt.指导；引导；为...领路; vi.作导游
-delta|n.(河流的)三角洲；希腊语第四个字母（Δ、δ）
-zebra|n.斑马；斑马线
-boom|n.繁荣；兴旺；激增；低沉声; n.帆杠；吊杆；支臂；尾桁；水栅; vi.急速增长；发出低沉声; vt.使兴旺；促进
-wool|n.羊毛；毛线；毛织品
-exhibition|n.展览；展示
-nothing|pron.没有什么; n.没有；空；微不足道的事; adv.毫不；一点也不
-represent|vt.表现；表示；描绘；代表；象征；说明；阐明; vi.提出异议
-cue|n.暗示；提示；信号；（台球的）球杆; vt.给...提示；把...插入演出
-central|adj.中心的；中央的；主要的；起支配作用的；有控制力的；[语]中央元音的; n.中心枢纽；中央办公室；电话交换机
-eight|num.八; n.八人划船队; adj.八个的
-haul|v.拖；拉；拖运; v.（使船）改变方向; n.拖；拉；搬运
-excuse|vt.原谅；辩解; n.理由；辩解；借口
-spying|间谍活动
-sculpture|n.雕塑；雕刻; v.雕刻；雕塑；刻蚀；当雕刻师
-speak|v.讲；说话；演说；发言
-climb|v.攀登；爬；上升; n.爬；攀爬处
-umpire|n.裁判员；仲裁人; vt.为...裁决；为...仲裁; vi.裁判；仲裁
-macaroni|n.通心粉
-student|n.学生；学者
-players|运动员
-borrow|v.借；借鉴；抄袭
-fortunately|adv.幸运地；幸亏
-disturb|v.扰乱；妨碍；使...不安；打破...的平静；打乱...的治安
-cutter|n.裁剪者；切割器；快艇；小艇；轻便雪橇
-bitter|adj.苦的；痛苦的；辛酸的；激烈的; adv.激烈地；极其; vt.使变苦; n.苦涩；苦酒；苦的东西
-underground|adj.地下的；秘密的; adv.在地下；秘密地; n.地下；地铁；地道；秘密活动
-stage|n.舞台；戏剧；阶段；步骤；行程; v.上演；举行；组织；筹划；使出现
-recess|n.休息；幽深处；凹缝；壁龛；放假; v.放入壁龛；作凹处；休息
-busiest|最忙的
-sundown|n.日落时分
-favor|n.偏爱；好意；特权；赞成; vt.偏爱；给予；支持；关心；利于；长得像
-pea|n.豌豆
-tropical|adj.热带的；炎热的；热带植物的
-proudly|adv.傲慢地；自大地；得意洋洋地
-bang|n.巨响；重击；刘海; v.重击；大声敲；剪成刘海；突然巨响; adv.正好地；准确地
-strong|adj.强烈的；坚强的；强壮的；强劲的；强大的；确凿的；有影响力的；坚定的；浓的；浓烈的；结实的；可能性大的；擅长的；大量的；稳固的；坚挺的；景气的；强硬的；重读的
-barge|n.驳船; vi.猛撞；冲；闯; vt.以驳船载运
-music|n.音乐；美妙的声音；乐谱
-independent|adj.独立的；自主的；独自的；无偏见的; n.无党派者；独立派人士
-sticky|adj.粘的；闷热的；困难的；令人不满意的
-body|n.身体；主体；正文；主要部分；尸体；躯体；团体; v.赋…以形体
-ash|n.灰；灰烬; n.白蜡树；白蜡木; (复)ashes：骨灰；废墟；苍白.
-pity|n.怜悯；同情；遗憾；可惜; v.同情；怜悯
-highways|高速公路
-bridle|n.马笼头，缰绳；约束，约束物; v.给...套笼头；控制（感情等）；动怒
-chair|n.椅子；(会议的)主席; vt.主持；当...的主席
-archery|n.箭术
-barbershop|n.理发店; adj.四重唱的；无伴奏重唱的
-plan|n.计划；方法；策略；设计图；平面图; v.打算；安排；计划；设计
-last|v.持续；维持; adj.最近的；上一个的；末尾的；最后的; adv.最后；最近一次; n.最后来的人（或发生的事）；鞋楦(做鞋的模型)
-offer|vt.提供；提出；（卖方）出价；贡献; vi.提议；出现；求婚; n.提议；出价
-descend|v.下降；降临; v.传下来；遗传; v.突然袭击；突然拜访
-decide|v.决定；判断；断定
-worker|n.工人；工作者
-slim|adj.苗条的；微小的；细长的; v.减肥；缩减
-guy|n.家伙；(男)人; n.拉索；牵索; vt.嘲笑
-make|v.做；制造；使得；赚（钱）；成功；达成; n.性格；式样；制造；生产量
-chilly|adj.寒冷的；冷淡的; n.干辣椒
-bulletin|n.公报；期刊；新闻快报；公示; vt.发表；用公告通知
-throughout|prep.遍及；贯穿; adv.自始至终；到处
-feast|n.宴会；酒席；节会; v.享乐；款宴；请客
-bandage|n.绷带; vt.用绷带包扎
-opener|n.开启工具；开端；揭幕赛；(板球的)首位击球员
-kite|n.风筝；鸢; n.空头支票; v.用空头支票骗人；使上升
-independence|n.独立；自立
-playful|adj.爱玩耍的；嬉戏的；开玩笑的
-course|n.课程；讲座；过程；路线；一道(菜); v.跑过，穿过；追赶；快跑
-difference|n.差异；不同；差额；分歧; vt.区别
-dinner|n.晚餐；晚宴；主餐
-material|n.材料；原料；素材；资料；题材；物质; adj.物质的；重要的；关键的；肉体上的；实质性的
-oldies|n.老人
-sweet|adj.甜的；芳香的；悦耳的；漂亮的; n.甜食；糖
-icy|adj.冰的；冷淡的
-blurt|vt.冲口说出；突然说出
-campfire|n.营火；篝火；篝火晚会
-badly|adv.差的；严重地；恶劣地；极度地
-meter|n.公尺；米; n.计量器；计时器; vt.(用仪表)测量
-soap|n.肥皂；肥皂剧; vt.用肥皂洗；阿谀奉承
-excitedly|adv.激动地；兴奋地
-heroic|adj.英雄的；英勇的；巨大的
-excellent|adj.杰出的；优秀的；极好的
-rage|n.狂怒；大怒；狂暴；肆虐；风行; v.大怒；怒斥；激烈进行；肆虐
-leash|n.(系狗的)皮带；控制；约束; n.（打猎用语）三只；三个一组; v.用皮带控制；束缚
-none|pron.没有人；没有任何东西，一个也没有，毫无; adv.决不
-growth|n.【U】增长；生长；发展；种植; n.【C】生长物；【医】瘤;赘生物
-migration|n.移民；移往；移动
-chips|n.炸土豆条(片)；碎屑；缺口；筹码; 钱; [电]集成电路片
-perhaps|adv.也许；可能
-western|adj.西方的；西洋的；西部的; n.西方人；西部片；西部小说
-so|adv.那么；这样；如此; adj.真的；非常; pron.这样; conj.因此；所以；以便
-split|v.分裂；将…分成若干部分；分摊；分离；劈开；裂开；离开; n.劈开；裂口；分裂；一份；水果冰淇淋; adj.分裂的；意见分歧的
-rise|vi.上升；升起；增加；起床；反抗；复活; n.上升；增加；斜坡；小山
-fiery|adj.火的；炽热的；激烈的；暴躁的；辛辣的
-welcome|vt.欢迎; adj.受欢迎的; n.欢迎; int.欢迎(客人来访或新成员的加入)
-treasure|n.财富；宝物; vt.珍藏；珍视
-gown|n.长袍；长外衣
-smart|adj.时髦的；漂亮的；聪明的；敏捷的；整洁的；厉害的; vi.刺痛；难过；烦恼; n.刺痛；苦恼; adv.（=smartly）
-daddy|n.爸爸
-pour|v.不断流动；倒；倾泻；蜂涌而来; n.倾泻
-mate|n.配偶；伙伴；同事; vt.使...配对；使...一致; vi.交配
-today|n.今天；当今; adv.今天；当今; adj.现在的
-bacon|n.培根；咸肉；熏肉
-elsewhere|adv.别处
-bay|n.海湾；月桂树；隔间；犬吠；【计】机架，底板; vi.嗥叫；哀号; adj.红棕色
-alley|n.胡同；巷；跑道；球道
-else|adv.其他；此外；(常与or连用)否则、不然
-oil|n.油；油画颜料；奉承话; v.涂油；溶化；加油
-suspicious|adj.可疑的；多疑的
-counter|n.柜台；筹码；计数器；反驳; adj.相反的; adv.与…相反地; v.反对；反击
-chamber|n.室；会议厅；房间; adj.【音】室内的，小型的；私人的，秘密的
-moisture|n.水分；潮气；湿度
-squishy|adj.湿软的；粘糊糊的；感情脆弱的
-hind|adj.后部的；在后的; n.雌鹿；石斑鱼
-paper|n.纸；文件；报纸；论文；票据；壁纸; v.用纸包；用纸糊；贴壁纸; adj.纸制的；似纸的；有名无实的
-greed|n.贪心；贪婪；贪吃
-precaution|n.预防；预防措施
-supper|n.晚饭；晚餐；晚餐会
-pepper|n.胡椒粉；辣椒; vt.加胡椒粉于；不断打击
-fly|v.飞；坐飞机；驾驶；逃跑；悬挂; n.苍蝇；飞行；两翼昆虫
-unfamiliar|adj.不熟悉的
-out|adv.出；在外；完; prep.向外；在外面; v.出来；暴露；驱逐；熄灭；伸出；公开…的同性恋身份
-develop|v.发展；发育；开发；冲洗(照片)
-best|adj.最好的; adv.最；最好地; n.最好的人(或物); v.优于；打败
-willing|adj.愿意的；心甘情愿的
-centre|n.中心；集中点; v.居中；使集中; =center; adj.中心的；中央的
-way|n.路；路线；方法；方式；作风；样子；方向；出入通道；距离；时间段；地区；方面；情况; adv.非常；远远地; adj.途中的，中途的
-chime|n.鸣；钟；和协; v.鸣；打；和协
-class|n.等级；阶级；阶层；班级；课；[生]纲；出色的风度; v.分类
-monarch|n.帝王；统治者；君主; n.君王斑点蝶
-sunshine|n.阳光；晴天
-able|adj.能够的；有能力的；能干的
-seed|n.种子; vi.播种；(植物)结实; vt.播种
-us|pron.我们(we的宾格)
-manner|n.举止；礼貌；方式；习俗
-whose|pron.谁的; adj.谁的
-airfield|n.飞机场
-trap|n.圈套；陷阱；困境；双轮轻便马车；U（或S）型管道；防臭瓣; v.设圈套；陷入（困境）
-confusion|n.惶惑；混淆；混乱；不确定状态
-longer|adj.比较久的; adv.比较久
-recreate|v.再创造；使得到休养；得到消遣；休息娱乐
-armed|adj.武装的；有扶手的；[生]有防护器官的
-performances|性能
-waiter|n.侍者；(男)服务员
-walk|v.步行；陪...走；散步；偷走；走过; n.步行；散步；人行道
-party|n.聚会；宴会；政党；一伙人；[律]当事人; vi.开派对
-provoke|vt.激怒；惹起；驱使
-freely|adv.自由地；免费地；直率地；大量地
-breed|v.繁殖；养育；引起，产生；教养; n.品种；血统
-cows|奶牛
-flexible|adj.柔韧的；灵活的；易弯曲的；可变通的
-about|prep.关于；大约；在...周围; adv.大约；附近；到处；在周围; adj.即将的；正要的；在流行中的
-shadow|n.影子；阴影；阴暗；荫；暗处; vt.投阴影于；跟踪；预示; vi.渐变；变阴暗; adj.影子内阁的；阴影的
-series|n.（单复同）系列；丛书；连续
-door|n.门；门口；途径
-helper|n.助手；帮手
-wrist|n.手腕；腕部
-patriotic|adj.爱国的
-strap|n.皮带；带子; vt.(用带子)捆扎；(用带子)抽打
-hammer|n.锤；榔头; vi.锤击；反复敲打; vt.锤打；严厉批评
-battle|n.战斗；争斗; v.与...作战；与...竞争
-mi|n.大音阶的第三音
-bearded|adj.有胡须的
-splendid|adj.极好的；辉煌的；壮观的；杰出的
-prepare|v.预备；准备
-statues|现状
-cheerful|adj.高兴的；快乐的
-crown|n.王冠；王权；花冠；顶点；齿冠；克朗（丹麦、瑞典、捷克等国的货币单位）; vt.加冕；使...成王；居...之顶；镶齿冠；使圆满；打…的头部
-tale|n.故事；叙述；传说; v.谈论，讲述，搬弄是非；
-snowman|n.雪人
-require|v.要求；需要；命令；规定
-enemy|n.敌人；敌军；有害物
-patient|adj.有耐心的；能忍耐的; n.病人
-planet|n.行星
-greatness|n.伟大；崇高；巨大
-medicine|n.药；医学
-caribou|n.北美驯鹿
-mix|v.混合；掺入；合成；联系；融合；介入; n.混合(物)；融合
-playgrounds|游戏场地
-departments|政府部门
-ignite|vi.着火；燃烧; vt.点燃；使...燃烧；引发
-moon|n.月亮；月球; v.闲逛；虚度；露光臀示人
-report|n.报告；传闻；成绩单；爆炸声; v.报告；报导；叙述；举报；报到；对…负责
-howl|n.长嚎；高声叫喊；啸鸣; v.嚎叫；大声哭；吼叫着说出
-cruise|n.巡航；漫游；游艇; v.慢速行驶；乘船游览；游弋；巡游
-lunchroom|n.速简餐厅
-attendant|adj.伴随的; n.服务员；出席者；伴随物；侍从
-factory|n.工厂；制造厂
-cod|n.鳕鱼; v.哄骗；愚弄
-digest|n.摘要; vt.消化；理解; vi.消化
-keepsake|n.纪念品
-neat|adj.整洁的；简洁的；利索的; adv.整洁地；利索地
-sting|vt.刺痛；使苦恼；欺诈; vi.叮；刺痛; n.刺；刺痛；讽刺
-between|prep.在...之间; adv.在中间
-tense|adj.紧张的；绷紧的；拉紧的; v.拉紧；使紧绷; n.(动词)时态
-closet|n.壁橱；衣帽间；密室；厕所; adj.隐藏的；不公开的；空谈的; vt.把...关在房间里
-sixth|n.六分之一；六度音; num.第六
-tax|n.税；负担; v.斥责；课税；使...负重荷
-shed|vt.除掉；使脱落；使流出；使清晰; n.小屋；车棚
-favourite|adj.最喜爱的; n.最受喜爱的人(或物)
-meanwhile|adv.其间；同时
-vice|n.缺点；恶习；邪恶；罪行；生理缺陷; adj.副的；代理的; prep.代替; pref.代理的；副的; n.老虎钳
-prance|v.腾跃；欢跃；昂首阔步; n.(马)后足立地腾跃；昂首阔步
-flag|n.旗；旗帜；信号旗; vt.(以旗子)标出; v.无力地下垂；减退；枯萎
-position|n.位置；职位；立场；状态; vt.安置；定位
-reel|v.卷；绕; v.眩晕；旋转；蹒跚; n.卷筒；线轴
-attempt|v.企图；尝试; n.企图；试图
-dig|v.挖；掘；翻土；探究；戳；捅; n.推；戳；挖掘；挖苦；住所
-weak|adj.弱的；虚弱的；无力的；差的；淡薄的
-area|n.面积；地区，地段；区域；领域
-beggar|n.乞丐；穷人；【英】家伙; vt.使贫穷；使不足；使不能
-lunchtime|n.午餐时间
-away|adv.离开；远离；在远处；一直；朝另一个方向；消失; adj.不在的；遥远的；[棒]出局的；客场的
-explained|v.解释；说明; vbl.解释；说明
-palaces|宫城
-gust|n.突然一阵; n.风味; vi.猛吹
-vault|n.窖；穹；地下室；撑竿跳; vt.做成圆拱形；撑竿跳跃; vi.跳跃
-flow|n.流动；涨潮；流；流量; vi.流动；涌出；飘动；流畅; vt.淹没
-brass|n.黄铜(制品)；铜管（乐器）；厚脸皮; adj.黄铜的
-resin|n.树脂；松香；树脂制品; vt.涂树脂
-large|adj.大的；大量的；大号的；广泛的; adv.夸大地；[航海]顺风地; v.狂欢作乐
-blessing|n.祝福；祷告；幸事
-platform|n.月台；讲台；平台；站台；(政党的)政纲
-teach|vt.教；教导；教授；教训; vi.给予指导
-indoors|adv.在户内
-electrical|adj.电的；与电有关的
-help|v.帮助；有助于；促进；擅自拿取；（不）能防止或避免某事物; n.帮助；援助；帮手；佣人；仆人; int.救命！
-fairy|n.仙女；小精灵; adj.优雅的；幻想中的；虚构的
-yellow|adj.黄色的; n.黄色；蛋黄；黄种人; v.（使）变黄
-miraculously|adv.奇迹般地
-curtain|n.窗帘；门帘；幕(布); vt.(用帘)装饰；(以帘)遮蔽
-dial|n.拨号盘；刻度盘；日晷；钟面; v.拨号；打电话
-gunpowder|n.火药
-fishing|n.钓鱼；渔场；渔业
-different|adj.不同的；差异的；分别的；各不相同的
-differently|adv.不同地
-barn|n.谷仓；牲口棚；车库；大而空荡的农屋
-nasty|adj.下流的；严重的；令人不快的；难懂的；危害的
-quietly|adv.安静地；悄悄地；平静地
-unfair|adj.不公平的；(商业上)不正当的
-bomber|n.轰炸机；投弹手
-pick|v.拾；捡；挑选；采摘；找茬；偶然学到; n.拾；捡；选择；采摘；精华; n.鹤嘴锄；镐；琴拨
-constantly|adv.不断地；经常地
-proper|adj.合适的；正当的；真正的
-powerfully|adv.非常地；强有力地
-heat|n.热度；热；热烈；激烈；发烧; v.(使)变热；(使)激动
-hook|n.钩；钩状物；勾拳; v.钩住；弯成(钩状)；当妓女
-thaw|n.融雪; v.使融解；暖和
-eggshell|n.蛋壳；蛋壳漆(干后平滑无光); adj.薄而易碎的；略有光泽的；淡黄褐的
-card|n.纸牌；卡片；名片；怪人；梳理机; v.把...记入卡片；梳理
-wrong|adj.错误的；有毛病的；不适当的；不道德的; adv.错误地; n.不义行为；坏事；犯罪；欺骗；错误；不公正; v.冤枉；不公正地对待
-south|n.南；南方; adj.南方的; adv.在南方；向南方；自南方
-species|n.种类；（单复同）物种
-rattlesnakes|响尾蛇
-spicy|adj.辛辣的；香的
-race|n.赛跑；竞争; n.人种；种族；血统; v.赛跑；竞赛
-handful|n.一把；少数；难控制的人；棘手之事
-curved|adj.弯曲的
-supreme|adj.最高的；至上的；极度的
-corn|n.谷物；玉米；伤感平庸作品; v.形成(颗粒状)；腌；(用谷物)喂
-settlers|移民
-lovely|adj.可爱的；令人愉快的；好看的
-apologize|vi.道歉；赔罪
-magic|n.魔法；魔术；魔力; adj.有魔力的；魔术的；奇妙的
-sled|n.雪撬
-bear|n.熊; v.忍受；负荷；结果；证实；生子女
-skilled|adj.有技能的；熟练的
-sunset|n.日落；衰落时期（尤指人的晚年）
-pedal|n.踏板；乐器的脚踏键; v.用脚踏动；踩踏板
-sneak|vt.偷偷摸摸做; vi.偷偷地走；偷偷地做; n.鬼鬼祟祟的人；潜行；溜; adj.出其不意的；暗中进行的
-desk|n.书桌；服务台；柜台；部门；小台架
-loot|n.掠夺品；赃物；钱; v.掠夺；洗劫
-car|n.汽车；车厢；吊舱
-leap|v.跳跃；跃过；跃; n.跳跃；跃
-capable|adj.有能力的；能干的；有...的可能性
-broccoli|n.西兰花；花椰菜；甘蓝花
-tangy|adj.强烈的；扑鼻的；有刺激性的
-dance|n.舞会；跳舞；舞蹈；舞步; vi.跳舞；手舞足蹈; vt.跳舞；使跳跃
-steadily|adv.稳定地；稳固地；逐步地
-whatever|pron.无论什么；任何事物; adj.不管怎样的；所有的；丝毫的
-grand|adj.重大的；豪华的；宏伟的；壮丽的; n.大钢琴；一千美元
-almost|adv.几乎；差不多; adj.相近的
-museum|n.博物馆；展览馆
-before|conj.在...以前; pref.在...以前；在..前面; adv.以前；以往；之前
-impatiently|adv.不耐烦地；急躁地
-dragon|n.龙
-block|n.街区；木块；石块；大楼；一组；阻塞(物)；障碍(物); v.阻塞
-vibration|n.震动；颤动
-sprouted|adj.萌芽的；发了芽的
-master|n.主人；硕士；专家; vt.控制；精通; adj.主要的；主人的；精通的
-load|n.负荷；重担；装载量; v.装载；给(枪)装子弹；[计算机]装入
-athletics|n.体育运动；田径
-brave|adj.勇敢的；英勇的; v.勇敢地面对
-safety|n.安全；保险
-lever|n.杠杆；控制杆；手段; v.撬开；使用杠杆
-curl|n.卷曲；卷发；年轮；漩涡；[足]曲线球; vt.弄卷；使弯曲; vi.变卷；弯曲
-tied|v.系；打结；约束; vbl.系；打结；约束
-crust|n.外壳；坚硬的外壳；面包皮; vt.盖以硬皮; vi.结硬皮
-critically|adv.批评性地；爱挑剔地；重要地；危急地
-though|conj.虽然；尽管；然而；可是; adv.（用在句末补充说明使语气减弱）不过
-surprise|n.惊奇；惊喜；惊讶；突然; vt.使惊奇；使惊喜；突然袭击；惊讶地发现
-lavender|n.熏衣草；淡紫色; vt.用薰衣草薰香
-correlation|n.相互关系；相关；关联
-tulips|郁金香
-thrust|v.刺；插入；推挤; n.刺；推力；要旨
-evil|adj.邪恶的；有害的；讨厌的; n.邪恶；罪恶；灾祸
-cameras|照相机；暗箱；摄像机；摄影机
-coyote|n.小狼；丛林狼
-haircut|n.理发；发式
-crunch|v.发出碎裂声；嘎吱嘎吱地咀嚼；嘎喳嘎喳地碾过; n.嘎吱声；艰难局面；关键时刻
-elderly|adj.年老的；年长的
-pond|n.池塘
-skill|n.技能；技艺；技巧；熟练
-control|n.掌控；控制；管制；克制；操作装置; v.控制；支配；掌管；抑制；克制
-go|v.去；离开；变得；进行; n.去；尝试；精力；一举
-successful|adj.成功的；圆满的
-tease|n.揶揄者；戏弄; v.欺负；嘲弄
-accompany|vt.陪伴；伴随...发生；补充；给...伴奏; vi.伴奏
-fresh|adj.新鲜的；清新的；新近的；无经验的; adv.最近地
-bouncy|adj.快活的；精神饱满的；有弹性的
-peaceful|adj.和平的；安宁的
-quite|adv.相当；完全；十分；很
-gulf|n.海湾；鸿沟; vt.吞没
-goal|n.球门；目标；得分
-infer|vt.推断；猜测；暗示; vi.作出推论
-tornado|n.龙卷风；飓风；旋风
-carry|v.携带；运送；搬运；带有；传播；承载; n.【计】进位；运载
-yawn|v.打呵欠；张开; n.呵欠；乏味的人（事）
-revenge|n.报仇；报复；报复心；雪耻机会; vt.报复；报仇
-guess|v.推测；猜中；以为; n.猜测；猜想
-handball|n.手球；墙手球运动
-courtesy|n.礼貌；好意
-creepy|adj.(使人)毛骨悚然的；怪异的
-snowy|adj.多雪的；被雪所覆盖著的；下雪的
-accustomed|adj.习惯了的；通常的
-nose|n.鼻子；突出部分；嗅觉; v.嗅到；探听
-map|n.地图; vt.绘制地图；计划
-holiday|n.假日；节日
-oven|n.烤箱；烤炉
-works|n.工厂；修建；机器部件；全套物品
-violent|adj.猛烈的；强烈的；暴力的；极端的
-nature|n.自然界；性质；自然；自然状态；本性；类型
-wreck|v.使…失事；使…遇难；破坏; n.遇难；残骸；破坏；（船）失事下沉
-goods|n.货物；商品；动产; n.罪证
-fend|v.照料；挡开；[英口]供养
-evidence|n.证据；证词；根据；迹象; v.证明；证实
-serve|v.服务；侍候；担任；可作...用；度过；对待; n.发球
-launch|v.发起；推出（新产品）；发射；使(船)下水; n.发射；产品推介
-handbag|n.手提包
-juice|n.果汁；肉汁；消化液；汽油；精力; vt.挤出汁来；使有活力
-candle|n.蜡烛；烛形物; vt.对光检查
-credits|演职员名单
-weigh|v.衡量；称(重量)；重达...
-trade|n.贸易；交易；行业；同行；顾客；营业额；交易量; v.做生意；从事贸易；购物；营业；(在证券交易所)交易；交换
-awful|adj.糟糕的；可怕的；充满敬畏的；难受的; adv.极其
-fry|v.油煎；油炸; n.法式炸薯条
-impossible|adj.不可能的；做不到的
-onto|prep.到...上
-habit|n.习惯；习性
-solar|adj.太阳的；太阳能的
-scene|n.情景；场；景
-cigarette|n.香烟，卷烟，烟卷
-burn|v.燃烧；烧着；烧毁；灼伤；急于; n.烧伤；燃烧
-ever|adv.曾经；在任何时候；究竟；一直；永远
-expect|v.预期；期待；盼望
-seven|num.七
-island|n.岛；岛屿；岛状物
-movement|n.活动；运动；动作；[音]乐章
-ghost|n.幽灵；鬼魂; n.[计]美国赛门铁克公司旗下的硬盘备份还原工具
-remote|adj.遥远的；偏僻的；远程的；(感情等)距离很大; n.远程操作
-bus|n.公共汽车; n.总线；信息通路; vt.用公共汽车运输; vi.乘公共汽车
-duty|n.义务；职责；责任；税；关税
-hard|adj.硬的；困难的；棘手的；坚强的；残酷的；用力的；液态的；严寒的；确凿的; adv.努力地；强烈地；严重地；坚定地
-clown|n.小丑；粗鲁愚蠢的人; v.扮小丑；胡闹
-moral|adj.道德的；精神上的; n.寓意；道德；品行；伦理
-that|pron.那; conj.引导从句; adj.那个；上文提到的; adv.非常；那么地
-survey|n.问卷；测量；调查；纵览；视察; v.调查；审视；研究；测量；勘定；环视
-farmer|n.农夫；农民；农场主
-furniture|n.家具；设备，装置；床罩；必要的附属品；【会计】家俬
-lantern|n.灯笼；[建]天窗；屋顶气窗
-dropped|v.降下(减少；划线；停止；除去)
-recently|adv.最近
-exercise|n.运动；练习；作业; vt.运用; vi.锻炼
-office|n.办公室；职务；事务；（政府部门的）部、局、厅；有特定用途的房间或建筑物
-gauge|n.测量仪器；测量标准；（铁道的）轨距；（钢丝等的）直径；（枪管的）口径; v.估计；判断；测量
-venomous|adj.恶意的；有毒的
-concerned|adj.担忧的；关心的；关切的；有关的
-grandparents|n.外祖父母；祖父母
-stranger|n.陌生人；外地人；新手
-creature|n.生物；动物；人
-slow|adj.慢的; adv.慢慢地; v.放慢；减速
-stockings|n.长袜
-father|n.父亲；神父；祖先；创始人; v.创造；当...的父亲
-dense|adj.密集的；稠密的；浓密的
-ordinary|adj.平凡的；普通的；平淡的
-captain|n.首领；队长；船长; vt.指挥；率领
-ink|n.墨水；墨汁
-entitle|vt.取名为；使有权利
-alien|n.外侨；外国人；外星人; adj.外国的；陌生的；相异的
-camp|n.野营；帐篷；营地; v.宿营；露营；扎营
-skate|v.溜冰；滑冰; n.冰鞋；滑冰
-all|adj.所有的；全部的; adv.完全；都；非常; pron.一切；全部; n.全部
-pulley|n.滑车；滑轮；皮带轮
-highly|adv.高度地；很；非常；赞许地
-athlete|n.运动员
-coffee|n.咖啡；咖啡色
-jazz|n.爵士乐；空话；各种杂物; vt.使有生气；以爵士风格演奏; vi.跳爵士舞；奏爵士乐；游荡
-freedom|n.自由；直率；特许，特权
-burst|n.爆发；破裂；阵; v.爆裂；迸发；冲；闯
-continual|adj.不断的；频繁的；连续的
-wail|v.痛哭；发出似哭的尖声；悲叹; n.痛哭；尖叫声
-wallet|n.皮夹；钱包
-actual|adj.实际的；事实上的
-idea|n.主意；想法；印象；意见；看法；观念；感觉；目标
-earlier|adj.早的；初期的; adv.更早地
-beautiful|adj.美丽的；好的；出色的
-disappointed|adj.失望的
-flicker|n.闪烁；闪光；颤动; v.闪动；闪烁；摇动
-nobody|n.无足轻重的人；小人物; pron.没有人
-villagers|n.乡下人
-sharp|adj.锋利的；突然的；灵敏的；明显的；辛辣的；【音】升音阶的; adv.准时地；突然地；偏高地
-know|v.了解；知道；认识; n.知情;
-dessert|n.甜食，餐后甜点
-powder|n.粉末；粉；火药；细雪; vt.洒粉于；使变成粉；重击; vi.变成粉；涂粉
-instruct|v.教；命令；指导；[计]指示
-toddler|n.初学走路的孩子
-altar|n.(教堂内的)圣坛；祭坛
-team|n.队；组; v.使相配；使合作；结成一队; adj.团队的
-melt|vi.融化；熔化；消散; vt.使融化；使熔化；使消散; n.熔化物；融化；熔解
-saint|n.圣人；圣徒; vt.把...封为圣人
-monster|n.怪物；恶人；巨物; adj.巨大的；庞大的
-obviously|adv.显然地
-anymore|adv.(通常用于疑问句或否定句中，与not连用)再，也，还
-vicar|n.(教区或教堂)牧师；代理人
-by|prep.靠近；通过；被；经由；不迟于; adv.经过；在旁边；靠近
-markers|标记
-grey|adj.灰色的; n.灰色; vi.变成灰色; =gray
-rough|adj.粗糙的；粗略的，大概的；粗暴的；艰难的；讨厌的；不适的；汹涌的; adv.粗糙地；粗暴地; n.粗制品；暴徒；高低不平的路面; vt.使粗糙；殴打；草拟
-highlight|vt.强调；照亮；加亮；使...显得重要；使突出; n.加亮区；精彩部分；最重要的细节或事件；闪光点; [计算机]醒目
-ice|n.冰；糖霜；冰淇淋；冷淡；钻石; v.用冰裹；冰镇；结冰；制冷；涂糖霜
-frog|n.蛙；嗓音沙哑；马的蹄叉；刀剑的挂环
-steady|adj.稳定的；稳固的；坚定的; v.使稳固；使稳定；(变得)稳固；使坚定; adv.稳定地，稳固地; n.关系固定的情侣；固定支架
-rattlesnake|n.响尾蛇
-luck|n.运气；幸运；侥幸; v.侥幸成功；走运
-interested|adj.感兴趣的；有利害关系的
-measure|n.措施；量度；尺寸；程度；办法; v.测量；比较；给予；权衡
-we|pron.我们
-nervous|adj.神经的，神经细胞的，神经性的；焦虑的；神经质的，紧张的，不安的；易兴奋的
-companion|n.同伴；志趣相投的人；成对物品之一；参考书; v.陪伴
-thousand|n.千; n.【C】成千上万；许许多多
-ceremony|n.仪式；礼节；典礼
-maid|n.【C】女仆；侍女; n.【古】未婚女子
-stark|adj.严酷的；荒凉的；光秃秃的；鲜明的; adv.完全；实在；简直
-tracer|n.追踪者(器)；示踪物；曳光弹；[化]示踪剂
-yell|v.大叫; n.大喊
-great|adj.很好的；美好的；伟大的；重要的；大量的; adv.(口语)好极了
-read|v.识字；阅读；朗读；理解；读到；猜测；读唇语；写着；读起来（给人以某种印象）；显示；看读数；听到；将...改为；攻读；（计算机）读盘; n.阅读；好读物; adj.博学的；熟知的
-tortoise|n.龟
-committed|adj.忠诚的；坚定的；献身于某种事业的；委托的
-slippery|adj.滑的；狡猾的；不可靠的
-seller|n.卖方；售货者；畅销品
-sleep|v.睡觉; n.睡眠；睡觉
-circus|n.马戏团；马戏表演；竞技场；广场
-homo|n.人；同性恋者; pref.表示“相同”、“相等”、“类似”
-triangle|n.三角(形)
-alone|adj.单独的；独自一人的；孤单的; adv.独自地；仅仅
-press|v.按；压；逼迫；强迫服役；征用; n.新闻界；出版社；报刊；新闻舆论；压；熨烫机；印刷机
-tea|n.茶；茶叶；茶树；茶点
-bees|蜜蜂
-hotel|n.旅馆；饭店；宾馆；酒店
-coincidence|n.巧合；一致；同时发生
-everyday|adj.日常的；平常的
-falcon|n.猎鹰；隼；轻炮
-temporarily|adv.暂时地；临时地
-let|v.让；允许；(用于祈使句表建议、请求、命令)让；假设；出租; n.出租；阻碍；(网球等)触网重发
-weekend|n.周末; vi.过周末; adj.周末的
-speed|n.速度；迅速; v.加速；急行
-infield|n.农宅周围的田园；耕地；内野
-funnel|n.漏斗；漏斗状物；烟囱; vt.使成漏斗状；使经过漏斗; vi.形成漏斗状；经过漏斗
-rulers|尺子
-annual|adj.每年的；年度的；一年生的; n.年刊；一年生植物
-apple|n.苹果；珍宝；家伙
-when|adv.什么时候；当...时; conj.然后；可是；当...时; pron.什么时候; n.时间
-effort|n.努力；努力的成果
-remark|n.评论；备注；注意; v.评论；注意到
-formation|n.形成；队形；编队；构造；[地]地层
-peak|n.尖端；山顶；顶峰; v.达到顶峰；使处于顶点; vi.消瘦
-knob|n.旋钮；把手；瘤；节；圆丘
-location|n.位置；外景拍摄地；定位；地点
-how|adv.怎样；多么；如何; conj.如何；怎样；以...方式; n.方式
-poke|n.戳；刺；拨；钱袋; v.戳；捅；刺；拨开；伸出
-poor|adj.可怜的；贫穷的；低劣的; n.穷人
-colony|n.殖民地；侨居地；侨民；聚居(地)；群体；菌落
-owners|业主
-outcome|n.结果；后果
-far|adv.远；(时间)久远；很；非常；远远；进展程度; adj.较远的；最远的；远方的; n.远方
-bride|n.新娘
-kid|n.小孩；年轻人；小山羊；小山羊皮制品; vi.(山羊等)下崽；捉弄; vt.开玩笑；哄骗；嘲弄; adj.较年幼的
-pitch|n.球场；程度；音调；推销；投掷；街头商贩摊位；沥青；树脂；松脂; v.投；颠簸；搭帐篷；定调；推销；用沥青覆盖
-artist|n.艺术家；美术家；艺人
-math|n.数学
-nobleman|n.贵族
-grocery|n.杂货店; adj.杂货的; （复）groceries：食品杂货.
-aside|n.旁白；顺便说的话; adv.在一边；另外；离开
-motorcycles|摩托车
-see|v.看见；明白；了解；经历；设想; n.主教教区；主角权限
-count|v.计算；视为；依赖；重要，有价值; n.计数；总数; n.伯爵（欧洲国家的贵族头衔）
-drink|v.喝；饮; n.饮料；酒；喝酒
-bug|n.臭虫；窃听器；[计]漏洞; v.窃听；打扰；失去(镇定)
-criticism|n.批评；评论
-proved|v.证明(证明是；检验；勘探；证明；试印)
-squish|v.压扁；发出咯吱声; n.咯吱声；挤扁
-discover|v.发现；偶然撞见；发觉
-lamp|n.灯；台灯；油灯；光源
-gaze|vi.凝视; n.凝视
-controller|n.控制者；管理者；审计官；控制器
-than|conj.比；除…外（用于other等之后）；与其…（用于rather等之后）；一…就（用于nosooner等之后）; prep.比
-biscuit|n.饼干；淡褐色
-encourage|vt.鼓励；促进；支持
-unlucky|adj.倒霉的；不幸的；不吉利的
-often|adv.经常；时常；屡次
-palm|n.手掌；棕榈; vt.把...藏于掌中；诓骗某人
-miss|n.[M-]小姐; vt.想念; vt.错过；漏掉
-critics|评论家们
-grain|n.谷物；谷类；微量；颗粒；纹理；格令; v.形成(颗粒)；(用谷物)喂养
-bean|n.豆；豆科植物
-every|adj.每个；一切的；所有可能的；每隔；最大的
-four|num.四
-polish|n.光泽；上光剂；优雅；精良; v.擦亮；磨光；推敲；完善; Polish.; adj.波兰的；波兰人的；波兰语的; n.波兰语
-everyone|pron.每人；人人
-propeller|n.螺旋桨；推进器; =propellor.
-holy|adj.神圣的；圣洁的；令人敬仰的
-palace|n.宫殿；豪华住宅；王室；大的公共建筑(如旅馆、影院等)
-fear|n.担心；害怕；恐惧；【中药学】相畏; v.害怕；担心；恐惧
-lead|v.引导；领先；带领；过...(的生活)；导致; n.领头位置；主角；榜样；引言；铅
-parasite|n.寄生虫；寄生生物；食客
-heavier|adj.更沉重的；更巨大的
-snowstorm|n.暴风雪；雪暴
-practicing|adj.开业的；在工作的
-disappear|vi.消失；不见；失踪
-more|pron.更多的；另外的；更大的; adv.更多；再；另外；进一步
-outer|adj.外部的；外面的
-injured|adj.受伤的
-tooth|n.牙齿；齿状物；粗糙表面；嗜好; （复）teeth:有效手段.
-bother|v.烦扰；使恼怒；使不安；费心; n.麻烦；烦扰；焦急
-rotten|adj.腐烂的；腐朽的；极坏的；讨厌的; adv.非常
-cost|n.费用；成本；代价；[律]诉讼费用; v.花费；使付出；使做不愉快的事；估算成本
-rapids|n.急流；湍流
-mush|n.浓粥；糊状物；感伤的话; v.使成糊状；驾驶（狗撬等）; int.走!前进！
-inset|n.插入物；插页；插图; v.嵌入
-driveway|n.(住宅前的)车道
-dark|adj.黑暗的；深色的; n.黑暗；暗处；深色调; v.使变黑；变黑
-attach|v.附上；系上；贴上；使依附；使附属；使附着
-smell|n.气味；嗅觉；嗅; v.嗅；闻；散发气味；有臭味；察觉
-stuff|n.东西；原料；材料; n.素质；本质；废物；无用的想法；废话，蠢话; vt.塞满；填满
-corner|n.角落；转角；困境; v.将...逼入困境；转弯；垄断; adj.位于角落的
-unclear|adj.不清楚的；含混的
-chimney|n.烟囱
-electricity|n.电；电学；电流；热情
-bulldozer|n.推土机；欺凌者
-tack|n.大头钉；行动方针; v.以大头针钉住；附加
-purpose|n.目的；决心；意图；议题; v.打算；决意
-rig|n.装备；帆具；服装；钻井架；钻塔; v.装配；装扮；临时赶造；操纵
-writing|n.写作；著述；笔迹；作品
-soon|adv.不久；很快；早；快
-spectacle|n.景象；场面；奇观；壮观；公开展示；表相，假相; n.（复）眼镜
-trouble|n.困难；烦恼；麻烦; v.使烦恼；麻烦；苦恼；费神
-over|prep.在...的上方；遍及地；在...期间; adv.穿过；完全覆盖；结束；落下; n.(板球中)每个投球手一次连续所投出的球数
-amusing|adj.有趣的；引人发笑的
-beauty|n.美人；美丽；美的东西
-grind|v.磨；压迫；碾碎；磨得吱吱响；逐渐停顿; n.苦事；磨；碾
-toad|n.蟾蜍；癞蛤蟆
-struggle|vi.努力；奋斗；斗争；挣扎; n.斗争；竞争；奋斗
-year|n.年；年度；年龄；学年
-microphone|n.麦克风；扩音器
-rot|n.腐烂；腐蚀；败坏；胡话; v.腐烂；使...枯朽；消瘦
-occasionally|adv.偶尔地
-phone|n.电话；电话机；听筒；耳机；[语]音素; v.打电话; suf.表示“声音”或“说...语言的人”
-erosion|n.腐蚀；侵蚀；减少，流失
-fast|adj.快的；迅速的；紧的；牢固的；放荡的; adv.快速地；紧紧地；放荡地；深深地; n.斋戒；禁食；系泊用具; v.斋戒；禁食
-warmth|n.温暖；热烈；热情；热心
-movie|n.电影
-theme|n.主题；题目；主旋律
-awkwardly|adv.别扭地；拘谨地；尴尬地；笨拙地
-historic|adj.有历史意义的；历史的
-side|n.边；侧；边缘；侧面；(多边形的)边；(立体的)面；一方；方面；旁边；家族; adj.旁的；次要的; v.站在…的一边；支持
-foreigner|n.外国人；外人
-tough|adj.强硬的；棘手的，难办的；艰苦的；严厉的；牢固的，强壮的；坚强的，坚韧的; adv.以强硬的态度；强硬地，顽强地; n.暴徒;恶棍
-sand|n.沙；沙子；沙滩；黄灰色; vt.撒沙；打磨；以沙掩盖
-sturgeon|n.鲟鱼
-academy|n.学院；学会；专科学校
-dozens|n.几十；许多
-restless|adj.不安宁的；焦虑的；得不到休息的
-hairy|adj.多毛的；长毛的；令人恐怖的；难对付的
-landscape|n.风景；风景画；山水；[计]横向; v.美化景观
-being|n.存在；人；生物；本质
-want|v.要；想要；通缉; n.缺乏；贫穷；需求品
-service|n.服务；发球；服役；公务部门；礼拜仪式；(车辆、机器等定期的)维修; v.保养；维护；提供服务；支付(借款)利息
-keyboard|n.键盘; v.用键盘输入
-interest|n.兴趣；嗜好；利息；股份; v.使…感兴趣
-tree|n.树；树状物
-ventilation|n.通风；通风设备；充气；公开讨论
-transportation|n.运输；运输工具；运输系统
-tall|adj.高的
-shore|n.岸；滨
-lucky|adj.幸运的；带来好运的
-determined|adj.坚定的；坚决的；果断的；确定的，既定的
-treatment|n.治疗；对待；处理
-shove|v.推挤；撞；乱塞；乱放; n.推；挤
-nickname|n.绰号；昵称; v.给...取绰号
-fireman|n.消防队员；司炉工
-second|adj.第二的；次等的；再一个的; num.第二; n.片刻；秒; adv.第二；其次; v.支持；赞成；附和；调派
-edge|n.边缘；优势；边；刀口; vt.给...加上边；缓慢横过；使锋利; vi.徐徐前进
-show|v.证明；显现；展示；解说；指示；表示；表现；流露；带路；标示；描绘；陈列；证明；上映；出现; n.表演；展览；显示；行为；样子；景象；场面；表现
-churn|n.搅乳器; v.搅拌；搅动；翻腾；〈口〉粗制滥造
-magical|adj.魔术的；有魔力的；神奇的；迷人的
-put|v.放；安置；使处于；提交；记下；表达；出发；开航; n.推铅球；期货买卖
-fetch|vt.取来；卖得；给（某人）一击; n.取得
-build|v.建造；开发；创建；逐渐增强; n.体格；身材
-cheese|n.干酪；乳酪；奶酪; vt.使停止
-hourglass|n.时漏；砂漏；水漏
-basketball|n.篮球
-cinema|n.电影院；电影(艺术；拍摄；技术)
-lesion|n.损害；损伤；障碍
-goody|n.想要的东西；甜食；伪善者；身份低微之老妇; int.这实在太好了
-double|adj.双重的；成双的；两倍的; v.翻一番；使...加倍; n.两倍；双份
-river|n.河；江；河流；水道
-pet|n.宠物；受宠的人; adj.宠爱的; v.爱抚；亲抚
-off|adv.表示状态的关闭或离开; prep.离开；在...之外; adj.空闲的；离开的；关闭的; v.离开；脱下
-yourself|pron.你(们)自己；你(们)亲自
-feel|v.感觉；觉得；触摸；摸起来；认为；摸索; n.感觉；触觉
-armor|n.盔甲；装甲
-canoe|n.独木舟; v.乘独木舟；用独木舟运
-believe|v.相信；认为
-retirement|n.退休；隐匿处
-here|adv.这里；这时；在这点上; n.这里; int.嘿；喂（用于引起注意）
-happy|adj.高兴的；幸福的；幸运的；乐意的
-silver|n.银币；银器；银；银灰色; adj.银的；银色的; vt.镀银于；使...成银色
-worship|n.崇拜；爱慕；做礼拜; vi.做礼拜; vt.崇拜；爱慕
-opposite|adj.相反的；对面的；对立的; prep.在...对面；演对手戏; adv.在对面地；处于相反位置地; n.对立物；对立者；对手
-jury|n.陪审团；评委会; adj.临时用的; vt.挑选
-crew|n.全体船员；全体乘务员；(一组)工作人员；划艇队员; v.当船员；当机务人员
-dungeon|n.地牢；土牢；城堡主塔
-dirt|n.污垢；泥土；灰尘
-chestnut|n.栗子；栗树；栗色；栗色马；陈词滥调；七叶树；马的胼胝; adj.栗色的
-wide|adj.广泛的；广阔的；睁得大的；渊博的；偏离目标的; adv.张的很大地；广阔地；没有完全获胜把握
-complete|adj.完整的；完成的；彻底的; vt.完成；使完美；使圆满；填（表格等）
-roam|v.漫游；闲逛；徜徉
-breeze|n.微风；轻而易举的事；焦炭渣; v.飘然而行；轻松通过
-imagine|vt.想像；设想；料想；猜想；认为; vi.想像
-foam|n.泡沫；汗; v.起泡沫；吐口沫；愤怒；沸腾
-peace|n.和平；安静
-stadium|n.体育场；运动场；[生]期
-matador|n.斗牛士
-defense|n.防卫；防卫物；辩护; vt.防守
-prairie|n.大草原
-basic|adj.基本的；基础的；初级的；含硅少的; n.基础；根本；[计]BASIC语言
-gladly|adv.高兴地；乐意地
-pterodactyl|n.翼手龙
-safely|adv.安全地；稳定地；有把握地；无风险地
-seasonal|adj.季节的；依照季节的；周期性的
-upright|adj.直立的；垂直的；正直的; adv.垂直地; n.垂直；竖立；竖钢琴
-century|n.百年；世纪; adj.百年的
-disease|n.疾病; v.使…生病，感染
-dry|adj.干的；干燥的；干旱的；口渴的；枯燥的; v.（使）变干
-produce|v.生产；引起；提出；制片；分娩; n.产品；农产品
-fantastic|adj.极好的；巨大的；奇异的；难以置信的；幻想的
-as|adv.同样地；例如；被认为; prep.作为；如同; conj.因为；像；当...之时；像...一样；结果；尽管; n.阿斯（古罗马重量单位，约373克；古罗马铜币名）
-tiptoe|n.脚尖; v.用脚尖走; adv.用脚尖
-production|n.生产；产量；作品；成果；分泌；制作；上映；播出
-justices|公平
-mile|n.英里；海里；一英里赛跑
-edible|adj.可食用的; n.食品；食物
-blow|n.打击；殴打；吹; v.吹；风吹；擤(鼻子)；(保险丝)熔断；浪费(机会)
-world|n.世界；地球；世人；世间；领域; adj.世界的
-inlet|n.水湾；入口；插入物; vt.引进；插入
-male|adj.男性的；雄性的; n.男子；雄性动物
-refuse|v.拒绝; n.垃圾；废物
-buy|vt.购买；买；获得；收买；相信; vi.买; n.购买；便宜货
-stingy|adj.吝啬的；小气的
-businessman|n.商人
-emergency|n.突发事件；紧急状态; adj.应急的；紧急的；备用的
-spy|n.间谍；侦探；侦察; v.侦探；监视；看到；找出
-bake|v.烤；烘焙；烘干；灼热
-popcorn|n.爆米花; adj.（无艺术含量或智慧的事物）流行的
-caller|n.打电话的人；来访者；呼叫者
-going|n.去；离去；地面(或道路)的状况；进展; (复)goings:行为.; adj.运转中的；营业中的；现有的；流行的
-communicate|v.传达；沟通；交流
-paw|n.脚爪；爪子；手; v.以蹄扒；抓；粗鲁地摸；翻找
-curse|n.诅咒；咒骂；祸端; vt.诅咒；咒骂；使受罪; vi.诅咒；咒骂
-flash|v.闪光；闪现；掠过；忽然...；亵渎性暴露; n.闪光（灯）；恍然大悟；一刹那；闪现；[计算机]Adobe公司的动画技术
-gases|n.气体
-beach|n.海滩；海滨；沙滩; vt.拖(船)上岸
-try|v.试验；尝试；设法；努力；审判；考验; n.尝试；试验；（橄榄球）持球触地得分
-commit|v.犯罪；承诺；委托；托付
-recent|adj.近来的；新近的
-adventure|n.冒险；奇遇; vt.冒险；尝试; vi.冒险；大胆进行
-beam|vi.微笑；发光; vt.播送；发射；用梁支撑; n.桁条；光线；(光线的)束；(横)梁
-celebration|n.典礼；宗教仪式；庆祝，祝贺
-fuel|n.燃料；刺激因素; vt.供以燃料; vi.加燃料
-per|prep.每；每一；经过；按照
-structure|n.结构；构造；建筑物; vt.构造；建造；组织
-jungle|adj.丛林的；垃圾的; n.丛林；密林
-proof|n.证明；证据；校样; adj.防...的；耐...的; vt.检验；给...做防护措施
-never|adv.永不；绝不；从不；未曾
-flesh|n.肉；肉体；人类; v.充实；变胖
-canary|n.金丝雀；加那利舞；加那利白葡萄酒；告密者
-contain|vt.容纳；包含；抑制；克制; vi.自制
-spitting|n.吐出(逆火；点燃导火线)
-extinct|adj.灭绝的；熄灭的；消亡的
-librarians|图书馆员
-thunder|n.雷；雷声; v.打雷；轰隆地响；大声喊出
-yours|pron.你的；你们的
-cell|n.单人牢房；小房间；细胞；蜂房的巢室；电池；政治小组；(计算机电子表格的)单元格；手机
-scribble|v.潦草地书写；乱写; n.潦草的写法
-conscience|n.良心；是非之心；顾忌
-madam|n.夫人；女士；太太
-postal|adj.邮政的; n.明信片
-capsule|n.胶囊；太空舱；荚膜；概要; v.概括；装入胶囊; adj.精简的；微型的
-against|prep.反对；逆；违背；倚靠；映衬；防御；相比；相对
-summary|n.摘要；总结; adj.简略的；概要的；即决的
-opened|v.开启(公开；开证); adj.开的
-clicker|n.发咔哒声者（如电脑鼠标或遥控器等）；鞋匠工头；排字工头；站店外招徕顾客者
-justice|n.公平；公正；正义；司法；法官；法律制裁
-alibi|n.不在场证明或辩解；托辞; v.辩解；找托辞开脱
-tunnel|n.隧道；地道；洞穴; v.挖地道；挖隧道
-call|vt.呼叫；打电话；把...称为; n.打电话；访问；召唤；呼叫；把...看作; vi.呼叫；(短暂的)拜访
-container|n.容器；集装箱
-sudden|adj.突然的；出乎意料的; n.突发之事
-babe|n.小孩；不知世故的人；女孩(=girl)
-daytime|n.白天；日间
-usual|adj.通常的；惯常的；惯例的
-mouse|n.老鼠；胆小如鼠的人；鼠标; v.捕鼠；仔细搜寻；移动鼠标至...之上
-sundial|n.日昝仪；日规
-rusty|adj.生锈的；荒废的；锈色的
-state|n.情形；状态；国家；州；政府; adj.国家的；州的；国事礼仪的; v.陈述；声明；说明；规定
-early|adv.早; adj.早
-reputation|n.好名声；声誉，名声，名气
-should|aux.应该；可能；应当；竟然；将要
-spikes|pl.钉鞋
-back|n.后面；背脊；靠背；后背；后卫; vt.支持；后退; adv.向后地; adj.向后的；后面的；偏远的；过时的；积欠的
-kingdom|n.王国；领域；界; Kingdom：天国.
-locate|vt.找出；把...设置在；使坐落于; vi.住下来
-located|adj.处于；位于
-cartoon|n.卡通；漫画；草图; vt.为...画漫画
-ninety|num.九十
-happen|vi.发生；碰巧；出现；偶遇
-re|prep.关于; pref.再，重新; n.长音阶的第二音
-streets|街道
-heaven|n.天空；天堂; Heaven.; n.上帝
-throw|v.扔；投；掷；抛; n.抛；投掷
-screeching|发动机啸声
-aim|n.目标；对准；枪法; vt.瞄准；针对; vi.瞄准；旨在；致力
-bicycle|n.自行车; vi.骑自行车
-ragged|adj.衣衫褴褛的；粗糙的；刺耳的；（外形）不规则的；不完美的
-gasp|v.喘气；喘息；渴望; n.喘气
-crime|n.犯罪；恶行
-convention|n.大会；协定；惯例；公约
-population|n.人口；(全体)居民；群体
-backpack|n.双肩背包; v.挑运；背包徒步旅行
-action|n.行为；活动；措施；效用；交战；情节；事件；姿态；起诉；机能
-wheelbarrow|n.独轮手推车
-judicial|adj.司法的；法庭的；公正的；审判上的
-beep|n.哔哔声; vt.产生（如号角）声音; vi.吹号；发出哔哔声
-policeman|n.（男）警察
-month|n.月，月份
-cocoa|n.可可粉；可可饮料；可可色
-snap|v.劈啪作响；崩塌；砰然关上；猛咬；谩骂；拍摄; n.啪嗒声；快照; adj.突然的；匆忙的; adv.劈啪作响地
-treat|v.对待；视为；探讨；治疗；处理；请客; n.款待；宴飨
-polar|adj.两极的；对立的; n.极线；极性
-answer|v.回答；答复；接电话; n.答案；回答；答复
-twelve|num.十二
-stay|v.停留；逗留；保持; n.停留；逗留
-competitor|n.竞争者；对手
-toilet|n.厕所；盥洗室；卫生间
-gate|n.大门；登机门；出入口；门票收入；道路；方式; v.惩罚(禁止学生离校)；解雇; suf.常表示政治丑闻
-fiesta|n.(西班牙语国家的)宗教节日；节日；假日
-doghouse|n.狗舍
-throat|n.嗓子；喉咙；颈部；嗓音; vt.低语；压着嗓子说(唱)
-toss|n.投掷；震荡; v.投掷；摇荡；辗转
-empty|adj.空的；空洞的；空虚的；空腹的; v.倒空；变空；排空; n.空物
-divorce|n.分离；离婚; vt.使分离；与...离婚; vi.离婚
-horrible|adj.可怕的；令人毛骨悚然的；令人讨厌的
-search|v.搜寻；探求；调查; n.搜寻；搜索；调查
-sunlight|n.日光；阳光
-encouragement|n.鼓励；激励
-object|n.物体；目标；对象；宾语; v.反对；提出...作为反对的理由
-rudely|adv.无礼地；粗鲁地；粗陋地
-maybe|adv.或许；也许；可能
-galaxy|n.银河；星系；一群杰出的人
-up|adv.向上；起来；上升；往上; prep.向上; adj.向上的；上行的; n.上升; v.上升；增加
-activity|n.活动；活跃; vt.表演; adj.厉害
-heavily|adv.重重地；沉重地；沉闷地；猛烈地；厉害地；稠密地
-rock|n.岩石；摇滚乐；困境; vt.使震惊；摇动；使动心; vi.来回摇动；跳摇摆舞
-late|adj.迟的；晚的；末期的；最近的；已故的; adv.晚；迟
-society|n.社会；(共同遵守一定的习俗、法律等的）特定群体；社团；协会；上层社会；社交圈；交往
-formally|adv.正式地；形式上地
-exchange|v.交换；兑换; n.交换；交易所；兑换；交战
-simply|adv.简单地；仅仅；简直
-strike|n.罢工；打击；殴打; v.打；撞；罢工；划燃
-ride|v.骑；乘; n.交通工具；骑；乘车；搭便车
-oceans|n.大洋
-reflective|adj.反射的；反映的；沉思的
-squawk|n.叫声；嘈杂的抱怨; v.呱呱地叫鸣；喋喋不休地发牢骚
-surround|vt.包围；环绕; n.环绕物
-wedding|n.婚礼；结合
-undergo|vt.经历；经受；遭受
-formal|adj.正式的；正规的；形式的；公开的；拘谨的；有条理的
-feed|vt.喂养；饲养；靠...为生；向...提供; vi.吃饲料；进餐; n.一餐；饲料；饲养
-completely|adv.完全地；十分地；全然
-start|v.开始；出发；震惊; n.开始；震动；领先优势；起推动作用的外力
-attack|n.攻击；抨击; v.攻击；抨击；发动攻击；（疾病）侵袭
-keep|v.保持；保留；继续；贮藏；经营；遵守；供给；照管；饲养；耽搁；保持食物不变质；健康状况如何；保守（秘密@）；记录；遵守；保护; n.生计；保存；城堡主楼；监狱；围墙
-allergy|n.过敏症；反感；厌恶
-sympathetic|adj.同情的；共鸣的；赞同的; n.交感神经
-rainbow|n.彩虹；五彩缤纷的排列；幻想
-college|n.学院；大学；学校；枢机主教团；社团
-possess|vt.拥有；持有；支配
-greater|adj.更大的；包括市区及郊区的
-strip|v.剥去；剥夺；脱衣；除去; n.脱衣舞；长条；条状
-soup|n.汤；羹; v.增大威力
-depth|n.深度；深刻；深奥；深；厚度
-knuckle|n.指关节；膝关节；肘形接头；铰链连接; v.以指节压；屈从；开始努力工作
-stairs|n.楼梯
-forlorn|adj.孤独的；凄凉的；渺茫的
-mammal|n.哺乳动物
-flip|vt.掷；轻击；弹; vi.翻转; n.（跳水或体操动作中的）空翻；轻弹；浏览; adj.无礼的；冒失的；轻率的
-within|prep.在(某段时间、距离或范围)内；在…里面; adv.在…里面; n.内部
-these|pron.这些; adj.这些的
-scare|v.受惊吓；恐吓；吓走; n.惊吓；惊恐
-lifeguard|n.救生员
-squirrel|n.松鼠；松鼠皮毛; vt.储存
-observatory|n.天文台；气象台；了望台
-extremely|adv.非常；极其
-trait|n.特征；特点；少许；一笔
-lesson|n.教训；课，功课，课业；榜样，典范; vt.教训，告诫，训斥；给...上课
-musk|n.麝香；麝
-charge|n.责任；电荷；指控；费用；照顾; vi.要价；充电；向前冲，冲锋；记在账上; vt.控诉；赊帐；给…充电；委以重任；归罪于；装填（炸药等）
-park|n.停车场；公园；园区；(球类)运动场; v.停车；停放；置于
-occur|vi.发生；存在；出现；想到
-maze|n.迷宫；曲径；迷惑; vt.使迷惑
-barrel|n.桶；枪管；一桶的量；炮管；大量；笔管；汽油桶; vi.快速移动; vt.把...装桶
-pie|n.馅饼；饼图; n.喜鹊；爱说话的人(=magpie)
-condensation|n.浓缩；凝结；液滴
-cute|adj.可爱的；聪明的，精明的，伶俐的；漂亮的; n.智取敌方的策略或手段；灵巧
-gross|adj.总的；粗鲁的；公然的；荒唐的；令人讨厌的; n.总量；总额; vt.总共赚得; adv.总共地
-munch|v.大声咀嚼
-overboard|adv.自船上落下；在船外
-escape|v.逃跑；逃脱；逃避；被忘掉；泄露；去度假; n.逃跑；逃脱；逃避；泄露；度假；[计算机]退出键
-sauce|n.酱汁；调味汁；无礼; vt.给...调味；使...增加趣味；对...无礼
-transition|n.转变；过渡
-roof|n.屋顶；顶; vt.覆盖；给...覆以屋顶
-beer|n.啤酒
-lowly|adj.地位低的；卑下的；谦卑的; adv.位置低下地；低声地；谦逊地
-transport|n.运输；心醉; v.运输；传播；流放；激动
-lighthouse|n.灯塔
-alike|adj.相似的；同样的; adv.一样；以同样的方式
-creates|n.创立; 创建.
-front|n.正面；前面；前线；【气象学】锋; vt.朝向；面对；对付; vi.面朝；掩护; adj.前面的
-twist|v.缠绕；捻；搓；拧；扭曲; n.拧；捻；扭曲；盘旋；弯曲处
-device|n.装置；设备；策略；设计
-nation|n.国家；民族
-sensitive|adj.灵敏的；敏感的；感光的；易受伤害的；善解人意的; n.敏感的人
-separate|adj.分开的；不同的；单独的；各自的; v.分开；隔开；区分；分居；脱离; n.分开；抽印本
-habitat|n.栖息地；产地
-devout|adj.虔诚的；虔敬的；衷心的
-wealth|n.【U】财富；财产；丰富；大量
-greeting|n.问候；打招呼
-follow|v.跟随；追赶；紧接着；注意；遵循；沿着；明白
-page|n.页；页码；侍从; vt.给...标页码; vi.翻页
-downstairs|adj.楼下的; adv.在楼下；向楼下; n.楼下
-star|n.星；明星; v.以星状物装饰；变成演员
-lizard|n.蜥蜴
-television|n.电视机；电视节目；电视行业
-allergic|adj.过敏的；反感的
-slide|vi.滑动；下滑；滑入；悄悄地溜走; vt.使滑动; n.幻灯片；滑坡；滑动；雪崩
-discuss|v.讨论；论述；商量
-ability|n.能力；才能
-swamp|n.沼泽；湿地；困境; v.淹没；使陷于困境；使忙于应付
-reflection|n.倒影；反射；反映；沉思；考虑
-version|n.版本；说法；译本；形式
-roar|v.吼叫；咆哮; n.吼声；咆哮；轰鸣；喧闹
-pillow|n.枕头; vt.枕；搁；垫
-slam|v.砰地关上；猛放；猛烈攻击; n.砰然声；猛烈抨击; n.满贯
-orphan|n.孤儿; adj.孤儿的; vt.成孤儿
-bee|n.蜜蜂; n.集会
-nursery|n.托儿所；保育室；苗圃
-judge|n.法官；裁判; v.断定；判断；审判
-to|prep.对于；为了；(表示方向)到；向；(表示间接关系)给; adv.（表示方向）去；（门）关上
-useful|adj.有用的；有益的；实用的
-leading|adj.领导的；指导的；主要的；在前的
-pretended|adj.假的；虚伪的
-time|n.时间；时代；时期；倍；次数；节拍; v.为…安排时间；计时；[体]在某一时刻击球; adj.时间的；定时的；分期（付款）的；定期的
-blindfold|v.蒙住...的眼睛; n.蒙眼物；盲目; adj.被蒙上眼睛的
-twirl|v.快速转动；扭转; n.扭转；旋转的东西
-limelight|n.众人注目的中心；聚光灯；以灰光灯照射的舞台; v.使受到注目
-ready|adj.准备好的；现成的；乐意的；情愿的
-win|v.赢；赢得；获胜；获得; n.胜利
-bedding|n.寝具（人或动物）
-swan|n.天鹅; vi.闲荡；游荡
-quiet|adj.安静的；宁静的；平静的; n.安静；平静；闲适; vt.使平静；使安心; vi.平静下来
-reach|v.到达；伸出；达成；取得联系；延伸；（伸手）去够; n.范围；影响力；河段；等级
-frogs|辙叉
-rice|n.米；米饭；稻
-magnet|n.磁铁；有吸引力的人（物）
-colorful|adj.华美的；富有色彩的；有趣的
-sick|adj.有病的；恶心的；腻烦的；晕的；令人毛骨悚然的; n.病人；呕吐物; vt.追逐；攻击；唆使
-buoy|n.浮标；浮筒；救生圈；救生衣; v.使浮起；支持；鼓励；用浮标指示
-no|adv.不; adj.没有；不是；禁止; n.否定的回答；投反对票者
-allegiance|n.忠诚；效忠
-skin|n.皮肤；外皮；皮囊; n.惊讶；生气; vt.剥皮；削皮；贴皮；蹭破皮；击败
-sneer|n.冷笑；嘲笑; v.嘲笑；冷笑
-fight|n.战斗；打架；斗志; vt.打架；对抗; vi.奋斗；斗争；争吵
-millennium|n.一千年；太平盛世
-scatter|vt.散播；撒；驱散; vi.分散；消散; n.散布；零星少量
-enjoyment|n.享受；令人愉快的事
-erupt|v.爆发；喷发；发疹
-girlfriend|n.女朋友；女性朋友
-loud|adj.大声的；吵闹的；引人注目的; adv.大声地；响亮地
-expert|n.专家；能手; adj.熟练的；内行的
-equestrian|n.骑马者；骑术家; adj.骑马的；骑术的
-begin|v.开始；着手
-narrow|adj.有限的；狭窄的；精密的；度量小的; n.海峡；隘路；狭窄部份; v.变窄
-defend|v.防守；防护；辩护
-tock|n.托科鸟
-pillar|n.柱子；支柱；核心(人物); vt.用柱支持
-neighbor|n.邻居；邻国; v.邻近
-pointer|n.指针；教鞭；（能指出猎物位置的）猎犬；暗示；主意; Pointer:指极星.
-forever|adv.永远
-fortunate|adj.幸运的；侥幸的；带来幸运的
-ring|n.戒指；环；圈；拳击场；马戏场；帮派; n.铃声；钟声；电话；口气; v.包围；环绕；形成圈; v.打电话；回响；鸣响；按铃；听上去
-candy|n.糖果; v.用糖煮；使结晶为砂糖
-prejudice|n.偏见；伤害; vt.伤害；使...存偏见；使偏袒
-tighten|vt.使紧；勒紧；固定; vi.变紧
-hand|n.手；协助；手艺; v.给；传; Hand.; n.汉德（英文姓）
-graze|v.放牧；（牛、羊等）吃草; v.轻擦；擦伤; n.放牧; n.擦伤
-planets|行星
-classmates|同班同学
-share|vt.分享，共享；分配；共有; vi.分享; n.一份；股份；分担；犁头
-straw|n.稻草；吸管；麦杆；不值钱的东西; adj.用稻草做的；麦杆色的；无价值的；像稻草人的；非正式民意测验所发现的
-career|n.生涯；职业；事业; vi.猛冲；飞跑
-wrap|v.包；裹；覆盖；隐藏; n.围巾；披肩；包装材料
-whether|conj.是否；不管；无论
-region|n.地区；范围；领域；地带；地域
-scissors|n.剪刀
-tenth|n.第十；十分之一
-feather|n.羽毛；翎毛；种类; vt.用羽毛装饰; vi.长出羽毛
-mantle|n.斗篷；覆盖物；墙的外皮；（汽灯的）纱罩；[地]地幔; v.覆盖；笼罩；脸红
-smallest|adj.最小的
-active|adj.活跃的；积极的；起作用的；灵活的
-police|n.警察；警方; v.维持治安；管辖；监督
-correct|adj.正确的；得体的; v.改正；纠正
-inform|v.通知；告诉；使熟悉；告发；赋特征于
-loop|n.环；圈；回路；环形线路; vt.以圈结；以环连结；使...成环（圈）; vi.形成环；环形运动
-their|adj.他们的；她们的；它们的
-lion|n.勇猛的人；狮子
-builders|n.洗选强化剂
-tan|n.棕褐色；黝黑; v.晒黑；鞣(革)；痛打; adj.棕褐色的
-turnip|n.萝卜；芜菁；大头菜
-rain|n.雨；雨水; v.下雨；(雨点般)落下
-prevent|v.预防；防止，阻止；挡住
-notice|vt.注意；留心；通知; n.通知；注意；布告
-get|v.得到；使得；抓住；克服；明白；激怒；患（病）；达到; n.生育；后代；救球
-especially|adv.特别；尤其
-storybook|n.故事书；小说; adj.故事般的
-succeed|v.成功；继承；接着发生
-sun|n.太阳；阳光；中心人物; v.晒太阳
-clearly|adv.清楚地；显然地
-receive|v.接到；收到；接待
-travelers|旅游者
-van|n.箱形客货两用车；(铁路的)有盖货车；[军]先锋；先导；翼; v.(用货车)运
-those|pron.那些; adj.那些
-puddle|n.水坑；地上积水；胶泥; v.搅浊；在泥污中打滚；排尿
-safe|adj.安全的；安然无恙的；可靠的；谨慎的; n.保险箱
-thank|v.感谢；谢谢；责怪; n.谢意；感谢
-roll|n.卷；滚动；名单；压路机；颤音；圆形物，面包卷; v.摇摆；滚；绕；转动；展开
-valley|n.山谷；溪谷；流域
-cup|n.杯子；一杯之量；奖杯；罩杯; vt.使成杯形；把某物放入杯中
-university|n.大学
-castle|n.城堡; v.置于城堡中；(棋)移动王车易位
-dismay|n.沮丧；绝望; vt.使...沮丧；使...惊愕
-swirl|n.漩涡；涡状形; v.（使）成漩涡；盘旋；眩晕
-come|v.来；来到；来取、来拿；成为；达到；接近；摆出...的样子；处于（某个位置）
-modern|adj.现代的；时髦的; n.现代人；时尚人士
-overdue|adj.过期的；未兑的；迟到的
-spiritual|adj.精神的；心灵的；与上帝有关的; n.(尤指美国南部黑人的)圣歌
-pearl|n.珍珠; v.(用珍珠)装饰；呈珍珠状; adj.珍珠般的
-slay|vt.杀害；残杀；使大笑
-distant|adj.疏远的；遥远的；远房的；陌生的；远行的
-ketchup|n.蕃茄酱; =catchup.
-equality|n.同等；平等；[数]等式
-lower|adj.低的；下级的；下层的; v.降低；减弱；跌落
-shirts|衬衫
-unhappily|adv.不快乐地；不幸地
-cricket|n.板球；蟋蟀; vi.打板球
-prize|n.奖品；奖金；奖赏; vt.珍视；估价; adj.奖品的；得奖的；一流的
-subject|n.话题；科目；主题；题材；主观；[语]主语; n.实验对象；(君主国)国民; adj.易患的；服从的; vt.使服从；使隶属；使遭遇
-below|prep.低于；在...下面; adv.在下面；向下
-delighted|adj.高兴的；快乐的; v.快乐；喜悦
-upstream|adj.上游的；逆流而上的; adv.向上游；逆流地
-fault|n.缺点；故障；过错；[地]断层; v.找...错误
-shoot|v.发射；开枪；疾驰；拍照; n.发射；嫩枝; int.哇!可恶!哎呀!
-channel|n.频道；海峡；方法；通道；（消息）渠道; vt.引导；形成河道；集中（精力）
-landlord|n.地主；房东
-upward|adj.向上的；上升的; adv.向上；上升
-bottom|n.底部；底端; adj.底部的; v.触底；打(基础)
-edgy|adj.急躁的；尖利的；刀口锐利的
-mill|n.磨坊；工厂；磨粉机; v.碾碎；磨；（使）乱转
-referee|n.裁判员；仲裁人；鉴定人；证明人; v.裁判；仲裁
-cousin|n.堂(或表)兄弟(姐妹)
-tight|adj.紧的；紧身的；密集的；拮据的; adv.紧紧地；牢固地；迅速地
-still|adj.静止的；不动的；静寂的; adv.更；仍然；静止地; v.使...平静下来; n.蒸馏器；寂静；定格照
-attitude|n.态度；看法；姿势
-telephone|n.电话; v.打电话
-mermaid|n.美人鱼
-grandmother|n.(外)祖母
-packet|n.小袋；邮船；数据包
-cherry|n.樱桃；樱桃树；樱桃色；处女膜
-contest|n.竞赛；比赛; vt.驳斥；争取; vi.奋斗
-distance|n.距离；路程；远方; vt.与...保持距离；把(对手)甩在后面
-stir|vt.激起；惹起；搅和; vi.活动；引起；挪动; n.骚乱；感动(激动；愤怒或震动)；搅拌
-an|art.（用在元音音素前）一
-salad|n.色拉；凉拌生菜；杂烩
-solid|adj.固体的；实心的；结实的；可靠的; n.固体；立体图形; adv.一致地
-hoist|v.升起；升高；举起; n.起重机；升高
-one|n.一；一个；一体; adj.一个的；某一个的；唯一的；同一的; pron.任何人；某人
-seventy|七十
-landmark|n.陆标；地界标；里程碑；划时代的事
-nineteenth|num.第十九
-neighborhood|n.邻近；邻居；附近
-authority|n.权力；官方；当局；职权；权威
-bury|vt.埋葬；隐匿；专心致志；抛弃
-amusement|n.乐趣，娱乐；消遣
-muddy|adj.泥泞的；浑浊的；糊涂的; v.使沾上烂泥；使...混浊；使迷惑
-flour|n.面粉；粉末; v.研成粉末；撒上粉
-signal|n.信号；标志; v.(发信号)通知、表示; adj.显著的
-pumpkin|n.南瓜
-reproduce|v.再生；复制；生殖
-log|n.原木；圆木；(航海、飞行)日志；(船)计程仪; v.伐木；记入(日志)
-gravity|n.重力；庄重；严重；严肃
-coastline|n.海岸线
-stick|n.手杖；枝；杆; vt.刺入；插于；竖起; vi.钉住；坚持，遵守；粘贴；生效，起作用
-soft|adj.柔软的；柔和的；温和的；不强烈的；轻的; adv.柔软地；温和地; n.柔软的东西
-baguette|n.法式长棍面包；长方形的宝石
-there|adv.在那里；到那里；从那里; pron.表示存在（与be连用）; n.那个地方；那一点
-turnaround|n.周转时间；好转；转身；回车场；（轮船、飞机的）终点装卸时间
-robot|n.机器人；机械呆板的人；自动机；（非洲南部）自动交通信号灯
-soundly|adv.完全地；健全地；坚牢地；香甜地
-march|n.行军；行进；游行示威；稳步前进；进行曲; v.行进；前进；进发；使同行；游行示威; March; n.三月
-guns|枪炮
-pub|n.酒吧；酒馆
-possession|n.拥有；财产；所有；殖民地
-statue|n.雕像；塑像
-verb|n.动词
-arrange|vt.整理；安排；计划；改编(乐曲); vi.协商；计划
-cord|n.细绳；索；纽带
-minister|n.外交使节；部长；大臣；牧师; v.照顾；给予帮助
-someday|adv.有朝一日
-rare|adj.罕见的；珍贵的；煎得嫩的
-million|n.百万；群众; adj.无数的；百万的
-rainy|adj.多雨的；下雨的
-predators|食虫动物
-framework|n.框架；体系；结构
-piece|n.件；篇；片；块；作品；碎片; v.修补；拼合，凑合
-airport|n.机场；航空站
-slavery|n.奴役；奴隶制；奴隶身份
-wheeze|v.喘息；呼哧呼哧地响; n.喘息声
-duck|n.鸭肉；鸭；亲爱的人; v.躲避，闪开；潜入
-knee|n.膝盖；膝关节
-importance|n.重要；重要性
-marry|v.娶；结婚；嫁；结合
-style|n.文体；风格；式样；时尚；类型
-league|n.种类；社团；联盟；同盟；里格（长度单位，约为3英里或3海里）; v.（使）结盟
-drift|vi.漂流；漂移；吹积；漂泊；偏离; vt.使漂流；使堆积; n.漂流；趋势；漂泊
-physical|adj.物质的；身体的；体力的；物理的；肉体上的，身体上的; 体格检查
-damage|n.损害；损失；毁坏; vt.损害；毁坏
-seashore|n.海滨
-only|adv.只有；仅仅；刚刚; adj.最好的；唯一的；出众的; conj.但是；除非；然而；毕竟
-leader|n.领袖；领导者；指挥者；领先的人
-upside|n.上部上涨；优势；潜力; prop.上面；上方
-wasps|胡蜂
-groom|n.新郎；马夫；王室侍从者; v.打扮；梳理毛发；培养；准备（滑雪）赛道
-goalkeeper|n.守门员; =goaltender(美).
-mall|n.商业街；购物中心；林荫大道
-definitely|adv.肯定地；当然地；明确地
-manage|v.管理；经营；做成；设法对付；提供；有空
-embassy|n.大使馆；大使全体人员
-sorry|adj.对不起的；抱歉的；难过的；遗憾的; int.对不起
-wiggle|v.扭动；摆动; n.扭动；蠕动；奶油青豆烧鱼
-sheep|n.绵羊；羊；羊皮
-continually|adv.不断地；频繁地
-joke|n.笑话；玩笑; v.说笑话；开玩笑
-lava|n.熔岩；火山岩
-likely|adj.可能的；可信的; adv.很可能
-appreciate|vt.欣赏；赏识；感激；领会；意识到; vi.增值
-skip|v.跳过；略过；遗漏; n.跳跃；跳读；省略
-librarian|n.图书管理员；图书馆学专家；图书馆馆长
-kitchen|n.厨房；灶间；(全套)炊具
-welsh|v.不付赌金而溜掉；逃避责任; Welsh:; n.威尔士人; adj.威尔士人的；威尔士语的
-slimy|adj.黏滑的；卑劣的
-forbidden|adj.被禁止的
-mayor|n.市长
-disrupt|vt.干扰；打断；妨碍；使分裂；使破裂
-snail|n.蜗牛
-hockey|n.曲棍球
-jacket|n.短上衣；茄克衫；皮；护封；绝缘护套; vt.加外套；装封套
-fable|n.寓言；神话；无稽之谈; v.讲寓言；虚构
-flagpole|n.旗竿; =flagstaff.
-request|n.请求；要求; vt.请求；要求
-actually|adv.实际上；事实上；竟然（表示惊讶）
-gods|n.最高层楼座
-drive|vt.开车；驱赶；迫使; n.驾车；驱使；推进力；路；快车道；街；[计]驱动器
-react|v.反应；反攻
-little|adj.小的；幼小的；短的；微不足道的；少到几乎没有的; adv.甚少；毫不；难得; n.极少
-reveal|vt.显示；透露；揭示；展现; n.(外墙与门或窗之间的)窗侧；门侧；(汽车的)窗框
-yearly|adj.每年的; adv.每年地；一年一次地
-please|adv.请（=plz）; v.使高兴；使满意；愿意；取悦
-mango|n.芒果
-dust|n.灰尘；尘土；粉尘; vt.去掉...的灰尘；撒粉末于; vi.除尘
-sidewalk|n.人行道; =pavement（英）.
-arctic|adj.北极的；极寒的; n.北极圈；北极
-carvings|雕刻品
-sew|v.缝合；缝纫
-temple|n.神殿；寺院；庙宇; n.太阳穴，鬓角
-swing|n.摇摆；改变；冲力；秋千; v.摇摆；旋转；动摇
-farmers|农民
-purely|adv.纯粹地；清白地；纯洁地
-reliable|adj.可靠的；可信的
-cow|n.母牛；雌象；雌鲸；雌犀牛；女人; v.恐吓
-marriage|n.结婚；婚姻；紧密结合
-competitors|竞争对手
-band|n.乐队；队；一群; n.带；箍；波段; v.绑扎; v.联合；结合
-practice|n.练习；实行；习惯；业务; v.练习；实践；开业；执业
-steer|v.操纵；驾驶；掌舵；引导
-girl|n.女孩；少女；姑娘；女儿；女职员；女朋友；老婆；老母亲；老妇人; adj.女的；女孩的；雌性的
-declaration|n.宣言；宣布；申报
-plain|adj.清楚的；简单的；坦白的；平常的；朴素的；纯的; n.平原；广阔的区域; adv.完全地；纯粹地
-lid|n.盖子；眼睑; vt.给...装盖子
-lemonade|n.柠檬水
-nervousness|n.神经紧张；情绪不安
-tickle|vt.使发痒；逗乐；使快乐; vi.觉得痒; n.痒；抓痒
-wicket|n.[板球]三柱门；两座三柱门之间的场地；一局；小门
-cold|adj.冷的；寒冷的；冷酷的；冷淡的；冷静的; n.寒冷；感冒；伤风; adv.完全地；彻底地
-watermelon|n.西瓜
-strength|n.力气；强度；力量；长处
-kindly|adj.和蔼的；温和的；爽快的; adv.温和地；亲切地
-beside|prep.在...旁边；与...相比；和...无关
-peer|n.同辈；同等的人；贵族; vi.凝视；窥视
-sea|n.海；海洋
-grateful|adj.感激的；令人愉快的
-regular|adj.有规律的；定期的；经常的；正规的；整齐的；规则的
-lend|v.借给；贷款；借(出)
-flap|n.拍打；拍打声；片状垂悬物；副翼；不安; v.拍打；鼓翼而飞
-dart|n.飞镖；投射；突进；缝褶; vi.快速投掷；突然移动; vt.使突然移动
-stamp|n.邮票；图章；印；跺脚; v.跺脚；盖章
-patience|n.耐心；忍耐；毅力
-wonderful|adj.精彩的；极好的
-judo|n.柔道
-snow|n.雪；积雪；下雪; vi.下雪; vt.使变白；雪覆盖
-troop|n.群；组；军队；大量; vi.群集；结队；成群前行
-plums|n.李子
-whale|n.鲸; vi.捕鲸; v.打击
-item|n.项目；条款；一件商品（或物品）；一则或一条新闻; adv.也
-farm|n.农场；农田; v.务农
-faster|adj.更快的; adv.更快地
-thick|adj.厚的；浓密的；粗的；愚笨的
-bow|n.弓；鞠躬礼；蝴蝶结；船头; v.鞠躬；致敬；压弯
-navy|n.海军；船队；海军蓝
-plentiful|adj.丰富的；多的；充裕的
-truthful|adj.诚实的；真实的
-accurate|adj.准确的；精确的
-astronaut|n.宇航员
-prey|n.牺牲者；被掠食者，猎物; vi.掠夺；捕食；使...苦恼
-tankers|油船
-eruption|n.爆发；喷发；出疹；长牙
-apology|n.道歉；辩解；勉强的代用品
-cemetery|n.墓地
-ten|num.十
-open|adj.开着的；开放的；公开的; v.打开；张开；展开；摊开；开始(某事物)；开张；营业；以…开头；宣布启用; n.户外；公开
-wear|v.磨损；穿戴；使疲劳; n.磨损；穿着；耐久性
-talks|会谈
-belief|n.信念；信仰；相信
-nod|v.点头；打盹；（使）摆动; n.点头；同意
-parent|n.父母；根源; v.抚养；产生
-entire|adj.全部的；完整的；全面的
-pee|n.小便; vi.小便
-travel|v.旅行；去某地；传播；快速移动；[体]走步; n.旅行；移动
-tape|n.磁带；胶布；终点; v.录音；录像；用胶布粘；用绳子捆绑；用卷尺测量
-afternoons|adv.每天下午
-hug|v.拥抱；紧抱；抱有；挨着; n.拥抱；紧抱
-lawyer|n.律师
-few|adj.很少的；少数的；几个; pron.少数; n.少量
-passenger|n.乘客；旅客
-tennis|n.网球
-company|n.公司；商号；陪伴；同伴；客人；[军]连；一群; v.陪伴
-train|n.列车；火车；行列；一系列; vt.训练；培训；瞄准; vi.进行锻炼，接收训练；练习
-specialty|n.专业；专长；特别；特产；特性
-ajar|adj.微开的；半开的; adv.微开地；半开地
-lyrics|n.抒情诗；歌词
-much|adj.许多的; adv.很；非常；几乎; n.许多
-hazard|n.危险；冒险；危害; vt.冒险；赌运气; 阿扎尔（英超切尔西队球员）
-coast|n.海岸；海滨
-adult|n.成年人；成年动物; adj.成年的；理智的；适合成年人的；成熟的
-yes|adv.是；是的; n.是（表示肯定）; v.对…说是
-parachute|n.降落伞；缓降物；[动]翅膜; v.跳伞；用降落伞空投
-jackrabbit|n.长耳大野兔
-masses|n.平民；群众
-wheat|n.小麦；小麦色
-fisherman|n.渔夫；渔船
-quilt|n.被状物；被子; v.缝被；缝制；用垫料填塞
-older|adj.年长的
-photograph|n.相片; vi.拍照，摄影；被照相; vt.给...照相
-clatter|n.咔嗒声；哗啦声；嘈杂的谈笑声; v.发出哗啦声；咔嗒咔嗒响；喧闹地谈笑；使发出咔嗒声
-sediment|n.沉淀物
-pat|n.轻拍；轻打；小块; v.轻拍；抚摸；拍打
-enough|adj.足够的; adv.足够地；充分地；相当；尚; pron.足够
-popular|adj.受欢迎的；通俗的；流行的；大众的
-rim|n.边；框; vt.镶边; vi.形成边缘
-wood|n.木材；木头；树林
-length|n.长度；时间长短；距离；一段；距离的测量单位
-counting|n.计算
-trapeze|n.吊杠（杂技演员和体操运动员用的）
-commentator|n.评论员；解说员；注释者
-balloon|n.气球；球状物; vt.使膨胀; vi.乘气球飞行；激增；如气球般膨胀; adj.气球状的
-endless|adj.无止境的；没完没了的
-private|adj.私人的；个人的；私下的；私有的；缄默的; n.士兵；列兵
-sorts|n.种类; 分类.
-velvet|n.天鹅绒；意外之财; adj.天鹅绒的
-threat|n.威胁；恐吓；凶兆
-trunk|n.树干；(汽车后部)行李箱；大箱子；象鼻；躯干; (复)trunks:男用运动裤.
-anytime|adv.任何时候；总是，无例外地
-entry|n.进入；进入权；入口；条目
-progressive|adj.先进的；前进的；渐进的；革新的(音乐上的）; n.进步分子；革新主义者
-vote|n.选举权；投票；选举；投票结果; v.表决；选举；投票
-governor|n.统治者；管理者；理事；州长；总督；调节器
-couple|n.对；夫妇；数个; v.连结；交配
-afraid|adj.抱歉的；担心的；害怕的
-chicken|n.鸡；鸡肉；胆小者; adj.懦弱的；胆小的; vi.失去勇气
-indoor|adj.户内的；室内的
-hello|int.(打招呼)喂；你好
-chow|n.食物；中国黑鼻狗; v.吃
-rope|n.绳索；一串；绞刑; v.捆绑；说服（口）
-gymnast|n.体操运动员
-cloud|n.云；阴影
-liking|n.喜欢；爱好
-chew|vt.咀嚼；嚼碎；深思; vi.咀嚼; n.咀嚼；咀嚼物
-bench|n.长凳；工作台；法官
-punishment|n.惩罚
-vibrate|vt.(使)振动；(使)摇摆; vi.回响；颤动
-bomb|n.炸弹; vt.轰炸；投弹于; vi.投弹；失败
-election|n.选举；当选；选举权
-sac|n.囊；液囊
-boomerang|n.自食其果的行为；回飞镖; v.自食其果
-fancy|adj.华丽装饰的；复杂的；引人注目的；时髦的；昂贵的；好的; n.喜爱；幻想；想像力; vt.想象；希望；迷恋
-wind|n.风；（随食物或饮料）吞下的气；呼吸；气息；管乐器；空谈; v.使喘不过气来；（给婴儿轻轻拍抚后背）使打嗝；吹(号角等)；（路、河等）蜿蜒；缠绕；给…上发条；可上发条；倒（磁带、胶卷等）；转动（把手）; n.弯曲；弯曲处；缠绕；转动；上发条
-spray|v.喷雾；喷射；扫射; n.喷雾；喷雾器；水沫
-pear|n.梨子；梨树
-respect|vt.尊敬；尊重；遵守；关于；涉及; n.尊敬；敬重；关系；方面; n.（复）respects:敬意；问候
-perform|v.执行；履行；表演；运转；举行
-station|n.站；火车站；电视台；社会地位；牧羊场；驻地；岗位; v.驻扎；安置
-hairless|adj.无毛的
-stumble|v.绊倒；蹒跚；犯错误；无意中发现; n.绊倒；错误
-sickness|n.疾病；呕吐
-carve|v.雕刻；切割
-bundle|n.捆；束；包；大笔钱; v.捆；把...扎成一捆；匆忙地走
-drown|vi.淹死; vt.淹死；淹没
-pause|n.暂停；中止；犹豫不决; vi.停顿；中止
-swim|v.游泳; n.游泳
-hop|v.跳跃；单脚跳; n.跳跃；单脚跳
-bravely|adv.勇敢地
-bored|adj.无聊的；厌烦的；郁闷的
-lightning|n.闪电；意外的幸运; adj.闪电般的；快速的
-animal|n.动物；牲畜; adj.动物的；野兽的
-freezer|n.冰箱；冷冻室
-trumpet|n.喇叭；喇叭声；喇叭手; vt.宣扬；鼓吹；吹嘘; vi.吹喇叭；发出喇叭似的声音
-happily|adv.幸福地；快乐地；幸好；恰当地; 形容词happy的副词形式.
-gym|n.体育馆；健身房；体育课
-empire|n.帝国；大企业；帝权
-board|n.木板；布告板；董事会；船舷或机舱；伙食；舞台; v.登(飞机、车、船等)；接受乘客；有偿提供食宿；搭伙；用木板覆盖
-straight|adj.直的；坦率的；正直的；准的；连续的；异性恋的; adv.笔直地；直接；坦率地；连续不断地; n.直的东西；传统的人；异性恋者
-another|adj.另一的；再一个的; pron.另一个；类似的一个；别的
-egg|n.蛋；卵；蛋形物; vt.用蛋覆盖；向...扔蛋; vt.怂恿；煽动
-happenings|n.事件；意外发生的事
-itch|n.痒；渴望；疥癣; v.（使）痒；渴望
-shield|n.盾；盾状物；防卫物; vt.保护；庇护
-vapor|n.蒸汽；水蒸汽; v.蒸发；汽化
-conductor|n.售票员；导体；指挥
-crowded|adj.拥挤的
-job|n.工作；职业；职位；(一项)任务；活儿；职责；犯罪行为；物件
-unfold|v.展开；开放；显露
-goodbye|int.再见; n.说再见
-am|v.是（动词be的第一人称形式）
-entrance|n.入口；进入；登场；进入权; vt.使入迷；使狂喜
-largest|adj.最大的
-either|adj.任一的；两方的; pron.任一; adv.也（用于否定句中）; conj.或者（常用于either...or...的结构中）
-night|n.夜晚; adj.夜晚的
-seventeen|num.十七
-tiger|n.老虎；凶残之人
-rising|n.上升；造反或叛乱; adj.上升的；高涨的
-successfully|adv.成功地，圆满地
-union|n.结合；工会；联盟；和睦；连接轴；【数】并，并集; adj.联邦政府的；工会的
-pair|n.一对；一双；一副; v.（使）成对；（使）配对
-glimpse|n.一瞥；一闪；略微；隐约感觉; v.瞥见
-range|n.范围；射程；山脉；排；一系列；闲逛；炉灶；【数】值域，极差; v.排列；使…站在某一方；延伸；漫游；射程达到(某距离)
-woollen|n.毛织品; adj.羊毛制的
-volleyball|n.排球；排球运动
-shirt|n.衬衫; v.给…穿上衬衫
-window|n.窗户；橱窗；视窗
-kindness|n.仁慈；好意；友好的行为
-mitzvah|n.（犹太教）戒律；德行
-coal|n.煤；木炭; vt.烧成炭；供应煤; vi.加煤；装煤
-frame|n.骨架；身躯；结构；框；帧; v.表达；制定；把...框起来；陷害
-gum|n.牙床；树胶；齿龈；粘性物质; v.搞砸；用牙床嚼；以树胶粘合
-females|女性
-line|n.线；界线；皱纹；路线；航线；行；台词；行业；绳子；家族; v.排队；画线；加衬里
-army|n.军队；陆军；一大批
-drip|n.滴；点滴；乏味的人; v.滴下；漏出
-break|v.打碎；折断；违背；解决；中断；透露；变弱；锐减；结束; n.破裂；休息；中断；急冲；好运
-war|n.战争；斗争; v.作战；斗争
-drilling|n.演练；钻孔
-yard|n.院子；庭院; n.码(长度单位)
-week|n.星期；周
-legend|n.传说；传奇；图例
-rich|adj.富有的；富饶的；丰富的
-sagebrush|n.山艾(美国西北荒漠产的一种灰绿色灌木)
-lightweight|adj.轻量级的；无足轻重的；比较轻的; n.轻量级拳击运动员；无足轻重的人或物；轻便
-seawater|n.海水
-shut|v.关闭；合拢；停止; adj.关闭的；停止营业的; n.关闭
-stand|v.站立；忍受；位于；停滞; n.站立；货摊；停顿；看台
-uncomfortable|adj.不舒服的；不自在的
-whoosh|v.飞快地移动; n.嗖的一声；冲出(表示飞快的移动)
-slip|v.滑倒；滑脱；疏忽；溜走; n.疏忽；滑倒；溜走；失误
-anchor|n.锚；锚状物；依靠；新闻节目主播；压阵队员; v.抛锚；停泊；用锚系住；担任（广播电视新闻节目）的主持人
-larger|adj.更大的；较大的
-smaller|adj.较小的
-spite|n.恶意；怨恨; v.刁难；惹怒；冒犯
-hospital|n.医院
-elephants|象类；n.；长鼻目
-religions|宗教
-them|pron.他们；她们；它们；性别不详的人（代替him或her）
-design|n.设计；图样；图案；目的; v.设计；计划
-mound|n.土墩；小丘；一堆; v.筑堤；用土堆防卫
-shallow|adj.浅的；薄的; n.浅滩；浅处; v.变浅
-will|n.决心；意志；遗嘱；愿望; aux.将；愿意；必须; vt.决心；想要(某事发生)；将(财产)遗赠；规定; vi.愿意
-ribbon|n.缎带；带状物；色带; vt.用丝带装饰；撕碎
-rye|n.黑麦；黑麦威士忌酒；吉卜赛男人
-lifeboat|n.救生船
-mother|n.母亲；妈妈; adj.母亲的；母体的；本源的; vt.生育；像母亲一样关爱
-stump|n.残株；烟蒂；讲演台; v.受窘；踏步；演说
-temper|n.脾气；性情; vt.使缓和；调和；锻炼
-accidentally|adv.偶然地；意外地；附带地
-love|v.爱；热爱；喜欢; n.爱；热爱；爱情；恋爱；喜爱；情人；(网球)零分
-extinguisher|n.灭火器；熄灭者；消除器
-score|vt.得分；获胜；刻划；划线；批评；给...谱曲; n.得分；刻痕；二十；乐谱; vi.得分；记分；得胜
-twenty|num.二十
-suck|vt.啜；吸入；吸收; vi.吸；吸收；奉承；烂; n.吸吮；吸力
-billion|n.十亿
-battery|n.电池；一系列；炮兵连；排炮；[律]殴打
-lop|v.剪去(树枝)；砍掉；削减；耷拉下来
-seaweed|n.海草；海藻
-opponent|n.对手；反对者；敌手; adj.反对的；敌对的
-collect|v.收集；聚集；募捐；运走；使（自己）镇定
-cover|n.封面；盖子；套子；表面; v.覆盖；涉及；包含；掩护；给…保险
-super|adj.超级的；极好的
-evening|n.晚上；傍晚；晚会
-brush|n.刷子；画笔；刷; n.灌木丛; n.小冲突；争吵; vt.刷；掠过；轻触；擦；掸; vi.轻擦；拂拭
-speedboat|n.快艇
-crimes|犯罪
-traffic|n.（人或车等）交通流量；不正当生意（走私）; v.做生意（多指违法的）；游览
-mean|v.意思是；打算；导致；意味; adj.低劣的；刻薄的；卑鄙的；出色的；吝啬的；平均的；中等的; n.平均值；平均数；中间；中庸
-cultural|adj.文化的；和养动植物有关的
-repair|v.修理；修补；补救；赴；去; n.修理；修补；补救；维修工作；维修状态
-national|adj.民族的；国家的；全国性的；国立的；国有的; n.国民; （复）nationals:全国性比赛.
-workshop|n.工场；车间；研讨会；讲习班
-fairly|adv.公正地；相当地
-stiff|adj.硬的；僵直的；艰难的；生硬的；拘谨的；烈性的; adv.极其；僵硬地; n.死尸；流浪汉；过于拘谨的人；吝啬鬼；醉鬼
-floppy|adj.松软的；懒散的; n.软盘(=floppydisk)
-worthless|adj.无价值的；无用的；可鄙的
-brilliant|adj.卓越的；灿烂的；美妙的；杰出的；才华横溢的; n.宝石
-farther|adj.更远的；较远的; adv.更远地；进一步地
-news|n.新闻；消息
-although|conj.虽然；尽管；然而；可是
-circle|n.圆圈；圈子；包厢; v.划圈；包围；盘旋；环绕
-zoo|n.动物园；拥挤杂乱的地方
-messy|adj.散乱的；污秽的；麻烦的
-electric|adj.电的；电动的；带电的；刺激的; n.电动产品
-assistant|n.助手，助理，助教；【化】（用于染色的）助剂; adj.副的；辅助的
-forth|adv.向前；向外；露出
-picture|n.照片；影片；描述；图画; vt.想像；画；拍照
-outdoor|adj.户外的；野外的；露天的；喜爱户外活动的
-neatly|adv.整洁地；熟练地
-stepmother|n.继母；后母
-tremendous|adj.巨大的；惊人的
-heal|vt.治愈；使恢复健康；使和解; vi.痊愈
-halfway|adj.中途的；不彻底的; adv.半路地；在…中间；折中地
-certainly|adv.当然；一定
-wizard|n.【C】男巫；术士；鬼才
-clay|n.黏土；泥土
-ape|n.猿; adj.疯狂的; v.模仿
-jab|v.刺；戳；猛击; n.戳；刺；猛击; 注射
-crowd|n.人群；群众；大群；朋友; v.拥挤；挤满；涌入；贴近；逼迫
-cheers|int.干杯；再见；谢谢
-luckily|adv.幸运地；幸亏地
-warn|vt.警告；告诫；预先通知; vi.发出警告
-stink|n.臭味；臭气; vi.发臭味；招人讨厌
-terrible|adj.可怕的；极度的；糟糕的
-uncle|n.伯；姑父；舅；叔；姨父
-inject|v.注射；注入；引入；插入
-sigh|n.叹气；叹息; v.叹息；惋惜
-darkness|n.黑暗
-furious|adj.狂怒的；猛烈的
-writer|n.作者；作家
-short|adj.短的；矮的；短期的；短缺的；简略的；粗暴无礼的；[语]短音的; adv.缺少；未达到；半中间(打断)；过早地(终止); n.烈酒；电影短片；[电]短路; v.(使)短路
-arch|n.拱；拱门；拱状物; v.成拱形；拱起; adj.主要的；调皮的
-fling|vt.投；粗暴地推向...；猛冲；激动地说；全身心投入; n.投掷；一时的行乐；漫不经心的一段(尝试或感情); vi.急冲；(动物)猛跳
-junk|n.垃圾；废旧杂物；中国平底帆船; vt.丢弃
-owl|n.猫头鹰
-fur|n.毛皮；软毛；毛皮制品；皮衣; v.使生苔；使生垢
-pedestal|n.基架；底座；受人尊敬的地位; vt.搁在台上；颂扬
-human|adj.人的；人类的；有人性的；人本性的; n.人；人类
-envelope|n.信封；壳层；封袋
-bone|n.骨骼；骨；核心; vt.除去骨头；往衣服里加撑条；磨光表面; vi.努力学习; adv.非常地；极其地
-fourteen|num.十四
-daughter|n.女儿；子代; adj.女儿的；女儿似的
-main|adj.主要的；最重要的; n.干线；总管道；[pl](水、煤、电)供应系统；大海
-propellers|螺旋辊
-honor|n.荣誉；荣幸；尊敬；信用；正直；贞洁; vt.尊敬；使荣幸；对...表示敬意；兑现
-dog|n.狗；家伙；卑鄙的人；没用的东西; vt.（灾难等）缠住；跟踪
-harm|n.危害；伤害；损害; vt.伤害；损害
-forward|adj.向前的；前部的；未来的；将来的；莽撞的；热心的；早熟的; adv.向前地; v.促进；转交；发送; n.[体]前锋
-comfortable|adj.舒适的；充裕的
-hi|int.嗨(引人注意时的喊声；打招呼)
-otherwise|adv.否则；不同地；在不同方面; adj.不同的
-surrounding|adj.周围的; n.环境；周围的事物
-coin|n.硬币；金钱; vt.铸造（钱币）；创造（新词）; adj.硬币的；投币的
-condition|n.条件；情况; v.训练；决定；以...为条件；护理（头发）
-triple|adj.有三部分的；三倍的; v.（使）成三倍; n.三个一组；三倍之数；（垒）三垒打
-endeavour|v.尽力；努力; n.奋力；尽力; =endeavor(美)
-unpleasant|adj.使人不愉快的；讨厌的；不合意的；不友好的，粗鲁的
-sleeper|n.睡眠者；枕木；卧铺；爆冷门；耳环
-peanut|n.花生；渺小的人或物
-detective|n.侦探; adj.侦探的
-needle|n.针; vt.用针缝；激怒；嘲弄; vi.缝纫
-same|adj.同样的，一样的; adv.同样地; pron.同样的人或事
-fellow|n.家伙；同事；同伴；研究员；校董; adj.同伴的；同事的；同类的
-monument|n.纪念碑；历史遗迹；不朽作品
-garbage|n.垃圾；废物；食物残渣
-outside|adv.在外面; n.外面; adj.外部的; prep.在...外边
-silly|adj.愚蠢的；琐屑的；可笑的；犯晕的; n.（通常指小孩子）淘气鬼；傻孩子
-automatically|adv.自动地；机械地
-temptation|n.诱惑；引诱物
-program|n.节目；计划；程序；课程；节目单; vt.编制程序；安排；指定
-bamboo|n.竹；竹子
-informer|n.告发者；告密者
-raw|adj.未加工的；生的；原始的；湿冷的; n.触到某人的痛处
-frown|n.皱眉；不悦; v.不同意；皱眉头
-big|adj.大的；重要的；有雄心的；受欢迎的; adv.宏大地；夸大地；成功地; n.杰出的组织和个人
-tasty|adj.好吃的；有品位的；有趣的
-hate|v.憎恨；厌恶；讨厌; n.憎恨；厌恶
-unnatural|adj.不自然的；反常的；不近人情的
-sequence|n.顺序；连续；次序；一系列; vt.按顺序排好
-caution|n.警告；慎重；戒备；吸引人眼球的人或物; vt.警告；劝告
-value|n.价值；价格；重要性；(pl)价值观；数值; v.估价；重视；评价
-skull|n.头骨；骷髅头
-termite|n.白蚁
-buttoned|adj.用钮扣装饰的；扣紧的
-digital|adj.数字的；数码的；手指的；计数的
-machine|n.机器；做事效率高的人；工具；车辆; v.以机器制造
-shade|n.阴影；遮蔽；遮光物；(色彩的)浓淡; vt.遮蔽；使阴暗；使渐变；略减（价格）; vi.渐变
-spoiling|n.钢的碳化物分解变坏
-sprinkle|v.洒；撒；下稀疏小雨; n.少量散布的屑状物
-total|adj.总的；全体的；完全的; n.总数；合计; v.共计；总计
-railroad|n.铁路；铁路公司; =railway（英）.; vt.由铁道运输；使（议案等）草草通过；迫使仓促行事; vi.在铁路公司工作
-virtuous|adj.有品德的；有德行的；贞洁的
-brain|n.脑；智力；智者；控制中心; vt.打...的脑袋
-deal|n.协定；交易；大量; v.应付；分配；处理；交易；经营
-partially|adv.部分地；不公平地
-cactus|n.仙人掌
-operation|n.操作；运转；经营；行动；手术；运算；生效；（复）运筹学
-breathe|vi.呼吸; vt.轻声说；流露（自信等感情）；注入
-mail|n.邮件；邮政; vt.邮寄
-racism|n.民族的差别主义；人种偏见，种族主义（通常指基于种族的偏见、暴力、歧视与迫害）
-huge|adj.巨大的；庞大的；极大的
-spawn|n.卵；产物；后代；结果; vt.产卵；种菌丝于；产生；造成; vi.产卵；大量生产
-rule|n.规则；条例；习惯；统治；直尺; v.支配；统治；画直线
-cuckoo|n.杜鹃；杜鹃的叫声; v.像杜鹃一样咕咕叫; adj.愚蠢的；疯狂的
-hive|n.蜂房；蜂箱；蜂群；喧闹繁忙的场所; vi.蜂进入蜂箱；聚居；把一部分分离出来; vt.使蜂入箱；储备
-relaxation|n.消遣；松弛；放松
-again|adv.再；又
-metal|n.金属；合金；玻璃液; vt.(以金属)覆盖、装配
-layer|n.层; vi.分层; vt.将某物堆积成层
-oval|adj.卵形的；椭圆形的; n.椭圆；椭圆形跑道
-murmur|v.低语；发出连续轻柔的声音；低声抱怨; n.低语；连续轻柔的声音；低声的抱怨；[医]心区杂音
-speedy|adj.快速的；高速的；迅速的；敏捷的；立即的
-sideways|adv.向旁边；斜着地；向侧面地; adj.旁边的；斜着；向侧面的
-panel|n.嵌板；仪表盘；面板；座谈小组；陪审团; v.嵌镶
-herself|pron.她自己；她亲自
-trick|n.诡计；花招；把戏；诀窍; vt.欺骗；戏弄; adj.有诡计的；有阴谋的
-blend|v.混合; n.混合物
-reception|n.接待；反应；接待处；欢迎；接收；招待会
-blaze|n.火焰；烈火；光辉；(光或色彩的)展现；(感情的)迸发；(动物面部的)白斑；记号; v.燃烧；发光；迸发；传播；在(树皮)上刻记号
-evaporate|v.蒸发；失去水分；消失
-tow|v.拖；拉；牵引; n.拖；拽；拖绳
-upper|adj.较高的；上面的；上部的; n.鞋帮；上铺; n.兴奋剂；令人兴奋的经历
-disagreement|n.不合；争论；不一致
-young|adj.年轻的；初期的；没有经验的; n.青年人；幼崽
-income|n.收入；所得；收益
-shoulder|n.肩膀；肩部; v.承担；扛；肩负；(用肩)推挤
-but|conj.但是; prep.除...以外; adv.仅仅；只; pron.无不
-latch|n.门闩；碰锁；弹簧锁; v.上闩；缠着；明白
-temperature|n.气温；体温；温度；发烧
-part|n.部分；零件；角色；部位; v.断裂；分离；离开；分开；不赞成; adv.部分地; adj.分离的（-前缀）
-bland|adj.温和的；不油腻的；引不起兴趣的；平淡无奇的
-allows|允许
-chestnuts|栗
-shake|v.摇动；震动；握手; n.片刻；摇晃；奶昔
-hold|v.拿着；控制；容纳；握住；持有；保持；掌握；认为；举行; n.握住；控制；把握；立足点；延误；影响
-terribly|adv.可怕地；非常地；很
-fifteen|num.十五
-choice|n.选择；挑选；抉择; adj.上等的；精选的
-opinion|n.意见；主张；看法；判断
-buyer|n.买方
-dangerous|adj.危险的；不安全的
-victim|n.受害者；受骗者；牺牲
-track|n.轨道；跑道；踪迹；小路；乐曲; v.追踪；跟踪
-property|n.财产；所有物；地产，房地产；性质；道具
-inquire|vt.询问；查究; vi.询问；查究
-deadline|n.最后期限；(鉴于边上的)警戒线；截止时间
-champion|n.拥护者；冠军；优胜者；勇士; vt.拥护；保卫；为...而斗争
-karate|n.空手道(日本的一种徒手武术)
-high|adj.高的；高尚的；高级的；高度的；全盛的; adv.高；奢侈地；音调高; n.高水平；高气压；（麻醉品带来的）快感
-image|n.印象；形象；影像；图像；肖像; vt.反映；想像；描绘
-death|n.死；死亡；毁灭；死因
-wrapped|有包装的
-ventilate|vt.使...空气流通；通风
-content|n.内容；目录；含量; adj.满足的；满意的; vt.使...满足；使...安心
-hundred|num.百; n.一百元; （复）hundreds:成百上千；许多.
-construct|vt.建造；构筑；造(句); n.构想
-ought|aux.应该；应当；本该; n.零
-badminton|n.羽毛球
-parcel|n.包裹；部分；一块(土地); vt.分配；打包
-danger|n.【U】危险; n.【C】危险物（或人）；威胁
-bookstore|n.书店; =bookshop.
-good|adj.好的；上等的；优秀的; n.好处；善行; (复)goods：商品；货物.
-critter|n.生物；家畜；人
-drag|v.拖；拉；迫使；缓慢行进；进行过久；扯进；打捞; n.拖；拉；累赘；阻力; n.男子穿的女子服装
-corps|n.军团；兵团；队
-stove|n.炉子；窑；【主英】温室
-wake|v.醒来；唤醒；意识到; n.航迹；守夜
-post|n.职位；邮件；标竿; v.邮递；通知；布置；派遣；急行; adv.快速地
-mouth|n.嘴；口；开口；河口; v.不出声说；装腔作势地说；喃喃地说
-itchy|adj.痒的
-studio|n.画室；工作室；播音室；制片厂；摄影场
-removal|n.移动；搬迁；除去；开除
-grooming|n.修饰；美容；（动物）梳理毛发
-flood|v.淹没；充满; n.洪水
-retire|v.退休；撤退；离去；就寝；主动退出比赛；收回（货币）；赎回（票据）; n.退休，退职
-season|n.季节；赛季；旺季；时期; v.给...调味；适应；风干
-root|n.根；根源；根本; v.生根；扎根；根除
-afternoon|n.下午
-natural|adj.自然的；天然的；私生的
-end|n.结束；末端；目标；死亡；部分；终点站；端点；半边球场；剩余物，残余；过世; v.终止，结束
-poison|n.毒药；毒害；败坏道德之事; vt.毒害；摧毁；中毒; adj.有毒的；危险的
-desserts|甜品
-polo|n.马球；水球；马球装束
-calendar|n.日历；历法；日程表；一览表; vt.把...列入日程表
-thirty|num.三十
-baby|n.婴儿；宝贝儿；孩子气的人; adj.婴儿的；小型的; vt.溺爱
-peacefully|adv.平静地；和平地
-pride|n.骄傲；自豪；自尊心；引以自豪的东西; vt.以...自豪
-bad|adj.坏的；不好的；差的；疼痛的；严重的；有害的；腐败的；低劣的；不利的；不舒服的；不健康的; n.坏人；坏事; adv.非常；不好地
-tap|n.龙头；塞子；窃听; n.轻拍；轻敲；鞋掌; v.轻拍；轻击；补鞋掌；选择; v.开发；利用；索要；装龙头；窃听
-savings|n.储蓄
-social|adj.社会的；社会阶层的；群居的；社交的；好交际的；合群的; n.社交聚会；社会保障
-hippopotamus|n.河马
-working|adj.做工作的；劳动的；工作上的；初步的；暂定的；基本够用的；起作用的; n.矿；作业区; （复）workings：运作；工作方法.
-religious|adj.宗教的；虔诚的；严谨的；信奉宗教的
-sentence|n.句子；判决; vt.宣判；判决
-theatre|n.戏院；剧场；戏剧；手术室；战区; adj.戏院的; =theater.
-thickly|adv.厚厚地；浓密地；声音沙哑地
-internal|adj.国内的；内部的；身内的
-spare|adj.备用的；多余的；闲置的; v.抽出；饶恕；赦免；节约; n.备用品；剩余
-wave|n.波浪；波纹；波; v.挥动；飘动
-burp|n.饱嗝儿; v.打嗝
-goat|n.山羊；色鬼；替罪羊
-nap|n.小睡；绒毛；纳普牌; vi.打盹；疏忽
-bulb|n.球茎；电灯泡；球状物
-fan|n.风扇；扇子；扇形物; n.迷；狂热爱好者; vt.扇；展开扇形；煽动; vi.成扇形；[棒]三振出局
-furry|adj.毛皮的；盖着毛皮的；似毛皮的；有舌苔的；沙哑的
-video|n.录像；视频; v.录制电视节目; adj.视频的；录像的
-delicious|adj.美味的；可口的
-die|v.死；枯竭；消失；渴望; n.骰子；印模；金属模子
-supernatural|adj.超自然的；神奇的
-doorknob|n.球形门把手
-pole|n.杆；柱；极点; v.(用杆)支撑; Pole.; n.波兰人
-mostly|adv.主要地；通常
-intelligence|n.智力；理解力; n.情报；情报工作；情报机关
-meat|n.肉；主要或重要部分
-profit|n.利润；收益；利益; vi.得益；获利; vt.有益于
-astonish|vt.使惊讶；使吃惊
-harp|n.竖琴; v.反复诉说；唠叨
-telescope|n.望远镜; v.缩短；压缩；套叠
-neck|n.颈；脖子; v.搂着脖子亲吻；（使）变窄
-squire|n.护卫；侍从；乡绅；大地主; v.侍从；护卫
-pilot|n.飞行员；领航员；试播节目；排障器；[机]导向器; v.驾驶；领航；向导；试点; adj.试验性的；引导的
-six|num.六
-cycle|n.循环；周期；自行车；摩托车; v.骑自行车；(使)轮转；(使)循环
-biggest|adj.最大的
-strict|adj.严格的；精确的；完全的
-bye|int.再见
-barriers|障碍
-define|v.规定；限定；定义；解释
-illness|n.病；疾病
-quickly|adv.迅速地；立刻
-suffer|vt.遭受；忍受；容忍，宽恕，听任；允许，准许; vi.受苦；患病；受损失；变差，变糟；处于不利地位
-relay|vt.转播；转达；中继；接力；接替; n.继电器；接力赛；替班
-new|adj.新的；崭新的；新鲜的；不熟悉的; adv.新近地
-damp|adj.潮湿的；有湿气的；沮丧的; n.湿气；潮湿; vt.使潮湿；使扫兴; vi.变潮湿
-worry|vt.撕咬；使烦恼；使焦虑; vi.担心；发愁; n.担心；烦恼；忧虑
-they|pron.他们
-focus|n.焦点；焦距；中心; v.（使）集中；聚集
-riches|n.财富；富有
-shuttle|n.梭子；穿梭；往返移动之物；航天飞机; v.往返运送；穿梭移动
-favorite|adj.喜爱的；流行的; n.最喜爱的人或物；最有希望获胜的选手
-because|conj.因为；由于
-community|n.社区；社会；公众；共同体；团体；共享；共有；[生]群落
-pod|n.豆荚；分离舱; n.(海豹或鲸等的)一群; v.剥掉(豆荚)
-squeak|n.吱吱声；逃脱; v.吱吱叫；侥幸通过；告密
-floor|n.地面；地板；楼层；底部; vt.铺地板；击倒；(油门)踩到底
-cane|n.手杖；细长的茎；藤条; vt.以杖击；以藤编制的
-airports|机场
-neighbour|n.邻居；邻近之人或事；邻近值; v.邻近；接壤
-leaf|n.页；叶；金属薄片; v.长叶；翻页
-shelf|n.架子；搁板；搁板状物; n.搁置；闲置
-insist|vt.坚持；坚决主张; vi.坚持；强调
-slime|n.烂泥；黏液; v.涂上黏泥
-flock|n.一群；兽群；大堆；群众；羊群; v.聚集；成群而行
-bully|n.欺凌弱小者；开球; vt.恐吓；威胁；欺负
-insult|n.侮辱；辱骂；冒犯; vt.侮辱；辱骂；凌辱
-moist|adj.潮湿的；湿润的；[医]湿性的
-twig|n.小枝；嫩枝; v.理解；领悟
-fort|n.堡垒；要塞
-moan|n.呻吟声；抱怨声; vt.抱怨；呻吟; vi.呻吟；抱怨
-scared|adj.害怕的
-oral|adj.口头的；口部的；口语的; n.口试
-similar|adj.类似的
-embarrassed|adj.尴尬的；拮据的；局促不安的
-downstream|adv.朝下游方向; adj.顺流的
-since|conj.因为；既然；自从; prep.自从; adv.此后
-nearest|adj.最近的
-wilderness|n.荒野；荒地
-packing|n.包装
-field|n.田地；领域；运动场；场地；田野；JAVA中的范畴; vt.接球；派……上场；顺利处理; vi.担任外场员; adj.田间的；野外的
-view|n.视野；见解；风景；方法；检查; v.考虑；看；把...视为
-drill|n.钻孔机；钻子；反复操练；播种机; v.练习；钻孔；(军事)训练
-like|prep.像; conj.如同; adv.大概；和...一样; adj.相似的；同样的; v.喜欢；想；愿意; n.类似的人或物
-stone|n.【U】石料; n.【C】石头；宝石；(水果的)硬核; n.英石(重量单位；合14磅); vt.向...扔石头；去掉(水果的)核
-comes|[天]伴星;[动]伴引血管
-pit|n.坑；矿井；陷阱；凹痕；(剧院的)正厅后排；（枣）核; vt.使凹陷；使竞争; vi.凹陷
-compare|v.比较；对比；比喻; n.比较；对照
-acorn|n.橡树果实；橡子
-soccer|n.足球，英式足球
-sign|n.手势；招牌；符号；迹象；正负号; v.签；签名；做手势；做标记
-avocado|n.[植]鳄梨；鳄梨树
-black|adj.黑的；不加牛奶的；很脏的；愤怒的；令人沮丧的；邪恶的；阴沉的；机密的；黑色幽默的; n.黑色；黑人；黑色物; v.抵制；(使)变黑
-figure|n.图形；数字；外形；体型；形状；人物；塑像；图表；（冰上表演动作的）花样; v.是重要部分；认为；演算；领会到
-outline|n.大纲；轮廓; vt.概述；画出轮廓
-force|n.武力；暴力；力量；影响力；力量大的人或（事物）；权力；（为某目的组织起来的）一群人；军队；部队；武装力量；警察部门；力；风力; v.迫使；强迫；强制；使发生；强装（欢笑）；人工催长
-somebody|pron.某人；有人; n.重要人物
-also|adv.也；而且；同样地
-then|adv.那么；然后；当时；而且; adj.当时的; n.当时
-goddess|n.女神；受崇拜的女性
-licence|n.执照；许可；特许；自由；放纵; vt.同意；许可
-rival|n.竞争者；对手；同伴; adj.竞争的; v.竞争；与...相匹敌
-political|adj.政治的；政治上的；政党的；人事的；争权夺利的
-award|n.奖品；奖; v.授予；给予；判给
-eager|adj.热切的；渴望的
-oils|轻质石油产品,油剂,油类
-backyard|n.后院；后庭; adj.后院的
-goose|n.鹅；鹅肉；雌鹅；笨蛋；长柄熨斗
-flex|v.弯曲；伸缩；屈曲; n.花线；弯曲；弹性
-cent|n.分
-confidence|n.信任；把握；信心；知心话; adj.骗得信任的
-invisible|adj.看不见的；无形的; n.隐形人(或物)
-colleges|高校
-bank|n.银行；岸；筹码；库；田埂；堤；积云；一系列；一组；一排；一团；用于循环再利用的废旧物品回收站; v.把钱存入银行；开户；筑堤防护；堆积
-awesome|adj.可怕的；表示敬畏的；了不起的；精彩的，绝妙的
-unaware|adj.没有发觉的；不知道的
-take|v.拿；取；执行；需要；接受；理解；修(课程)；花费；吃（喝）；认为；搭乘; n.拿取；取得物
-create|v.创造；造成; adj.创造的
-exploration|n.探险；探索；勘探；探测
-whack|v.敲击；重打；瓜分; n.重击；重打；尝试；一份
-display|n.显示；陈列；炫耀; vt.显示；表现；夸示
-you|pron.你；你们；(泛指)任何人
-bitterly|adv.残酷地；痛苦地
-plate|n.碟；金属板；板块；盘; vt.电镀；用金属板固定；为...制印版；给...装钢板
-restored|adj.恢复的
-always|adv.总是；一直；始终；永远；随时；无论如何
-squeaky|adj.吱吱响的；发轧声的；短促尖声的
-mummy|n.木乃伊; n.妈妈（=mommy）
-monsters|怪物
-government|n.政府；政体；统治
-hunt|v.狩猎；打猎；搜索; n.狩猎；追捕；搜寻
-rivalry|n.敌对；竞争；对抗
 fig|n.[植]无花果；无花果树；无价值的东西；少许; n.服装
-quote|v.引述；报价；举证; n.引用
-spacecraft|n.宇宙飞船
-samurai|n.(日本的)武士
-drily|adv.幽默而不形于色地；冷淡地；干燥地
-grave|n.坟墓；死亡; adj.严肃的；严重的；庄重的; v.雕刻；铭记；
-everybody|pron.每人；人人；各人
-feeling|n.感觉；知觉；气氛；鉴赏力；反感; adj.有感情的；富于同情心的；含情脉脉的; （复）feelings：感情.
-snuggle|v.依偎；挨近
-nearby|adj.附近的; adv.在附近
-first|adj.第一的；最初的; adv.首先；第一; n.最初；(序数词)第一
-eyed|adj.眼的（常用于合成词）
-truth|n.事实；真理；真实；真相
-print|v.印刷；出版；打印；铭刻; n.印刷字体；版画；印刷；印记；印刷物；印花; adj.印刷的
-mighty|adj.强大的；巨大的; adv.很；极其
-decision|n.决定；决心；判决
-hungry|adj.饥饿的；渴望的
-hour|n.小时；钟点
-boy|n.男孩；儿子；男服务员
-scientific|adj.科学的
-enclosed|adj.被附上的; v.附上; vbl.附上
-destruction|n.破坏；毁灭
-everywhere|adv.到处，处处；无论何处
-colds|n.感冒
-collectors|集合管
-tails|n.(硬币的)反面
-memory|n.记忆力；回忆；记忆；[计]存储
-example|n.例子；榜样；举例；警告; vt.作为...的示范
-passage|n.通过；通道；走廊；(文章等的)段落；(时间的)消逝
-fully|adv.十分地；完全地；全部；足足
-afterwards|adv.以后；后来
-bony|adj.如骨的；多骨的；瘦骨嶙峋的
-cucumbers|黄瓜
-hamburgers|n.麦当劳公司的股份(证券；纽约B364证券交易市场行业用语)
-landowner|n.地主；土地所有者
-shape|n.形状；形式；身材；定形; vt.塑造；定形；使...成形
-individuals|个人
-full|adj.满的；充满的；完全的; n.全部；极点; adv.非常；直接地; vt.使衣服宽松；增厚
-draw|v.拖；接近；画；提取；拉；绘制; n.平局；抽签；拉；拽；吸引人的事物
-rude|adj.粗鲁无礼的；原始的；未加工的；粗糙的；猛烈的
-parliament|n.议会；国会；一届议会的会期
-maiden|n.未婚女子；少女；断头机；从未赢过的赛马; adj.未婚的；处女的；初次的
-monkey|n.猴子；猴一样的人; v.嘲弄；胡闹；模仿
-creep|vi.蹑手蹑脚地走；爬；渐渐出现；蔓延；毛骨悚然; n.卑鄙小人；爬；徐行；蠕动
-cloth|n.布；布料；一块布
-fanatical|adj.狂热的；入迷的
-acquire|vt.获得；学到；取得
-healthy|adj.健康的
-trophy|n.奖品；战利品; adj.显示身份的；有威望的
-other|adj.其他的；另外的；另一个；另一边; pron.其他(人或物); n.其他人(或事); adv.以其他方式
-eastern|adj.东部的；东方的
-bite|v.咬；叮；蜇; n.咬；一口；(被咬的)伤痕
-chick|n.小鸡；少妇; adj.胆小的；懦弱的
-ant|n.蚂蚁
-look|v.看；寻找；显得看起来；注视；面向; n.看；样子；脸色
-hostess|n.女主人；空姐；女主持
-normally|adv.通常；正常地
-ball|n.球；球状物；炮弹；舞会；愉快的经历；胆量；胡说；（复）睾丸; v.使成球状；呈球状；性交
-running|adv.连续地; n.跑步；运转；管理
-fifty|num.五十
-eventually|adv.最后；终于
-boat|n.船；船型物; v.划船；放于船上；乘船
-ship|n.船；舰; v.装运；(用船)运送；上(船)；乘(船)
-foal|n.驹子; v.生仔
-knock|v.敲击；互撞；攻击; n.敲；敲门；敲打
-pelvis|n.骨盆；盆骨；肾盂
-predator|n.食肉动物；掠夺者；（动物的）捕食性天敌
-starfish|n.海星
-banner|n.横幅；旗帜；大标题; adj.杰出的；特别好的; vt.用横幅装饰；以大标题报道
-motion|n.移动；动作；打手势；示意；提议；大便; v.示意；运动；向...打手势
-messenger|n.报信者；先兆
-pump|n.泵；抽水机；打气筒；抽水；打气; v.打气；唧筒般运动；灌输；抽取；增加；盘问
-kennel|n.狗舍；养狗场；排水道; v.置于狗舍；宿于狗舍
-itself|pron.它自己
-fire|n.火；失火；炉火；开火；热情; v.开火；解雇；点燃；急速地连续说
-promptly|adv.迅速地；准时地；立即
-infant|n.婴儿；幼儿; adj.婴儿的；初期的；幼稚的
-minute|n.分钟；片刻；备忘；会议记录; adj.微小的；仔细的; vt.记录
-tonight|adv.今晚; n.今晚
-spins|尖硬纤维
-hot|adj.热的；辣的；强烈的; adv.激动地；趁热地; v.（使）变热
-breakfast|n.早餐; v.吃早餐；用早餐
-coil|n.卷；圈；线圈; v.盘绕；卷成圈
-quality|n.品质；才能；特质; adj.高品质的；棒极了
-trace|n.痕迹；微量；踪迹; v.追踪；描绘；找出根源
-trapdoor|n.地板门；活板门；活盖
-deliver|v.递送；发表（演讲）；交付；解救；生（孩子）；接生；履行；投掷
-camping|n.野营；露营
-mournful|adj.悲恸的；悲哀的；令人惋惜的
-friendly|adj.友好的；友善的; adv.友好地
-suitcase|n.手提箱
-hobby|n.业余爱好
-result|n.结果；成果；答案；成绩；(足球比赛)赢; v.产生；致使
-sarcastic|adj.讽刺的
-fleece|n.羊毛；一次剪得的羊毛；羊毛状物; v.欺诈
-explain|v.说明；解释
-guest|n.客人；宾客；特别来宾；[动植物]寄生生物; v.做特邀嘉宾；做特约演员；客串；招待；做客
-fluffy|adj.毛绒绒的；蓬松的；空洞的
-imagination|n.想象；想象力；空想；幻想
-steep|adj.险峻的；陡峭的；急剧的、大起大落的; v.浸泡，浸透，湿透；沉浸，笼罩
-parallel|adj.平行的；相同的；类似的；并联的; n.对比；平行线(面)；双杠；相似物; vt.相比；相应；与...平行
-process|n.工序；过程; v.加工；处理；起诉；列队前进
-crash|v.撞击；坠毁；发出巨响；崩溃；破产；宿夜; n.轰隆声；猛撞；崩溃；暴跌；垮台；粗布; adj.速成的
-pile|n.堆；大量；绒面；桩；大笔钱财; 高大的旧建筑; v.堆积；积累；拥入；夸张
-calmly|adv.平静地；安静地；冷静地
-invasion|n.侵略；侵入
-deserve|vt.应受；值得
-parade|n.游行；检阅；游行地; vi.参加游行；阅兵；散步；炫耀; vt.夸耀；使参加游行；检阅；绕行
-oak|n.橡树；橡木
-shortstop|n.（棒球）游击手；游击手的位置
-fool|n.傻瓜；小丑；奶油果蓉; v.愚弄；欺骗；开玩笑；干蠢事；玩弄；鬼混
-pool|n.水塘；游泳池; n.共同储金；联营；美式撞球; v.共用；汇集
-web|n.网；网络；网状物；腹板; vi.结网; vt.结网于；使陷入罗网
-boot|n.靴子；猛踢；解雇；[英]汽车行李箱; vt.踢；穿靴子；逐出；启动(计算机)
-mattress|n.床垫
-wild|adj.野生的；野蛮的；未开发的；狂热的; adv.胡乱地；失去控制地; n.荒野；荒地
-table|n.桌子；台子；餐桌；一桌人；表格；目录；（竞赛的）排名榜; vt.搁置；将...放于桌上；提交讨论；列入表中; adj.桌子的
-phonograph|n.留声机；电唱机
-snack|n.小吃；点心; vi.吃点心
-confirm|v.证实；批准；确定
-tongue|n.舌头；语言；口才；舌状物; v.舔；用舌吹奏管乐器；发音
-arrest|vt.逮捕；拘留; n.逮捕；拘留
-underwater|adj.在水中生长的；水下的; adv.在水下
-particular|adj.特定的；专指的；特殊的；特别的；挑剔的; n.详情；细节
-programme|n.方案；（活动的）程序；节目；规划；课程；（机器工作的）程序; v.计划；培养；编程；制作节目；预设
-thin|adj.薄的；瘦的；稀的
-special|adj.特别的；特殊的；专门的; n.特别的东西；特刊；特色菜；特价
-brief|adj.短暂的；短期的；简短的；扼要的; n.摘要；案件陈述; vt.作…的概述；（向…）简单介绍
-practiced|adj.熟练的；老练的；练成的
-join|v.连接；加入；参与；和...一起
-offensive|adj.令人不快的；冒犯的；侮辱的；与进攻有关的; n.攻势；攻击
-guard|v.看守；守卫；保卫；提防; n.警戒；哨兵；防护装置；警卫；【体】后卫
-spoil|v.宠坏；溺爱；破坏；腐坏；使索然无味; n.战利品；奖品
-brake|n.制动器；闸；刹车; v.刹车
-depend|vi.依赖；依靠；取决于
-string|n.线；弦；一串；字串; vt.串起；收紧；悬挂；系；扎；抽去筋；使紧张；使兴奋; vi.连成一串
-lie|v.躺下；位于；在于；平放；存在；延伸；说谎; n.谎言
-jeans|n.牛仔裤
-say|v.说；讲；比如说；表明; n.发言权；意见
-sending|发送；派遣
-key|n.键；关键；钥匙；答案; adj.关键的；主要的; vt.键入；用钥匙锁上；为...调音
-countryside|n.乡下；农村
-firm|n.公司；商行; adj.坚定的；结实的；坚固的；严格的; v.(使)变得坚实；确定; adv.稳固地；坚定地
-contribute|vt.捐助；投稿; vi.投稿；贡献；是原因之一
-health|n.健康；医疗保健
-retired|adj.退休的；退役的
-bucket|n.【C】水桶；（机器上的）桶装物；大量; vi.颠簸行进；下倾盆大雨; vt.装在桶里
-regret|v.后悔；惋惜；为...感到遗憾; n.遗憾；抱歉；后悔
-handsome|adj.可观的；英俊的；慷慨大方的；灵巧的
-index|n.指数；索引；(刻度盘上的)指针; v.指出；编索引
-upon|prep.在...上；紧接着；逼近
-currency|n.货币；流通
-song|n.歌曲；歌唱；(鸟等)鸣声
-title|n.标题；称号；头衔；权利; v.加标题于；授予…称号
-sushi|n.寿司(一种日本食品)
-butler|n.男管家；仆役长
-offense|n.过错；冒犯；触怒；犯规；犯罪；进攻
-territory|n.领土；领域；版图；范围
-manager|n.经理；管理者；管家
-forming|n.形成(成形法；模锻); v.形成
-if|conj.是否；如果；即使；每当; n.条件；设想
-lowland|n.低地; adj.低地的; Lowland.; n.苏格兰低地
-ramp|n.坡道；斜坡；移动舷梯; vi.加速；横冲直撞；敲诈
-voice|n.声音；嗓音；[语]语态；发言权；意见; vt.表达；[语]发音；[音]调音
-performance|n.表演；实行；表现；履行；性能；本事；业绩
-wire|n.金属丝；电线；电报; vt.发电报；装电线；(通过电线)接通；用金属丝把...连一起；电汇
-hit|vi.打（击）；袭击；达到; vt.要求；打（击）；碰撞；偶然发现；符合; n.讽刺；打（击）；冲撞；成功
-movements|n.动作
-impatience|n.不耐烦；急迫
-magistrate|n.地方法官；行政官
-pork|n.猪肉
-historical|adj.与历史有关的
-current|n.趋势；(水、气、电)流; adj.现在的；流通的
-rubbish|n.垃圾；废物；废话；碎屑; v.贬损
-clap|v.拍手；轻拍；鼓掌；啪地关上; n.霹雳声；轻拍；拍手声
-information|n.信息；情报；资料；通知
-complain|vi.抱怨；控诉；诉说
-employ|v.雇佣；使用
-leave|v.委托；离开；留给；遗留；遗赠；听任; n.许可；准假；告别; vi.生出叶子
-disagree|v.不同意；不一致；有分歧；不适应；不适宜
-wife|n.妻子；夫人
-level|n.数量；等级；水平；水平线; adj.平的；等高的; v.弄平；夷平；对准; adv.水平地
-younger|adj.较年轻的; n.少年；儿童
-explanation|n.解释；说明
-sixteen|num.十六
-coven|n.(尤指十三个)女巫的集会；大聚会
-enzymes|n.酶；酵素
-crayon|n.蜡笔；蜡笔画; v.以蜡笔作画
-everything|pron.一切；所有事物；形势；情况；最重要的东西
-diet|n.日常食物；规定饮食；节食; n.（日本等国的）国会; v.节食；照规定饮食；喂食
-scooter|n.踏板车；小型摩托车
-solver|n.解算机；求解程序；解决者
-for|prep.为；因为；代表；往；支持；关于；给; conj.因为
-this|pron.这；这个; adj.这个; adv.这样；这么
-flight|n.飞行；航班；镖尾；逃走，逃离，溃逃
-return|v.返回；归还；回报；回应；申报; n.归还；返回；（收益)回报；申报
-agreement|n.同意；一致；协议
-success|n.成功；成就；胜利；成功的人或事
-point|n.观点；看法；要点；重点；特点；点；地点；小数点；尖端；岬角；海角；意义；目标；分数；(罗盘上的)方位点；(温度的)点；插座；(字体)磅值; v.指；指向；朝向；瞄准；灰泥或水泥勾（某物）的砖缝
-busy|adj.忙的；繁忙的；热闹的；(电话)占线的; vt.使忙于
-anything|pron.任何事；任何东西；重要事物; adv.在任何程度上
-raft|n.筏；木排；救生艇; n.大量; v.乘筏；制成筏
-rid|vt.摆脱；除去
-necessary|adj.必要的；必然的; n.必需品
-plastic|n.塑料；塑料制品；信用卡; adj.塑料的；可塑的；造型的；易受影响的；整形的
-choose|v.选择；决定
-spice|n.调味品；香料；情趣; v.用香料调味；给…增添趣味
-tons|ad.[口]极其；非常
-wheel|n.方向盘；车轮；旋转；周期; vi.旋转；转动；改变方向; vt.用车运；转动；给...装轮子
-anger|n.愤怒；怒火; vt.激怒; vi.发火
-proud|adj.自豪的；自尊的；自傲的；壮观盛大的
-pledge|vt.发誓；保证；以...抵押；向...祝酒; n.保证；抵押；誓言；抵押品
-unusual|adj.异常的；独特的；与众不同的
-dancers|楼梯
-angry|adj.生气的；愤怒的；（伤口等）肿痛的，发炎的；（天空或海洋）天昏地暗的，狂风暴雨的
-eighth|n.八分之一; num.第八
-portion|n.部分；命运；分担的责任；份; v.分配；命运注定
-mailman|n.邮差；邮递员; =postman（英）.
-pale|adj.苍白的；灰白的；暗淡的；无力的; vi.变苍白；变黯淡；相形见绌; n.栅栏
-collapse|v.（使）倒塌；（使）崩溃；（使）瓦解；折叠; n.倒塌；崩溃；暴跌
-ma|n.妈
-horse|n.马; vt.骑马; adj.马的
-newborn|adj.新生的; n.新生儿
-compound|n.化合物；复合词；复合物; n.院子(用围墙圈起来的场地）; adj.化合的；【语】（词语等）复合的；【植】复合的；【动】群体的; vt.混合；调合；使严重；私了；【经】以复利计算; vi.妥协
-blood|n.血；血统；仇恨; vt.流血
-hummingbird|n.蜂鸟
-demonstration|n.示范；表达；实证；示威游行
-comedy|n.喜剧；滑稽；幽默事件
-equal|adj.相等的；平等的; vt.比得上；等于; n.同辈；平等；(同等的)人或事物
-tricycle|n.三轮车
-pad|n.便签纸；衬垫；发射台；公寓；脚印；肉趾; n.低沉声音；缓慢行走的马; v.填塞；夸大; v.轻轻走
-protector|n.保护人；保护物；保护装置
-neither|pron.两者都不; adj.两者都不的; adv.也不; conj.也不；既不
-porcupine|n.豪猪；箭猪
-five|num.五
-money|n.财产；钱；货币
-section|n.部分；部门；章节；区域；断面；剖面图；零件；路段；切开; v.划分；切开
-skeleton|n.骨架；纲要；骨骼；骨瘦如柴的人或动物；家丑; adj.骨骼的
-unfairly|adv.不公平地；不正当地
-penalty|n.处罚；惩罚；不利；罚球
-record|n.唱片；纪录；记载；经历；前科; v.记录；显示；(将声音等)录下
-rapidly|adv.迅速地；很快地
-charmer|n.魔术师；巫师；迷人的人，讨人喜欢的人
-helmet|n.头盔；安全帽
-box|n.盒子；箱子；包厢；专席；电视机; n.一拳；巴掌；耳光; n.黄杨；黄杨木; vt.把…装箱；使局限于狭小空间；挡住; v.拳击；打耳光
-cockroach|n.蟑螂
-golden|adj.金的；金色的；珍贵的；黄金般的；绝佳的
-adopt|v.采用；收养；接受
-appoint|v.任命；委派；指定；约定
-after|adv.以后；后来; conj.在...以后; prep.在...之后；在后面；关于；追赶；依照; adj.以后的
-vacation|n.假期；休假；腾出; vi.度假
-affection|n.影响；感情；喜爱；慈爱
-save|v.救；节省；保存; n.救援，救助
-player|n.比赛者；演奏者；演员；播放器；游戏的人
-spin|v.(使)旋转；疾驰；纺织；结网；眩晕; n.纺织；旋转；眩晕；疾驰
-trader|n.商人；商船
-commercial|adj.商业的; n.商业广告
-frequently|adv.频繁地；经常地
-west|n.西；西方；西部；西方国家; adj.西方的；西部的; adv.向(在)西方
-number|n.号码；数量；数字; v.总计；编号；编号；把...算作
-summer|n.夏天；夏季; adj.夏季的; v.度过夏天
-dew|n.露水
-zipper|n.拉链; v.拉上拉链
-bell|n.钟；铃；门铃；钟声；钟状物; vt.敲钟；使象钟状地张开; vi.使呈钟状；张开
 wriggle|n.蠕动；蜿蜒; v.蠕动；扭动；蜿蜒前进；设法摆脱
-fish|n.鱼；鱼肉；笨蛋；新手；新囚犯; v.钓鱼；捕鱼；摸索；搜寻
-instrument|n.仪器；乐器；工具；器械; v.用器械（或仪器）装备；向…提交文书
-free|adj.自由的；免费的；畅通的；没有…的；未使用的；空闲的；随意的; v.释放；使自由；使摆脱；解除；使可用于(某目的); adv.免费地；自由地
-belong|vi.应归入；属于
-claim|n.要求；要求权；主张；断言；声称；要求物; vt.要求；请求；主张；声称；断言
-fighting|n.对抗；打架；加油，拼搏; adj.战斗的；有勇气的
-strange|adj.奇怪的；陌生的；生疏或不自在的
-fruit|n.果实；成果；水果; v.结果实
-handle|v.处理；对待；操作；触；买卖; n.把手；柄
-account|n.账户；帐目；赊账；老主顾；报告；描述；解释；说明；估计；理由；利益；好处；根据; v.解释；导致；报账；把...视为；归咎(于)
-whole|adj.全部的；整体的；完整的; n.全部；整体；完整; adv.完全
-selecting|选择
-fold|vt.包；折叠；交叉；拥抱; vi.翻倍；屈服；倒闭; n.折层；折痕
-nearly|adv.几乎；差不多；密切地
-height|n.高度；高处；顶点
-obey|v.服从；遵守；顺从；听从
-equally|adv.相等地；同样地；平等地
-queen|n.王后；女王
-dead|adj.死的；不起作用的；无趣的；筋疲力尽的；麻木的；完全的；无效的；沉闷的；（指球）界外的; adv.完全地；直接地；突然地
-conclusion|n.结尾；结论；结束
-beat|v.打；打败；跳动；敲打；战胜; n.拍子；敲打；心跳声; adj.精疲力尽的
-royal|adj.盛大的；皇家的；高贵的；第一流的；堂皇的; n.顶桅帆；王室成员，贵族；纸张规格（书写纸19×24寸/印刷纸20×25寸）
-betray|vt.背叛；出卖；泄露；显露
-cargo|n.货物；船货
-spider|n.蜘蛛；十字叉；三脚架；长柄平底锅
-crack|v.破裂；砸开；发出爆裂声；撞击；破解；变嘶哑；崩溃；制裁；开玩笑; n.裂缝；裂痕；爆裂声；猛击；尝试；俏皮话; adj.训练有素的
-symptom|n.症状；征兆
-closely|adv.紧密地；接近地；严密地；亲近地
-hump|n.驼背；圆形隆起物；土墩；肿块；碰撞；恼火; v.使隆起；碰撞；敲击成圆丘形；弓起
-past|prep.过；经过; adv.过; adj.过去的; n.过去；昔日；过去的事情；过去的经历；往事
-shine|v.照耀；出色；发光；投光于；使发光; n.光泽；光辉；阳光；擦皮鞋（美）；喜欢；鬼把戏（复）
-capital|n.首都；资本；大写字母；[建筑]柱顶; adj.资本的；大写的；一流的；首要的；极其严重的；涉及死亡的
-coastal|adj.沿海的；海岸的；沿岸的
-site|n.地点；位置；现场; vt.使...位于
-whoever|pron.无论是谁；不管谁；任何人
-sit|v.坐；栖息；使就座; n.坐；栖息
-defeat|n.挫败；败北; vt.战胜；击败；使...不能实现
-challenge|n.挑战；邀请比赛；盘问；质疑; v.向...挑战；盘问；质疑
-whimper|n.呜咽；啜泣；怨声; v.呜咽；啜泣；抽噎地哭；抱怨
-viewer|n.观看者；电视观众；观察器
-deadly|adj.致命的；如死一样的; adv.非常地；如死一般地
-attractive|adj.有吸引力的；有魅力的
-lurk|v.潜藏；潜伏；埋伏; n.潜伏；隐藏
-embarrass|vt.使窘迫；使尴尬；使为难; vi.窘迫
-employer|n.雇主
-named|adj.出名的；命名的；提到过(名字)的
-cart|n.【C】(二轮或四轮)运货马车；手推车; vt.(用手推车)运送；(用力；粗鲁地)拖
-poisonous|adj.有毒的；恶意的
-traveler|n.旅行者(移式起重机；导丝钩；临时记帐单)
-uniform|n.制服; adj.一致的；统一的
-not|adv.不；没有；并非
-just|adv.刚才；仅仅；正好；正是；简直; adj.公平的；公正的；适当的；精确的
-wall|n.墙壁；垣；墙状物; v.围住；隔开；演戏般地转动(眼睛)
-official|adj.正式的；官方的；公务上的; n.官员
-symbol|n.符号；象征；标志
-plenty|n.丰富；大量；充足; adj.充足的；相当多的; adv.非常；充分
-frightful|adj.可怕的；吓人的
-relation|n.关系；联系；亲戚；陈述；参考
-deer|n.鹿，梅花鹿
-eagle|n.鹰
-pay|v.支付；赢利；受益；付出代价; n.薪资；雇用；有良好信用的人; adj.要钱的；具有开采价值的
-unimaginative|adj.（艺术品）缺乏想象力的；无趣的
-creamy|adj.含乳脂的；乳脂状的；奶油色的
-bossy|adj.专横的；爱发号施令的; n.母牛或者小牛
-cave|n.洞穴；山洞; v.挖空；塌落；屈服
-steal|v.偷；窃取; n.偷窃；便宜货；(欺诈的)政治交易
-homework|n.家庭作业
-cook|n.厨师；炊事员; v.烹调；烧煮；捏造；纂改(账目)
-connect|v.连接；接通；联系
-carrot|n.胡萝卜；好处；报酬
-cape|n.岬；海角; n.披肩
-giraffe|n.长颈鹿
-yen|n.日元; n.上瘾; vi.对...上瘾
-sturdy|adj.强健的；坚固的；坚决的
-capture|vt.捕获；占领；夺取；吸引；(用照片等)留存; n.捕获；战利品
-alive|adj.活着的；有活力的；注意到的；热闹的
-increase|v.增加；提高; n.增加；增强；提高
-yourselves|pron.你们自己；你自己
-average|n.平均数；平均水平; adj.平均的；一般的；通常的; v.取平均值；达到平均水平
-sacks|n.(纸；麻；帆布质的)大袋子；一袋的分量; 宽松的短上衣; 睡袋；吊床; (棒球)垒；(橄榄球)成功擒抱四分卫; 解雇; vt.把...装进袋子；解雇；(橄榄球)擒抱四分卫
-paint|v.油漆；绘画; n.油漆；颜料；绘画作品
-mine|pron.我的; n.矿；地雷；矿藏; v.采矿；用地雷炸
-aboriginal|adj.原始的；土著的; n.土著居民；土生生物
-scream|n.尖叫声; v.尖叫；（指风﹑机器等）发出大而尖的声音
-dish|n.盘；碟；一道菜；菜肴；碟状物; vt.使成碟状；装盘; vi.闲谈
-fair|adj.公平的；晴朗的；美丽的;相当的；（皮肤、毛发等）浅色的；白皙的; n.展览会；市集; adv.公平地，直接地
-witch|n.女巫；巫婆; vt.施巫术; vi.用神杖发现地下水源或矿物
-horn|n.喇叭；触角；角质；号; v.强行介入
-pirate|n.海盗；盗版者; v.盗版；抢劫；剽窃
-stalk|n.茎；梗; n.跟踪；高视阔步; v.悄悄靠近；跟踪；蔓延；高视阔步地走
-hear|v.得知；倾听；听到；听证
-shining|adj.光亮的；华丽的
-hike|n.徒步旅行；远足；涨价; vi.远足；提高
-wicked|adj.坏的；邪恶的；缺德的; adv.极端地；非常地; vt.吸收
-standard|n.标准；规格；水准；军旗; adj.标准的；普通的；规范的；权威的
-glove|n.手套; vt.给...戴手套
-club|n.俱乐部；棍棒；(扑克牌中)梅花; v.用棍棒打；分担花费；凑钱；泡夜总会
-immediately|adv.立即；直接地; conj.一...(就)
-creating|vbl.创造；建造；把...列为
-admit|vt.承认；允许进入；给…进入的权利；容纳; vi.承认；允许进入；允许
-red|adj.红色的; n.红色
-taxi|n.出租车; v.用出租车运送；乘计程车；（飞机）滑行
-register|v.登记；记录；注册；挂号; n.登记簿；记录；暂存器; n.[语]语域；[音]音域通风调节设备
-sadness|n.悲哀
-model|n.模范；模特儿；模型; adj.模范的；作模型用的; v.做模型；模仿；塑造
-sometimes|adv.有时；间或
-binoculars|n.双眼望远镜
-peek|v.偷看；窥视; n.偷看；窥见
-peasants|农民
-prove|v.证明；检验；结果是；发酵
-peel|n.果皮; vt.剥落；削皮; vi.脱皮；脱衣服
-sprout|v.长芽；萌芽；迅速成长; n.芽；年幼者
-pasta|n.意大利面
-instead|adv.代替；反而
-schoolyard|n.校园；运动场
-cotton|n.棉花；棉制品；棉布
-obvious|adj.明显的；显然的
-injure|vt.伤害；损害；损伤
-bowler|n.玩滚球的人；投球手；圆礼帽
-organize|v.组织；安排；筹办
-apart|adv.相距；分开地；分别地; adj.分开的；分离的
-fail|vi.失败；没做成某事；表现欠佳；用完；衰退; vt.辜负；放弃；缺少；不及格; n.不及格；没做成
-pup|n.小狗；小海豹；小伙子
-cigarettes|卷烟
-become|v.变成；成为；变得；适合（某人）；使（人）显得漂亮
-core|n.核心；果心；要点; vt.挖去果核
-tradition|n.传统；惯例
-word|n.单词；消息；话语；诺言; v.用词语表达
-blue|adj.蓝色的；忧郁的；沮丧的；色情的; n.蓝色
-dip|v.浸；蘸；下沉；倾斜；掏取；浏览; n.浸泡；浸；蘸；倾斜；下降
-bull|n.公牛；股市看涨的人；警察; n.荒谬的话; n.教皇诏书; adj.公牛的；鲁莽的
-brainstorm|n.好主意；脑猝病; v.集思广益
-insect|n.昆虫；虫子；卑微的人
-network|n.网点；网络；网状系统；广播公司
-sag|v.下垂；下跌；消沉; n.下垂；下跌；凹陷；[航海]随风漂流
-evade|v.逃避；躲避；规避
-eat|v.吃；吃饭；喝
-combined|adj.组合的；结合的
-noisy|adj.喧闹的；嘈杂的；吵闹的
-can|aux.可以；能; n.罐头; v.罐装；解雇
-limp|n.跛行; adj.柔软的；无力的；软弱的; vi.跛行；蹒跚
-message|n.消息；信息；要点；寓意; v.传递信息；通讯
-combine|v.联合；使结合；结合; n.集团；联合收割机；联合企业
-maker|n.制造者；制定者; Maker:上帝.
-towel|n.毛巾；手巾; v.用毛巾擦
-seek|vt.寻求；追求；试图; vi.寻找
-bail|n.保释；杓；把手；保证金；担保人; vt.保释；往外舀水；使摆脱困境; vi.舀空
-variety|n.多样；种类；多样化; n.杂耍
-apartment|n.一套公寓房间
-beyond|prep.超出；远于；除...之外；超出…之外; adv.在更远处；另外; n.远处；来世
-cough|v.咳嗽；咳; n.咳嗽
-courtyard|n.庭院；院子
-airplane|n.飞机; =aeroplane(英）.
-may|aux.可以，能够；可能，也许；祝，愿；会，能; n.[大写]五月
-law|n.法律；法规；准则；起诉; v.起诉；打官司
-moss|n.苔藓；泥沼; vt.使长满苔藓
-eve|n.（重大节日的）前夜；前夕; Eve.; n.夏娃（圣经中的第一个女人）
-grasshopper|n.蚱蜢；蝗虫；轻型飞机；蚱蜢鸡尾酒
-cancel|v.取消；作废；注销；抵消；删除; n.取消；删除
-ask|v.询问；请求；邀请；要求；开价；期待
-wit|n.智力；才智；机智；风趣; v.知道；即
-tin|n.锡；罐头；听头; adj.锡制的; vt.镀锡于
-gardener|n.园丁；花匠
-relative|adj.相对的；比较的；相关的; n.亲戚；[语]关系词
-temperatures|温度
-pony|n.小马；小型的东西; v.付清
-beetle|n.甲虫；木槌；[纺]捶布机; v.快速移动；用木槌捶；突出; adj.突出的；显著的
-weave|v.编织；组合；编造；迂回前进; n.编法；织法；编织
-petrol|n.汽油
-silent|adj.安静的；不吵闹的；沉默的；无言的
-tummy|n.肚子；胃
-football|n.足球；橄榄球
-sweat|n.汗水; n.焦急；繁重工作；(凝结在物体表面的)水珠; v.(使)出汗
-cross|v.穿过；交叉；杂交；反对；勾掉；碰见；阻挠; n.十字架；十字形；杂交动植物；苦难; adj.交叉的；相反的；生气的；杂交的
-thing|n.东西；事情; （复）things:所有物；用具；情况
-product|n.产品；产物；结果；某种影响下产生的人或物；乘积
-together|adv.共同；一起；协调；一致；连续地; adj.有能力的；镇定的
-order|n.顺序；条理；订单；命令；秩序；阶层；[生]目；点的东西; v.命令；定购；调整；整理；点餐；预定，订货
-hole|n.洞；孔；穴；漏洞；困境; v.挖洞；掘坑；进洞
-pack|n.一群；一副；包裹；一包; v.包装；解雇；塞满；收拾行李；佩戴
-various|adj.各种各样的
-mud|n.泥；泥浆；诽谤; vt.弄脏；抹泥
-professional|adj.职业的；专业的；专门的; n.专业人员
-holder|n.持有者；支持物
-jump|n.跳跃；跳动；上涨; v.跳越；暴涨
-microphones|麦克风
-fin|n.鳍；鱼翅；鳍状物；散热片；五元纸币
-sound|n.声音；嘈杂声；音乐风格；曲调；印象；感觉；海峡；鱼鳔；探针; v.听起来；感觉起来；发出声音；发音；探测深度；探询; adj.有效的；合理的；可靠的；全面的；健康的；完好的；酣睡的；严厉的; adv.酣畅地
-bar|n.酒吧；条；横木；栅; vt.禁止；阻挠；闩上；在...设栅栏
-in|prep.在...里；在...地方；在...期间；在...方面；进入...里面；处于...状态；穿着...；以...的方式; adv.在家；入；进；向里；在某地；并入；在某种关系中; adj.在里面的；新来的；执政的；时髦的; n.当权者；影响；达成目标的路径
-bluebird|n.蓝知更鸟
-loaf|n.（一条）面包；块; vi.游手好闲；虚掷光阴
-collection|n.收集；收取，托收；聚集；收藏品；募捐
-rocket|n.火箭；芝麻菜；紫花南芥; v.猛涨；飞快地移动
-persuade|vt.说服；劝说
-pencil|n.铅笔；笔状物; vt.用铅笔写
-enjoy|v.享受；喜欢
-rub|v.擦；摩擦；搓；惹恼; n.困难；障碍；擦
-venom|n.毒液；恶意
-test|n.考验；试验；测试; vt.试验；测试；接受测验
-fantasy|n.幻想; v.幻想
-murder|n.谋杀；谋杀案；要命的事; vt.谋杀；糟蹋；损坏; vi.谋杀
-bark|v.(狗)吠；咆哮; v.剥皮；擦伤; n.狗吠；咆哮; n.树皮
-she|pron.她（主格）
-experiment|n.试验；实验；尝试; vi.尝试；做实验
-devote|vt.致力于；奉献给；把...专用于
-hey|int.嗨
-court|n.法院；庭院；宫廷；球场；奉承; v.献殷勤；追求；招致；设法获得
-well|adv.很好地；相当地; int.好吧；啊; adj.健康的；良好的；适宜的; n.井；源泉；楼梯井; v.涌出
-beef|n.牛肉；肌肉；力气；牢骚; v.抱怨；告发；加强
-famous|adj.著名的；有名的
-pinata|皮纳塔；n.彩罐
-support|vt.支持；承受；支撑；供养；资助；证实；支援；担任演出嘉宾; n.支持；支撑；援助；供养；依据；助演嘉宾
-handmade|adj.手工制作的
-stem|n.柄；茎；干；船首; vi.起源于; vt.抽去...的梗；给...装柄；逆...而行；阻止，遏制
-restore|vt.恢复；归还；复原
-liquids|液体
-blink|v.眨眼；闪烁；拒绝承认或面对；用闪光灯传送信号; n.眨眼；闪光；一瞬间
-journey|n.旅程；旅行；行程; v.旅行
-science|n.科学；学科；理科；自然科学；专门技巧
-approach|v.靠近；接近；接洽；要求；达到；动手处理; n.途径；方法；接近；接洽；要求；路径；进场着陆；相似的事物
-tamer|n.驯养人
-twinkle|vi.闪耀；闪烁；眨眼；轻快移动; vt.使闪耀; n.闪烁；闪耀；眨眼；瞬息
-bounce|vi.弹起；重新恢复；退票; vt.使弹起；解雇；驱逐; n.弹跳；弹力；活力
-tribe|n.部落；族；一伙人
-sale|n.出售；促销
-wonder|n.惊奇；惊愕；奇迹；奇观; v.惊奇；想知道；怀疑; adj.奇妙的；非凡的
-inside|adj.里面的; adv.在里面; n.内部; prep.在...里面
-bilingual|adj.双语的
-harbour|n.港口；避难所; vt.庇护；心怀；窝藏; vi.进入避祸所；躲藏; =harbor.
-persistent|adj.坚持的；连续的；固执的
-promise|n.诺言；预示；约定；(有)希望; v.允诺；发誓；答应；有希望
-scenery|n.风景；背景；布景
-myth|n.神话；虚构的故事
-ago|adv.以前
-two|num.二；两个
-pumper|n.抽水机；泵浦消防车
-musical|adj.音乐的；喜欢音乐的；悦耳的; n.音乐片
-stream|n.(小)河；水流；(人；车；气)流；组; v.流动；流出；飘动；将(学生)按能力分组
-forty|num.四十; adj.四十; pron.四十(个；只...)
-fun|n.乐趣；玩笑; adj.有趣的
-flame|n.火焰；热情；燃烧；情人; v.燃烧；爆发；面红
-chin|n.颏；下巴; v.聊天；作引体向上
-list|n.目录；名单；明细表；条纹；倾斜；意向; v.列出；(使)倾斜；使高兴；愿意；听
-sheriff|n.郡治安官；郡长
-sweep|v.打扫；掠过；扫视；席卷；全胜；清除; n.清扫；连绵一片；席卷；掠过；范围；搜寻；(竞赛中)全胜；赌金
-tour|n.旅游；观光；巡回; v.周游；旅行；巡回
-act|n.行为；行动；法案；(戏剧、歌剧等的)一幕；假装; v.行动；举止；假装；表演；扮演；充当；有效果
-size|n.大小；规模；尺寸；尺码；浆料；胶料; v.按大小排列(或分类)；给…上胶; adj.（用于复合词）…大小的
-gleam|v.闪烁；隐约地闪现; n.微光；闪光；闪现
-penguin|n.企鹅
-driver|n.驾驶员；司机；驱动器
-home|n.家；家庭；收容所；栖息地；发源地; adv.在家；回家；在国内；回国；正中目标; adj.家用的；国内的；总部的；（比赛）主场的; v.提供住处；朝向
-hesitate|vi.犹豫；不情愿；口吃
-erect|vt.使竖立；建立；建造; adj.直立的；竖立的；笔直的
-prison|n.监狱；监禁; vt.囚禁；关入监狱
-autumn|n.秋季；秋天
-interrupt|v.打断；打扰；中断；阻碍; n.[计算机]中断
-dancer|n.跳舞者；舞蹈演员
-tuck|v.打摺；卷起；收拢；藏起；大吃; n.缝摺；船底后端；食品
-mark|n.记号；痕迹；分数；商标; v.弄污；打分；留意；做标记
-room|n.房间；空间；机会; v.寄宿；给…提供留宿
-raise|n.上升；增高；高地; vt.升起；举起；饲养；提出；引起；筹集，募集
-cabin|n.船舱；机舱；小木屋; vt.抑制; vi.住在小屋
-protective|adj.保护的；防卫的
-system|n.系统；体系；身体；制度
-seem|vi.似乎；好像
-woman|n.妇女；女人; adj.女人的
-pattern|n.模式；图案；典范；式样; v.以图案装饰；仿造；模仿
-theater|n.剧场；电影院；戏院; adj.战区的
-newspaper|n.报纸；新闻纸
-appear|vi.出现；出版；显得；好像；登场
-play|v.玩；比赛；（在运动队中）担当；派...出场；带；踢；击（球）；走（棋子）；出牌；演奏；播放；扮演；假装；上演；发挥（作用）；应付；处理；掠过；浮现；使轻快地活动；（喷泉）喷涌；做游戏; n.游戏；戏剧；比赛；发挥作用；玩笑；间隙；闪烁；闪现
-fence|n.栅栏；围墙；买卖赃物的人; v.用篱笆围住；束缚；击剑；回避
-spring|n.春天；春季；弹簧；弹力；跳；泉水；源头; v.跳；弹；快速站起；突然提出；触发捕捉器；(使)裂开；爆炸；释放；涌出；生长；出现；耸立；(风)开始吹
-yolk|n.蛋黄
-sterling|adj.英币的；纯银制的；纯正的；优秀的; n.英国货币；标准纯银；银制品
-ear|n.听觉；耳朵；倾听; n.麦穗; vi.抽穗
-my|adj.我的（I的所有格形式）; int.哎呦（用于表示惊讶的感叹词）
-any|adj.任何的; adv.稍微；丝毫; pron.任何
-desperately|adv.拼命地；绝望地；极严重地；孤注一掷地
-single|adj.单一的；单个的；特指某人或某物；单身的；单人的；单程的; n.单程票；单曲；单人房间；单身者；一元纸币；(网球)单打比赛；(板球)一分打；(棒球)一垒打; v.挑选(一个)
-visit|v.拜访；参观；闲谈; n.拜访；参观；聊天
-flutter|n.摆动；振翼；烦扰; vi.摆动；振翼；烦扰; vt.使心烦；使焦虑
-reasonable|adj.合理的；通情达理的；公平适度的
-blizzard|n.暴风雪；大量; n.暴雪（美国游戏软件制作公司）
-son|n.儿子；孩子（长者对后辈的称呼）
-agree|v.同意；赞成；承认；符合；一致
-silk|n.丝；丝绸；丝织品；丝绸衣服; vi.(玉米)抽穗丝; adj.丝的
-garage|n.汽车修理厂；车库; vt.把...放入车库
-top|n.顶部；顶；上面；极点；陀螺; adj.最高的；顶端的; vt.形成顶部；达到…的顶端；处于…的最前头; vi.总结；超越；高耸；结束
-wholesome|adj.有益健康的；合乎卫生的
-tail|n.后部；尾巴；尾部；辫子；跟随者; (复）tails:燕尾服；(硬币的)反面; vt.跟踪；盯...的梢；为...装尾巴; vi.尾随；附于其后；逐渐减少
-easily|adv.容易地；无疑地；很可能地
-our|adj.我们的
-sail|v.航行；驾(船); n.帆；航行；航海
-towards|prep.向；朝；关于; adj.在即的；有希望的
-spending|n.经费(开销)
-thousands|n.数千
-kill|v.杀死；终止；消灭；使痛苦；消磨；使精疲力竭; n.杀；猎获物
-nine|num.九
-situations|现状
-experience|n.经验；经历; v.经历；体验；感受
-brim|n.边；边缘; v.（装）满；（使）溢出
-shave|v.刮；剃；修剪；掠过；削减; n.剃须；修面；剃刀
-puck|n.冰球；橡胶圆盘；小淘气
-faulty|adj.有缺陷的；不合格的；有错误的；有缺点的
-flavor|n.风味；特殊的滋味；风格；调味品; vt.加调料于...；给...添加情趣
-doctor|n.博士；医生; v.篡改，伪造；阉割
-gel|n.凝胶；发胶；彩色透明滤光板; vi.团结一体；变得清晰；变得浓稠; vt.上发胶
-whiz|n.飕飕声；飕飕掠过；专家；奇才；能手; v.（使）飕飕作响; =whizz
-vehicle|n.车辆；交通工具；传播媒介；手段；工具
-giant|n.巨人；巨物；大公司; adj.巨大的
-lift|vt.举起；运送；偷窃；升高；还清；取消; vi.提升; n.举起；提升；电梯；搭便车；帮助；载货量；扒窃
-heartbroken|adj.悲伤的
-nest|n.巢；窝; vt.为...筑巢；嵌入; vi.筑巢；寻找鸟巢
-sniff|vi.嗅；嗤之以鼻；找出; vt.嗅到；吸入；嗤之以鼻地说; n.嗅；吸气；气味
-globe|n.地球；地球仪；球体；世界
-mess|n.混乱；混杂；脏乱；一份食品；粪便；（军队的）食堂; v.弄糟；弄乱；妨碍
-prince|n.王子；亲王；诸侯
-express|n.快车；快递；专使; adj.明确的；急速的；直接的; adv.用快递; vt.表达；表示；挤压出；快递
-possible|adj.可能的；尽可能的；合理的; n.适合候选的人
-bending|n.弯曲度(偏移；透镜的配曲调整); v.弯曲
-enormous|adj.巨大的；庞大的
-pressure|n.压强；压力；压迫; v.施压
-fine|adj.好的；优质的；精致的；晴朗的；健康的；细微的; adv.合适地；恰好地; n.罚款；罚金；结尾; v.罚款；优化；净化；细化
-suit|n.套装；诉讼；请求; v.适合；方便；满足
-tyre|n.轮胎; =tire（美）.; Tyre：提尔(古代腓尼基的有名港口；现属黎巴嫩).
-research|n.研究；调查; v.研究；调查
-critic|n.评论家；批评家
-steel|n.钢铁；钢制品；钢铁般的性质; vt.使坚强；使...硬如钢；使下定决心; adj.钢的；坚强的
-ahead|adv.领先；预先；在前；向前；提前
-thief|n.贼；小偷
-physically|adv.身体上地；实际上
-unmarried|adj.未婚的；独身的; n.未婚者
-hover|v.盘旋；徘徊；靠近（某事物），维持在某种不确定的状态; n.盘旋
-sock|n.短袜
-lesser|adj.较少的；较小的；次要的
-grow|v.增加；生长；变成；种植；逐渐开始
-tile|n.瓷砖；瓦片; v.盖瓦；铺瓷砖
-scarf|n.围巾
-elephant|n.大象；庞大笨拙难处理的事物
-railway|n.【C】铁路
-ballet|n.芭蕾舞
-wipe|v.擦；揩；抹；拭去；消除；用力打; n.擦拭；抹布
-rob|v.抢劫；掠夺
-thereafter|adv.其后；从那时以后
-watch|v.注视；看守；观看; n.手表；监视；看守；值班
-pink|adj.粉红色的; n.粉红色
-soar|vi.翱翔；高飞；猛增；高涨；高耸; n.翱翔；高飞
-switch|n.转换；开关；鞭子; v.改变；交换；转换；鞭打
-abroad|adv.到国外；广为流传; adj.在国外；海外(一般作表语)
-kangaroo|n.袋鼠
-helicopter|n.直升飞机; vt.用直升飞机载送; vi.乘直升机
+polish|n.光泽；上光剂；优雅；精良; v.擦亮；磨光；推敲；完善; Polish.; adj.波兰的；波兰人的；波兰语的; n.波兰语
+bacon|n.培根；咸肉；熏肉
+unfortunately|adv.不幸地；遗憾地
+motion|n.移动；动作；打手势；示意；提议；大便; v.示意；运动；向...打手势
+funnel|n.漏斗；漏斗状物；烟囱; vt.使成漏斗状；使经过漏斗; vi.形成漏斗状；经过漏斗
+smash|v.打碎；粉碎；猛撞; n.破碎；撞击；轰动的演出；[网球]高压扣球; adj.极为成功的
+lorry|n.卡车
 tarantula|n.狼蛛；多毛毒蜘蛛
-catcher|n.捕手；接球员；捕捉者；捕捉器
-bookshelf|n.书架
-some|adj.一些；若干; adv.大约；非常; pron.一些(人、物)
-tune|n.曲调；调子；和谐；协调；数量; vt.为...调音；调整; vi.调音；调整频率
-he|pron.他；任何人; n.男人；雄性动物
-changing|vbl.变更；换车；兑换
-upstairs|adv.在楼上；往楼上；在高处；头脑上; n.楼上; adj.楼上的；上层的
-among|prep.在...之中；...之一
-stab|v.刺；戳；刺伤; n.刺；戳；刺痛；尝试
-blind|adj.盲目的；瞎的；未察觉的; vt.使失明；隐藏; adv.盲目地; n.百叶窗；幌子
-excite|vt.使兴奋；使激动；刺激；激起
-visitor|n.参观者；访问者；访客
-attend|v.出席；参加；照料；注意；专心于
-gravestone|n.墓碑
-with|prep.用；随着；包括；和...一起
-cranky|adj.怪癖的；不稳的
-officer|n.官员；高级职员；警官；军官；办事员
-accepted|adj.公认的；录取的；可接受的；已承兑的
-spill|v.溢出；洒；使...流出；泄漏; n.溢出；流；木片；小杆
-wing|n.翅膀；翼; v.飞过；空运；临时发挥
-chocolate|n.巧克力；巧克力糖；巧克力色; adj.巧克力的；巧克力色的
-kick|v.踢；反冲; n.踢；反冲；后座力
-religion|n.宗教；宗教信仰
-marker|n.标记；做记号的工具；做记号的人；记分员
-reward|n.报答；赏金；报酬; vt.奖赏；给...报酬
-while|conj.当...的时候；虽然；尽管；然而; n.一段时间；一会儿; v.消磨
-longest|adj.最长的
-address|n.住址；网址；电子邮箱地址；称呼；致词；讲话；演讲；谈吐; v.称呼；发表演说；提出；写地址；处理
-why|adv.为什么; conj....的理由；为什么; int.咳；哎呀; n.理由；谜
-nail|n.钉子；指甲；爪; vt.钉；抓住；使固定
-smooth|adj.光滑的；平稳的；流畅的；圆滑的；可口的；安祥的；均匀的; v.使光滑；消除；安慰；理顺(羽毛)
-oxygen|n.氧；氧气
-hurt|vt.损害；伤害；使疼痛; vi.疼痛；造成损失; n.创伤；伤害；打击
-purple|adj.紫色的；辞藻华丽的; n.紫色；皇室
-yield|v.生产；获利；屈服；弯下去; n.投资收益；生产量
-along|prep.沿着；顺着; adv.向前；一起
-association|n.协会；社团；交往；联想；联合；结合
-celebrate|v.庆祝；庆贺；颂扬
-athletes|运动员
-prefer|vt.宁可；较喜欢；提出（控告）
-relatives|n.亲戚
-spit|n.唾液；小雨；烤肉叉；海峡；酷似；彻底的擦洗; v.吐口水；吐出；厉声说出；下小雨；(指火、熬热的油脂等)毕剥作响；用烤肉叉叉住；彻底地擦洗设备
-dream|n.梦；梦想; v.做梦；梦想
-sailors|海员
-soil|n.土地；土壤；污物，粪便; v.弄污
-downhill|adv.向山下；走下坡路地; adj.下坡的；向下的
-interviewer|n.采访者；接见者；（面试时的）主考官
-center|n.中心；集中点; v.居中；使集中; =centre
-energy|n.精力；活力；能源
-blueberries|蓝莓
-earthquake|n.地震
-contract|n.合同；婚约；合约；契约; v.缩小；订合同；缩短；感染（疾病）；招致
-rat|n.变节者；鼠；卑鄙的人; v.捕鼠；背叛；偷窃
-polite|adj.有礼貌的；客气的；有教养的；文雅的
-winter|n.冬季；冬天; adj.冬天的；冬季生长的; vi.过冬; vt.对...进行过冬保护
-branch|n.分部；部门；分店；分支；树枝; v.分岔；分支
-public|adj.公众的；公共的；公开的; n.民众；公众；大众
-difficulty|n.困难；争议；麻烦
-wretched|adj.可怜的；不幸的；悲惨的；质量差的；恶劣的；卑鄙的
-several|pron.若干; adj.几个的；若干的；各自的
-invite|vt.邀请；请求；招致；招待
-spooky|adj.幽灵一般的；有鬼一样的；令人毛骨悚然的
-quit|v.停止；离开；退出；辞职
-ii|n.二; adj.表示二的
-crashing|adj.绝对的；彻底的；非凡的
-criminals|罪犯
-present|n.礼物；现在; adj.出席的；现在的；当前的；存在的; v.提出；赠送；呈现
-jelly|n.果冻；胶状物; vi.结冻；做果冻; vt.使结冻
-factor|n.因素；因数；因子; vt.把...因素包括进去; vi.作为因素
-unload|vt.卸下；卸货；摆脱...之负担；(大量)倾销；退出（弹药；胶片等）; vi.卸下货物；摆脱负担
-hay|n.干草；一小笔钱；床
-enforce|vt.强迫；强制；实施；执行；加强
-rip|v.撕裂；扯开; n.裂口；裂缝；撕裂
-dash|v.猛冲；猛掷；泼溅；匆忙完成; n.破折号；短跑；猛冲；冲
-match|n.对手；火柴；比赛；配偶；般配的人; v.相配；和...相配；相一致；较量
-biographical|adj.传记的
-cycling|n.骑自行车
-haven|n.港口；避难所; v.安置...于港中；庇护
-most|adj.最多的；大多数的; adv.最；最多；极其; pron.大多数；大部分; n.最多
-mount|v.登上；爬上；装上；上升; n.底板；爬上；支架；乘用马; n.山；峰
-forces|n.军队
-curious|adj.好奇的；奇特的
-reaction|n.反应；生理反应；反应能力；复旧；反动；化学反应
-volcano|n.火山
-juicy|adj.多汁的；利润丰厚的；有趣的
-anxious|adj.渴望的；忧虑的
-mystery|n.谜，神秘；奥秘；秘密；神秘的人或事物；推理小说（戏剧）
-bold|adj.大胆的；陡峭的；醒目的；粗体的；无礼的
-inclined|adj.倾向于...的
-lifetime|n.一生；终身；寿命；使用期限
-reduce|v.减少；缩小；使落魄；简化；还原
-cake|n.蛋糕；块状物
-cap|n.帽子；盖子；顶；上限; vt.超过；加盖于；戴帽；覆盖；完成；设限; vi.脱帽致意
-afford|v.花费得起；能够做；承担得起(后果)；提供；给予
-overhead|n.经常开支；普通用费; adj.高架的；在头上的; adv.在头顶上；在空中；在高处; [计算机]总开销.
-congress|n.代表大会；议会; n.立法机关; n.国会
-pyramid|n.金字塔；棱锥体；[证券]金字塔式交易法; v.急速增加；以金字塔的模型构建
-homeland|n.祖国
-business|n.商业；事务；生意
-glare|n.闪耀光；刺眼; v.发眩光；瞪视
-interesting|adj.有趣的；引人入胜的
-thoroughly|adv.彻底地；完全；非常
-dirty|adj.脏的；肮脏的；下流的；卑鄙的；腐败的；不正当的; v.弄脏；玷污
-district|n.地区；行政区; vt.把...划分成区
-virtue|n.美德；德行；优点；贞操
-loyalty|n.忠诚；忠心；忠贞
-problem|n.问题；难题；习题; adj.成问题的；难对付的
-chance|n.可能性；机会；偶然性; v.偶然发生；碰巧；冒...(的险)
-monsoon|n.季风；雨季
-task|n.任务；工作; vt.交给某人（任务)；使做艰苦的工作
-storm|n.暴风雨; v.起风暴；猛攻；暴怒；捣毁
-bedside|adj.床边的；病床边的; n.床边
-chimpanzee|n.黑猩猩
-receiver|n.听筒；接收器；收款员；接受者；破产管理官
-however|adv.然而；无论如何；不管多么; conj.不管怎样
-poop|n.舵楼；船尾；粪便；内幕; vt.使疲倦；船尾受击; vi.排便
-urge|vt.驱策；鼓励；催促；力陈; vi.极力主张; n.冲动；强烈愿望
-wise|adj.聪明的；有智慧的；明智的；有见识的
-catch|v.赶上；抓住；捕捉；领会; n.捕捉；捕获物；陷阱
-gasoline|n.汽油; 亦写作gasolene
-shall|aux.将要；应该；一定；表示提供建议
-walls|n.墙壁
-tug|n.用力拉；拖船; v.用力拉
-land|n.陆地；国土；土地; v.靠岸；着陆；跌落地面；得到；使靠岸；使着陆
-work|n.工作；职业；工作内容；职责；活计；工作所需的材料；工作地点；努力；工作成果；行为结果；作品; v.工作；做事；使工作；争取；管理；运行；操作；奏效；产生…影响；造成；抽搐；逐渐移动; [复]works：工厂；修建；机器部件；全套物品
-lock|n.锁；水闸；一缕头发；一簇；一束; v.固定；锁(住)；抓牢；过闸
-aware|adj.知道的；意识到的
-smelly|adj.难闻的；臭的
-telegraph|n.电报；电报机; vt.打电报；显示
-melon|n.甜瓜
-power|n.力量；力；能力；权力；【数】幂；电力; v.使有力量；给...提供动力; adj.电力的；力量的；权力的
-wearer|n.穿用者
-slave|n.奴隶；像奴隶般受制的人；【机】从动装置; v.做苦工；做奴隶；拼命干
-recipe|n.秘诀；食谱；药方
-warriors|武士
-demand|n.要求；需求; v.要求；查问；需要
-bait|n.饵；引诱; v.以饵引诱；逗弄；中途休息
+vicar|n.(教区或教堂)牧师；代理人
+carelessly|adv.粗心大意地；疏忽地
+greed|n.贪心；贪婪；贪吃
+harden|v.(使)变硬；(使)坚强
+eggshell|n.蛋壳；蛋壳漆(干后平滑无光); adj.薄而易碎的；略有光泽的；淡黄褐的
+bowler|n.玩滚球的人；投球手；圆礼帽
+slay|vt.杀害；残杀；使大笑
+reception|n.接待；反应；接待处；欢迎；接收；招待会
+sterling|adj.英币的；纯银制的；纯正的；优秀的; n.英国货币；标准纯银；银制品
+wedge|n.楔子；楔形物; vt.楔住；嵌；挤进
+cigarettes|卷烟
+copper|n.铜；铜币；警察；紫铜色；有紫铜色翅膀的小蝴蝶; vt.镀铜
+progressive|adj.先进的；前进的；渐进的；革新的(音乐上的）; n.进步分子；革新主义者
+honeycomb|n.蜂窝；蜂窝状物; v.使布满小孔；成蜂窝状
 rifle|n.步枪; v.洗劫；抢劫
-person|n.人；本人；身体
-nights|adv.每晚；在夜晚
-monitor|v.监视；监督；监听; n.班长；监视器；监听员；[计算机]显示器
-white|adj.白色的；纯洁的；白种的；加牛奶的; n.白色；白种人
-difficult|adj.困难的；艰难的；(人)难对付的；不易相处的
-unhappy|adj.不快乐的；不高兴的；不幸福的；不满的
-picks|精选
-nicely|adv.精确地；漂亮地；恰好地
-powerful|adj.强有力的；强大的；有权的；强健的
-levy|n.征税；召集; vt.征收；发动; vi.强收
-fuse|n.保险丝；导火线；引线; vt.熔化；融合；装导线；装引信于; vi.熔化；融合
-mama|n.母亲；妈妈
-find|v.发现；找到；认为；觉得；感到；裁决；判定; n.发现
-sure|adj.肯定的；确信的；必定；可靠的；沉着自信的; adv.当然；确实地；无疑地；不用客气
-command|n.命令；指挥；掌握；[计算机]DOS命令:引用辅助命令处理器; v.命令；指挥；掌握；博得
-culture|n.栽培；文化；教养; vt.培养，栽培
-live|v.活着；居住；过着; adj.活的；直播的；现场的；带电的；燃烧着的；当前的; adv.现场
-eye|n.眼睛；目光；视力；观点；鉴赏力; v.看；注视；审视
-thirsty|adj.口渴的；渴望的
-bunny|n.小兔子
-odd|adj.奇数的；古怪的；零散的；剩余的
-surely|adv.无疑；一定；稳当地；显然
-roughly|adv.粗略地；大约；粗暴地；粗糙地；粗鲁地
-sleepy|adj.欲睡的；困倦的
-gas|n.煤气；气体；汽油；空话; vt.使吸入毒气；毒(死)；给...加汽油; vi.空谈；加汽油
-immature|adj.不成熟的
-native|adj.本国的；本土的；当地的; n.土著；本地人；本国人
-mind|n.头脑；精神；心；想法；意见；心思；注意力；有才智的人；记忆；心情；理智；[宗]追思弥撒；上帝; v.留心；注意；专心于；介意；照顾
-thankful|adj.感谢的；感激的
-what|pron.什么; adj.什么；哪个; adv.用于感叹句中; int.什么
-reluctant|adj.不情愿的；勉强的
-versus|prep.对抗；与...相对(略作v.或vs.)
-ton|n.吨；大量
-rib|n.肋骨；肋状物; vt.装肋于；用肋状物支撑
-responsibility|n.责任；职责；责任心
-boldly|adv.大胆地；显眼地
-tear|vt.撕掉；扯下；扰乱; vi.流泪；撕破; n.眼泪；（撕破的）洞或裂缝；撕扯
-buggy|adj.多虫的; n.轻型马车；婴儿车
-cream|n.奶油；乳酪；面霜；精华；米色; v.凝成乳脂；起泡沫；撇去乳脂；提取精华；使成糊状；涂面霜；彻底打败
-downtown|n.市中心区；市中心; adj.市中心的
-hero|n.英雄; n.男主角；男主人公
-carnival|n.嘉年华会；狂欢节
-give|v.给；赠予；送；捐助；提供；供给；举行；弯曲; n.弹性
-turning|n.旋转；回转；转向
-con|n.骗局；反对；反对的理由; adv.反面地；反对地; vt.精读；记诵
-doorstep|n.门阶
-helpful|adj.有帮助的；有用的
-food|n.食物；食品
-moment|n.片刻；瞬间；力矩；非常重要的时机；准确时刻
-spread|v.传播；展开；散布；铺开；伸展；涂撒; n.范围；传播；差额；幅度；盛宴
-noise|n.噪声；喧闹声；响声; vt.谣传; vi.大声说话；发出噪音
-aid|n.援助；帮助；救援；助手；辅助物; v.辅助；援助；接济
-lonely|adj.寂寞的，孤独的；荒凉的
-people|n.人；人民；人们; v.使住人；居住于
-introduction|n.介绍；引进；序言；导论
+grooming|n.修饰；美容；（动物）梳理毛发
+snowball|n.雪球；打雪仗；滚雪球式的募捐法; v.向...丢雪球；使生长或快速的增长
+mattress|n.床垫
+sooner|n.抢先占地的人; adv.比预期早; Sooner.; 美国俄克拉荷马州的别名.
+nearest|adj.最近的
+radical|adj.激进的；彻底的；基本的; n.激进分子
+transition|n.转变；过渡
+telescope|n.望远镜; v.缩短；压缩；套叠
+raw|adj.未加工的；生的；原始的；湿冷的; n.触到某人的痛处
+ornament|n.装饰；装饰物; vt.装饰
+unkind|adj.不和善的；无情的；不厚道的
+meantime|adv.与此同时; n.同时；其间
+raggedy|adj.有些破的；有些参差不齐的；有些刺耳的
+fleece|n.羊毛；一次剪得的羊毛；羊毛状物; v.欺诈
 actresses|女性优伶
-wooden|adj.木制的；生硬笨拙的
-yet|adv.还；已经；仍然; conj.然而；但是
-replacement|n.更换；接替者
-rest|n.剩余的部分；休息；支撑物；休止符; v.休息；(使)倚靠；使(视线)停留在；搁在；依赖；基于；搁置；埋葬
-prisoner|n.囚犯
-actress|n.女演员
-coffin|n.棺材
-myself|pron.我自己
-killer|n.杀人者；凶手；致命物；消灭…者；棘手的事；迷人的人；精彩的事物
-country|n.国家；乡村；区域；乡村音乐; adj.乡村的；国家的；故乡的；乡村音乐的
-drug|n.毒品；药; vt.使服麻醉药；使服毒品；掺麻醉药（或毒药）于
-pleased|adj.高兴的，开心的，乐意的
-harness|n.马具；安全带；甲胄；系在身上的绳子; vt.束以马具；披上甲胄；利用；管理；控制
-sport|n.运动；体育; vi.嬉戏；炫耀；戏弄; adj.运动的；户外穿戴的
-anyway|adv.不管怎样；无论如何
-grab|v.抓住；攫取; n.抓取物；抓
-burrow|n.(兔子等)所掘的地洞; vt.挖掘(洞穴)；钻进; vi.翻寻；挖洞
-professionals|adj.职业的;专业的; n.专家;内行
-inch|n.英寸；少量; v.慢慢移动; （复）inches:身高.
+roar|v.吼叫；咆哮; n.吼声；咆哮；轰鸣；喧闹
+removal|n.移动；搬迁；除去；开除
+practicing|adj.开业的；在工作的
+tankers|油船
+temptation|n.诱惑；引诱物
+revenge|n.报仇；报复；报复心；雪耻机会; vt.报复；报仇
+competitor|n.竞争者；对手
+colds|n.感冒
+temporarily|adv.暂时地；临时地
+buttoned|adj.用钮扣装饰的；扣紧的
+clunk|n.沉闷的金属声；愚蠢乏味的人; v.发出沉闷声；打击某物（使）发出沉闷声地
+infant|n.婴儿；幼儿; adj.婴儿的；初期的；幼稚的
+lop|v.剪去(树枝)；砍掉；削减；耷拉下来
+peasants|农民
+accompany|vt.陪伴；伴随...发生；补充；给...伴奏; vi.伴奏
+flagpole|n.旗竿; =flagstaff.
+yolk|n.蛋黄
+awkwardly|adv.别扭地；拘谨地；尴尬地；笨拙地
+jury|n.陪审团；评委会; adj.临时用的; vt.挑选
+campfire|n.营火；篝火；篝火晚会
+thoroughly|adv.彻底地；完全；非常
+highlight|vt.强调；照亮；加亮；使...显得重要；使突出; n.加亮区；精彩部分；最重要的细节或事件；闪光点; [计算机]醒目
+sunup|n.日出
+amusing|adj.有趣的；引人发笑的
+sac|n.囊；液囊
+bet|v.打赌；确信无疑; n.赌注；确信
+patriotic|adj.爱国的
+nee|adj.娘家姓...的
+drily|adv.幽默而不形于色地；冷淡地；干燥地
+unnatural|adj.不自然的；反常的；不近人情的
+parasite|n.寄生虫；寄生生物；食客
+packing|n.包装
+skyscrapers|摩天楼
+cucumbers|黄瓜
+stepsister|n.异母(或异父)的姐妹
+chime|n.鸣；钟；和协; v.鸣；打；和协
+overboard|adv.自船上落下；在船外
+wasp|n.黄蜂；胡蜂
+chin|n.颏；下巴; v.聊天；作引体向上
+collapse|v.（使）倒塌；（使）崩溃；（使）瓦解；折叠; n.倒塌；崩溃；暴跌
+truthful|adj.诚实的；真实的
+inlet|n.水湾；入口；插入物; vt.引进；插入
+disguise|vt.掩饰；假装；假扮; n.伪装；伪装物
+faulty|adj.有缺陷的；不合格的；有错误的；有缺点的
+critic|n.评论家；批评家
+frightful|adj.可怕的；吓人的
+visitor|n.参观者；访问者；访客
+caution|n.警告；慎重；戒备；吸引人眼球的人或物; vt.警告；劝告
+tracer|n.追踪者(器)；示踪物；曳光弹；[化]示踪剂
+foreigner|n.外国人；外人
+kennel|n.狗舍；养狗场；排水道; v.置于狗舍；宿于狗舍
+miserable|adj.痛苦的；悲惨的；贫乏的；狼狈的
+blurt|vt.冲口说出；突然说出
+embassy|n.大使馆；大使全体人员
+enormous|adj.巨大的；庞大的
+butcher|n.屠夫；刽子手；肉商；小贩; vt.屠宰；滥杀；将某事弄得一团糟
+accustomed|adj.习惯了的；通常的
+acquire|vt.获得；学到；取得
+whimper|n.呜咽；啜泣；怨声; v.呜咽；啜泣；抽噎地哭；抱怨
+archery|n.箭术
+sociable|adj.好交际的；社交的
+pony|n.小马；小型的东西; v.付清
+warriors|武士
+farewell|int.再会；别了; n.告别; adj.告别的
+neat|adj.整洁的；简洁的；利索的; adv.整洁地；利索地
+explosive|adj.爆炸(性)的；引发争论的；大声的; n.炸药
+musical|adj.音乐的；喜欢音乐的；悦耳的; n.音乐片
+sturgeon|n.鲟鱼
+judo|n.柔道
+restored|adj.恢复的
+woolen|n.毛制品; adj.羊毛的；羊毛制的；毛织的
+snowman|n.雪人
+gymnast|n.体操运动员
+barrel|n.桶；枪管；一桶的量；炮管；大量；笔管；汽油桶; vi.快速移动; vt.把...装桶
+receiver|n.听筒；接收器；收款员；接受者；破产管理官
+enabled|adj.可激活的；已启用的
+beggar|n.乞丐；穷人；【英】家伙; vt.使贫穷；使不足；使不能
+quilt|n.被状物；被子; v.缝被；缝制；用垫料填塞
+ragged|adj.衣衫褴褛的；粗糙的；刺耳的；（外形）不规则的；不完美的
+jumbo|n.喷气式飞机; adj.特大的
+sideways|adv.向旁边；斜着地；向侧面地; adj.旁边的；斜着；向侧面的
+ostrich|n.驼鸟；驼鸟般的人
+accomplishment|n.成就；完成
+latch|n.门闩；碰锁；弹簧锁; v.上闩；缠着；明白
+blog|n.博客；网络随笔；日志
+nobleman|n.贵族
+critics|评论家们
+lever|n.杠杆；控制杆；手段; v.撬开；使用杠杆
+lunchtime|n.午餐时间
+tune|n.曲调；调子；和谐；协调；数量; vt.为...调音；调整; vi.调音；调整频率
+hairless|adj.无毛的
+employer|n.雇主
+hostess|n.女主人；空姐；女主持
+zipper|n.拉链; v.拉上拉链
+coastal|adj.沿海的；海岸的；沿岸的
+ventilation|n.通风；通风设备；充气；公开讨论
+lanterns|灯具
+propeller|n.螺旋桨；推进器; =propellor.
+cowboy|n.牛仔
+excursion|n.远足；短途旅行；【物】偏移，漂移，偏离；偏差，偏振
+porcupine|n.豪猪；箭猪
+drown|vi.淹死; vt.淹死；淹没
+clicker|n.发咔哒声者（如电脑鼠标或遥控器等）；鞋匠工头；排字工头；站店外招徕顾客者
+glare|n.闪耀光；刺眼; v.发眩光；瞪视
+groan|v.呻吟；抱怨；发嘎吱声；受重压; n.呻吟；呻吟声
+unload|vt.卸下；卸货；摆脱...之负担；(大量)倾销；退出（弹药；胶片等）; vi.卸下货物；摆脱负担
+bulldozer|n.推土机；欺凌者
+courtyard|n.庭院；院子
+penalty|n.处罚；惩罚；不利；罚球
+sympathetically|adv.同情地；表示好感地
+sew|v.缝合；缝纫
+loyalty|n.忠诚；忠心；忠贞
+crawfish|n.小龙虾
+puck|n.冰球；橡胶圆盘；小淘气
+liberty|n.自由；自由权；冒失
+grassy|adj.长满草的；草绿色的；像草的
+doghouse|n.狗舍
+terrify|v.使害怕；使恐怖；威胁
+lowland|n.低地; adj.低地的; Lowland.; n.苏格兰低地
+confine|vt.限制；禁闭; n.范围；界限；约束；限制
+formations|群系
+sagebrush|n.山艾(美国西北荒漠产的一种灰绿色灌木)
+gust|n.突然一阵; n.风味; vi.猛吹
+occasion|n.场合；时机；理由；机会；盛大场面; vt.引起；致使
+prance|v.腾跃；欢跃；昂首阔步; n.(马)后足立地腾跃；昂首阔步
+stockings|n.长袜
+airfield|n.飞机场
+pastry|n.面粉糕饼；馅饼皮
+camping|n.野营；露营
+fluff|n.软毛；绒毛；无价值物；失误; v.（使）变柔软；搞糟；忘词
+pipe|n.管子；烟斗；管乐器; vt.以管输送；装管道；吹奏；尖声说；(为衣服等)滚边; vi.吹奏管乐；尖叫
+whiz|n.飕飕声；飕飕掠过；专家；奇才；能手; v.（使）飕飕作响; =whizz
+palaces|宫城
+diver|n.跳水者；潜水员
+nasty|adj.下流的；严重的；令人不快的；难懂的；危害的
+unimaginative|adj.（艺术品）缺乏想象力的；无趣的
+critically|adv.批评性地；爱挑剔地；重要地；危急地
+lunchroom|n.速简餐厅
+shove|v.推挤；撞；乱塞；乱放; n.推；挤
+van|n.箱形客货两用车；(铁路的)有盖货车；[军]先锋；先导；翼; v.(用货车)运
+caterpillar|n.毛虫; Caterpillar.; n.卡特彼勒(财富500强公司之一；总部所在地美国；主要经营工业农业设备)
+inquire|vt.询问；查究; vi.询问；查究
+abnormal|adj.反常的；不正常的；变态的; n.不正常的人
+destruction|n.破坏；毁灭
+workshop|n.工场；车间；研讨会；讲习班
+cast|v.掷；抛；投；铸造；指定演员；加起来；投射(目光)；投(票)；预测; n.演员阵容；投掷；[医]固定用敷料
+bossy|adj.专横的；爱发号施令的; n.母牛或者小牛
+plentiful|adj.丰富的；多的；充裕的
+hive|n.蜂房；蜂箱；蜂群；喧闹繁忙的场所; vi.蜂进入蜂箱；聚居；把一部分分离出来; vt.使蜂入箱；储备
+pulley|n.滑车；滑轮；皮带轮
+stove|n.炉子；窑；【主英】温室
+pigeon|n.鸽子
+ambassador|n.大使；代表
+quiver|v.颤抖；振动; n.颤抖；箭袋；箭袋内的箭
+uncles|n.叔伯
+wheelbarrow|n.独轮手推车
+virtuous|adj.有品德的；有德行的；贞洁的
+boredom|n.无聊；厌烦；厌倦；令人厌烦的事物
+sack|n.袋子；解雇; vt.解雇；把...装入袋子；劫掠
+wicked|adj.坏的；邪恶的；缺德的; adv.极端地；非常地; vt.吸收
+python|n.大蟒；巨蟒
+seawater|n.海水
+halibut|n.大比目鱼
+supernatural|adj.超自然的；神奇的
+astonish|vt.使惊讶；使吃惊
+persistent|adj.坚持的；连续的；固执的
+descend|v.下降；降临; v.传下来；遗传; v.突然袭击；突然拜访
+caterpillars|毛虫树
+detect|v.发觉；察觉；探测
+cannon|n.大炮；机关炮; v.开炮；相撞
+equestrian|n.骑马者；骑术家; adj.骑马的；骑术的
+pedestal|n.基架；底座；受人尊敬的地位; vt.搁在台上；颂扬
+allegiance|n.忠诚；效忠
+cone|n.圆锥体；锥形物；球果; vt.变成锥形
+fort|n.堡垒；要塞
+proof|n.证明；证据；校样; adj.防...的；耐...的; vt.检验；给...做防护措施
+turnip|n.萝卜；芜菁；大头菜
+boldly|adv.大胆地；显眼地
+construct|vt.建造；构筑；造(句); n.构想
+wearer|n.穿用者
+licence|n.执照；许可；特许；自由；放纵; vt.同意；许可
+tock|n.托科鸟
+trait|n.特征；特点；少许；一笔
+engaged|adj.忙碌的；使用中的；订婚了的
+sleet|n.雨雪; v.下雨雪；下冰雹
+regularly|adv.有规律地；定期地
+allergy|n.过敏症；反感；厌恶
+flex|v.弯曲；伸缩；屈曲; n.花线；弯曲；弹性
+rig|n.装备；帆具；服装；钻井架；钻塔; v.装配；装扮；临时赶造；操纵
+myths|神话
+cartoon|n.卡通；漫画；草图; vt.为...画漫画
+nectar|n.花蜜；甜美的饮料；众神饮用的酒
+hurriedly|adv.匆忙地
+forlorn|adj.孤独的；凄凉的；渺茫的
+considerably|adv.非常地；相当地；颇
+helper|n.助手；帮手
+nighttime|n.夜间; adj.夜间的
+feather|n.羽毛；翎毛；种类; vt.用羽毛装饰; vi.长出羽毛
+schoolyard|n.校园；运动场
+sprouted|adj.萌芽的；发了芽的
+orphan|n.孤儿; adj.孤儿的; vt.成孤儿
+ajar|adj.微开的；半开的; adv.微开地；半开地
+cruise|n.巡航；漫游；游艇; v.慢速行驶；乘船游览；游弋；巡游
+dugout|n.防空洞；独木舟；[棒、足]球员休息处；替补席
+sailor|n.海员；水手；扁平的硬边草帽
+monsoon|n.季风；雨季
+aggressively|adv.侵略地；攻击地；有干劲地
+lesion|n.损害；损伤；障碍
+whoosh|v.飞快地移动; n.嗖的一声；冲出(表示飞快的移动)
+fend|v.照料；挡开；[英口]供养
+drilling|n.演练；钻孔
+carve|v.雕刻；切割
+piracy|n.盗版；剽窃；著作权侵害；海盗行为
+bye|int.再见
+doorstep|n.门阶
+microphone|n.麦克风；扩音器
+theater|n.剧场；电影院；戏院; adj.战区的
+proved|v.证明(证明是；检验；勘探；证明；试印)
+cutter|n.裁剪者；切割器；快艇；小艇；轻便雪橇
+bitterly|adv.残酷地；痛苦地
+soundly|adv.完全地；健全地；坚牢地；香甜地
+criticism|n.批评；评论
+angrily|adv.气愤地
+nerve|n.神经；勇气；敏感处；叶脉；厚脸皮; v.鼓起勇气; （复）nerves:神经紧张.
+precaution|n.预防；预防措施
+musk|n.麝香；麝
+sprout|v.长芽；萌芽；迅速成长; n.芽；年幼者
+slam|v.砰地关上；猛放；猛烈攻击; n.砰然声；猛烈抨击; n.满贯
+curtain|n.窗帘；门帘；幕(布); vt.(用帘)装饰；(以帘)遮蔽
+vapor|n.蒸汽；水蒸汽; v.蒸发；汽化
+padding|n.垫充；垫塞；填料；废话
+trophy|n.奖品；战利品; adj.显示身份的；有威望的
+pat|n.轻拍；轻打；小块; v.轻拍；抚摸；拍打
+shortstop|n.（棒球）游击手；游击手的位置
+lantern|n.灯笼；[建]天窗；屋顶气窗
+edgy|adj.急躁的；尖利的；刀口锐利的
+preserve|v.保护；保存；保持; n.禁猎区；蜜饯
+cuckoo|n.杜鹃；杜鹃的叫声; v.像杜鹃一样咕咕叫; adj.愚蠢的；疯狂的
+nicely|adv.精确地；漂亮地；恰好地
+hummingbird|n.蜂鸟
+clatter|n.咔嗒声；哗啦声；嘈杂的谈笑声; v.发出哗啦声；咔嗒咔嗒响；喧闹地谈笑；使发出咔嗒声
+yen|n.日元; n.上瘾; vi.对...上瘾
+pirate|n.海盗；盗版者; v.盗版；抢劫；剽窃
+inclined|adj.倾向于...的
+chimpanzee|n.黑猩猩
+keepsake|n.纪念品
+temple|n.神殿；寺院；庙宇; n.太阳穴，鬓角
+speck|n.斑点；灰尘；污点；少量; v.用斑点标记
+headmaster|n.(中小学的)校长
+karate|n.空手道(日本的一种徒手武术)
 anxiously|adv.焦急地；忧虑地；担心地
-rocky|adj.岩石的；像岩石的；坚硬的；麻木的；困难重重的；摇晃的，不稳定的
+dismay|n.沮丧；绝望; vt.使...沮丧；使...惊愕
+drill|n.钻孔机；钻子；反复操练；播种机; v.练习；钻孔；(军事)训练
+carton|n.纸板箱；硬纸盒; vt.把...装入纸板箱; vi.制作纸盒
+buoy|n.浮标；浮筒；救生圈；救生衣; v.使浮起；支持；鼓励；用浮标指示
+freak|n.怪人；狂热爱好者；怪事；反复无常; adj.奇异的；不正常的; vt.使强烈反应(震惊；畏惧); vi.在药物影响下变得异乎寻常
+universal|adj.普遍的；全世界的；宇宙的；全体的；通用的; n.通用原理，普遍原则
+constantly|adv.不断地；经常地
+snatch|n.抢夺；一阵；一点点; v.夺取；抓住
+evade|v.逃避；躲避；规避
+landlord|n.地主；房东
+concentration|n.集中；专心；浓度
+frown|n.皱眉；不悦; v.不同意；皱眉头
+seashore|n.海滨
+presto|adv.(音乐演奏)急速; adj.(音乐)急速的; n.(音乐)快拍；急速
+pickup|n.拾起；（开车)去接；搭便车者；获得；加速；拾音器；小型卡车；实况转播；（生意）好转；逮捕；发现，截获；固定器；随便买的东西; adj.临时的；凑合的
+convention|n.大会；协定；惯例；公约
+nursery|n.托儿所；保育室；苗圃
+termite|n.白蚁
+desolate|adj.荒凉的；荒芜的；孤单寂寞的
+oceans|n.大洋
+alibi|n.不在场证明或辩解；托辞; v.辩解；找托辞开脱
+temper|n.脾气；性情; vt.使缓和；调和；锻炼
+sequence|n.顺序；连续；次序；一系列; vt.按顺序排好
+polo|n.马球；水球；马球装束
+shorten|v.弄短；变短
+governor|n.统治者；管理者；理事；州长；总督；调节器
+impatience|n.不耐烦；急迫
+spectacular|adj.壮观的；令人惊叹的; n.壮观；豪华节目
+bookstore|n.书店; =bookshop.
+corpse|n.尸体
+precipitation|n.仓促；急躁；沉淀；降雨量；坠落；凝结；冰雹
+charmer|n.魔术师；巫师；迷人的人，讨人喜欢的人
+rattlesnakes|响尾蛇
+binoculars|n.双眼望远镜
+parade|n.游行；检阅；游行地; vi.参加游行；阅兵；散步；炫耀; vt.夸耀；使参加游行；检阅；绕行
+pub|n.酒吧；酒馆
+tyre|n.轮胎; =tire（美）.; Tyre：提尔(古代腓尼基的有名港口；现属黎巴嫩).
+reel|v.卷；绕; v.眩晕；旋转；蹒跚; n.卷筒；线轴
+glimpse|n.一瞥；一闪；略微；隐约感觉; v.瞥见
+amusement|n.乐趣，娱乐；消遣
+painter|n.画家；油漆匠
+cod|n.鳕鱼; v.哄骗；愚弄
+accidentally|adv.偶然地；意外地；附带地
+horsepower|n.马力(功率单位)
+invasion|n.侵略；侵入
+handball|n.手球；墙手球运动
+thankful|adj.感谢的；感激的
+wrist|n.手腕；腕部
+snail|n.蜗牛
+haircuts|(纸面)微裂痕,毛痕,粘丝,贴丝
+sculptor|n.雕刻家
+bedside|adj.床边的；病床边的; n.床边
+jug|n.水壶；罐；监牢; vt.罐焖；把……关进监狱
+speedboat|n.快艇
+saint|n.圣人；圣徒; vt.把...封为圣人
+doorknob|n.球形门把手
+gorilla|n.大猩猩；残暴的人
+cargo|n.货物；船货
+stepmother|n.继母；后母
+underneath|adv.在下面; n.下部；底部; prep.在...下面
+eel|n.鳗鱼；鳝鱼
+originally|adv.原本；起初；独创地
+ratty|adj.糟糕的；破烂的；卑鄙的；像老鼠的；鼠多的; adj.恼怒的
+recruit|v.吸收(新成员)；征兵；招聘; n.新成员；新兵
+haul|v.拖；拉；拖运; v.（使船）改变方向; n.拖；拉；搬运
+gunpowder|n.火药
+examiner|n.主考者；审查员
+stud|n.大头钉；饰钉；立柱；板墙筋；壁骨；种马；耳环；年轻男子; vt.镶嵌；点缀
+polecat|n.臭猫；臭鼬类动物
+tricycle|n.三轮车
+playgrounds|游戏场地
+slim|adj.苗条的；微小的；细长的; v.减肥；缩减
+hut|n.小屋；棚屋; v.在棚屋中隐蔽
+enthusiast|n.热心人；热衷者
+brass|n.黄铜(制品)；铜管（乐器）；厚脸皮; adj.黄铜的
+snuggle|v.依偎；挨近
+mermaid|n.美人鱼
+daddy|n.爸爸
+blaze|n.火焰；烈火；光辉；(光或色彩的)展现；(感情的)迸发；(动物面部的)白斑；记号; v.燃烧；发光；迸发；传播；在(树皮)上刻记号
+superior|n.上级；高手；上标; adj.高傲的；上层的；上好的；出众的
+port|n.港口
+explosions|爆炸
+encouragement|n.鼓励；激励
+stink|n.臭味；臭气; vi.发臭味；招人讨厌
+spite|n.恶意；怨恨; v.刁难；惹怒；冒犯
+relieve|v.救济；减轻；解除；偷
+hazard|n.危险；冒险；危害; vt.冒险；赌运气; 阿扎尔（英超切尔西队球员）
+smoothly|adv.平滑地；流畅地
+footstep|n.脚步；脚步声；足迹
+fiery|adj.火的；炽热的；激烈的；暴躁的；辛辣的
+allergic|adj.过敏的；反感的
+situations|现状
+sushi|n.寿司(一种日本食品)
+storybook|n.故事书；小说; adj.故事般的
+ventilate|vt.使...空气流通；通风
+petrol|n.汽油
+eruption|n.爆发；喷发；出疹；长牙
+bull|n.公牛；股市看涨的人；警察; n.荒谬的话; n.教皇诏书; adj.公牛的；鲁莽的
+blacken|v.(使)变黑；诽谤
+baguette|n.法式长棍面包；长方形的宝石
+armor|n.盔甲；装甲
+brim|n.边；边缘; v.（装）满；（使）溢出
+celebrity|n.名人；名誉；社会名流
+depth|n.深度；深刻；深奥；深；厚度
+happenings|n.事件；意外发生的事
+whisky|n.威士忌酒; =whiskey(美).
+rapidly|adv.迅速地；很快地
+suspicious|adj.可疑的；多疑的
+inspector|n.检查员；巡视员；巡官
+stash|vt.隐藏；储藏; n.隐藏地点；隐藏物
+czar|n.沙皇；独揽大权者
+infer|vt.推断；猜测；暗示; vi.作出推论
+ink|n.墨水；墨汁
+sender|n.寄件人；发报机；送话器
+vibration|n.震动；颤动
+officially|adv.官方地；正式地；公务上；职务上
+tulips|郁金香
+peculiar|adj.奇怪的；特殊的；独特的；古怪的; n.特权
+crashing|adj.绝对的；彻底的；非凡的
+actress|n.女演员
+snowstorm|n.暴风雪；雪暴
+commentator|n.评论员；解说员；注释者
+markers|标记
+reluctant|adj.不情愿的；勉强的
+scooter|n.踏板车；小型摩托车
+ex|prep.【商】在...交货，在…前免费；从，自，根据；【经】不，无，不包括; n.已离婚的丈夫（或妻子），过去的情人；字母X；X形物; adj.以前的，旧时的
+pretended|adj.假的；虚伪的
+limelight|n.众人注目的中心；聚光灯；以灰光灯照射的舞台; v.使受到注目
+cranky|adj.怪癖的；不稳的
+wheeze|v.喘息；呼哧呼哧地响; n.喘息声
+burners|炉
+mournful|adj.悲恸的；悲哀的；令人惋惜的
+worthless|adj.无价值的；无用的；可鄙的
+tile|n.瓷砖；瓦片; v.盖瓦；铺瓷砖
+outcome|n.结果；后果
+sympathetic|adj.同情的；共鸣的；赞同的; n.交感神经
+artiste|n.艺人；表演艺术家
+delight|n.高兴；快乐; v.(使)高兴；(使)欣喜
+rivalry|n.敌对；竞争；对抗
+reputation|n.好名声；声誉，名声，名气
+successfully|adv.成功地，圆满地
+caller|n.打电话的人；来访者；呼叫者
+ghost|n.幽灵；鬼魂; n.[计]美国赛门铁克公司旗下的硬盘备份还原工具
+oldies|n.老人
+erect|vt.使竖立；建立；建造; adj.直立的；竖立的；笔直的
+impatiently|adv.不耐烦地；急躁地
+performances|性能
+sneer|n.冷笑；嘲笑; v.嘲笑；冷笑
+sculpture|n.雕塑；雕刻; v.雕刻；雕塑；刻蚀；当雕刻师
+fable|n.寓言；神话；无稽之谈; v.讲寓言；虚构
+nail|n.钉子；指甲；爪; vt.钉；抓住；使固定
+retirement|n.退休；隐匿处
+lighthouse|n.灯塔
+caribou|n.北美驯鹿
+promptly|adv.迅速地；准时地；立即
+desperately|adv.拼命地；绝望地；极严重地；孤注一掷地
+fortunately|adv.幸运地；幸亏
+cling|vi.紧贴；附着；依恋；坚持; n.紧抓；紧贴
+swimmers|白色有光绒面呢
+scaly|adj.有鳞的；剥落的；被虫蛀的；卑劣的
+spoil|v.宠坏；溺爱；破坏；腐坏；使索然无味; n.战利品；奖品
+despair|n.绝望；失望; vi.失望
+busiest|最忙的
+sneeze|n.喷嚏; vi.打喷嚏
+cattle|n.牛；家畜；畜牲
+turnaround|n.周转时间；好转；转身；回车场；（轮船、飞机的）终点装卸时间
+truant|n.懒惰鬼；旷课者; adj.偷懒的；旷课的；游荡的; v.偷懒；旷课
+afternoons|adv.每天下午
+splendid|adj.极好的；辉煌的；壮观的；杰出的
+curse|n.诅咒；咒骂；祸端; vt.诅咒；咒骂；使受罪; vi.诅咒；咒骂
+bomber|n.轰炸机；投弹手
+tighten|vt.使紧；勒紧；固定; vi.变紧
+unlucky|adj.倒霉的；不幸的；不吉利的
+fanatical|adj.狂热的；入迷的
+happiness|n.幸福；快乐；适当
+liftoff|n.（火箭等）发射；起飞
+fireman|n.消防队员；司炉工
+seller|n.卖方；售货者；畅销品
+hay|n.干草；一小笔钱；床
+undisturbed|adj.未受干扰的；安静的；镇定的
+wagon|n.四轮马车；货车; v.用四轮马车运
+rival|n.竞争者；对手；同伴; adj.竞争的; v.竞争；与...相匹敌
+needle|n.针; vt.用针缝；激怒；嘲弄; vi.缝纫
+immense|adj.巨大的；广大的；非常好的
+graze|v.放牧；（牛、羊等）吃草; v.轻擦；擦伤; n.放牧; n.擦伤
+matador|n.斗牛士
+millennium|n.一千年；太平盛世
+grasshopper|n.蚱蜢；蝗虫；轻型飞机；蚱蜢鸡尾酒
+boomerang|n.自食其果的行为；回飞镖; v.自食其果
+woollen|n.毛织品; adj.羊毛制的
+gratitude|n.感激；感谢；感恩
+occasionally|adv.偶尔地
+survivor|n.幸存者
+dairy|n.牛奶场；乳品店；乳制品；地方小店; adj.牛奶的；乳制品的
+forming|n.形成(成形法；模锻); v.形成
+conscience|n.良心；是非之心；顾忌
+holder|n.持有者；支持物
+spooky|adj.幽灵一般的；有鬼一样的；令人毛骨悚然的
+bulletin|n.公报；期刊；新闻快报；公示; vt.发表；用公告通知
+anchorman|n.新闻节目主播；接力赛中的最后一棒
+grandson|n.孙子；外孙
+tiptoe|n.脚尖; v.用脚尖走; adv.用脚尖
+semi|n.半挂车；半挂车货车；半决赛; pref.表示“一半的；部分的；不完全的”
+businessman|n.商人
+postcard|n.明信片; adj.如画的
+welsh|v.不付赌金而溜掉；逃避责任; Welsh:; n.威尔士人; adj.威尔士人的；威尔士语的
+sundown|n.日落时分
+predator|n.食肉动物；掠夺者；（动物的）捕食性天敌
+entitle|vt.取名为；使有权利
+prisoner|n.囚犯
+terribly|adv.可怕地；非常地；很
+resin|n.树脂；松香；树脂制品; vt.涂树脂
+playtime|n.课间休息时间；娱乐时间；上演时间
+continually|adv.不断地；频繁地
+bold|adj.大胆的；陡峭的；醒目的；粗体的；无礼的
+stab|v.刺；戳；刺伤; n.刺；戳；刺痛；尝试
+creep|vi.蹑手蹑脚地走；爬；渐渐出现；蔓延；毛骨悚然; n.卑鄙小人；爬；徐行；蠕动
+rudely|adv.无礼地；粗鲁地；粗陋地
+headless|adj.不在意的；没有头的；愚笨的
+sprinkle|v.洒；撒；下稀疏小雨; n.少量散布的屑状物
+foal|n.驹子; v.生仔
+counter|n.柜台；筹码；计数器；反驳; adj.相反的; adv.与…相反地; v.反对；反击
+macaroni|n.通心粉
+settlers|移民
+heavily|adv.重重地；沉重地；沉闷地；猛烈地；厉害地；稠密地
+greatly|adv.很；非常；大大地
+kindly|adj.和蔼的；温和的；爽快的; adv.温和地；亲切地
+darn|v.织补; n.补钉; int.该死（damn的委婉语）
+aeroplane|n.飞机
+stalk|n.茎；梗; n.跟踪；高视阔步; v.悄悄靠近；跟踪；蔓延；高视阔步地走
+chimney|n.烟囱
+squawk|n.叫声；嘈杂的抱怨; v.呱呱地叫鸣；喋喋不休地发牢骚
+haunt|n.常到的地方; vt.缠住；常到；出没(像鬼魂一样); vi.徘徊；出没(像鬼魂一样)
+wasps|胡蜂
+rapids|n.急流；湍流
+grunt|v.咕哝；（猪等）打呼噜; n.咕哝；呼噜声
+upstream|adj.上游的；逆流而上的; adv.向上游；逆流地
+squishy|adj.湿软的；粘糊糊的；感情脆弱的
+heartbroken|adj.悲伤的
+coincidence|n.巧合；一致；同时发生
+tap|n.龙头；塞子；窃听; n.轻拍；轻敲；鞋掌; v.轻拍；轻击；补鞋掌；选择; v.开发；利用；索要；装龙头；窃听
+plough|v.用犁耕田；耕犁；开(路); n.犁；耕地；铲雪机
+framework|n.框架；体系；结构
+downhill|adv.向山下；走下坡路地; adj.下坡的；向下的
+tamer|n.驯养人
+observers|观测器
+sarcastic|adj.讽刺的
+miraculously|adv.奇迹般地
+beeswax|n.蜂蜡
+trapeze|n.吊杠（杂技演员和体操运动员用的）
+hitchhike|v.搭便车
+bomb|n.炸弹; vt.轰炸；投弹于; vi.投弹；失败
+lane|n.小路；小巷；行车道；跑道；航道
+spying|间谍活动
+virtue|n.美德；德行；优点；贞操
+vent|n.排气口；火山口；发泄；表达; v.发泄；表达；排放
+tales|n.[律]候补陪审员召集令
+axle|n.轮轴；车轴

@@ -43,59 +43,60 @@ def show_stat_info(word_set):
     passed_words = word_set.words_last_quiz_pass()
     print('测验通过的单词总数={}'.format(len(passed_words)))
 
+    print('词库名称  \t词汇总量\tquizlet背过\t测验通过')
     words = word_set.words_with_tag('俞敏洪初中')
-    print('初中词汇:\t\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
+    print('俞敏洪初中\t{}\t{}({}%)\t{}({}%)'.format(len(words), len(words & remembered_words),
                                                         round(len(words & remembered_words) * 100 / len(words)),
                                                         len(words & passed_words),
                                                         round(len(words & passed_words) * 100 / len(words))))
 
     words = word_set.words_with_tag('俞敏洪高中')
-    print('高中词汇:\t\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
+    print('俞敏洪高中\t{}\t{}({}%)\t{}({}%)'.format(len(words), len(words & remembered_words),
                                                         round(len(words & remembered_words) * 100 / len(words)),
                                                         len(words & passed_words),
                                                         round(len(words & passed_words) * 100 / len(words))))
 
     words = word_set.words_with_tag('新概念2')
-    print('新概念2:\t\t\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
+    print('新概念2（新）\t{}  \t{}({}%)  \t{}({}%)'.format(len(words), len(words & remembered_words),
                                                               round(len(words & remembered_words) * 100 / len(words)),
                                                               len(words & passed_words),
                                                               round(len(words & passed_words) * 100 / len(words))))
 
     words = word_set.words_with_tag('俞敏洪四级')
-    print('四级词汇:\t\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
+    print('四级（网上）\t{}\t{}({}%)\t{}({}%)'.format(len(words), len(words & remembered_words),
                                                         round(len(words & remembered_words) * 100 / len(words)),
                                                         len(words & passed_words),
                                                         round(len(words & passed_words) * 100 / len(words))))
 
     words = word_set.words_with_tag('六级')
-    print('六级词汇:\t\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
+    print('六级（网上）\t{}\t{}({}%)\t{}({}%)'.format(len(words), len(words & remembered_words),
                                                         round(len(words & remembered_words) * 100 / len(words)),
                                                         len(words & passed_words),
                                                         round(len(words & passed_words) * 100 / len(words))))
 
     words = word_set.words_with_tag('托福')
-    print('托福词汇:\t\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
+    print('托福（网上）\t{}\t{}({}%)\t{}({}%)'.format(len(words), len(words & remembered_words),
                                                         round(len(words & remembered_words) * 100 / len(words)),
                                                         len(words & passed_words),
                                                         round(len(words & passed_words) * 100 / len(words))))
 
     words = word_set.word_by_freq('AE', 0, 5000)
     #print('{}'.format(len(ae5000)))
-    print('美语TOP5000:\t\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
+    print('美语TOP5000\t{}\t{}({}%)\t{}({}%)'.format(len(words), len(words & remembered_words),
                                                              round(len(words & remembered_words) * 100 / len(words)),
                                                              len(words & passed_words),
                                                              round(len(words & passed_words) * 100 / len(words))))
 
     words = word_set.word_by_freq('AE', 0, 10000)
     #print('{}'.format(len(ae5000)))
-    print('美语TOP10000:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
+    print('美语TOP10000\t{}\t{}({}%)\t{}({}%)'.format(len(words), len(words & remembered_words),
                                                              round(len(words & remembered_words) * 100 / len(words)),
                                                              len(words & passed_words),
                                                              round(len(words & passed_words) * 100 / len(words))))
 
     words = word_set.word_by_freq('AE', 0, 15000)
     #print('{}'.format(len(ae5000)))
-    print('美语TOP15000:\t总量={};\t背过={}({}%);\t测验通过={}({}%)'.format(len(words), len(words & remembered_words),
+    print('美语TOP15000\t{}\t{}({}%)\t{}({}%)'.format(len(words), len(words & remembered_words),
                                                                   round(len(words & remembered_words) * 100 / len(words)),
                                                                   len(words & passed_words),
                                                                   round(len(words & passed_words) * 100 / len(words))))

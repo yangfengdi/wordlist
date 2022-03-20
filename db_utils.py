@@ -112,6 +112,8 @@ class db_utils():
                 quiz_file = '{}/{}'.format(dir, file)
                 quiz_date = '{}-{}-{}'.format(file[5:9], file[9:11], file[11:13])
 
+                pass_in_file = 0
+                fail_in_file = 0
                 for line in open(quiz_file):
                     if len(line.strip(' ')) == 0:
                         continue
@@ -138,6 +140,12 @@ class db_utils():
                     if len(word) == 0:
                         continue
 
+
+                    if quiz_result == 'P':
+                        pass_in_file += 1
+                    else:
+                        fail_in_file += 1
+
                     sql = "SELECT count(1) FROM quiz_event WHERE word=? and quiz_date=strftime('%Y-%m-%d', ?)"
                     cursor.execute(sql, (word, quiz_date,))
                     if cursor.fetchone()[0] != 0:
@@ -154,6 +162,8 @@ class db_utils():
                     cursor.execute(sql, (word, quiz_date,))
                     conn.commit()
                     count += 1
+
+                print('{}测验：通过率={}/%，通过={}，失败={}，'.format(quiz_date, round(pass_in_file * 100 / (pass_in_file + fail_in_file)), pass_in_file, fail_in_file))
 
         conn.close()
         print('import files in {} completed, add {} quiz events, skip {} duplicated events.'.format(dir, count, skip_count))
