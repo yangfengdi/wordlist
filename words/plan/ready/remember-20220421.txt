@@ -1,0 +1,100 @@
+failure|n.失败；失败者；不及格；疏忽；失灵；未能；悲惨的事
+coast|n.海岸；海滨
+resin|n.树脂；松香；树脂制品; vt.涂树脂
+unlucky|adj.倒霉的；不幸的；不吉利的
+distinguish|vt.区别；辨认；使显著
+matador|n.斗牛士
+plough|v.用犁耕田；耕犁；开(路); n.犁；耕地；铲雪机
+suppose|vt.假设；假定；认为；想；应该；让(虚拟语气); vi.推测
+headless|adj.不在意的；没有头的；愚笨的
+tap|n.龙头；塞子；窃听; n.轻拍；轻敲；鞋掌; v.轻拍；轻击；补鞋掌；选择; v.开发；利用；索要；装龙头；窃听
+businessman|n.商人
+govern|v.统治；支配；管理；规定；控制
+tamer|n.驯养人
+foal|n.驹子; v.生仔
+splendid|adj.极好的；辉煌的；壮观的；杰出的
+bunch|n.串；束；一群；捆; n.突出物；凸起; vt.使成一束(或一群等); vi.隆起；成束成群
+flesh|n.肉；肉体；人类; v.充实；变胖
+professor|n.教授；老师
+whisky|n.威士忌酒; =whiskey(美).
+intend|vt.想要；打算；意指
+schedule|n.时间表，日程；一览表；计划; v.预定；安排；编制目录
+adolescent|adj.青春期的；青少年的; n.青少年
+holder|n.持有者；支持物
+continually|adv.不断地；频繁地
+fireman|n.消防队员；司炉工
+fare|n.车费；路费；乘客；食物; vi.过活；进展；进食；旅行；行走
+creep|vi.蹑手蹑脚地走；爬；渐渐出现；蔓延；毛骨悚然; n.卑鄙小人；爬；徐行；蠕动
+framework|n.框架；体系；结构
+bulletin|n.公报；期刊；新闻快报；公示; vt.发表；用公告通知
+squishy|adj.湿软的；粘糊糊的；感情脆弱的
+truant|n.懒惰鬼；旷课者; adj.偷懒的；旷课的；游荡的; v.偷懒；旷课
+wander|vi.漫步；蜿蜒；迷路；闲逛；徘徊; vt.漫步于; n.漫游；徘徊；闲逛
+demand|n.要求；需求; v.要求；查问；需要
+macaroni|n.通心粉
+immense|adj.巨大的；广大的；非常好的
+trapeze|n.吊杠（杂技演员和体操运动员用的）
+depth|n.深度；深刻；深奥；深；厚度
+heavily|adv.重重地；沉重地；沉闷地；猛烈地；厉害地；稠密地
+brief|adj.短暂的；短期的；简短的；扼要的; n.摘要；案件陈述; vt.作…的概述；（向…）简单介绍
+kindly|adj.和蔼的；温和的；爽快的; adv.温和地；亲切地
+postcard|n.明信片; adj.如画的
+damage|n.损害；损失；毁坏; vt.损害；毁坏
+occupy|vt.占用；占领；从事；使忙碌；专心
+envy|v.羡慕；妒忌; n.羡慕；(妒忌的)对象
+admission|n.承认；入会费；许可
+remote|adj.遥远的；偏僻的；远程的；(感情等)距离很大; n.远程操作
+cheerful|adj.高兴的；快乐的
+turnaround|n.周转时间；好转；转身；回车场；（轮船、飞机的）终点装卸时间
+beeswax|n.蜂蜡
+playtime|n.课间休息时间；娱乐时间；上演时间
+tiptoe|n.脚尖; v.用脚尖走; adv.用脚尖
+terribly|adv.可怕地；非常地；很
+rudely|adv.无礼地；粗鲁地；粗陋地
+afternoons|adv.每天下午
+undertake|v.承担；从事；保证；答应
+cure|n.治疗；治愈；疗法；对策; v.治愈；治疗；纠正
+exact|adj.精密严谨的；确切的
+gesture|n.手势；姿势; v.作手势表达
+rival|n.竞争者；对手；同伴; adj.竞争的; v.竞争；与...相匹敌
+range|n.范围；射程；山脉；排；一系列；闲逛；炉灶；【数】值域，极差; v.排列；使…站在某一方；延伸；漫游；射程达到(某距离)
+coincidence|n.巧合；一致；同时发生
+undisturbed|adj.未受干扰的；安静的；镇定的
+bomb|n.炸弹; vt.轰炸；投弹于; vi.投弹；失败
+bomber|n.轰炸机；投弹手
+rapidly|adv.迅速地；很快地
+haunt|n.常到的地方; vt.缠住；常到；出没(像鬼魂一样); vi.徘徊；出没(像鬼魂一样)
+grasshopper|n.蚱蜢；蝗虫；轻型飞机；蚱蜢鸡尾酒
+graze|v.放牧；（牛、羊等）吃草; v.轻擦；擦伤; n.放牧; n.擦伤
+glance|v.扫视；匆匆一看；一瞥；反光；闪烁；掠过; n.一瞥；扫视
+prisoner|n.囚犯
+miraculously|adv.奇迹般地
+hitchhike|v.搭便车
+fanatical|adj.狂热的；入迷的
+criminal|n.罪犯; adj.犯罪的；刑事的；违法的
+anchorman|n.新闻节目主播；接力赛中的最后一棒
+intelligence|n.智力；理解力; n.情报；情报工作；情报机关
+precious|adj.宝贵的；珍贵的；矫揉造作的; adv.极其; n.宝贝，心爱的人
+grain|n.谷物；谷类；微量；颗粒；纹理；格令; v.形成(颗粒)；(用谷物)喂养
+income|n.收入；所得；收益
+sarcastic|adj.讽刺的
+concert|n.音乐会；一致；和谐; vt.协定；协同安排; vi.合作
+crowd|n.人群；群众；大群；朋友; v.拥挤；挤满；涌入；贴近；逼迫
+geography|n.地理
+direction|n.方向；指导；用法说明；趋势；目标；管理
+liftoff|n.（火箭等）发射；起飞
+stalk|n.茎；梗; n.跟踪；高视阔步; v.悄悄靠近；跟踪；蔓延；高视阔步地走
+virtue|n.美德；德行；优点；贞操
+welsh|v.不付赌金而溜掉；逃避责任; Welsh:; n.威尔士人; adj.威尔士人的；威尔士语的
+rapids|n.急流；湍流
+thick|adj.厚的；浓密的；粗的；愚笨的
+inspector|n.检查员；巡视员；巡官
+considerate|adj.考虑周到的；体谅的；体贴的
+aeroplane|n.飞机
+spying|间谍活动
+suspicious|adj.可疑的；多疑的
+beneficial|adj.有利的；有益的
+grandson|n.孙子；外孙
+entitle|vt.取名为；使有权利
+happenings|n.事件；意外发生的事
+mobile|adj.移动的；易变的；活动的; n.汽车；可动雕塑；悬挂饰物；活动物体

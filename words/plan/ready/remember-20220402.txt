@@ -1,0 +1,100 @@
+necklace|n.项链
+faulty|adj.有缺陷的；不合格的；有错误的；有缺点的
+ornament|n.装饰；装饰物; vt.装饰
+bet|v.打赌；确信无疑; n.赌注；确信
+realistic|adj.现实的；现实主义的
+frown|n.皱眉；不悦; v.不同意；皱眉头
+palaces|宫城
+temporarily|adv.暂时地；临时地
+polar|adj.两极的；对立的; n.极线；极性
+flagpole|n.旗竿; =flagstaff.
+establish|v.建立；确立；创办；安顿
+unnatural|adj.不自然的；反常的；不近人情的
+twelfth|adj.第十二的；十二分之一的; n.第十二；十二日；第十二音
+agent|n.代理人；代理商；药剂；特工人员
+amusing|adj.有趣的；引人发笑的
+Bless you|祝福你
+remark|n.评论；备注；注意; v.评论；注意到
+sunup|n.日出
+term|n.学期；术语；条件；条款；期限；名词; vt.把...称为
+overboard|adv.自船上落下；在船外
+skyscrapers|摩天楼
+wasp|n.黄蜂；胡蜂
+punctuation|n.标点；强调
+sort|n.种类；某一种人; v.整理；分类；处理；安排妥当
+January|n.一月
+accompany|vt.陪伴；伴随...发生；补充；给...伴奏; vi.伴奏
+yolk|n.蛋黄
+talented|adj.有才能的；有天赋的
+pour|v.不断流动；倒；倾泻；蜂涌而来; n.倾泻
+class|n.等级；阶级；阶层；班级；课；[生]纲；出色的风度; v.分类
+competitor|n.竞争者；对手
+semi|n.半挂车；半挂车货车；半决赛; pref.表示“一半的；部分的；不完全的”
+rope|n.绳索；一串；绞刑; v.捆绑；说服（口）
+honesty|n.诚实；正直
+colds|n.感冒
+temptation|n.诱惑；引诱物
+disguise|vt.掩饰；假装；假扮; n.伪装；伪装物
+stepsister|n.异母(或异父)的姐妹
+rural|adj.农村的，乡村的，田园的
+buttoned|adj.用钮扣装饰的；扣紧的
+sailor|n.海员；水手；扁平的硬边草帽
+general|adj.普遍的；全面的；一般性的；大致的；笼统的；常规的；总的；首席的; n.将军；一般
+zipper|n.拉链; v.拉上拉链
+wonder|n.惊奇；惊愕；奇迹；奇观; v.惊奇；想知道；怀疑; adj.奇妙的；非凡的
+mare|n.母马；母驴；(月球等)表面阴暗处
+foss|n.沟；渠道；护城河; =fosse.
+church|n.礼拜仪式；教堂；基督教徒; adj.教堂的; v.把...带到教堂接受某种宗教仪式
+aid|n.援助；帮助；救援；助手；辅助物; v.辅助；援助；接济
+matter|n.事情；事态；问题；关于...的事情；物质；重要性; v.有关系；要紧
+retire|v.退休；撤退；离去；就寝；主动退出比赛；收回（货币）；赎回（票据）; n.退休，退职
+collapse|v.（使）倒塌；（使）崩溃；（使）瓦解；折叠; n.倒塌；崩溃；暴跌
+cucumbers|黄瓜
+thoroughly|adv.彻底地；完全；非常
+packing|n.包装
+eel|n.鳗鱼；鳝鱼
+tankers|油船
+edgy|adj.急躁的；尖利的；刀口锐利的
+prize|n.奖品；奖金；奖赏; vt.珍视；估价; adj.奖品的；得奖的；一流的
+stick|n.手杖；枝；杆; vt.刺入；插于；竖起; vi.钉住；坚持，遵守；粘贴；生效，起作用
+pony|n.小马；小型的东西; v.付清
+peacefully|adv.平静地；和平地
+rivalry|n.敌对；竞争；对抗
+gate|n.大门；登机门；出入口；门票收入；道路；方式; v.惩罚(禁止学生离校)；解雇; suf.常表示政治丑闻
+nee|adj.娘家姓...的
+chase|vt.追捕；追求；镂刻，雕刻；试图赢得; vi.奔跑；追赶; n.追捕；争取；狩猎
+fever|n.狂热；发烧；发热; v.（使）发烧；（使）狂热
+awkwardly|adv.别扭地；拘谨地；尴尬地；笨拙地
+master|n.主人；硕士；专家; vt.控制；精通; adj.主要的；主人的；精通的
+Brazilian|n.巴西人; adj.巴西的
+pretended|adj.假的；虚伪的
+drill|n.钻孔机；钻子；反复操练；播种机; v.练习；钻孔；(军事)训练
+clunk|n.沉闷的金属声；愚蠢乏味的人; v.发出沉闷声；打击某物（使）发出沉闷声地
+drily|adv.幽默而不形于色地；冷淡地；干燥地
+critic|n.评论家；批评家
+department|n.部门；系；科；处；局; n.知识范围
+worthwhile|adj.值得(做)的
+allegiance|n.忠诚；效忠
+stink|n.臭味；臭气; vi.发臭味；招人讨厌
+mailman|n.邮差；邮递员; =postman（英）.
+chime|n.鸣；钟；和协; v.鸣；打；和协
+chin|n.颏；下巴; v.聊天；作引体向上
+heartbroken|adj.悲伤的
+hut|n.小屋；棚屋; v.在棚屋中隐蔽
+sundown|n.日落时分
+lop|v.剪去(树枝)；砍掉；削减；耷拉下来
+twin|adj.孪生的；紧密联系的; n.双胞胎之一
+pickup|n.拾起；（开车)去接；搭便车者；获得；加速；拾音器；小型卡车；实况转播；（生意）好转；逮捕；发现，截获；固定器；随便买的东西; adj.临时的；凑合的
+pat|n.轻拍；轻打；小块; v.轻拍；抚摸；拍打
+sew|v.缝合；缝纫
+sac|n.囊；液囊
+highlight|vt.强调；照亮；加亮；使...显得重要；使突出; n.加亮区；精彩部分；最重要的细节或事件；闪光点; [计算机]醒目
+pronunciation|n.发音；读音
+permission|n.许可；允许；同意
+wax|n.蜡；蜂蜡; vt.(用蜡)涂; vi.变圆
+allergy|n.过敏症；反感；厌恶
+situations|现状
+shook|n.(装配木桶或箱；盒等的)一套现成板料; shake的过去式.
+construct|vt.建造；构筑；造(句); n.构想
+inlet|n.水湾；入口；插入物; vt.引进；插入
+nasty|adj.下流的；严重的；令人不快的；难懂的；危害的

@@ -1,0 +1,340 @@
+|【贾老师梳理的语言运用词汇】
+proportion|比例
+sail|n.帆,航行 v.航行
+line graph|线型图
+professional|adj. 专业的，职业的
+invite|vt.邀请,招待
+pie chart|n. 饼形图
+Future Perfect Tense|将来完成时
+revision|n. 修订，修改
+stuff|n. 东西；材料
+oppose|v 反对，反抗
+plural|a.复数的 n.复数
+public|公共的
+ceremony|n.典礼，仪式
+invitation|n.邀请，请帖
+pictograph|统计图表
+timeline|时间轴
+giraffe|长颈鹿
+scent|n 气味 v 发出气味，闻出气味
+cent|n.(货币单位)分, 分币
+on sale|n 卖，打折
+replace|vt. 代替，取代
+steel|n.钢,钢铁
+steal|v.偷,窃取;偷偷地做
+still|ad.还，仍然
+wolf|狼
+predicate|谓语动词
+preposition|介词
+pronoun|代词
+expository|adj.解释的，说明文
+descriptive|a.描述的,叙述的
+persuasive writing|说服性文章，议论文
+narrative|a.叙述的，讲故事的，记叙文
+personal|个人的
+opinion|意见，看法
+background|n. 背景
+text|文本
+report|报告
+greeting|问候，招呼
+lyric|歌词
+lab|实验室
+poem|诗；韵文
+diary|日记
+biography|n 传，传记
+Swiss|瑞士的；瑞士人
+seem|v.似乎，好像是
+review|评论，简介
+recipe|食谱，处方
+feature|n.特色，特点，特征
+detail|细节
+punctuation|标点符号
+quotation mark|引号
+post office|邮局
+crazy|adj. 疯狂的，狂热的
+curious|adj. 好奇的；古怪的
+original|最初的
+weird|a 离奇的，古怪的
+
+|【Math-2】
+describe|v.描述; 把...称为; 做...运动; 形成...形状; 认为; 描画
+exactly|adv.精确地，确切地; 正是如此; （要求得到更多信息）究竟，到底
+create|v.创造; 创建; 引起; 产生; 授予
+part|n.部分; 零件; 角色; 成员; 部位; 区域; 集; 参与; 声部; 等份; 分缝; v.离开; 分离; 解散; 梳成分头; adv.部分地
+combine|v.使结合，混合; 融合; 协力，联合; 同时做; n.联盟，集团; 联合收割机
+digit|n.数字; 手指，脚趾
+average|adj.平均的; 正常的，一般的; n.平均数; 平均水平; v.平均为; 算出...的平均数
+speed|n.速度; 高速; v.加速，快速前行; 超速驾驶
+prime number|n.质数，素数
+greatest|adj.最好的，最伟大的; 大的( great的最高级 ); 伟大的; 重要的; （数量）极大的
+common|adj.常见的; 共有的; 共同的; 普通的; 平凡的; 众所周知的; 粗俗的; n.公共用地; 公共食堂
+satisfies|v.使满意，满足( satisfy的第三人称单数 ); 使确信; 符合，达到（要求、规定、标准等）
+coordinate|v.(使)协调; 搭配; adj.〈语法〉同等的，并列的; 坐标的; n.套装; 坐标
+decide|v.决定; 判决; 影响...的结果; 下决心; 成为（某人）做某事的原因
+reach|v.到达; 实现，达到; 引起注意; 伸手，够得着; 联系; n.臂展; 影响范围; 河段; 边远地区; 领域
+below|prep.在...下面; （数量等）低于; adv.在下面; 在下文中
+limit|n.极限; 限制; 界限; 范围; v.限制; 限量; 使限于
+highway|n.公路; 公用通道
+increase|v.增加，增长; n.增加，增长
+accelerate|v.（使）加速，加快
+pace|n.速度; 节奏; 步速; 步幅; 迅速出现; v.踱步; 确定速度; 调整节奏; 步测; 放稳步调
+allow|v.允许; 给予; 使有可能; 留出，给出; 接受，同意
+denote|v.预示，表明; 意指，指代
+current|adj.当前的; 流通的; n.(河、湖或海的)水流; 电流; 趋向
+times|乘以; （用于比较）倍
+descending|n.递减; v.下来( descend的现在分词 ); 下去; 下降; 下斜
+alternate|v.（使）交替，轮流; adj.交替的; 间隔的; 备用的; n.代替者，候补者; 代理人
+odd|adj.古怪的; 奇数的; 单只的
+even|adv.甚至; 更加; 甚至可以说; adj.平坦的; 平均的; 双数的; 匀称的; 平和的
+shape|n.形状，图形; 模糊的影子; 状况; 特点; v.塑造; 决定...的形成; 准备（做某动作）
+properties|n.房地产(property的名词复数); 财产; 所有权; 特性
+cuboid|adj.立方体的; 立方形的; 三次方的; 立方的; n.长方体；矩形体
+corner|n.角，角落; 转弯处; 角球; v.转弯; 垄断; 将...逼入死角; 截住...与其说话
+greatest|adj.最好的，最伟大的; 大的( great的最高级 ); 伟大的; 重要的; （数量）极大的
+volume|n.体积; 音量; 一卷; 合订本
+cylinder|n.圆柱体; 圆筒状物; （发动机）汽缸
+radius|n.半径（距离）; 用半径度量的圆形面积; 半径范围; 桡骨
+quarter|n. 四分之一; 季度; 一刻钟; 25分硬币; 地区; 群体; 营房; 半圆的月相; 一节; 夸特; 慈悲; 住处; v.把...分成四等份; 为...提供临时住所
+original|adj.最初的; 独创的; 原作的; n.原件，原稿; 独特的人
+at least|adv.至少; 无论如何，反正
+card|n.卡; 纸牌; （身份）证; 明信片; 优势; v.要求出示证明文件
+player|n.演员; [体]运动员; [音]演奏者; 播放机
+holding|n.佃户租种的土地; 所有物（如土地、债券、股份等）; 私有财产; （因其热情、精力或决心等）阻拦不住某人; v.拿( hold的现在分词); 认为; 包含; 容纳
+probability|n.可能性; 几率，概率; 或然性
+return|v.返回; 归还; 恢复; 重提; 回报，回应; 回击; 宣告; 选举; 产生; n.回来; 归还; 重现; 收益; 报告; 回车键; 击回球; adj.往返的
+large|adj.大的; 大量的; 广泛的; 大型的; v.狂欢
+measure|v.衡量; 测量; 量度为...; 估量; n.措施; 相当数量; 体现; 尺度; 判断; 度量单位; 标准量; 计量工具; (音乐的)小节
+perimeter|n.&lt;数&gt;周长; 周围，边界
+cent|n.分（美元、欧元等的货币单位）
+cube|n.立方体; 立方形的东西; 立方，三次幂; v.求...的立方; 把（食物）切成小方块
+represent|v.代表; 象征; 维护...的利益; 相当于; 描绘; 正式提出
+estimation|n.评价，判断; 估算
+decide|v.决定; 判决; 影响...的结果; 下决心; 成为（某人）做某事的原因
+percentage|n.百分比; 提成
+expression|n.表达; 表情; （表演时）感情; 措辞
+reach|v.到达; 实现，达到; 引起注意; 伸手，够得着; 联系; n.臂展; 影响范围; 河段; 边远地区; 领域
+below|prep.在...下面; （数量等）低于; adv.在下面; 在下文中
+increase|v.增加，增长; n.增加，增长
+allow|v.允许; 给予; 使有可能; 留出，给出; 接受，同意
+current|adj.当前的; 流通的; n.(河、湖或海的)水流; 电流; 趋向
+accelerate|v.（使）加速，加快
+sum|n.总数; 金额; 算术
+multiply|vt.&amp; vi.乘; （使）相乘; （使）增加; （使）繁殖
+quotient|n.商，商数
+remainder|n.剩余物; 其他人员; 差数; 廉价出售的图书; vt.廉价出售（书）; 廉价出售
+fraction|n.[数]分数; 一小部分，些微; 不相连的一块，片段; [化]分馏
+coefficient|n.系数; （测定某种质量或变化过程的）率; 程度; 协同因素
+like terms|同类项
+line|n.线条; 皱纹; 行，列; 队伍; 字行; 对白; 诗行; 罚写; 话语; 绳; 电话线; 路线; 铁轨; 运输公司; 轮廓; 界线; 防线; 立场; 方式; 行业; 种类; 流水线; 家系; 排序; 一条细线的可卡因; v.沿...排列成行; 使有内衬; 在...形成一层
+line segment|n.线段
+ray|n.光线，射线; 一丝; 鳐
+flight|n.飞行; 航班; 躲开; 一段楼梯; 一群飞鸟; v.使...在空中飞行
+left|adj.左边的，左侧的; 左派的; 剩下的; n.左，左面; [军]左翼; 左派，激进分子; v.离开（ leave的过去式和过去分词）
+packet|n.小包; 信息包; 邮船; 大笔款项; vt.包装，打包; 用邮船运送
+area|n.地区，区域; 地方; 范围; 面积
+side|n.面，边; 方面; 侧面; 旁边; v.支持，偏袒
+length|n.长度; 篇幅; 时间的长短; 有...长度的; 一节; 池长; 艇位; 马位
+same|adj.同一的; 相同的，同样的; pron.同一事物; 同样的人; （和...）同样的事物; （数目、颜色、大小、质量等）相同; adv.同样，类似
+square|adj.方形的; 平方的; 厚实的; 两清的; 公平的; n.正方形; 广场; 平方; 书呆子; v.使成四方形; 使平方; 挺直身子; 打平; 买通; adv.径直地
+greater|adj.大的(great的比较级)
+rule|n.规则，条例; 行事准则; 常规; 统治; 尺; v.控制，统治，支配; 裁定; 画（直线）
+drop out|退出，脱离；辍学
+healthy|adj.健康的; 健全的; 大量的; 有益于健康的
+composite number|合数
+factor|n.因素; 因子; 倍数; 系数; v.把...因素包括进去
+percentage|n.百分比; 提成
+each|det.各自，每个; pron.各自，每个
+decahedron|n.十面体
+decanedron|n.十面体
+tetrahedron|n.四面体
+cube|n.立方体; 立方形的东西; 立方，三次幂; v.求...的立方; 把（食物）切成小方块
+dodecahedron|n.十二面体
+table|n.表，目录; 桌子，台子; 乘法表; v.正式提出; 搁置（提案、计划）
+following|adj.接下来的; 下列的; n.追随者; 如下; prep.在...以后; 由于
+appropriate|adj.适当的; 合适的; v.私占; 盗用; 挪用; 拨出（专款）
+reason|n.原因; 道理; 理智; v.推理; 思考，判断
+less|adv.较少地，较小地; prep.减去; 少掉; 不足; n.较少，较小
+more|adv.更，更多; 达到或处于更大的范围或程度; 此外，更加; pron.更多的或附加的人或事物; n.更多; 附加，添加
+equivalent|adj.相等的，相同的; n.等同物; 对应物
+expression|n.表达; 表情; （表演时）感情; 措辞
+per|prep.由; （表示根据）依照; （表示比率）（尤指数量，价格，时间）每
+rate|n.速度，进度; 比率; 价格，费用; 房产税; v.评估，评价; 看好; 划分等级; 配得上
+large|adj.大的; 大量的; 广泛的; 大型的; v.狂欢
+measures|n.程度; 度量法; 度量单位; 度量器具; （一定的）量( measure的名词复数 ); 程度; 措施; v.量( measure的第三人称单数 ); 测量; 衡量; 量出
+same|adj.同一的; 相同的，同样的; pron.同一事物; 同样的人; （和...）同样的事物; （数目、颜色、大小、质量等）相同; adv.同样，类似
+perimeter|n.&lt;数&gt;周长; 周围，边界
+volume|n.体积; 音量; 一卷; 合订本
+round|adj.圆/球/环/弧形的; 整数的; adv.（在）周围; 围绕; 到处; 转过来; 绕弯; 依次; 到某地; 大概; prep.围（绕）; 绕过; 遍及; 基于; 克服; 大概; n.轮，局，回合; 惯常活动; 递送路线; 一巡饮料; 一阵; 一枪; 圆块; v.绕过; 变圆; 四舍五入
+yard|n.院子; 场地; 园圃; 码（长度单位，等于91
+feet|n.脚( foot的名词复数 ); 底部; 英尺(=12 英寸或 30.48 厘米); 脚步
+inches|n.英寸; 少量，短距离( inch的名词复数 )
+choices|n.选择( choice的名词复数 ); 挑选; 供选择的东西; 入选者
+describes|v.描写( describe的第三人称单数 ); 叙述; 画出（图形等）; 形容
+data|n.数据; 资料
+organized|adj.有组织的，有条理的; v.组织( organize的过去式)
+create|v.创造; 创建; 引起; 产生; 授予
+plum|n.李子，李树; 李属植物; 葡萄干; 紫红色; adj.紫红色的; 称心如意的（工作或职位）
+store|n.百货商店; 备用物; 仓库; v.保存; 记忆
+least|adv.最少; det. 最小的; 起码; pron.最小的; 起码
+should|应该; 将会; 可能; 本应
+part|n.部分; 零件; 角色; 成员; 部位; 区域; 集; 参与; 声部; 等份; 分缝; v.离开; 分离; 解散; 梳成分头; adv.部分地
+combine|v.使结合，混合; 融合; 协力，联合; 同时做; n.联盟，集团; 联合收割机
+grams|n.克( gram的名词复数 )
+floor|n.地面，地板; 楼层; 底部; 议员席; vt.铺地板; 击败，打倒
+cover|v.遮盖; 覆盖; 撒上; 包括; 涉及; 处理; 行走; 掩护; 敷衍; 给...保险; 报道; 足以支付; 包庇; 顶替，替补; 采取预防行动; 翻唱; n.掩护，保护; 躲避处，避难所; 保险; 覆盖物; 床罩; 掩饰; 自然植被; 遮盖; 替补; 代劳
+exactly|adv.精确地，确切地; 正是如此; （要求得到更多信息）究竟，到底
+carpet|n.地毯; 覆盖地表的一层东西; v.给...铺地毯; 完全覆盖
+acute angle|n.锐角
+straight angle|n.平角
+obtuse angle|钝角; 锐角
+right angle|n.直角
+relationship|n.关系; 恋爱关系; 血缘关系
+approximate|adj.大约的; 近似的; 粗略的; v.近似于; 近似计算
+temperature|n.温度; 体温; 氛围
+teach oneself|自学
+by oneself|靠某人自己
+on oneself|自动地
+feed oneself|自食其力
+few|几乎没有（可数）
+little|几乎没有（不可数）
+a few|一些（可数）
+a little|一些（不可数）
+among|在……之中（两者以上）
+between|在……之间（两者）
+beyond|在……纸上
+across|通过
+through|通过
+describe
+exactly
+create
+part
+combine
+digit
+average
+speed
+prime number
+greatest
+common
+satisfies
+coordinate
+decide
+reach
+below
+limit
+highway
+increase
+accelerate
+pace
+allow
+denote
+current
+times
+descending
+alternate
+odd
+even
+shape
+properties
+cuboid
+corner
+greatest
+volume
+cylinder
+radius
+quarter
+original
+at least
+card
+player
+holding
+probability
+return
+large
+measure
+perimeter
+cent
+cube
+represent
+estimation
+decide
+percentage
+expression
+reach
+below
+increase
+allow
+current
+accelerate
+sum
+multiply
+quotient
+remainder
+fraction
+coefficient
+like terms
+line
+line segment
+ray
+flight
+left
+packet
+area
+side
+length
+same
+square
+greater
+rule
+drop out
+healthy
+composite number
+factor
+percentage
+each
+decahedron
+decanedron
+tetrahedron
+cube
+dodecahedron
+table
+following
+appropriate
+reason
+less
+more
+equivalent
+expression
+per
+rate
+large
+measures
+same
+perimeter
+volume
+round
+yard
+feet
+inches
+choices
+describes
+data
+organized
+create
+plum
+store
+least
+should
+part
+combine
+grams
+floor
+cover
+exactly
+carpet
+acute angle
+straight angle
+obtuse angle
+right angle
+relationship
+approximate
+temperature

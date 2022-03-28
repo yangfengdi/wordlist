@@ -25,9 +25,9 @@ def db_init_import(utils):
     #utils.import_word_tag('words/tag-俞敏洪高中.txt', '俞敏洪高中')
     #utils.import_word_tag('words/tag-小学.txt', '小学')
     #utils.import_word_tag('words/tag-简单词.txt', '简单词')
-    #utils.import_word_tag('words/archive/tag-六级.txt', '六级')
-    #utils.import_word_tag('words/archive/tag-托福.txt', '托福')
-    #utils.import_word_tag('words/archive/NCE2.txt', '新概念2')
+    #utils.import_word_tag('words/quiz/tag-六级.txt', '六级')
+    #utils.import_word_tag('words/quiz/tag-托福.txt', '托福')
+    #utils.import_word_tag('words/quiz/NCE2.txt', '新概念2')
 
     #导入单词错词本
     #utils.import_quiz_fail_event('words/fail-20210201.txt', '2021-02-01')
@@ -112,10 +112,10 @@ if __name__ == '__main__':
     #db_init_import(utils)
 
     #导入单词记忆事件
-    #utils.import_remember_events('words/remember')
+    utils.import_remember_events('words/remember')
 
     #导入单词测验结果
-    #utils.import_quiz_result('words/quiz')
+    utils.import_quiz_result('words/quiz')
 
     #制作单词意思连连看测试题
     #word_set.make_quiz_from_fail_record('2022-02-18', 8)
@@ -142,8 +142,8 @@ if __name__ == '__main__':
     #utils.import_word_remember_plan('words/newword.txt', 'NEW', (1, 2, 3, 8, 0)) #标准艾宾浩斯记忆
     #utils.import_word_remember_plan('words/newword.txt', 'NEW', (1, 3, 8, 0)) #简化的艾宾浩斯记忆
     #utils.import_word_remember_plan('words/review.txt', 'OLD', (2, 3, 8, 0))
-    #utils.import_word_remember_plan('words/words.txt', 'OLD', (2, 3, 0))
-    #word_set.create_quizlet_set('2022-03-14', 100, 17)
+    #utils.import_word_remember_plan('words/review.txt', 'OLD', (2, 3, 0))
+    #word_set.create_quizlet_set('2022-03-30', 100, 15)
 
     #创建复习quizlet列表
     #word_set.get_words_from_recent_remember_words()

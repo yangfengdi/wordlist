@@ -163,7 +163,7 @@ class db_utils():
                     conn.commit()
                     count += 1
 
-                print('{}测验：通过率={}/%，通过={}，失败={}，'.format(quiz_date, round(pass_in_file * 100 / (pass_in_file + fail_in_file)), pass_in_file, fail_in_file))
+                print('{}测验：通过率={}/%，通过={}，失败={}。'.format(quiz_date, round(pass_in_file * 100 / (pass_in_file + fail_in_file)), pass_in_file, fail_in_file))
 
         conn.close()
         print('import files in {} completed, add {} quiz events, skip {} duplicated events.'.format(dir, count, skip_count))
@@ -199,6 +199,7 @@ class db_utils():
     #          艾宾浩斯的记忆法建议的计划计划是分别在第1、2、4、7、15记忆，换算成gap_day元组就是(1, 2, 3, 8, 0)
     #          对于有些曾经背过多次的单词，如果需要做强化复习，可以不需要完全按照艾宾浩斯的曲线来记忆，可以酌情考虑记忆次数与每次记忆间隔时间
     #          每个单词规划的记忆次数限定为不超过5次
+    #skip_duplicates:跳过重复做过记忆计划的单词
     def import_word_remember_plan(self, file, word_type, gap_days):
         conn = sqlite3.connect('dict.db')
         cursor = conn.cursor()
@@ -207,7 +208,7 @@ class db_utils():
             print('单词的规划记忆次数不可超过5次')
 
         count = 0
-        skip_count = 0
+        duplicates_count = 0
         for word in open(file):
             word = word[:word.find("|")]
             word = word.strip(' ')
@@ -219,7 +220,7 @@ class db_utils():
 
             cursor.execute("SELECT count(1) FROM word_remember_plan WHERE word='{}'".format(word))
             if cursor.fetchone()[0] != 0:
-                skip_count += 1
+                duplicates_count += 1
                 continue
 
             for seq in range(len(gap_days)):
@@ -231,7 +232,7 @@ class db_utils():
             count += 1
 
         conn.close()
-        print('import file {} completed, add {} plan remember new word, skip {} words.'.format(file, count, skip_count))
+        print('import file {} completed, add {} plan remember new word, skip {} duplicate words.'.format(file, count, duplicates_count))
 
     def import_quiz_fail_event(self, file, quiz_date):
         conn = sqlite3.connect('dict.db')
