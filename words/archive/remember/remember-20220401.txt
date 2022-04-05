@@ -1,0 +1,100 @@
+feather|n.羽毛；翎毛；种类; vt.用羽毛装饰; vi.长出羽毛
+define|v.规定；限定；定义；解释
+harden|v.(使)变硬；(使)坚强
+document|n.文件；公文；文档; vt.记载；(用文件等)证明
+bye|int.再见
+polish|n.光泽；上光剂；优雅；精良; v.擦亮；磨光；推敲；完善; Polish.; adj.波兰的；波兰人的；波兰语的; n.波兰语
+unfortunately|adv.不幸地；遗憾地
+fig|n.[植]无花果；无花果树；无价值的东西；少许; n.服装
+explosive|adj.爆炸(性)的；引发争论的；大声的; n.炸药
+sterling|adj.英币的；纯银制的；纯正的；优秀的; n.英国货币；标准纯银；银制品
+tarantula|n.狼蛛；多毛毒蜘蛛
+temporarily|adv.暂时地；临时地
+flagpole|n.旗竿; =flagstaff.
+dictation|n.听写；口述；命令
+roar|v.吼叫；咆哮; n.吼声；咆哮；轰鸣；喧闹
+seller|n.卖方；售货者；畅销品
+wriggle|n.蠕动；蜿蜒; v.蠕动；扭动；蜿蜒前进；设法摆脱
+boredom|n.无聊；厌烦；厌倦；令人厌烦的事物
+ashamed|adj.感到惭愧的；感到害臊的
+amusing|adj.有趣的；引人发笑的
+bleed|v.流血；渗色；榨取；放掉（水或气体）；给...抽血
+plenty|n.丰富；大量；充足; adj.充足的；相当多的; adv.非常；充分
+replace|vt.取代；替换；放回原处；偿还
+lift|vt.举起；运送；偷窃；升高；还清；取消; vi.提升; n.举起；提升；电梯；搭便车；帮助；载货量；扒窃
+sunup|n.日出
+frightened|adj.受惊的
+shade|n.阴影；遮蔽；遮光物；(色彩的)浓淡; vt.遮蔽；使阴暗；使渐变；略减（价格）; vi.渐变
+ink|n.墨水；墨汁
+claw|n.爪；钳；螯；爪状物; v.抓；撕
+betray|vt.背叛；出卖；泄露；显露
+reliable|adj.可靠的；可信的
+funnel|n.漏斗；漏斗状物；烟囱; vt.使成漏斗状；使经过漏斗; vi.形成漏斗状；经过漏斗
+professional|adj.职业的；专业的；专门的; n.专业人员
+accompany|vt.陪伴；伴随...发生；补充；给...伴奏; vi.伴奏
+yolk|n.蛋黄
+raggedy|adj.有些破的；有些参差不齐的；有些刺耳的
+hamburgers|n.麦当劳公司的股份(证券；纽约B364证券交易市场行业用语)
+glare|n.闪耀光；刺眼; v.发眩光；瞪视
+smash|v.打碎；粉碎；猛撞; n.破碎；撞击；轰动的演出；[网球]高压扣球; adj.极为成功的
+colds|n.感冒
+motion|n.移动；动作；打手势；示意；提议；大便; v.示意；运动；向...打手势
+temptation|n.诱惑；引诱物
+sadly|adv.悲哀地；遗憾的是；极为
+lorry|n.卡车
+engaged|adj.忙碌的；使用中的；订婚了的
+progressive|adj.先进的；前进的；渐进的；革新的(音乐上的）; n.进步分子；革新主义者
+buttoned|adj.用钮扣装饰的；扣紧的
+rifle|n.步枪; v.洗劫；抢劫
+radical|adj.激进的；彻底的；基本的; n.激进分子
+parade|n.游行；检阅；游行地; vi.参加游行；阅兵；散步；炫耀; vt.夸耀；使参加游行；检阅；绕行
+reception|n.接待；反应；接待处；欢迎；接收；招待会
+pirate|n.海盗；盗版者; v.盗版；抢劫；剽窃
+devotion|n.虔诚；献身；奉献；热爱
+honeycomb|n.蜂窝；蜂窝状物; v.使布满小孔；成蜂窝状
+possess|vt.拥有；持有；支配
+eruption|n.爆发；喷发；出疹；长牙
+thoroughly|adv.彻底地；完全；非常
+vicar|n.(教区或教堂)牧师；代理人
+bacon|n.培根；咸肉；熏肉
+carelessly|adv.粗心大意地；疏忽地
+tankers|油船
+since|conj.因为；既然；自从; prep.自从; adv.此后
+banner|n.横幅；旗帜；大标题; adj.杰出的；特别好的; vt.用横幅装饰；以大标题报道
+pause|n.暂停；中止；犹豫不决; vi.停顿；中止
+cigarettes|卷烟
+brand|n.烙印；商标；牌子；标记; vt.加污名于；铭记；打烙印
+quit|v.停止；离开；退出；辞职
+awkwardly|adv.别扭地；拘谨地；尴尬地；笨拙地
+dash|v.猛冲；猛掷；泼溅；匆忙完成; n.破折号；短跑；猛冲；冲
+grasp|n.把握；领会；抓紧; vt.领会；抓住；紧握
+oceans|n.大洋
+dip|v.浸；蘸；下沉；倾斜；掏取；浏览; n.浸泡；浸；蘸；倾斜；下降
+bargain|n.交易；便宜货；契约; v.讨价还价；议价；(谈价钱后)卖
+landowner|n.地主；土地所有者
+clunk|n.沉闷的金属声；愚蠢乏味的人; v.发出沉闷声；打击某物（使）发出沉闷声地
+governor|n.统治者；管理者；理事；州长；总督；调节器
+overcome|vt.战胜；克服；使受不了；(感情等)压倒; vi.获胜；赢
+wreck|v.使…失事；使…遇难；破坏; n.遇难；残骸；破坏；（船）失事下沉
+nearest|adj.最近的
+compulsory|adj.强制的；势在必行的；义务的
+copper|n.铜；铜币；警察；紫铜色；有紫铜色翅膀的小蝴蝶; vt.镀铜
+lop|v.剪去(树枝)；砍掉；削减；耷拉下来
+motorcycles|摩托车
+spooky|adj.幽灵一般的；有鬼一样的；令人毛骨悚然的
+estimation|n.判断；估计；尊重
+fleece|n.羊毛；一次剪得的羊毛；羊毛状物; v.欺诈
+sac|n.囊；液囊
+mattress|n.床垫
+limit|n.限度；限制；界限; vt.限制；限定
+vacant|adj.空虚的；空的；木然的
+telescope|n.望远镜; v.缩短；压缩；套叠
+attractive|adj.有吸引力的；有魅力的
+eggshell|n.蛋壳；蛋壳漆(干后平滑无光); adj.薄而易碎的；略有光泽的；淡黄褐的
+creepy|adj.(使人)毛骨悚然的；怪异的
+meantime|adv.与此同时; n.同时；其间
+sooner|n.抢先占地的人; adv.比预期早; Sooner.; 美国俄克拉荷马州的别名.
+pea|n.豌豆
+infant|n.婴儿；幼儿; adj.婴儿的；初期的；幼稚的
+broadcast|v.广播；散布；撒播; n.广播；广播节目
+actresses|女性优伶

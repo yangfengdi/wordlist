@@ -1,0 +1,100 @@
+seller|n.卖方；售货者；畅销品
+motion|n.移动；动作；打手势；示意；提议；大便; v.示意；运动；向...打手势
+witch|n.女巫；巫婆; vt.施巫术; vi.用神杖发现地下水源或矿物
+slim|adj.苗条的；微小的；细长的; v.减肥；缩减
+dart|n.飞镖；投射；突进；缝褶; vi.快速投掷；突然移动; vt.使突然移动
+stiff|adj.硬的；僵直的；艰难的；生硬的；拘谨的；烈性的; adv.极其；僵硬地; n.死尸；流浪汉；过于拘谨的人；吝啬鬼；醉鬼
+entertainment|n.娱乐
+may|aux.可以，能够；可能，也许；祝，愿；会，能; n.[大写]五月
+boredom|n.无聊；厌烦；厌倦；令人厌烦的事物
+whirlpool|n.漩涡; Whirlpool.; n.惠尔普（美国电子电气公司)
+nighttime|n.夜间; adj.夜间的
+paddle|n.桨；划桨；明轮翼; v.划桨；戏水；抚弄
+explosive|adj.爆炸(性)的；引发争论的；大声的; n.炸药
+opportunity|n.机会；时机
+widen|vt.加宽；使变宽；扩大; vi.变宽
+bacon|n.培根；咸肉；熏肉
+proof|n.证明；证据；校样; adj.防...的；耐...的; vt.检验；给...做防护措施
+governor|n.统治者；管理者；理事；州长；总督；调节器
+darn|v.织补; n.补钉; int.该死（damn的委婉语）
+wrestle|v.摔跤；斗争；努力解决；斟酌; n.摔跤比赛；格斗
+parade|n.游行；检阅；游行地; vi.参加游行；阅兵；散步；炫耀; vt.夸耀；使参加游行；检阅；绕行
+superior|n.上级；高手；上标; adj.高傲的；上层的；上好的；出众的
+whiz|n.飕飕声；飕飕掠过；专家；奇才；能手; v.（使）飕飕作响; =whizz
+jury|n.陪审团；评委会; adj.临时用的; vt.挑选
+wit|n.智力；才智；机智；风趣; v.知道；即
+woodsy|adj.森林的；像森林的
+eruption|n.爆发；喷发；出疹；长牙
+warriors|武士
+July|n.七月
+June|n.六月; n.琼(女子名)
+slay|vt.杀害；残杀；使大笑
+oceans|n.大洋
+predator|n.食肉动物；掠夺者；（动物的）捕食性天敌
+cattle|n.牛；家畜；畜牲
+propeller|n.螺旋桨；推进器; =propellor.
+theater|n.剧场；电影院；戏院; adj.战区的
+parasite|n.寄生虫；寄生生物；食客
+fin|n.鳍；鱼翅；鳍状物；散热片；五元纸币
+pirate|n.海盗；盗版者; v.盗版；抢劫；剽窃
+lever|n.杠杆；控制杆；手段; v.撬开；使用杠杆
+jug|n.水壶；罐；监牢; vt.罐焖；把……关进监狱
+freak|n.怪人；狂热爱好者；怪事；反复无常; adj.奇异的；不正常的; vt.使强烈反应(震惊；畏惧); vi.在药物影响下变得异乎寻常
+fort|n.堡垒；要塞
+November|n.十一月
+feather|n.羽毛；翎毛；种类; vt.用羽毛装饰; vi.长出羽毛
+barrel|n.桶；枪管；一桶的量；炮管；大量；笔管；汽油桶; vi.快速移动; vt.把...装桶
+wildly|adv.狂热地；激动地；剧烈地；轻率地；鲁莽地
+snowball|n.雪球；打雪仗；滚雪球式的募捐法; v.向...丢雪球；使生长或快速的增长
+truthful|adj.诚实的；真实的
+van|n.箱形客货两用车；(铁路的)有盖货车；[军]先锋；先导；翼; v.(用货车)运
+stepmother|n.继母；后母
+uncles|n.叔伯
+Brazilian|n.巴西人; adj.巴西的
+saint|n.圣人；圣徒; vt.把...封为圣人
+spirit|n.精神；心灵；幽灵；精灵; (复)spirits：精力；情绪；烈酒.; v.使精神振作；偷偷带走
+corpse|n.尸体
+caution|n.警告；慎重；戒备；吸引人眼球的人或物; vt.警告；劝告
+stream|n.(小)河；水流；(人；车；气)流；组; v.流动；流出；飘动；将(学生)按能力分组
+chimney|n.烟囱
+elementary|adj.基本的；初级的；元素的
+fountain|n.喷泉；源泉；储水容器；泉水; v.使像喷泉一样流
+markers|标记
+grassy|adj.长满草的；草绿色的；像草的
+bye|int.再见
+traveler|n.旅行者(移式起重机；导丝钩；临时记帐单)
+shook|n.(装配木桶或箱；盒等的)一套现成板料; shake的过去式.
+|
+glare|n.闪耀光；刺眼; v.发眩光；瞪视
+Brazil|n.巴西
+spooky|adj.幽灵一般的；有鬼一样的；令人毛骨悚然的
+ink|n.墨水；墨汁
+needle|n.针; vt.用针缝；激怒；嘲弄; vi.缝纫
+whopper|n.特大之物；弥天大谎
+squawk|n.叫声；嘈杂的抱怨; v.呱呱地叫鸣；喋喋不休地发牢骚
+pronunciation|n.发音；读音
+rapid|adj.短时间发生的；急速的；迅速的；快的；险峻的; n.急流；湍滩
+December|n.十二月
+engaged|adj.忙碌的；使用中的；订婚了的
+celebrity|n.名人；名誉；社会名流
+roughly|adv.粗略地；大约；粗暴地；粗糙地；粗鲁地
+pound|n.磅；英镑; n.（汽车）扣押所；宠物收留所; vt.捣碎；敲打；连续猛击; vi.咚咚地走；怦怦地响
+conjunction|n.结合；关联；连词；(事件等的)同时发生
+counter|n.柜台；筹码；计数器；反驳; adj.相反的; adv.与…相反地; v.反对；反击
+thankful|adj.感谢的；感激的
+glasses|n.眼镜；双筒镜; 名词glass的复数形式.
+whinny|n.马嘶声；嘶声; v.嘶；以嘶声表示
+cannon|n.大炮；机关炮; v.开炮；相撞
+rural|adj.农村的，乡村的，田园的
+orphan|n.孤儿; adj.孤儿的; vt.成孤儿
+infant|n.婴儿；幼儿; adj.婴儿的；初期的；幼稚的
+January|n.一月
+beyond|prep.超出；远于；除...之外；超出…之外; adv.在更远处；另外; n.远处；来世
+convention|n.大会；协定；惯例；公约
+pillow|n.枕头; vt.枕；搁；垫
+groan|v.呻吟；抱怨；发嘎吱声；受重压; n.呻吟；呻吟声
+armor|n.盔甲；装甲
+bowler|n.玩滚球的人；投球手；圆礼帽
+major|adj.较多的；主要的；严重的；(音乐)大调的; n.成年人；主修（科目）；陆军少校；举足轻重者; v.主修
+Bless you|祝福你
+fluff|n.软毛；绒毛；无价值物；失误; v.（使）变柔软；搞糟；忘词
