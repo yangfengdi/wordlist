@@ -5,64 +5,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d763e860-8266-490d-89f9-c2386f9bb7c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220326.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220327.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220328.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220329.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220406.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220406.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220407.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220407.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220408.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220408.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220409.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220409.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220410.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220410.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220411.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220411.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220412.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220412.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220413.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220413.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220414.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220414.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220415.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220415.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220416.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220416.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220417.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220417.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220418.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220418.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220419.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220419.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220420.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220420.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220421.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220421.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220422.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220422.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220423.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220423.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220424.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220424.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220425.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220425.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220426.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220426.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220427.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220427.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220428.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220428.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220429.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220429.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220430.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220430.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220501.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220501.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220502.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220502.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220503.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220503.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220504.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220504.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220505.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words/plan/ready/quiz-20220505.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dict.db" beforeDir="false" afterPath="$PROJECT_DIR$/dict.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict的副本20220328.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220324.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220324.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220324.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220325.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220325.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220325.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/WIP/remember-20220326.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220326.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/WIP/remember-20220327.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220327.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/WIP/remember-20220328.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220328.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/WIP/remember-20220329.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220329.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220326.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220326.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220327.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220327.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220328.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220328.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220329.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220329.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220330.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220330.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220330.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220331.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220331.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220331.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220401.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220401.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220401.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220402.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220402.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220402.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220403.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220403.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220403.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220403.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220404.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220404.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220404.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220404.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220405.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220405.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220405.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/quiz-20220405.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/quiz-20220406.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/remember-20220330.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220330.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/remember-20220331.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220331.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/remember-20220401.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220401.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/remember-20220402.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220402.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/remember-20220403.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220403.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/remember-20220404.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/remember-20220404.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/remember-20220405.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/remember-20220405.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/remember-20220406.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/remember-20220406.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/remember-20220407.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/remember-20220407.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/plan/ready/remember-20220408.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/plan/WIP/remember-20220408.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/quiz/quiz-20220320.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220320.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/quiz/quiz-20220321.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220321.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/quiz/quiz-20220322.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220322.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/quiz/quiz-20220323.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220323.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember/remember-20220320.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220320.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember/remember-20220321.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220321.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember/remember-20220322.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220322.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember/remember-20220323.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220323.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember/remember-20220324.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220324.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/words/remember/remember-20220325.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/remember/remember-20220325.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220403.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220403.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220403.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220404.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220404.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220404.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220405.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/plan/WIP/quiz-20220405.txt" beforeDir="false" afterPath="$PROJECT_DIR$/words/archive/quiz/quiz-20220405.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,11 +123,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/words/archive/remember" />
-      <recent name="$PROJECT_DIR$/words/archive/quiz" />
+      <recent name="$PROJECT_DIR$/words/plan/ready" />
       <recent name="$PROJECT_DIR$/words/plan/WIP" />
+      <recent name="$PROJECT_DIR$/words/archive/quiz" />
       <recent name="$PROJECT_DIR$/words/quiz" />
-      <recent name="$PROJECT_DIR$/words/remember" />
+      <recent name="$PROJECT_DIR$/words/archive/remember" />
     </key>
   </component>
   <component name="RunManager" selected="Python.word_utils">
@@ -245,13 +257,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609596288720</updated>
-    </task>
-    <task id="LOCAL-00005" summary="添加待记忆的词。">
-      <created>1609771663584</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1609771663584</updated>
     </task>
     <task id="LOCAL-00006" summary="添加待记忆的词。">
       <created>1610384992512</created>
@@ -589,7 +594,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648514137204</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="更新词汇记忆与测验数据。">
+      <created>1649172842357</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1649172842358</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="UnknownFeatures">

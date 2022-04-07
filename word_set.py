@@ -522,7 +522,7 @@ class word_set():
         self.__make_quiz(words, start_date, page_max, filter=False)
 
     def make_quiz_from_remembered_some_days_words(self, start_date, page_max=10):
-        words = self.words_min_remember_times(2) #至少背过2次的单词
+        words = self.words_min_remember_times(1) #至少背过2次的单词
         #words = self.words_min_remember_times(1)
 
         word_count = len(words)
